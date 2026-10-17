@@ -2,7 +2,7 @@
   "ai": {
     "provider": "openai",
     "base_url": "https://open.bigmodel.cn/api/paas/v4/",
-    "model": "glm-4.5-flash",
+    "model": "glm-4.7-flash",
     "api_key_env": "ZHIPU_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
