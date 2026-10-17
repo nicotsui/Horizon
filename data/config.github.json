@@ -44,14 +44,14 @@
       { "name": "CNBC Finance", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "enabled": true, "category": "finance", "profile": "finance-news", "content_extractor": "trafilatura" },
       { "name": "GitHub Trending - Daily", "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml", "enabled": true, "category": "github-trending", "profile": "tech-blog" },
       { "name": "Semianalysis", "url": "https://newsletter.semianalysis.com/feed", "enabled": true, "category": "semiconductors", "profile": "tech-news" },
-      { "name": "閲忓瓙浣?, "url": "https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml", "enabled": true, "category": "", "profile": "tech-news" },
-      { "name": "灏戞暟娲?, "url": "https://sspai.com/feed", "enabled": true, "category": "tools", "profile": "tech-blog" },
-      { "name": "寮傛鍏冭蒋浠朵笘鐣?, "url": "https://www.iplaysoft.com/feed", "enabled": true, "category": "tools", "profile": "tech-blog" },
+      { "name": "量子位", "url": "https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml", "enabled": true, "category": "", "profile": "tech-news" },
+      { "name": "少数派", "url": "https://sspai.com/feed", "enabled": true, "category": "tools", "profile": "tech-blog" },
+      { "name": "异次元软件世界", "url": "https://www.iplaysoft.com/feed", "enabled": true, "category": "tools", "profile": "tech-blog" },
 
       { "name": "Solidot", "url": "https://www.solidot.org/index.rss", "enabled": true, "category": "tech-news", "profile": "tech-news" },
 
-      { "name": "闃竴宄扮鎶€鐖卞ソ鑰呭懆鍒?, "url": "https://www.ruanyifeng.com/blog/atom.xml", "enabled": true, "category": "tech-weekly", "profile": "tech-news" },
-      { "name": "36姘?, "url": "https://36kr.com/feed", "enabled": true, "category": "business-tech", "profile": "tech-news" }
+      { "name": "阮一峰科技爱好者周刊", "url": "https://www.ruanyifeng.com/blog/atom.xml", "enabled": true, "category": "tech-weekly", "profile": "tech-news" },
+      { "name": "36氪", "url": "https://36kr.com/feed", "enabled": true, "category": "business-tech", "profile": "tech-news" }
     ],
     "reddit": {
       "enabled": true,
@@ -84,7 +84,7 @@
     },
     "google_news": {
       "enabled": true,
-      "query": "A鑲?OR 娑ㄥ仠鏉?OR 娌繁鑲″競",
+      "query": "A股 OR 涨停板 OR 沪深股市",
       "language": "zh",
       "country": "CN",
       "ceid": null,
