@@ -1,124 +1,94 @@
 {
-  "ai": {
-    "provider": "deepseek",
-    "model": "deepseek-v4-flash",
-    "base_url": "https://api.deepseek.com",
-    "api_key_env": "DEEPSEEK_API_KEY",
-    "temperature": 0.3,
-    "max_tokens": 8192,
-    "throttle_sec": 1,
-    "languages": ["zh", "en"],
-    "analysis_concurrency": 5,
-    "enrichment_concurrency": 5
-  },
-  "processing": {
-    "profiles_dir": "profiles",
-    "default_profile": "tech-news",
-    "profile_settings": {
-      "tech-news": { "threshold": 7.0, "topic_dedup": true },
-      "tech-blog": { "threshold": 4.0, "topic_dedup": false },
-      "finance-news": { "threshold": 7.0, "topic_dedup": true }
-    }
-  },
-  "sources": {
-    "github": [
-      { "type": "user_events", "username": "karpathy", "enabled": true, "profile": "tech-news" },
-      { "type": "repo_releases", "owner": "astral-sh", "repo": "uv", "enabled": true, "profile": "tech-news" },
-      { "type": "repo_releases", "owner": "vllm-project", "repo": "vllm", "enabled": true, "profile": "tech-news" },
-      { "type": "repo_releases", "owner": "sgl-project", "repo": "sglang", "enabled": true, "profile": "tech-news" },
-      { "type": "repo_releases", "owner": "triton-lang", "repo": "triton", "enabled": true, "profile": "tech-news" },
-      { "type": "repo_releases", "owner": "akfamily", "repo": "akshare", "enabled": true, "profile": "finance-news" },
-      { "type": "repo_releases", "owner": "vnpy", "repo": "vnpy", "enabled": true, "profile": "finance-news" },
-      { "type": "repo_releases", "owner": "mpquant", "repo": "MyTT", "enabled": true, "profile": "finance-news" }
-    ],
-    "hackernews": {
-      "enabled": true,
-      "fetch_top_stories": 30,
-      "min_score": 150,
-      "profile": "tech-news"
-    },
-    "rss": [
-      { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "enabled": true, "category": "ai-tools", "profile": "tech-news" },
-      { "name": "vLLM Blog", "url": "https://vllm.ai/blog/rss.xml", "enabled": true, "category": "llm-inference", "profile": "tech-blog", "content_extractor": "trafilatura" },
-      { "name": "Sean Goedecke", "url": "https://www.seangoedecke.com/rss.xml", "enabled": true, "category": "software-engineering", "profile": "tech-blog", "content_extractor": "trafilatura" },
-      { "name": "CNBC Finance", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "enabled": true, "category": "finance", "profile": "finance-news", "content_extractor": "trafilatura" },
-      { "name": "GitHub Trending - Daily", "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml", "enabled": true, "category": "github-trending", "profile": "tech-blog" },
-      { "name": "Semianalysis", "url": "https://newsletter.semianalysis.com/feed", "enabled": true, "category": "semiconductors", "profile": "tech-news" },
-      { "name": "量子位", "url": "https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml", "enabled": true, "category": "", "profile": "tech-news" },
-      { "name": "少数派", "url": "https://sspai.com/feed", "enabled": true, "category": "tools", "profile": "tech-blog" },
-      { "name": "异次元软件世界", "url": "https://www.iplaysoft.com/feed", "enabled": true, "category": "tools", "profile": "tech-blog" },
-
-      { "name": "Solidot", "url": "https://www.solidot.org/index.rss", "enabled": true, "category": "tech-news", "profile": "tech-news" },
-
-      { "name": "阮一峰科技爱好者周刊", "url": "https://www.ruanyifeng.com/blog/atom.xml", "enabled": true, "category": "tech-weekly", "profile": "tech-news" },
-      { "name": "36氪", "url": "https://36kr.com/feed", "enabled": true, "category": "business-tech", "profile": "tech-news" }
-    ],
-    "reddit": {
-      "enabled": true,
-      "subreddits": [
-        { "subreddit": "MachineLearning", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 60, "profile": "tech-news" },
-        { "subreddit": "LocalLLaMA", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 60, "profile": "tech-news" },
-        { "subreddit": "ChatGPTCoding", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 60, "profile": "tech-news" },
-        { "subreddit": "software", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 15, "profile": "tech-blog" },
-        { "subreddit": "Android", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 25, "profile": "tech-blog" },
-        { "subreddit": "selfhosted", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 20, "profile": "tech-blog" }
-      ],
-      "users": [],
-      "fetch_comments": 10
-    },
-    "telegram": {
-      "enabled": true,
-      "channels": [
-        { "channel": "zaihuapd", "enabled": true, "fetch_limit": 20, "profile": ["tech-news", "finance-news"] }
-      ]
-    },
-    "ossinsight": {
-      "enabled": true,
-      "period": "past_24_hours",
-      "languages": ["All"],
-      "keywords": [],
-      "min_stars": 20,
-      "max_items": 15,
-      "category": "github-trending",
-      "profile": "tech-blog"
-    },
-    "google_news": {
-      "enabled": true,
-      "query": "A股 OR 涨停板 OR 沪深股市",
-      "language": "zh",
-      "country": "CN",
-      "ceid": null,
-      "max_results": 30,
-      "category": "finance",
-      "profile": "finance-news"
-    }
-  },
-  "collection": { "time_window_hours": 24 },
-  "digest": {
-    "max_items": null,
-    "profile_order": ["tech-news", "tech-blog", "finance-news"],
-    "category_groups": {},
-    "default_group": "other",
-    "default_group_limit": null
-  },
   "webhook": {
-    "enabled": true,
-    "url_env": "HORIZON_WEBHOOK_URL",
-    "delivery": "summary_and_items",
-    "overview_position": "last",
-    "platform": "feishu",
-    "layout": "collapsible",
-    "fallback_layout": "markdown",
-    "languages": ["zh"],
-    "request_body": {
-      "msg_type": "interactive",
-      "card": {
-        "schema": "2.0",
-        "config": { "wide_screen_mode": true },
-        "header": { "title": { "tag": "plain_text", "content": "#{message_title}" }, "template": "blue" },
-        "body": { "elements": [ { "tag": "markdown", "content": "#{summary}" } ] }
-      }
+    "url_env": "HORIZON_WEBHOOK_URL"
+  },
+  "profiles": {
+    "cn-macro-a-share": {
+      "title": "A股与宏观",
+      "keywords": [
+        "A股", "沪指", "深证", "创业板", "北交所",
+        "CPI", "PPI", "PMI", "GDP", "社融", "LPR", "M2",
+        "进出口", "外汇储备", "中国人民银行", "国家统计局",
+        "证监会", "印花税", "两融", "降准", "降息"
+      ],
+      "feeds": [
+        "https://rsshub.app/wallstreetcn/news/global",
+        "https://rsshub.app/cls/telegraph",
+        "https://rsshub.app/jin10",
+        "https://36kr.com/feed"
+      ],
+      "max_items": 8
     },
-    "headers": ""
+    "global-market": {
+      "title": "全球市场",
+      "keywords": [
+        "美联储", "Fed", "非农", "ISM", "利率决议", "点阵图",
+        "美股", "纳斯达克", "标普", "道琼斯",
+        "WTI", "布伦特", "Brent", "OPEC", "原油", "石油",
+        "黄金", "COMEX", "现货金", "美元指数", "DXY",
+        "美债", "离岸人民币"
+      ],
+      "feeds": [
+        "https://feeds.bloomberg.com/markets/news.rss",
+        "https://www.marketwatch.com/rss/topstories",
+        "https://www.fxstreet.com/rss/news",
+        "https://rsshub.app/wallstreetcn/news/us_stock"
+      ],
+      "max_items": 8
+    },
+    "ai-frontier": {
+      "title": "AI 前沿",
+      "keywords": [
+        "AI", "人工智能", "大模型", "LLM", "GPT", "Claude", "Gemini",
+        "DeepSeek", "通义", "文心", "Kimi", "智谱", "OpenAI", "Anthropic",
+        "Agent", "RAG", "多模态", "MCP", "Function Calling",
+        "Scaling Law", "Sora", "Midjourney", "具身智能", "Prompt"
+      ],
+      "feeds": [
+        "https://www.jiqizhixin.com/rss",
+        "https://www.qbitai.com/feed",
+        "https://hnrss.org/frontpage",
+        "https://rss.arxiv.org/rss/cs.AI",
+        "https://openai.com/news/rss.xml",
+        "https://www.theverge.com/rss/index.xml",
+        "https://www.technologyreview.com/feed/"
+      ],
+      "max_items": 8
+    },
+    "it-opensource": {
+      "title": "IT与开源",
+      "keywords": [
+        "GitHub", "开源", "open source", "trending", "release",
+        "Python", "Rust", "TypeScript", "CLI", "Tauri",
+        "Docker", "Kubernetes", "机器人", "ROS", "人形机器人",
+        "宇树", "Boston Dynamics", "Figure", "Optimus", "具身"
+      ],
+      "feeds": [
+        "https://rsshub.app/github/trending/daily",
+        "https://rsshub.app/github/trending/weekly",
+        "https://www.solidot.org/index.rss",
+        "https://www.v2ex.com/index.xml",
+        "https://spectrum.ieee.org/feeds/topic/robotics.rss"
+      ],
+      "max_items": 8
+    },
+    "tools-windows": {
+      "title": "效率工具",
+      "keywords": [
+        "Windows", "Win11", "软件推荐", "装机", "开源软件",
+        "小而美", "效率", "效率工具", "PowerToys", "uTools",
+        "Listary", "Everything", "Snipaste", "App 推荐", "新 App",
+        "独立开发者", "Product Hunt"
+      ],
+      "feeds": [
+        "https://sspai.com/feed",
+        "https://feed.appinn.com/",
+        "http://feed.iplaysoft.com",
+        "https://www.ifanr.com/feed",
+        "https://www.ithome.com/rss/",
+        "https://rsshub.app/producthunt/today"
+      ],
+      "max_items": 6
+    }
   }
 }
