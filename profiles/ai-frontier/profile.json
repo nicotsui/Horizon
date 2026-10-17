@@ -1,0 +1,16 @@
+{
+  "id": "ai-frontier",
+  "name": "AI Frontier",
+  "display_names": { "zh": "AI 前沿" },
+  "match": "match.md",
+  "analysis": "analysis.md",
+  "enrichment": {
+    "prompt": "enrichment.md",
+    "blocks": [
+      { "id": "summary", "type": "section", "tools": [], "primary": true },
+      { "id": "background", "type": "section", "tools": ["web_search"] },
+      { "id": "impact", "type": "section", "tools": ["web_search"], "optional": true },
+      { "id": "community_discussion", "type": "section", "tools": [], "optional": true }
+    ]
+  }
+}
