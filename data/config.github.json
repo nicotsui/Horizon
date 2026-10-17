@@ -1,6 +1,6 @@
 {
   "ai": {
-    "provider": "zhipu",
+    "provider": "openai",
     "model": "glm-4.7-flash",
     "base_url": "https://open.bigmodel.cn/api/paas/v4/",
     "api_key_env": "ZHIPU_API_KEY",
