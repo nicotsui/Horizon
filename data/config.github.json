@@ -15,9 +15,9 @@
     "profiles_dir": "profiles",
     "default_profile": "it-opensource",
     "profile_settings": {
-      "cn-macro": { "threshold": 7.0, "topic_dedup": true },
-      "global-market": { "threshold": 7.0, "topic_dedup": true },
-      "ai-frontier": { "threshold": 7.0, "topic_dedup": true },
+      "cn-macro": { "threshold": 6.5, "topic_dedup": true },
+      "global-market": { "threshold": 6.5, "topic_dedup": true },
+      "ai-frontier": { "threshold": 6.5, "topic_dedup": true },
       "it-opensource": { "threshold": 6.0, "topic_dedup": true },
       "tools-windows": { "threshold": 4.0, "topic_dedup": false }
     }
