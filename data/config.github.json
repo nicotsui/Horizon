@@ -6,18 +6,18 @@
     "api_key_env": "ZHIPU_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
-    "throttle_sec": 1,
+    "throttle_sec": 2,
     "languages": ["zh", "en"],
-    "analysis_concurrency": 5,
-    "enrichment_concurrency": 5
+    "analysis_concurrency": 2,
+    "enrichment_concurrency": 2
   },
   "processing": {
     "profiles_dir": "profiles",
     "default_profile": "it-opensource",
     "profile_settings": {
-      "cn-macro": { "threshold": 6.5, "topic_dedup": true },
-      "global-market": { "threshold": 6.5, "topic_dedup": true },
-      "ai-frontier": { "threshold": 6.5, "topic_dedup": true },
+      "cn-macro": { "threshold": 7.0, "topic_dedup": true },
+      "global-market": { "threshold": 7.0, "topic_dedup": true },
+      "ai-frontier": { "threshold": 7.0, "topic_dedup": true },
       "it-opensource": { "threshold": 6.0, "topic_dedup": true },
       "tools-windows": { "threshold": 4.0, "topic_dedup": false }
     }
@@ -31,9 +31,7 @@
       { "type": "repo_releases", "owner": "triton-lang", "repo": "triton", "enabled": true, "profile": "ai-frontier" },
       { "type": "repo_releases", "owner": "akfamily", "repo": "akshare", "enabled": true, "profile": "cn-macro" },
       { "type": "repo_releases", "owner": "vnpy", "repo": "vnpy", "enabled": true, "profile": "cn-macro" },
-      { "type": "repo_releases", "owner": "mpquant", "repo": "MyTT", "enabled": true, "profile": "cn-macro" },
-      { "id": "jin10", "type": "rsshub", "path": "/jin10", "category": "finance", "limit": 15 },
-      { "id": "cnbc-world", "type": "rss", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258", "category": "finance", "limit": 10 }
+      { "type": "repo_releases", "owner": "mpquant", "repo": "MyTT", "enabled": true, "profile": "cn-macro" }
     ],
     "hackernews": {
       "enabled": true,
@@ -52,6 +50,8 @@
       { "name": "GitHub Trending - Weekly", "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
       { "name": "Solidot", "url": "https://www.solidot.org/index.rss", "enabled": true, "category": "tech-news", "profile": "it-opensource" },
       { "name": "阮一峰科技爱好者周刊", "url": "https://www.ruanyifeng.com/blog/atom.xml", "enabled": true, "category": "tech-weekly", "profile": "it-opensource" },
+      { "name": "IT之家", "url": "https://www.ithome.com/rss/", "enabled": true, "category": "tech-news", "profile": "it-opensource" },
+      { "name": "金十数据", "url": "https://rsshub.app/jin10", "enabled": true, "category": "finance", "profile": "global-market" },
       { "name": "华尔街见闻", "url": "https://rsshub.app/wallstreetcn/news/global", "enabled": true, "category": "finance", "profile": "cn-macro", "content_extractor": "trafilatura" },
       { "name": "财联社电报", "url": "https://rsshub.app/cls/telegraph", "enabled": true, "category": "finance", "profile": "cn-macro", "content_extractor": "trafilatura" },
       { "name": "36氪", "url": "https://36kr.com/feed", "enabled": true, "category": "business-tech", "profile": "cn-macro" },
