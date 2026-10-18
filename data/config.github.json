@@ -61,7 +61,7 @@
       { "name": "OilPrice", "url": "https://oilprice.com/rss/main", "enabled": true, "category": "commodities", "profile": "global-market", "content_extractor": "trafilatura" },
       { "name": "少数派", "url": "https://sspai.com/feed", "enabled": true, "category": "tools", "profile": "tools-windows" },
       { "name": "小众软件", "url": "https://feed.appinn.com/", "enabled": true, "category": "tools", "profile": "tools-windows" },
-      { "name": "异次元软件世界", "url": "https://www.iplaysoft.com/feed", "enabled": true, "category": "tools", "profile": "tools-windows" },
+      { "name": "异次元软件世界", "url": "https://feed.iplaysoft.com/", "enabled": true, "category": "tools", "profile": "tools-windows" },
       { "name": "爱范儿", "url": "https://www.ifanr.com/feed", "enabled": true, "category": "apps", "profile": "tools-windows" }
     ],
     "reddit": {
