@@ -31,7 +31,9 @@
       { "type": "repo_releases", "owner": "triton-lang", "repo": "triton", "enabled": true, "profile": "ai-frontier" },
       { "type": "repo_releases", "owner": "akfamily", "repo": "akshare", "enabled": true, "profile": "cn-macro" },
       { "type": "repo_releases", "owner": "vnpy", "repo": "vnpy", "enabled": true, "profile": "cn-macro" },
-      { "type": "repo_releases", "owner": "mpquant", "repo": "MyTT", "enabled": true, "profile": "cn-macro" }
+      { "type": "repo_releases", "owner": "mpquant", "repo": "MyTT", "enabled": true, "profile": "cn-macro" },
+      { "id": "jin10", "type": "rsshub", "path": "/jin10", "category": "finance", "limit": 15 },
+      { "id": "cnbc-world", "type": "rss", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258", "category": "finance", "limit": 10 }
     ],
     "hackernews": {
       "enabled": true,
