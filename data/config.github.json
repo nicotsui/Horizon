@@ -107,7 +107,7 @@
       "profile": "cn-macro"
     }
   },
-  "collection": { "time_window_hours": 24 },
+  "collection": { "time_window_hours": 13 },
   "digest": {
     "max_items": null,
     "profile_order": ["cn-macro", "global-market", "ai-frontier", "it-opensource", "tools-windows"],
