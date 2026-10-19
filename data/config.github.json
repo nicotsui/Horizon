@@ -63,9 +63,9 @@
       { "name": "少数派", "url": "https://sspai.com/feed", "enabled": true, "category": "tools", "profile": "tools-windows" },
       { "name": "小众软件", "url": "https://www.appinn.com/feed/", "enabled": true, "category": "tools", "profile": "tools-windows" },
       { "name": "异次元软件世界", "url": "https://feed.iplaysoft.com/", "enabled": true, "category": "tools", "profile": "tools-windows" },
-      { "name": "Product Hunt", "url": "https://www.producthunt.com/feed", "enabled": true, "category": "github-trending", "profile": "it-opensource" }，
+      { "name": "Product Hunt", "url": "https://www.producthunt.com/feed", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
       { "name": "HelloGitHub 月刊", "url": "https://hellogithub.com/rss", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
-      { "name": "Awesome Free Apps", "url": "https://github.com/Axorax/awesome-free-apps/commits.atom", "enabled": true, "category": "github-trending", "profile": "it-opensource" }，
+      { "name": "Awesome Free Apps", "url": "https://github.com/Axorax/awesome-free-apps/commits.atom", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
       { "name": "吾爱精品软件区", "url": "https://www.52pojie.cn/forum.php?mod=rss&fid=16", "enabled": true, "category": "tools", "profile": "tools-windows" },
       { "name": "爱范儿", "url": "https://www.ifanr.com/feed", "enabled": true, "category": "apps", "profile": "tools-windows" }
     ],
