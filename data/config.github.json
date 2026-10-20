@@ -112,7 +112,7 @@
   },
   "collection": { "time_window_hours": 13 },
   "digest": {
-    "max_items": null,
+    "max_items": 40,
     "profile_order": ["cn-macro", "global-market", "ai-frontier", "it-opensource", "tools-windows"],
     "category_groups": {},
     "default_group": "other",
