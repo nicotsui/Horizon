@@ -5,7 +5,7 @@
 <p><strong>ニュースそのものを楽しもう。あとはHorizonにおまかせを</strong></p>
 
 <a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily" alt="Thysrael%2FHorizon | Trendshift" width="250" height="55"/></a>
-<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/weekly?language=Python" alt="Thysrael%2FHorizon | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily?language=Python" alt="Thysrael%2FHorizon | Trendshift" width="250" height="55"/></a>
 <a href="https://hellogithub.com/repository/Thysrael/Horizon" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=7a4b606e28e4477998d35851cf4fdddf&claim_uid=rtjnLkYT7ziQJUG" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <br>
 
@@ -111,6 +111,18 @@
 
 CLIから全体を実行するほか、[MCP](src/mcp/README.md)を通じてAIアシスタントから収集・分析・生成などの各段階を呼び出せます。
 
+## Agent Skill
+
+AIアシスタントに情報源の設定、プロファイルのカスタマイズ、日報の生成を任せられます。
+
+```bash
+npx skills add Thysrael/Horizon --skill horizon -g
+```
+
+[インストールと使い方](docs/agent-skill.md) · [Skill ZIPをダウンロード](https://thysrael.github.io/Horizon/downloads/horizon-skill.zip)
+
+インストールコマンドにはNode.js 22.20+が必要です。Skillを追加したら、AIアシスタントにHorizonのインストールと設定を依頼するか、以下の手順で手動インストールできます。
+
 ## クイックスタート
 
 ### 1. インストール
@@ -166,6 +178,8 @@ uv run horizon-wizard
 ```
 
 ウィザードはあなたの興味（例: 「LLM inference」「嵌入式」「web security」）について質問し、`data/config.json`を自動生成します。CLIオプションは[対話式ウィザード](docs/configuration.md#interactive-wizard)を参照してください。
+
+対象のChatGPTサブスクリプションをお持ちの方は、`openai-chatgpt`を選び、[公式ログイン認証](docs/chatgpt.md)でプランの利用枠を使用できます。OpenAI APIキーは不要です。
 
 **オプションB: 手動設定**
 
@@ -236,7 +250,7 @@ cp data/config.example.json data/config.json  # 情報源をカスタマイズ
 }
 ```
 
-グループの上限は、プロファイルのフィルタリング後、エンリッチ前に適用されます。`category_groups`と`max_items`を省略した場合、カテゴリ別の上限は適用されません。
+グループの上限は、プロファイルのフィルタリング後、エンリッチ前に適用されます。`category_groups`、`max_items`、`default_group_limit`を省略した場合、カテゴリ別の上限は適用されません。
 
 `api_key_env`はAPIキーそのものではなく、環境変数の名前でなければなりません。実際のシークレットは`.env`に記述してください。
 
@@ -335,6 +349,7 @@ Horizonは余暇に運営されているオープンソースプロジェクト�
 | [スクレイパー](docs/scrapers.md) | 情報源スクレイパーの詳細と拡張に関する注記 |
 | [コンテンツエクストラクター](docs/extractors.md) | RSS情報源の全文抽出 |
 | [MCPツール](src/mcp/README.md) | MCP互換クライアント向けのツールリファレンス |
+| [Agent Skill](docs/agent-skill.md) | AIアシスタントによるHorizonの設定、実行、カスタマイズ、定期配信、拡張 |
 
 ## プロジェクトの状況
 
