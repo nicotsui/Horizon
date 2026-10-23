@@ -59,7 +59,7 @@
       { "name": "CNBC Finance", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "enabled": true, "category": "finance", "profile": "global-market", "content_extractor": "trafilatura" },
       { "name": "MarketWatch Top Stories", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "enabled": true, "category": "finance", "profile": "global-market", "content_extractor": "trafilatura" },
       { "name": "FXStreet", "url": "https://www.fxstreet.com/rss/news", "enabled": false, "category": "forex", "profile": "global-market", "content_extractor": "trafilatura" },
-      { "name": "OilPrice", "url": "https://oilprice.com/rss/main", "enabled": true, "category": "commodities", "profile": "global-market", "content_extractor": "trafilatura" },
+      { "name": "OilPrice", "url": "https://oilprice.com/rss/main", "enabled": true, "category": "commodities", "profile": "global-market" },
       { "name": "少数派", "url": "https://sspai.com/feed", "enabled": true, "category": "tools", "profile": "tools-windows" },
       { "name": "小众软件", "url": "https://www.appinn.com/feed/", "enabled": true, "category": "tools", "profile": "tools-windows" },
       { "name": "异次元软件世界", "url": "https://feed.iplaysoft.com/", "enabled": true, "category": "tools", "profile": "tools-windows" },
@@ -112,7 +112,7 @@
   },
   "collection": { "time_window_hours": 13 },
   "digest": {
-    "max_items": 48,
+    "max_items": 60,
     "profile_order": ["cn-macro", "global-market", "ai-frontier", "it-opensource", "tools-windows"],
     "category_groups": {},
     "default_group": "other",
