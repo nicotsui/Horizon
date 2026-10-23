@@ -49,9 +49,9 @@
       { "name": "新智元", "url": "https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml", "enabled": true, "category": "ai-news", "profile": "ai-frontier" },
       { "name": "Sean Goedecke", "url": "https://www.seangoedecke.com/rss.xml", "enabled": true, "category": "software-engineering", "profile": "it-opensource", "content_extractor": "trafilatura" },
       { "name": "GitHub Trending - Daily", "url": "https://rsshub.rssforever.com/github/trending/daily/any", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
-      { "name": "GitHub Trending - Weekly", "url": "https://rsshub.rssforever.com/github/trending/weekly/any", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
+      { "name": "GitHub Trending - Weekly", "url": "https://rsshub.rssforever.com/github/trending/weekly/any", "enabled": false, "category": "github-trending", "profile": "it-opensource" },
       { "name": "Solidot", "url": "https://www.solidot.org/index.rss", "enabled": true, "category": "tech-news", "profile": "it-opensource" },
-      { "name": "IT之家", "url": "https://www.ithome.com/rss/", "enabled": true, "category": "tech-news", "profile": "it-opensource" },
+      { "name": "IT之家", "url": "https://www.ithome.com/rss/", "enabled": false, "category": "tech-news", "profile": "it-opensource" },
       { "name": "金十数据", "url": "https://hub.slarker.me/jin10", "enabled": false, "category": "finance", "profile": "global-market" },
       { "name": "华尔街见闻", "url": "https://rsshub.rssforever.com/wallstreetcn/news/global", "enabled": true, "category": "finance", "profile": "cn-macro", "content_extractor": "trafilatura" },
       { "name": "财联社电报", "url": "https://hub.slarker.me/cls/telegraph", "enabled": true, "category": "finance", "profile": "cn-macro", "content_extractor": "trafilatura" },
@@ -67,7 +67,7 @@
       { "name": "HelloGitHub 月刊", "url": "https://hellogithub.com/rss", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
       { "name": "Awesome Free Apps", "url": "https://github.com/Axorax/awesome-free-apps/commits.atom", "enabled": true, "category": "github-trending", "profile": "it-opensource" },
       { "name": "吾爱精品软件区", "url": "https://www.52pojie.cn/forum.php?mod=rss&fid=16", "enabled": true, "category": "tools", "profile": "tools-windows" },
-      { "name": "爱范儿", "url": "https://www.ifanr.com/feed", "enabled": true, "category": "apps", "profile": "tools-windows" }
+      { "name": "爱范儿", "url": "https://www.ifanr.com/feed", "enabled": false, "category": "apps", "profile": "tools-windows" }
     ],
     "reddit": {
       "enabled": true,
@@ -78,7 +78,8 @@
         { "subreddit": "robotics", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 30, "profile": "it-opensource" },
         { "subreddit": "software", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 15, "profile": "it-opensource" },
         { "subreddit": "Android", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 25, "profile": "tools-windows" },
-        { "subreddit": "selfhosted", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 20, "profile": "tools-windows" }
+        { "subreddit": "selfhosted", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 20, "profile": "tools-windows" },
+        { "subreddit": "fossdroid", "enabled": true, "sort": "hot", "time_filter": "day", "fetch_limit": 10, "min_score": 10, "profile": "tools-windows" }
       ],
       "users": [],
       "fetch_comments": 10
