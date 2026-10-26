@@ -5,531 +5,495 @@ date: 2026-10-26
 lang: zh
 ---
 
-> 从 142 条内容中筛选出 20 条重要资讯。
+> 从 144 条内容中筛选出 19 条重要资讯。
 
 ---
 
 **A 股与宏观**
-1. [苹果折叠机 iPhone Duo 需求旺盛，供应链订单增加](#item-cn-macro-1) ⭐️ 7.0/10
-2. [10 月 26 日会员早报：韩国商船大发霍尔木兹战争财 亚马逊 AI 大部分产能已预订至 2028 年](#item-cn-macro-2) ⭐️ 7.0/10
-3. [AI 趋势回落非熊市开端，非 AI 板块或迎转机](#item-cn-macro-3) ⭐️ 7.0/10
-4. [AI 投资与半导体供应链分析](#item-cn-macro-4) ⭐️ 7.0/10
-5. [德银分析：科技股调整空间仍存](#item-cn-macro-5) ⭐️ 7.0/10
-6. [高盛警告：美联储 12 月加息不确定性增加](#item-cn-macro-6) ⭐️ 7.0/10
-7. [美银 Hartnett：短期市场策略及风险分析](#item-cn-macro-7) ⭐️ 7.0/10
-8. [中国 AI 行业新出口模式：Token 出海](#item-cn-macro-8) ⭐️ 7.0/10
-9. [野村：AI 军备竞赛持续概率高，2027 年存储芯片短缺锁定](#item-cn-macro-9) ⭐️ 7.0/10
-10. [AI 交易市场动态分析](#item-cn-macro-10) ⭐️ 7.0/10
-11. [央行开展大规模逆回购操作](#item-cn-macro-11) ⭐️ 7.0/10
+1. [中国出口突破 8 万亿：新领域贡献显著](#item-cn-macro-1) ⭐️ 7.0/10
+2. [央行推出新货币政策工具影响分析](#item-cn-macro-2) ⭐️ 7.0/10
 
 **全球市场**
-1. [五角大楼稀土材料采购新规即将实施](#item-global-market-1) ⭐️ 7.0/10
-2. [亚洲正在构建下一个 15 万亿美元能源市场](#item-global-market-2) ⭐️ 7.0/10
-3. [油价上涨，尽管中东出口复苏](#item-global-market-3) ⭐️ 7.0/10
+1. [中东冲突推高全球 LNG 成本](#item-global-market-1) ⭐️ 7.0/10
+2. [埃及投票支持沙特阿拉伯，面临胡塞武装的反击](#item-global-market-2) ⭐️ 7.0/10
+3. [哈萨克斯坦面临 120 亿美元石油投资挫折](#item-global-market-3) ⭐️ 7.0/10
+4. [EQT 以 500 亿美元收购 Range Resources，押注美国天然气需求创新高](#item-global-market-4) ⭐️ 7.0/10
+5. [沙特为何放弃其核心石油规则](#item-global-market-5) ⭐️ 7.0/10
+6. [欧洲天然气价格飙升，创四年新高，冬季临近引发担忧](#item-global-market-6) ⭐️ 7.0/10
+7. [马斯克宣布 SpaceX 完成 400 亿美元芯片债务融资](#item-global-market-7) ⭐️ 7.0/10
+8. [Anthropic 公开提交 IPO](#item-global-market-8) ⭐️ 7.0/10
 
 **AI 前沿**
-1. [memt-1.0 架构解析：Deltanet-2、混合存储和更小存储足迹](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [NeurIPS&\#x27;26｜大模型有思考惯性：答案越开放，越停不下思考](#item-ai-frontier-2) ⭐️ 7.0/10
-3. [南贝吉发布 Nanbeige4.3-33B，Apache 2.0 教师模型，适用于小型代理](#item-ai-frontier-3) ⭐️ 7.0/10
+1. [OpenAI 发布 GPT-6.1Terra，API 价格减半](#item-ai-frontier-1) ⭐️ 9.0/10
+2. [Anthropic S-1](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [西北大学成功囚禁单个正电子数月](#item-ai-frontier-3) ⭐️ 7.0/10
+
+**IT 与开源**
+1. [科学家重现古罗马的分色玻璃](#item-it-opensource-1) ⭐️ 7.0/10
+2. [Systemd 支持 Rust 程序](#item-it-opensource-2) ⭐️ 7.0/10
+3. [开发者打造 Encarta 风格离线百科应用](#item-it-opensource-3) ⭐️ 6.0/10
+4. [CRT-mpv：在复古 CRT 电视上观看任何视频，以屏幕全分辨率渲染（免费、开源）](#item-it-opensource-4) ⭐️ 6.0/10
+5. [基于 VLC 4 引擎的 Cone Player：免费媒体播放器现代重设计](#item-it-opensource-5) ⭐️ 6.0/10
 
 **效率工具**
-1. [小米蓝牙遥控器 2 Pro：60 元打造你的 Vibe Coding 神器](#item-tools-windows-1) ⭐️ 5.0/10
-2. [Tiny11 Builder WinUI 0.1.3](#item-tools-windows-2) ⭐️ 5.0/10
-3. [MoeKoe Music v1.7.1](#item-tools-windows-3) ⭐️ 5.0/10
+1. [傲腾 P5800X 测试报告](#item-tools-windows-1) ⭐️ 7.0/10
 
 ---
 
 ## A 股与宏观
 
 <a id="item-cn-macro-1"></a>
-### [苹果折叠机 iPhone Duo 需求旺盛，供应链订单增加](https://wallstreetcn.com/articles/3784429) ⭐️ 7.0/10
+### [中国出口突破 8 万亿：新领域贡献显著](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOE03b3ZlNFg5cHFueFVMTjBwSnRJdDVDRjZXUUtMSTRlMlVlOVdBd25YRXNSTEJYWnhURVZNV1hNZnJUdUJ2ellUb0VVbU1ZOXZEV2JzUQ?oc=5) ⭐️ 7.0/10
 
-苹果新款折叠屏手机 iPhone Duo 市场需求远超预期，苹果已要求供应链追加三成订单，预计 2027 年出货量将达 3300 万台。
+中国出口总额首次突破 8 万亿人民币，其中‘新’领域对增长贡献显著。这一数据超过了市场预期，显示出中国出口的强劲增长势头。
 
-rss · 华尔街见闻 · 10月26日 01:19
+google\_news · 中国一带一路网 · 10月26日 09:34
 
-**「背景信息」** 折叠屏手机市场近年来呈现出快速增长的趋势。据 IDC 预测，到 2027 年，中国折叠屏手机市场的数量将达到 1500 万台，年复合增长率为 37.8%。此外，苹果公司作为全球最大的智能手机制造商之一，其折叠屏手机的推出对市场产生了重大影响。据 Smart Analytics Global（SAG）预测，苹果今年的折叠屏产品全球出货量将达到 600 万部，占全球折叠屏手机市场的 25%。这些数据表明，折叠屏手机市场具有巨大的增长潜力，而苹果的加入将进一步推动市场的发展。
+**「背景信息」** 近年来，中国出口增长主要受益于存储芯片等高技术产品的出口。这些产品的增长部分得益于中国在全球贸易中的地位以及国内产业升级的推动。此外，外资企业对中国市场的信心依旧稳固，这也为中国出口的增长提供了支持。在过去的一段时间里，中国出口连续几个月同比实现增长，显示出中国经济的强劲动力。
 
-**「影响」** iPhone Duo 的热销预计将推动折叠屏手机市场增长，对供应链厂商如鸿海、台积电等构成正面影响，有望提升其业绩。
+**「影响」** 这一出口增长对相关行业和公司构成利好，尤其是那些在新领域有所布局的企业。投资者应关注这些领域的投资机会，同时也要注意市场波动可能带来的风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://36kr.com/p/2876348896778624">小 折 叠 iPhone姗姗来迟，安卓 折 叠 屏 手 机 已百花齐放-36氪</a></li>
-<li><a href="https://www.21jingji.com/article/20260910/herald/3aa7bfec7ec1c3c9877619fb7b445499.html">自研基带“转正”，苹果 折 叠 屏 搅动高端软硬件生态 - 21经济网</a></li>
-<li><a href="https://m.jiemian.com/article/11713160.html">大大大即好好好？ 三 折 叠 会是 折 叠 屏 手 机 的终极形态吗？ | 界面 · 财经号</a></li>
+<li><a href="https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202604/P020260416311105560360.pdf">01B20260416C</a></li>
+<li><a href="https://paper.people.com.cn/rmrb/pc/attachement/202601/15/67dce335-d3be-4c57-9fe0-e1c9732a12d1.pdf">paper.people.com.cn/rmrb/pc/attachement/202601/15/67dce335-d3be...</a></li>
+<li><a href="https://www.cls.cn/detail/1321116">全面超预期！ 中 国 3月 出 口 同比 增 长 14.8%，进 口 同比下降1.4%</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#iPhone Duo`, `#Supply Chain`, `#Foldable Smartphone Market`, `#TSMC`, `#Hon Hai`
+**标签**: `#China Economy`, `#Export Growth`, `#Economic Indicators`, `#New Sector Contribution`
 
 ---
 
 <a id="item-cn-macro-2"></a>
-### [10 月 26 日会员早报：韩国商船大发霍尔木兹战争财 亚马逊 AI 大部分产能已预订至 2028 年](https://wallstreetcn.com/member/articles/3784418) ⭐️ 7.0/10
+### [央行推出新货币政策工具影响分析](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbnY3NlZydGNQVEt6LThxaGVmS1dObGI3dTI4YnlmZndvbFBwa0kxb0pqSERxWkFWWkN6aC01bUM3NEZfeEJxNWxUeHhOZ2xs?oc=5) ⭐️ 7.0/10
 
-韩国长锦商船集团旗下油轮 9 月经霍尔木兹海峡运出约 1.056 亿桶原油，占比接近四成；亚马逊 AWS 2026 年产能已售罄，2027 年也基本售完，2028 年部分产能已预订；埃隆·马斯克在本轮选举周期政治捐款突破 4.45 亿美元；标普警告地方禁令潮可能致美国数据中心信用降级；市场预期美联储本周按兵不动。
+央行推出了新的货币政策工具，这标志着政策的微调。这一举措可能会对 A 股市场和整体经济产生影响。
 
-rss · 华尔街见闻 · 10月25日 22:29
+google\_news · 凤凰网财经 · 10月26日 13:25
 
-**「背景信息」** 近期，全球经济和股市受到多方面因素的影响。韩国商船通过霍尔木兹海峡的原油运输量显著增加，反映出中东地区油市的变化。同时，亚马逊的 AI 服务预订情况显示出 AI 市场的强劲需求。马斯克在政治捐款方面的巨额投入，以及标普对美国数据中心信用评级的警告，都表明了当前经济和政治环境的不确定性。此外，市场预期美联储在本周议息会议中保持利率不变，这将对金融市场产生重要影响。
+**「背景信息」** 中国人民银行在 2026 年 9 月 29 日宣布调整完善多项货币政策工具，旨在为经济平稳增长、高质量发展和金融市场稳定运行创造适宜的货币金融环境。这些调整包括降息、扩围和加量等措施，整体上不是全面宽松，而是一次精准的结构性发力。这些政策的目的是推动经济持续向新向优向好发展，支持“十五五”实现良好开局。
 
-**「影响」** 标普的警告表明，美国数据中心可能因地方反对而面临信用降级风险，这对超大规模云厂商和公用事业公司构成潜在风险。这可能导致开发商向租户提供租金抵扣，甚至租户解除合同，从而对相关行业产生负面影响。
+**「影响分析」** 新货币政策工具的推出可能会对投资者决策产生影响，尤其是那些对市场流动性敏感的投资者。建议投资者密切关注市场动态，以调整投资策略。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html">Elon Musk becomes biggest known donor of 2026 midterm elections</a></li>
-<li><a href="https://www.democracynow.org/2026/10/13/headlines/nyt_elon_musk_gives_gop_366m_in_campaign_contributions_during_2025_26_election_cycle">NYT: Elon Musk Gives GOP $366M in Campaign Contributions ...</a></li>
-<li><a href="https://www.financialexpress.com/world-news/us-news/elon-musk-spends-366-million-on-us-politics-who-is-he-betting-on/4359853/">Elon Musk spends $366 million on US politics: Who is he ...</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says">Data Centers Face Downgrade Risk Amid Local Pushback, S&amp;P ...</a></li>
-<li><a href="https://www.ainvest.com/news/warns-data-centers-downgrade-risk-local-opposition-grows-2610/">S&amp;P Warns Data Centers of Downgrade Risk as Local Opposition ...</a></li>
-<li><a href="https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/07/more-power-less-cushion-ai-and-the-changing-credit-risk-profile-of-data-centers">More Power, Less Cushion: AI and the Changing Credit Risk ...</a></li>
+<li><a href="https://www.gov.cn/lianbo/202609/content_7082400.htm">中国人民银行调整完善若干货币政策工具__中国政府网</a></li>
+<li><a href="https://www.toutiao.com/article/7690901530039403042/">央行新举措解读：PSL降息扩围，再贷款加量提比例，钱流向哪里？</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2026-09-29/doc-initpauc2886561.shtml">央行调整多项货币政策工具：降利率、提额度 引导资金流向薄弱环节_新...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Economic Data`, `#Market News`, `#Regulatory Announcements`, `#Political Donations`, `#Credit Ratings`
-
----
-
-<a id="item-cn-macro-3"></a>
-### [AI 趋势回落非熊市开端，非 AI 板块或迎转机](https://wallstreetcn.com/articles/3784412) ⭐️ 7.0/10
-
-分析指出，AI 趋势的放缓可能不会预示着熊市的到来，反而可能对非 AI 板块有利。AI 产业短期内对其他经济部门产生了负外部性，如推高生活成本、推升无风险利率、挤出就业等。如果 AI 投资放缓，非 AI 板块可能面临更积极的宏观环境。
-
-rss · 华尔街见闻 · 10月25日 08:03
-
-**「背景信息」** 近年来，人工智能（AI）的发展对经济和股市产生了深远影响。AI 技术的进步推动了产业升级，但也引发了对就业、市场分化和估值等方面的担忧。在此背景下，分析 AI 趋势对股市和经济的影响，以及非 AI 板块在 AI 势头回落时的潜在机遇，对于理解当前市场动态具有重要意义。
-
-**「影响分析」** 对于投资者而言，AI 趋势的放缓可能意味着非 AI 板块的估值有望得到修复，尤其是那些受 AI 投资影响较小的行业。投资者应关注非 AI 板块的潜在机会，并考虑调整投资组合以反映这一趋势。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://gsas.harvard.edu/news/how-ai-might-impact-economy-and-what-government-could-do-about-it">How AI Might Impact the Economy—and What Government Could Do ...</a></li>
-<li><a href="https://www.forbes.com/sites/paulocarvao/2026/08/19/the-ai-bubble-and-the-us-economy/">The AI Bubble And The U.S. Economy - Forbes</a></li>
-<li><a href="https://www.capitaleconomics.com/key-issues/economic-impact-artificial-intelligence">The economic and market impact of AI - Capital Economics</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Chinese Stock Market`, `#AI Impact`, `#Economic Analysis`, `#Market Trends`, `#Investment Strategy`
-
----
-
-<a id="item-cn-macro-4"></a>
-### [AI 投资与半导体供应链分析](https://wallstreetcn.com/articles/3784410) ⭐️ 7.0/10
-
-AI 基础设施投资增长空间存在，但面临融资成本上升、半导体供应链受限和自研芯片竞争加剧的挑战。英伟达在性能上仍具优势，但面临自研芯片的竞争压力。内存短缺可能持续至 2028 年后，供需关系将发生转折。
-
-rss · 华尔街见闻 · 10月25日 07:11
-
-**「背景信息」** 近年来，随着人工智能技术的快速发展，AI 基础设施投资成为市场热点。然而，AI 基础设施建设面临着诸多挑战，包括融资成本上升、半导体供应链受限以及自研芯片竞争加剧。这些因素共同考验着 AI 热潮的持续性。在此背景下，SemiAnalysis 创始人兼 CEO Dylan Patel、Bernstein 董事总经理兼高级分析师 Stacy Rasgon，以及 Austin Lyons 在 CASPA 第 35 届年度大会上就半导体行业前景进行了深入讨论，涉及 AI 基础设施投资、供应链瓶颈与芯片竞争格局等方面。
-
-**「影响」** AI 基础设施投资的增长受到融资成本上升和半导体供应链瓶颈的制约，这可能导致 AI 投资项目的建设速度放缓。对于投资者而言，应关注这些因素对 AI 相关公司业绩的影响，尤其是那些依赖外部融资和面临供应链风险的企业。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://m.163.com/dy/article/KPJAA0UB0518WMF4.html?clickfrom=subscribe">算力尽头是电力：DeepSeek崩溃背后的 AI 基 建“大考”_手机网易网</a></li>
-<li><a href="https://zhaoyanblog.com/posts/ai-insight-deep-2026-08-03/">万亿美元赌局：当 AI 基 础 设 施 投 资 撞上物理世界的天花板</a></li>
-<li><a href="https://www.youtube.com/watch?v=6vNxFPRdrgs">抢电、圈地、对赌，深聊科技巨头的千亿美元 AI 能源大战 - YouTube</a></li>
-<li><a href="https://www.ai-nav-build.com/blog-ai-chips-war-2026.html">AI芯片战争2026：NVIDIA、AMD、华为升腾、Google TPU的竞争格局与技术...</a></li>
-<li><a href="https://www.guijiagi.com/posts/ai-chip-market-2026-nvidia-amd-china/">AI 芯片市场 2026：英伟达 vs AMD vs 国产芯新格局</a></li>
-<li><a href="https://news.qq.com/rain/a/20261003A06OOA00">曝内存短缺将持续到2028年！停不下来 AI太疯狂_腾讯新闻</a></li>
-<li><a href="https://www.zhiding.cn/stor-age/2026/1014/3202127.shtml">Micron警示：内存短缺或将持续至2028年-存储-至顶网</a></li>
-<li><a href="https://www.sohu.com/a/1058479483_121212001">三星重磅预警：DRAM内存、NAND固态短缺加剧，降价至少等到2028年_行业...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Investment`, `#Semiconductor Industry`, `#A-share Market`, `#Economic Analysis`, `#Regulatory Impact`
-
----
-
-<a id="item-cn-macro-5"></a>
-### [德银分析：科技股调整空间仍存](https://wallstreetcn.com/articles/3784409) ⭐️ 7.0/10
-
-德意志银行分析指出，尽管科技股近期已有所回调，但距离长期趋势通道底部仍有约 5 个百分点的空间，暗示科技股可能进一步下跌。德银此前已将美股科技及大盘成长股评级从“超配”下调至“中性”，认为板块风险回报已失衡。
-
-rss · 华尔街见闻 · 10月25日 06:25
-
-**「背景信息」** 德意志银行此前对美股科技及大盘成长股的评级进行了下调，从‘超配’降至‘中性’，认为板块风险回报已严重失衡。这一评级调整反映了市场对科技股未来表现的担忧，尤其是在经历了显著的回调之后。德银的分析显示，科技股可能还有进一步下跌的空间，尽管已经有所回调。此外，德银还指出，如果没有重大外部事件，本轮调整可能更多地体现为板块轮动，而非美股系统性下跌。这些分析为理解当前科技股市场的状况提供了重要背景。
-
-**「影响分析」** 这一分析对投资者而言意味着，科技股可能继续面临调整压力，投资者需关注板块轮动及财报表现，以判断科技股是否能在趋势通道底部附近企稳。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://stockanalysis.com/stocks/db/">Deutsche Bank Aktiengesellschaft (DB) Stock Price &amp; Overview</a></li>
-<li><a href="https://www.marketbeat.com/stocks/NYSE/DB/">Deutsche Bank Aktiengesellschaft (DB) Stock Price, News ... Deutsche Bank Ag Stock Financials &amp; Fundamental Analysis Deutsche Bank Aktiengesellschaft (DB) Analyst Ratings ... Oracle (ORCL) Transcript: Deutsche Bank 2026 Technology ... Deutsche Bank Ag (DB) Stock Price, Quote &amp; Analysis | TipRanks Deutsche Bank Aktiengesellschaft (DB) Latest Stock Analysis ...</a></li>
-<li><a href="https://stockinvest.us/financials/DB">Deutsche Bank Ag Stock Financials &amp; Fundamental Analysis</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Technology Stocks`, `#Market Analysis`, `#Deutsche Bank`, `#Economic Forecast`, `#Investment Strategy`
-
----
-
-<a id="item-cn-macro-6"></a>
-### [高盛警告：美联储 12 月加息不确定性增加](https://wallstreetcn.com/articles/3784408) ⭐️ 7.0/10
-
-美债收益率快速回落，市场对美联储 12 月加息与否的不确定性增加，可能引发新的风险重估。高盛警告，市场既要防范增长预期恶化，也不能忽视通胀持续高企带来的紧缩风险。
-
-rss · 华尔街见闻 · 10月25日 05:37
-
-**「背景信息」** 近期，美国经济面临复杂局面，消费者支出强劲但情绪疲软。债券收益率处于数十年高位，而股市却大幅上涨。美国经历了能源冲击，但经济增长正在加速。这些因素共同影响着美联储的利率决策。
-
-**「对投资者的影响」** 市场对美联储政策路径的不确定性增加，可能导致投资者面临新的风险重估。12 月加息与否都可能引发市场波动，投资者需要关注 AI 增长前景、能源冲击和债券供需变化，同时防范增长预期恶化和通胀持续高企带来的紧缩风险。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-23/federal-reserve-interest-rate-decision-faces-challenges-from-ai-inflation-war">Federal Reserve Interest Rate Decision Faces... - Bloomberg</a></li>
-<li><a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://www.cnbc.com/">International Business, World News &amp; Global Stock Market Analysis</a></li>
-<li><a href="https://www.alpha-sense.com/resources/reports/top-market-trends-2026/">Top Market Trends 2026 - alpha-sense.com</a></li>
-<li><a href="https://advisors.vanguard.com/insights/article/2026-economic-and-market-outlook">Vanguard’s 2026 economic and market outlook</a></li>
-<li><a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook">Global economic outlook 2026 report | McKinsey</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Economic Data`, `#Federal Reserve Policy`, `#Market Analysis`, `#Inflation`, `#Stock Market`
-
----
-
-<a id="item-cn-macro-7"></a>
-### [美银 Hartnett：短期市场策略及风险分析](https://wallstreetcn.com/articles/3784407) ⭐️ 7.0/10
-
-美银策略师 Michael Hartnett 建议，投资者在 11 月中旬前保持战术性谨慎，市场需消化美国中期选举、法国债市动荡及 AI 融资风险。预计短期内美股、美元可能承压，30 年期美债收益率有望回落至 5%。
-
-rss · 华尔街见闻 · 10月25日 05:11
-
-**「市场背景」** 近期，全球资金加速涌入股票和科技板块，但美银策略师 Michael Hartnett 建议，投资者在 11 月中旬前应保持战术性谨慎。这主要是因为市场需要消化美国中期选举、法国债市动荡以及 AI 融资风险三重不确定性。美国中期选举可能对政策环境、AI 战略竞争中的主导力产生影响，法国国债抛售压力可能影响欧洲主权债务风险，而 AI 资本支出与融资风险可能对相关企业的信用利差产生影响。此外，美银预计美元指数将跌破 100，30 年期美债收益率向 5%靠拢。
-
-**「影响分析」** 美银维持“债券收益率向下、股票向下、美元向下”的战术判断，预计美元指数跌破 100，30 年期美债收益率向 5%靠拢。短期市场走向取决于美国中期选举政策风险、法国国债抛售压力及 AI 资本支出与融资风险。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.fxbaogao.com/detail/5178746">[ 中 国 银河证券]： 美 国 中 期 选 举 前瞻： 政 治重心内移？ - 发现报告</a></li>
-<li><a href="https://www.sohu.com/a/1084749167_122371624">全球债市突然失控！法国国债遭抛售，意大利希腊也被一起拖下水_收益率...</a></li>
-<li><a href="https://claude.ai/">Claude</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Market Trends`, `#Economic Analysis`, `#Investment Strategy`, `#Risk Assessment`, `#Bank of America`
-
----
-
-<a id="item-cn-macro-8"></a>
-### [中国 AI 行业新出口模式：Token 出海](https://wallstreetcn.com/member/articles/3784192) ⭐️ 7.0/10
-
-中国 AI 行业通过一笔 2 亿美元的跨境 Token 采购合同，开启了新的出口模式。该合同约定年度采购金额不低于 2 亿美元，采用按量计费、按月结算的方式，算力资源全部部署在中国境内，海外客户通过互联网访问 API 接口，直接调用中国智算中心提供的大模型推理服务。
-
-rss · 华尔街见闻 · 10月25日 04:01
-
-**「背景信息」** 近年来，中国 AI 行业在出海方面经历了从产品出海到技术出海的关键跃迁。2026 年 2 月，中国大模型的周 Token 调用量达到 4.12 万亿次，首次全面超越美国，全球排名前五的模型中中国独占四席，总占比高达 61%，标志着中国 AI 技术已完成从“跟跑”到“并跑”的跨越。此外，AI 产品的交互方式已经从文生文拓展至文生图、文生视频、图生图、图生视频等多元混合模式，进一步推动了中国 AI 产品的国际化进程。
-
-**「影响」** 这一新模式将有助于中国 AI 行业将本土算力转化为全球服务收入，为数字产业提供了新的出口产品目录，同时也可能推动国产模型在国际市场上的认可度提升。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://m.36kr.com/p/3261033484370049">2025中国AI出海洞察-36氪</a></li>
-<li><a href="https://www.baogaobox.com/insights/260723000028448.html">61%占比背后：2026年中国AI出海三大市场格局与头部企业竞争力全解析 -...</a></li>
-<li><a href="https://tecdat.cn/2026ai%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%87%BA%E6%B5%B7%E5%85%A8%E6%99%AF%E6%B4%9E%E5%AF%9F%EF%BC%9A%E5%9B%BD%E4%BA%A7ai%EF%BC%8Ctoken%E7%BB%8F%E6%B5%8E%EF%BC%8C%E5%93%81%E7%89%8C%E7%A0%B4%E5%B1%80/">2026AI产业链出海全景洞察：国产AI，Token经济，品牌破局|附100+报告...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Export`, `#China&\#x27;s AI Industry`, `#Token Sales`, `#Global Market`, `#Innovation`
-
----
-
-<a id="item-cn-macro-9"></a>
-### [野村：AI 军备竞赛持续概率高，2027 年存储芯片短缺锁定](https://wallstreetcn.com/articles/3784406) ⭐️ 7.0/10
-
-野村证券报告显示，AI 军备竞赛持续的概率约为 75%，预计 2027 年存储芯片短缺将基本锁定。科技巨头持续加大 AI 投资，即使自由现金流承压，也不愿退出竞争。存储器长期供应协议已锁定 2027 年的供应量与价格，为行业景气度提供支撑。
-
-rss · 华尔街见闻 · 10月25日 03:45
-
-**「背景信息」** 近年来，随着人工智能技术的快速发展，全球范围内的 AI 军备竞赛日益激烈。科技巨头纷纷加大在 AI 领域的投资，以争夺市场份额和技术优势。在此背景下，存储芯片作为 AI 技术的重要支撑，其供需关系和价格波动受到广泛关注。野村证券的最新报告显示，AI 军备竞赛持续的概率约为 75%，预计 2027 年存储芯片短缺的情况已基本锁定。
-
-**「影响」** AI 投资竞赛的持续和半导体超级周期的延续将对半导体行业产生积极影响，台积电及多家科技巨头均表示 AI 需求超过现有供给能力。然而，融资渠道关闭和电力短缺可能成为投资和芯片需求实质性收缩的风险。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://xueqiu.com/1107854878/413747713">野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定 AI...</a></li>
-<li><a href="https://www.jinse.com.cn/blockchain/3740124.html">野村：AI军备竞赛有75%的概率继续 2027年存储芯片短缺已基本锁定</a></li>
-<li><a href="https://www.163.com/dy/article/LA37M3SD05198NMR.html">野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定|现...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Arms Race`, `#Semiconductor Industry`, `#Storage Chip Shortage`, `#Economic Data`, `#Regulatory Announcements`
-
----
-
-<a id="item-cn-macro-10"></a>
-### [AI 交易市场动态分析](https://wallstreetcn.com/articles/3784405) ⭐️ 7.0/10
-
-过去一周，AI 交易市场遭遇抛售压力，纳斯达克表现不佳，美国高收益债风险溢价上升。Meta 发布巨额融资计划，揭示了 AI 行业内的‘囚徒困境’。AI 交易止跌不仅取决于科技巨头的盈利表现，还取决于市场能否消化密集的债券供给和融资成本。
-
-rss · 华尔街见闻 · 10月25日 03:18
-
-**「背景信息」** 近年来，人工智能（AI）行业迅速发展，吸引了大量投资。Meta 等科技巨头在 AI 领域的投资规模巨大，但同时也面临着融资挑战。这些公司需要不断融资来支持其 AI 项目，但市场对 AI 相关债券的吸纳能力有限，导致融资成本上升。此外，AI 行业内部存在‘囚徒困境’，即每家公司都有抢先融资的动机，但如果巨头集体加快发债，可能会推高融资成本，从而挤压所有参与者的融资空间。这些因素共同影响着 AI 交易市场的动态。
-
-**「影响」** AI 交易市场近期面临抛售压力，Meta 的巨额融资计划揭示了 AI 行业内的‘囚徒困境’。这种困境可能导致融资成本上升，挤压所有参与者的融资空间。对于投资者而言，这意味着需要关注信用市场压力是否缓解，以及 AI 企业之间的风险分化是否继续扩大。在这些问题得到解决之前，AI 交易的阶段性反弹可能受到融资成本上升的制约。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://futurism.com/artificial-intelligence/meta-board-zuckerberg-ai-spending-compensation">Behind the Scenes, Meta &#x27;s Board Is Battling With Mark Zuckerberg...</a></li>
-<li><a href="https://chang.aevumnews.com/en/meta-s-strategic-stock-move-to-fuel-ai-expansion">Meta &#x27;s Strategic Stock Move to Fuel AI Expansion | aevumnews</a></li>
-<li><a href="https://www.investing.com/equities/facebook-inc">Meta Stock Price (FB) Formerly Facebook - Investing.com</a></li>
-<li><a href="https://www.linkedin.com/posts/edmonagron_hermes-ai-trading-and-markets-2026-5-real-activity-7483416123464515584-mden">Hermes AI Trading Bot Deployments and Market Research | LinkedIn</a></li>
-<li><a href="https://roticsymposium.com/impact-of-ai-trading-on-market-volatility/">Impact of AI trading on market volatility Understanding the nuances...</a></li>
-<li><a href="https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market">AI compute is the new oil—and needs a new market</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Trading`, `#Market Dynamics`, `#Financing Challenges`, `#Prisoner&\#x27;s Dilemma`, `#Credit Risk`
-
----
-
-<a id="item-cn-macro-11"></a>
-### [央行开展大规模逆回购操作](https://www.cls.cn/detail/2514644) ⭐️ 7.0/10
-
-央行今日开展了 560 亿元 7 天期逆回购操作，同时进行了 3980 亿元隔夜逆回购操作，操作利率为 1.40%。这些操作对市场产生了显著影响。
-
-rss · 财联社电报 · 10月26日 01:23
-
-**「背景信息」** 逆回购是央行调节市场流动性的重要工具。正回购是指央行卖出有价证券，而逆回购则是央行买入有价证券。通过逆回购操作，央行可以向市场注入流动性，影响市场利率。此次央行进行的逆回购操作，表明了央行在维持市场流动性方面的政策意图。逆回购操作对经济的影响主要体现在市场利率的变动上，进而可能影响投资和消费行为。
-
-**「市场影响」** 此次逆回购操作可能对市场流动性产生积极影响，有助于稳定市场预期。对于投资者而言，应关注相关政策的持续影响，以及可能对特定行业带来的机会。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.licaiedu.com/info/news/12819.html">一文带你读懂！ 什 么 是 正 回 购 与 逆 回 购 ？ -理财教育网</a></li>
-<li><a href="https://www.xiaoyuzhoufm.com/episode/66eb8e983a5ff0a0ca61eb4a">449.宏观经济篇： 什 么 是 央行 逆 回 购 和MLF 操 作 ？</a></li>
-<li><a href="https://news.10jqka.com.cn/20260617/c677527460.shtml">攻略来了！ 今天 操 作 ，1天“赚”4天利息 | 同花顺财经</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Central Bank Operation`, `#Reverse Repurchase`, `#Economic Policy`, `#Market Impact`, `#China&\#x27;s Economy`
+**标签**: `#Central Bank`, `#Monetary Policy`, `#A-share Market`, `#Policy Fine-tuning`, `#Economic Policy`
 
 ---
 
 ## 全球市场
 
 <a id="item-global-market-1"></a>
-### [五角大楼稀土材料采购新规即将实施](https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html) ⭐️ 7.0/10
+### [中东冲突推高全球 LNG 成本](https://oilprice.com/Energy/Natural-Gas/The-Iran-War-Just-Added-39-Billion-to-the-Worlds-LNG-Bill.html) ⭐️ 7.0/10
 
-五角大楼将于 2027 年 1 月 1 日实施新的采购规则，限制在美国武器系统中使用中国起源的稀土材料。这些规定涵盖了从采矿、提炼到分离、熔化和生产的整个供应链。所有目前从中国采购稀土磁体或磁材料的中国国防承包商都需要符合国内替代品。
+中东冲突导致全球液化天然气（LNG）成本上升，据 Rystad Energy 估计，全球 LNG 进口国在 2026 年将额外支出至少 390 亿美元，尽管进口量减少了 60.7 万吨。
 
-rss · OilPrice · 10月26日 00:00
+rss · OilPrice · 10月26日 18:00
 
-**「背景信息」** 长期以来，稀土行业一直将 2027 年 1 月 1 日视为一个重要的转折点。这个日期现在只剩下不到 75 天。从 2027 年 1 月 1 日起，五角大楼的新采购规则将生效，限制在美国武器系统中使用中国起源的稀土材料。这些限制涵盖了整个供应链，从采矿和提炼到分离、熔化和生产。目前从中国采购稀土磁铁或磁性材料的每一个国防承包商都需要一个符合国内替代品。
+**「背景信息」** 2026 年，中东冲突导致全球能源流动受到严重干扰，迫使各国重新考虑供应路线并加强能源安全。随着更多买家转向现货市场以替代受干扰的供应量，Rystad Energy 估计，全球液化天然气进口商在 2026 年将额外支出至少 390 亿美元，尽管他们购买的液化天然气量减少了 60.7 万吨。对卡塔尔和阿联酋通过霍尔木兹海峡出口的干扰迫使买家以更高的价格确保替代供应量。国际能源署（IEA）执行董事法蒂赫·比罗尔在新加坡国际能源周会议上表示，由于中东冲突，原油、燃料和天然气的价格不太可能在 2027 年恢复到战前水平。比罗尔警告说，能源市场目前没有可信的途径可以回到战争开始之前的状态。
 
-**「影响」** 这一变化将对国防工业和全球供应链产生重大影响，迫使行业寻找国内替代品以满足五角大楼的新规定。
+**「影响」** 这一冲突导致能源市场紧张，预计原油、燃料和天然气价格在 2027 年之前不太可能恢复到战前水平。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=o84CnEuQ4AM">Why the Pentagon Is Forced to Auction Brand-New Diesel... - YouTube</a></li>
-<li><a href="https://www.aei.org/research-products/report/five-factors-plaguing-pentagon-procurement/">Five Factors Plaguing Pentagon Procurement | American... - AEI</a></li>
-<li><a href="https://volknews.com/2025/11/11/wall-street-sees-hegseths-pentagon-procurement-overhaul-as-wake-up-call-for-prime-contractors/">Wall Street Sees Hegseth&#x27;s Pentagon Procurement ... - Volk News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis">2026 Iran war fuel crisis - Wikipedia</a></li>
+<li><a href="https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker">2026 Energy Crisis Policy Response Tracker - IEA</a></li>
+<li><a href="https://www.iea.org/news/impacts-of-middle-east-conflict-set-to-reshape-energy-investment-plans-as-disruptions-put-focus-on-security">Impacts of Middle East conflict set to reshape energy ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Defense Industry`, `#Rare Earth Materials`, `#Supply Chain`, `#Pentagon Policy`, `#Geopolitical Implications`
+**标签**: `#Middle East Conflict`, `#Energy Disruption`, `#LNG Prices`, `#Commodity Market`, `#Currency Fluctuations`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [亚洲正在构建下一个 15 万亿美元能源市场](https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html) ⭐️ 7.0/10
+### [埃及投票支持沙特阿拉伯，面临胡塞武装的反击](https://oilprice.com/Latest-Energy-News/World-News/Egypt-Votes-to-Defend-Saudi-Arabia-Risking-Houthi-Fire.html) ⭐️ 7.0/10
 
-亚洲在全球能源市场的影响力日益增强，可能导致化石燃料消费和可再生能源投资的未来走向发生改变。亚洲各国政府在煤炭、石油、天然气、可再生能源和能源存储的未来上拥有巨大影响力。亚洲的能源投资需求每年高达 1 万亿美元。
+埃及议会周一授权军事支持沙特阿拉伯，此举可能引发与也门胡塞武装的冲突。
 
-rss · OilPrice · 10月25日 23:00
+rss · OilPrice · 10月26日 17:30
 
-**「背景信息」** 亚洲在全球能源转型中扮演着越来越重要的角色，其政策和投资决策将对全球化石燃料消耗和可再生能源投资产生重大影响。亚洲的能源需求增长迅速，这主要归因于该地区的工业化和人口增长。亚洲各国在推进绿色倡议方面取得了一定进展，但需要在清洁能源技术的普及方面做出更多努力。亚洲能源市场的转型涉及多个领域，包括可再生能源、电动汽车、可再生能源燃料、碳捕集与封存（CCS/CCUS）、氢能和能源存储。亚洲的能源转型市场包括的主要领域有可再生能源、电动汽车、可再生能源燃料、CCS/CCUS、氢能和能源存储。
+**「背景信息」** 也门胡塞武装是由伊朗支持的，他们被认为是伊朗领导的抵抗轴心的一部分。胡塞武装在也门冲突中与沙特阿拉伯对抗，这一冲突已经持续多年。美国和其他一些国家支持沙特阿拉伯对抗胡塞武装，但胡塞武装的武器和资金来源通常与伊朗有关。这一地区的紧张局势可能会对能源市场产生重大影响，特别是对沙特阿拉伯的石油出口路线。
 
-**「影响」** 亚洲的能源市场变化将对全球能源系统产生重大影响，可能导致全球化石燃料消费减少，同时也可能推动可再生能源投资的增长。
+**「影响」** 埃及议会授权军事支持沙特阿拉伯的决定可能导致地缘政治关系发生重大变化，并可能影响石油供应路线。这一举措可能会加剧也门胡塞武装与沙特阿拉伯之间的紧张关系，从而对能源市场产生潜在影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://energytracker.asia/">Energy Tracker Asia | Energy finance news and trends</a></li>
-<li><a href="https://www.globaldata.com/store/report/asia-energy-transition-market-analysis/">Asia Energy Transition: Market Trends and ... - GlobalData Current Thinking – Exploring the Issues Shaping Our Energy ... Energy transition outlook: Asia Pacific | Wood Mackenzie The State of Asia’s Energy Transition and the Outlook For 2025 New Landscape of Asian Energy Spot Market: Geopolitics and ... Asia&#x27;s Energy Market: Trends, Transformation and Treasury ...</a></li>
-<li><a href="https://www.ashurstperkinscoie.com/en/insights/current-thinking-apac-energy-sector-trends/">Current Thinking – Exploring the Issues Shaping Our Energy ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Houthis">Houthis - Wikipedia</a></li>
+<li><a href="https://www.brookings.edu/articles/who-are-the-houthis-and-why-are-we-at-war-with-them/">The Houthis : Who They Are and Why Conflict Exists</a></li>
+<li><a href="https://www.bbc.com/news/world-middle-east-67614911">Who are the Houthis and why is the US targeting them?</a></li>
+<li><a href="https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html">Egypt ’ s Defense Chiefs Pledge to Support Saudi Arabia After Houthi...</a></li>
+<li><a href="https://english.ahram.org.eg/NewsContent/1/1234/580943/Egypt/Foreign-Affairs/Egypt-troop-deployment-to-Saudi-Arabia-requires-pa.aspx">Egypt troop deployment to Saudi Arabia requires... - Ahram Online</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Energy Market`, `#Asia`, `#Renewable Energy`, `#Fossil Fuel Consumption`, `#Global Energy Transition`
+**标签**: `#Geopolitical Relations`, `#Energy Markets`, `#Saudi Arabia`, `#Yemen Conflict`, `#Military Support`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [油价上涨，尽管中东出口复苏](https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html) ⭐️ 7.0/10
+### [哈萨克斯坦面临 120 亿美元石油投资挫折](https://oilprice.com/Energy/Energy-General/Kazakhstan-Faces-12-Billion-Oil-Setback-as-New-Investment-Plans-Take-Shape.html) ⭐️ 7.0/10
 
-尽管中东地区的石油出口有所恢复，但油价却继续上涨，表明仅仅出口数量的增加并不能保证石油市场的正常化。
+哈萨克斯坦石油部门在国际仲裁中面临 120 亿美元的损失，同时新的投资计划正在形成。
 
-rss · OilPrice · 10月25日 23:00
+rss · OilPrice · 10月26日 17:00
 
-**「背景信息」** 在过去的几周中，有关波斯湾和红海石油出口恢复的报告占据了新闻头条。然而，石油价格却持续上涨，这表明仅仅桶数并不能保证石油市场恢复正常。根据最新的 Kpler 数据，10 月份中东的石油出口总量实际上高于 2 月底美国和以色列对伊朗首次发动袭击之前的水平。仅霍尔木兹海峡的出口流量就平均达到了……此外，国际能源署（IEA）的报告显示，2026 年全球石油供应预计平均为每天 100.7 百万桶，比去年下降 5.7 百万桶，比上一次报告低 1.3 百万桶，中东生产者的供应完全恢复推迟到 2027 年。IEA 还指出，由于中东地区能源基础设施和油轮交通的袭击加剧，中东石油供应的恢复可能推迟到 2027 年。
+**「背景信息」** 哈萨克斯坦在收到国际金融公司承诺帮助开发价值 30 亿美元的基础设施项目后，本应感到高兴。然而，这一积极的对外投资消息被国际仲裁法庭的决定所抵消，该法庭驳回了哈萨克斯坦对西方石油巨头提出的 120 亿美元的索赔。这些索赔涉及卡沙甘油田的开发争议。国际金融公司，作为世界银行的私营部门分支，将参与涵盖 2026-31 期间的项目，重点在于促进公私合作伙伴关系。
 
-**「影响」** 这一现象对全球石油市场产生了影响，表明仅凭出口数量无法确保市场稳定，可能对投资者决策产生影响。
+**「影响」** 这一裁决对哈萨克斯坦的石油部门产生了重大影响，可能导致其经济受到冲击。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.iea.org/reports/oil-market-report-september-2026">Oil Market Report - September 2026 - IEA</a></li>
-<li><a href="https://www.iea.org/reports/oil-market-report-october-2026">Oil Market Report - October 2026 - IEA</a></li>
-<li><a href="https://www.worldoil.com/news/2026/9/11/iea-cuts-2026-oil-supply-outlook-as-gulf-recovery-slips-to-2027/">IEA cuts 2026 oil supply outlook as Gulf recovery slips to 2027</a></li>
+<li><a href="https://www.icij.org/investigations/caspian-cabals/kazakhstan-alleges-big-oil-corruption-tainted-10-7-billion-in-contracts-delayed-key-oil-project/">Kazakhstan alleges Big Oil corruption tainted $10.7 billion ...</a></li>
+<li><a href="https://timesca.com/kazakhstan-expands-kashagan-legal-fight-as-arbitration-and-claims-mount/">Kazakhstan Expands Kashagan Legal Fight as Arbitration and ...</a></li>
+<li><a href="https://thediplomat.com/2026/07/kashagan-environmental-fine-enforced-in-kazakhstan/">Kashagan Environmental Fine Enforced in Kazakhstan</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Oil Prices`, `#Middle East Export`, `#Global Oil Market`, `#Market Analysis`, `#Investment Decisions`
+**标签**: `#Oil Sector`, `#International Arbitration`, `#Kazakhstan`, `#Investment Plans`, `#Commodities`
+
+---
+
+<a id="item-global-market-4"></a>
+### [EQT 以 500 亿美元收购 Range Resources，押注美国天然气需求创新高](https://oilprice.com/Latest-Energy-News/World-News/EQT-Bets-on-Record-US-Gas-Demand-With-50-Billion-Range-Takeover.html) ⭐️ 7.0/10
+
+EQT 公司将以超过 500 亿美元的价格收购 Range Resources，包括债务。这笔交易将使两家公司合并，成为美国最大的垂直一体化天然气生产商。Range Resources 的股东将获得 0.987 股 EQT 股票，相当于每股 54.91 美元，较周五收盘价溢价 20.6%。
+
+rss · OilPrice · 10月26日 16:30
+
+**「背景信息」** EQT 公司宣布以超过 500 亿美元的股票交易收购 Range Resources 公司。这一战略收购旨在使 EQT 成为美国最大的垂直一体化天然气生产商。此次收购是在双方董事会一致通过后宣布的，预计将创造一个企业价值超过 500 亿美元的美国领先天然气公司。
+
+**「影响」** 这笔交易可能会提高天然气市场的集中度，并对相关资产的价格产生影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ir.rangeresources.com/news-releases/news-release-details/eqt-announces-strategic-acquisition-range-resources-creating/">EQT Announces Strategic Acquisition of Range Resources ...</a></li>
+<li><a href="https://www.barchart.com/press-releases/8450243/eqt-announces-strategic-acquisition-of-range-resources-creating-america-s-undisputed-natural-gas-champion">EQT Announces Strategic Acquisition of Range Resources ...</a></li>
+<li><a href="https://finance.yahoo.com/energy/articles/eqt-announces-strategic-acquisition-range-100000991.html?fr=sycsrp_catchall">EQT Announces Strategic Acquisition of Range Resources ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Corporate Acquisition`, `#Energy Market`, `#Natural Gas`, `#Vertical Integration`, `#Market Impact`
+
+---
+
+<a id="item-global-market-5"></a>
+### [沙特为何放弃其核心石油规则](https://oilprice.com/Energy/Crude-Oil/Why-Saudi-Just-Abandoned-Its-Core-Oil-Rule.html) ⭐️ 7.0/10
+
+沙特阿拉伯决定放弃其核心石油规则，以应对与伊朗的地缘政治紧张关系。
+
+rss · OilPrice · 10月26日 16:00
+
+**「背景」** 沙特阿拉伯与伊朗之间的双边关系一直处于紧张状态，同时也经历了外交接触和正常化的阶段。这些紧张关系源于一系列的地缘政治问题，包括地区影响力、石油生产政策以及与美国和其他西方国家的关系差异。外交关系曾在某些时期中断。此外，两国之间的代理战争也是阿拉伯与伊朗冲突的一部分，这一冲突涵盖了历史悠久的民族紧张关系和宗教派别冲突。尽管在 2025 年 6 月的以色列-美国对伊朗的攻击和触发即时制裁后，伊朗和沙特之间的外交接触持续存在，但两国在减少紧张关系方面仍存在共同利益。
+
+**「影响」** 这一决定可能导致全球石油市场出现波动，影响相关行业和货币。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Iran%E2%80%93Saudi_Arabia_relations">Iran–Saudi Arabia relations - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Iran%E2%80%93Saudi_Arabia_proxy_war">Iran–Saudi Arabia proxy war - Wikipedia</a></li>
+<li><a href="https://mecouncil.org/publication/the-saudi-iranian-detente-a-strategic-imperative/">The Saudi–Iranian Détente: A Strategic Imperative</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Geopolitical Events`, `#Oil Markets`, `#Saudi Arabia`, `#Iran`, `#Global Financial Markets`
+
+---
+
+<a id="item-global-market-6"></a>
+### [欧洲天然气价格飙升，创四年新高，冬季临近引发担忧](https://oilprice.com/Latest-Energy-News/World-News/Europes-Natural-Gas-Prices-Soar-to-Four-Year-High-as-Winter-Looms.html) ⭐️ 7.0/10
+
+欧洲天然气价格在阿姆斯特丹的基准价格周一开盘上涨 2%，延续上周 7%的周涨幅，随着人们对天然气提取季节的开始和卡塔尔液化天然气（LNG）流动可能不会很快恢复的担忧加剧，欧洲天然气价格达到四年来的最高水平，达到每兆瓦时 107.40 美元（95.73 欧元）。
+
+rss · OilPrice · 10月26日 09:30
+
+**「背景信息」** 欧洲天然气价格近期大幅上涨，这主要是由于对冬季季节的担忧以及卡塔尔液化天然气（LNG）供应的不确定性。卡塔尔是全球最大的 LNG 出口国之一，其供应中断对全球天然气市场产生了重大影响。此外，欧洲对卡塔尔 LNG 的依赖程度较高，因此卡塔尔供应的减少对欧洲市场产生了直接影响。这些因素共同导致了欧洲天然气价格的上涨。
+
+**「影响」** 这一价格飙升可能导致冬季能源成本增加，对欧洲经济产生负面影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://discoveryalert.com/news/qatar-lng-exports-dark-carriers-hormuz-september-2026/">Qatar LNG Flows Trickle Back as Five Carriers Run Dark ...</a></li>
+<li><a href="https://enterpriseam.com/logistics/2026/09/15/qatari-lng-is-trickling-back-through-hormuz-but-the-real-divide-now-is-who-can-afford-to-keep-bidding-for-gas/">Qatari LNG is trickling back through Hormuz, but the real ...</a></li>
+<li><a href="https://liquefiednaturalgas.org/countries/qatar/">Qatar LNG 2026: Ras Laffan Outage &amp; North Field Expansion</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Energy Prices`, `#Natural Gas`, `#Europe`, `#Economic Impact`, `#Market Trends`
+
+---
+
+<a id="item-global-market-7"></a>
+### [马斯克宣布 SpaceX 完成 400 亿美元芯片债务融资](https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds) ⭐️ 7.0/10
+
+马斯克宣布 SpaceX 已完成 400 亿美元债务融资，用于购买英伟达 GPU 支撑 AI 业务。这笔债务拟由表外实体以私募方式发行，涉及高盛和阿波罗等投资机构。
+
+telegram · zaihuapd · 10月26日 06:40
+
+**「背景信息」** SpaceX 近期宣布完成了一项 400 亿美元的债务融资，这笔资金将用于购买英伟达的 GPU 来支持其 AI 业务。这是迄今为止最大的 GPU 融资交易，由 Apollo Global Management Inc.管理的实体提供。这一举措是 SpaceX 计划构建超级智能未来的重要一步，同时也反映了公司在芯片和 AI 技术领域的战略投资。此外，马斯克还预测了 neocloud 公司的挑战，认为 200 多家 neocloud 公司将面临消亡与整合的过程，而 SpaceX 不会收购任何一家公司。
+
+**「市场影响」** SpaceX 完成的 400 亿美元债务融资将用于购买 AI 相关的 GPU，这可能会推动 AI 芯片和相关技术的需求增长，从而对相关行业产生积极影响。同时，马斯克对 neocloud 公司的预测可能引发市场对这些公司的重新评估，可能导致相关股票的波动。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx">SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER</a></li>
+<li><a href="https://www.apollo.com/insights-news/pressreleases/2026/10/spacex-secures--40-billion-in-the-largest-gpu-financing-ever">SpaceX Secures $40 Billion in the Largest GPU Financing ...</a></li>
+<li><a href="https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html">SpaceX closes $40 billion debt deal for AI chips, Elon Musk says</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/spacex-secures-40-billion-debt-115009720.html?fr=sycsrp_catchall">SpaceX Secures $40 Billion in Debt Financing as Musk Warns of ...</a></li>
+<li><a href="https://finance.yahoo.com/markets/stocks/article/spacexs-elon-musk-reveals-40-billion-in-debt-for-ai-chips-warns-of-neoclouds-122318683.html?fr=sycsrp_catchall">SpaceX&#x27;s Elon Musk reveals $40 billion in debt for AI chips ...</a></li>
+<li><a href="https://thenextweb.com/news/spacex-40bn-debt-ai-chips-musk">Elon Musk says SpaceX has raised $40bn in debt to buy AI chips</a></li>
+
+</ul>
+</details>
+
+**标签**: `#SpaceX`, `#Debt Financing`, `#AI Technology`, `#Neocloud`, `#Financial Markets`
+
+---
+
+<a id="item-global-market-8"></a>
+### [Anthropic 公开提交 IPO](https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html) ⭐️ 7.0/10
+
+AI 公司 Anthropic 已公开提交纳斯达克 IPO 申请，股票代码为 &\#x27;ANT&\#x27;，计划于 11 月中旬挂牌。公司上半年营收达到 163 亿美元，去年同期为 11 亿美元；净亏损为 807 亿美元，其中约 720 亿美元来自可转债等融资工具。
+
+telegram · zaihuapd · 10月26日 13:21
+
+**「背景信息」** Anthropic 是一家专注于人工智能安全性和研究的公司，致力于构建可靠、可解释和可操控的人工智能系统。该公司由前 OpenAI 高管 Dario 和 Daniela Amodei 创立，总部位于旧金山。Anthropic 的目标是研究人工智能系统的安全性和可靠性，并在 2026 年 1 月推出了名为 &\#x27;Labs&\#x27; 的部门。此外，Anthropic 在 2026 年 2 月推出了 Claude Cowork，这是一款旨在自动化常见业务流程的产品，对市场产生了重大影响，导致 SaaS、IT 和法律服务股票下跌 2850 亿美元。
+
+**「影响」** Anthropic 的 IPO 申请可能对 AI 领域的股票和更广泛的市场产生影响，特别是对于那些对 AI 技术和公司发展感兴趣的投资者。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://www.anthropic.com/company">Company \ Anthropic</a></li>
+<li><a href="https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08">Anthropic - 2026 Company Profile &amp; Team - Tracxn Home \ Anthropic Anthropic - Crunchbase Company Profile &amp; Funding Anthropic | Company Overview &amp; News - Forbes Anthropic - companieshistory.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IPO`, `#Anthropic`, `#Financial Market`, `#Tech News`, `#Stock Market`
 
 ---
 
 ## AI 前沿
 
 <a id="item-ai-frontier-1"></a>
-### [memt-1.0 架构解析：Deltanet-2、混合存储和更小存储足迹](https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/) ⭐️ 8.0/10
+### [OpenAI 发布 GPT-6.1Terra，API 价格减半](https://openai.com/index/introducing-gpt-6-1-terra/) ⭐️ 9.0/10
 
-memt-1.0 架构在 AI 代理的内存管理方面取得了显著进步，重点在于效率和降低存储需求。该架构采用直接将内存嵌入模型计算层的方法，使用带门控的 Deltanet-2 和混合存储（MOS）层，实现了在 128k 上下文长度下约 1.86 倍的端到端推理速度提升和与全上下文 KV 缓存设置相比的 66 倍持久存储减少。
+OpenAI 发布了 GPT-6.1 Terra，该模型专注于视觉理解和电脑操作，写作能力更自然。其标准 API 价格比 GPT-5.6 Terra 低 50%，已向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise、Edu 用户开放。
 
-reddit · r/MachineLearning · /u/Mrs-Grumpy23 · 10月25日 05:31
+telegram · zaihuapd · 10月26日 18:07
 
-**「背景信息」** memt-1.0 架构的提出是基于对 AI 代理内存管理技术的深入研究和创新。该架构的核心在于内存原生设计，通过集成 Gated DeltaNet-2 和混合存储（MoS）层，实现了对模型计算层的直接内存内嵌。Gated DeltaNet-2 通过分离擦除和写入操作，提高了线性注意力模型的效果，而 MoS 则通过维护多个独立的内存状态来扩展内存容量并消除内存干扰。这些技术的前身包括 Gated DeltaNet-2 的提出，它通过线性注意力层解耦擦除和写入操作，以及 MoM 架构的引入，后者通过混合多个内存状态来优化线性序列模型。此外，长期记忆在 LLM 代理中的应用也推动了这一领域的发展，例如 RPMem 和 In-Parameter Memory Augmentation 等研究，它们都致力于将经验直接编码到模型计算中。
+**「背景信息」** GPT-6.1 Terra 是 OpenAI 最新发布的大型语言模型，专注于视觉理解和电脑操作，其性能相较于 GPT-5.6 Terra 有显著提升。GPT-6.1 Terra 的 API 价格比 GPT-5.6 Terra 低 50%，已向 ChatGPT Work 和 Codex 的 Plus、Pro、Enterprise、Edu 用户开放。这一发布标志着 OpenAI 在 AI 研究和技术基础设施方面的重大进步。
 
-**「影响」** 对于构建长期代理的开发者和研究人员来说，通过架构级别的更新层（如带门控的 Deltanet/MOS）内部化状态可能是摆脱 KV 缓存内存瓶颈的关键。
+**「影响」** GPT-6.1 Terra 的发布为开发者、研究人员和用户提供了一个更高效、成本更低的 AI 解决方案，有助于加速 AI 研究和应用的发展。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2605.22791">[2605.22791] Gated DeltaNet-2: Decoupling Erase and Write in ...</a></li>
-<li><a href="https://arxiv.org/pdf/2605.22791">Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention</a></li>
-<li><a href="https://research.nvidia.com/publication/2026-12_gated-deltanet-2-decoupling-erase-and-write-linear-attention">Gated DeltaNet-2: Decoupling Erase and Write in Linear ...</a></li>
-<li><a href="https://arxiv.org/abs/2502.13685">[2502.13685] MoM: Linear Sequence Modeling with Mixture-of ... MoM: Linear Sequence Modeling with Mixture-of-Memories GitHub - OpenSparseLLMs/MoM Mixture-of-Memories (MoM): The “Linear Attention ... M M: L S MIXTURE OF-MEMORIES - OpenReview MoM: Linear Sequence Modeling with Mixture-of-Memories MoA: Mixture of Sparse Attention for Automatic ... - OpenReview</a></li>
-<li><a href="https://arxiv.org/html/2502.13685v1">MoM: Linear Sequence Modeling with Mixture-of-Memories</a></li>
-<li><a href="https://ts2.tech/en/mixture-of-memories-mom-the-linear-attention-breakthrough-that-doesnt-forget-long-contexts/">Mixture-of-Memories (MoM): The “Linear Attention ...</a></li>
-<li><a href="https://arxiv.org/abs/2609.23466">[2609.23466] RPMem: Learning Long-Term Recurrent Parametric ...</a></li>
-<li><a href="https://arxiv.org/abs/2610.08630">[2610.08630] Towards In-Parameter Memory Augmentation for ...</a></li>
-<li><a href="https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/">Thinking to recall: How reasoning unlocks parametric ...</a></li>
+<li><a href="https://evolink.ai/blog/gpt-6-1-terra-release-watch">GPT-6.1 Terra: Release Date, News &amp; Expectations - evolink.ai</a></li>
+<li><a href="https://www.ithinkdiff.com/gpt-6-1-terra-launch-half-price-computer-use/">OpenAI Launches GPT-6.1 Terra at Half the Price of GPT-6.1 Sol</a></li>
+<li><a href="https://community.openai.com/t/gpt-6-1-terra-delivering-fast-and-capable-computer-use-at-a-lower-price/1409900">GPT-6.1 Terra: delivering fast and capable computer use at a ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Large Language Models`, `#Memory Management`, `#Efficiency`, `#Storage Optimization`
+**标签**: `#AI Research`, `#Large Language Models`, `#AI Infrastructure`, `#AI-Powered Products`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [NeurIPS&\#x27;26｜大模型有思考惯性：答案越开放，越停不下思考](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652737830&amp;idx=3&amp;sn=cf5e7ed540f5f1f7bfeb87e8b3814cc1) ⭐️ 7.0/10
+### [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) ⭐️ 7.0/10
 
-An article discusses the phenomenon of large language models showing a tendency to continue thinking when presented with open-ended answers, as reported by a news outlet.
+Discussion on Anthropic&\#x27;s significant financial commitments and market potential in the AI industry.
 
-rss · 新智元 · 10月25日 04:17
+hackernews · SiNTEx · 10月26日 13:04 · [社区讨论](https://news.ycombinator.com/item?id=50242939)
 
-**标签**: `#AI Research`, `#Large Language Models`, `#NeurIPS`, `#AI Phenomena`
+**标签**: `#AI Company`, `#Financial Commitments`, `#Market Potential`, `#AI Industry`, `#Anthropic`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [南贝吉发布 Nanbeige4.3-33B，Apache 2.0 教师模型，适用于小型代理](https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/) ⭐️ 7.0/10
+### [西北大学成功囚禁单个正电子数月](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/) ⭐️ 7.0/10
 
-南贝吉发布了 Nanbeige4.3-33B，这是一个 Apache 2.0 授权的教师模型，在 Terminal-Bench 2.1 基准测试中表现出竞争力。该模型被设计用于其计划中的小型代理，包括即将推出的 3B 模型。
+美国西北大学 Gerald Gabrielse 团队成功使用单正电子量子回旋仪，在接近绝对零度的真空中将单个正电子囚禁数月，这一成就显著推进了反物质的研究。新装置有望将反物质测量精度提升约 30 倍，对 AI 研究和 AI 基础设施具有潜在影响。
 
-reddit · r/MachineLearning · /u/jatingargiitk · 10月25日 16:32
+telegram · zaihuapd · 10月26日 06:06
 
-**「背景」** Apache 2.0 许可协议是一种常见的开源软件许可协议，它允许用户自由地使用、修改和分发软件，同时要求用户在修改和分发软件时保留原始版权声明和许可证声明。在人工智能领域，Apache 2.0 许可协议被广泛应用于开放源代码的 AI 模型，如 Nanbeige4.3-33B。这种许可协议有助于促进 AI 技术的开放和共享，推动 AI 研究和应用的快速发展。
+**「背景信息」** 正电子量子回旋仪是一种用于研究基本粒子的装置，它通过电磁场在接近绝对零度的真空中囚禁单个正电子。这种技术首次实现，使得科学家能够精确地研究正电子的量子行为。此前，科学家们已经能够在低温的 Penning 陷阱中囚禁单个正电子，并检测到其离散的回旋态和自旋翻转。这种单正电子量子回旋仪有望将磁矩测量精度提高，从而测试 CPT 对称性等重要物理理论。
 
-**「影响」** 对于开发者来说，Nanbeige4.3-33B 的发布提供了一个具有竞争力的基准，可以用于评估和开发小型代理的性能。
+**「影响」** 这一成就有望显著提高反物质测量的准确性，为 AI 研究和 AI 基础设施的发展提供更精确的数据支持。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.recordinglaw.com/ai-open-source-model-licensing-legal-guide/">AI Model Licensing: Legal Rules for Open-Source Attribution</a></li>
-<li><a href="https://gigagpu.com/open-source-ai-licensing-guide-2026/">Open Source AI Licensing Guide 2026 (Updated April 2026)</a></li>
-<li><a href="https://llmconfigurator.com/en/enterprise/open-llm-licenses-for-business">Open LLM Licenses for Business — Apache, MIT, Llama, Gemma (2026)</a></li>
+<li><a href="https://arxiv.org/html/2605.08147">One- Positron Quantum Cyclotron</a></li>
+<li><a href="https://phys.org/news/2026-10-positron-cyclotron-key-standard.html">&#x27;One- positron cyclotron &#x27; could test a key prediction of the Standard.....</a></li>
+<li><a href="https://www.zmescience.com/science/news-science/positron-trapped-for-months/">Physicists Trapped a Single Antimatter Particle for Months .</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Model Release`, `#Benchmark`, `#Technical Analysis`, `#AI Research`, `#AI Infrastructure`
+**标签**: `#Antimatter Research`, `#Quantum Physics`, `#AI Research`, `#AI Infrastructure`, `#Physics`
+
+---
+
+## IT 与开源
+
+<a id="item-it-opensource-1"></a>
+### [科学家重现古罗马的分色玻璃](https://www.solidot.org/story?sid=85713) ⭐️ 7.0/10
+
+英国谢菲尔德大学的科学家成功复制了古罗马时期 Lycurgus 杯的光学特性，这种杯子能够根据光源位置的不同而呈现不同的颜色。研究人员通过将金和银纳米颗粒嵌入玻璃中，实现了这一效果。
+
+rss · Solidot · 10月26日 11:12
+
+**「背景」** 古罗马时期的 Lycurgus 杯是一种分色玻璃杯，其颜色会根据光源位置的不同而变化。当从前方照射时呈现绿色，而从后方照射时则呈现红色。这种光学特性在数个世纪以来一直令历史学家和玻璃工匠感到困惑。直到最近，英国谢菲尔德大学的科学家通过将金和银纳米颗粒嵌入玻璃，并利用高温冷却过程，成功复现了这一古老的光学特性。
+
+**「影响」** 这一发现对于理解古代科技和光学工程具有重要意义，为科学家提供了新的研究视角，并可能对现代光学设计产生启发。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Lycurgus_Cup">Lycurgus Cup - Wikipedia</a></li>
+<li><a href="https://romanempiretimes.com/roman-nanotechnology-the-case-of-the-lycurgus-cup/">Roman Nanotechnology: The Case of the Lycurgus Cup</a></li>
+<li><a href="https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass">‘It’s magic’: scientists rediscover how to make ancient Roman ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Ancient Technology`, `#Optical Engineering`, `#Glass`, `#Historical Discovery`, `#Science`
+
+---
+
+<a id="item-it-opensource-2"></a>
+### [Systemd 支持 Rust 程序](https://www.solidot.org/story?sid=85710) ⭐️ 7.0/10
+
+Systemd 引入了对 Rust 编程语言的支持，这对于对现代编程语言和系统基础设施感兴趣的开发者来说是一个重要的发展。目前，Systemd 的核心代码库如 systemd 库本身还不支持 Rust 代码，但 systemd 程序和末端组件已经开始支持使用 Rust 语言。
+
+rss · Solidot · 10月26日 08:02
+
+**「背景」** Systemd 引入了对 Rust 编程语言的支持，这意味着开发者可以使用 Rust 语言来开发 systemd 程序。目前，Systemd 的核心代码库，如 systemd 库，尚不支持 Rust 代码，但 systemd 程序/末端组件已支持使用 Rust 语言。这一变化标志着 Rust 在系统级编程中应用的日益增长趋势，对于对现代编程语言和系统基础设施感兴趣的开发者来说具有重要意义。
+
+**「影响」** 这一变化为开发者提供了使用 Rust 语言进行系统级编程的选项，可能会促进 Rust 在系统基础设施领域的采用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.phoronix.com/news/systemd-Merges-Rust-Programs">systemd Merges Support For Rust Programs - Phoronix</a></li>
+<li><a href="https://docs.rs/systemd/latest/systemd/">systemd - Rust - Docs.rs Systemd adds support for components written in Rust - lwn.net systemd Merges Support For Rust Programs | daily.dev systemd Officially Adds Rust Support for New Components GitHub - codyps/rust-systemd: Rust interface to systemd c ... Systemd Merges Support for Rust Programs - Worldnews.com</a></li>
+<li><a href="https://lwn.net/Articles/1102970/">Systemd adds support for components written in Rust - lwn.net</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Systemd`, `#Rust`, `#Programming Languages`, `#System Infrastructure`
+
+---
+
+<a id="item-it-opensource-3"></a>
+### [开发者打造 Encarta 风格离线百科应用](https://www.reddit.com/r/software/comments/1xfdti5/i_made_an_encartastyle_encyclopedia_app_that/) ⭐️ 6.0/10
+
+一位开发者创建了一款 Encarta 风格的百科应用，该应用使用维基百科内容，具备离线功能和教育特性，目前处于测试阶段。
+
+reddit · r/software · /u/yo\_yo\_yoda · 10月25日 21:05
+
+**「背景」** Microsoft Encarta 是一款由微软从 1993 年到 2009 年出版的数字多媒体百科全书和搜索引擎。Encarta 初始以 CD-ROM 产品形式存在，后来扩展到包括基于互联网的版本，并捆绑在其他微软产品中。这款百科全书以其丰富的多媒体内容和互动特性而闻名，对许多用户来说，它是学习资源和参考资料的宝贵工具。
+
+**「影响」** 该应用为对学习和参考资料感兴趣的用户提供了离线访问维基百科内容的可能性，对开发者或组织来说，这可能是一个有益的工具，尽管它目前还处于测试阶段，且缺少一些增强其价值的特性，如编辑功能。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Encarta">Encarta - Wikipedia</a></li>
+<li><a href="https://www.britannica.com/topic/Encarta">Encarta | Encyclopedia, Microsoft , CD-ROM, History ... | Britannica</a></li>
+<li><a href="https://www.silicon.co.uk/workspace/pc/microsoft-encarta-history-225247">Tales In Tech History : Microsoft Encarta</a></li>
+
+</ul>
+</details>
+
+**标签**: `#encyclopedia`, `#open-source`, `#education`, `#technology`, `#beta`
+
+---
+
+<a id="item-it-opensource-4"></a>
+### [CRT-mpv：在复古 CRT 电视上观看任何视频，以屏幕全分辨率渲染（免费、开源）](https://www.reddit.com/r/software/comments/1xfkqjp/i_made_crtmpv_watch_any_video_on_a_retro_crt_tv/) ⭐️ 6.0/10
+
+CRT-mpv 是一款免费的 mpv 播放器插件，可以将任何视频内容模拟成复古 CRT 电视的样式，包括扫描线、弯曲、颜色溢出和发光效果。与简单的过滤器不同，它以屏幕的全分辨率绘制，因此老式的 480p 节目看起来清晰而不是模糊。
+
+reddit · r/software · /u/SeiferRG · 10月26日 02:17
+
+**「背景信息」** 阴极射线管（CRT）是一种真空管，包含一个或多个电子枪，这些电子枪发射电子束，电子束被导向和控制，以在荧光屏幕上显示图像。CRT-mpv 是一个为 mpv 播放器提供的免费插件，它模拟了复古 CRT 电视的外观，增强了特定视频内容的视觉体验。这个插件可以在全分辨率下绘制，使得老式的 480p 节目看起来清晰而不是模糊。它支持多种电视型号，包括 NES、SNES、Dreamcast、PlayStation 等，并提供了一个可点击的屏幕遥控器，包括预设、去磁、VHS 跟踪和频道静态等功能。
+
+**「影响」** CRT-mpv 为复古游戏和视频爱好者提供了一个有趣的特性，但它的作用范围仅限于特定的受众群体。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cathode_ray_tube">Cathode ray tube - Wikipedia</a></li>
+<li><a href="https://github.com/SeiferLK/CRT-mpv">GitHub - SeiferLK/CRT-mpv: Watch any video on a retro CRT TV ...</a></li>
+<li><a href="https://github.com/hhirtz/mpv-retro-shaders">GitHub - hhirtz/mpv-retro-shaders: mpv ports of some libretro ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#retro gaming`, `#video processing`, `#open source software`, `#mpv player`, `#software add-on`
+
+---
+
+<a id="item-it-opensource-5"></a>
+### [基于 VLC 4 引擎的 Cone Player：免费媒体播放器现代重设计](https://www.reddit.com/r/software/comments/1xg2uvy/i_built_cone_player_a_free_media_player_with_a/) ⭐️ 6.0/10
+
+Cone Player 是一款针对 Windows 系统的免费媒体播放器，它基于 VLC 4 引擎进行了现代重设计，增加了额外功能和用户友好的界面。
+
+reddit · r/software · /u/IrronArrow · 10月26日 17:10
+
+**「背景」** Cone Player 是一个基于 VLC 4 引擎的免费媒体播放器，专为 Windows 设计。它采用了设计师 Juxtopposed 的 VLC 重设计概念，并在此基础上进行了改进。Cone Player 不仅是一个皮肤或借用 VLC 引擎的独立应用程序，而是完全基于 VLC 的界面，这意味着它可以播放 VLC 播放的所有内容。该播放器具有更简洁的界面、厚实的进度条、预览缩略图和可拖动的字幕时间线，以及带有预设的设置侧边栏，以便每个系列都能保持自己的字幕和音频设置。此外，它还包含一个图书馆，其中包含“继续观看”、“文件夹”、“音乐”和播放列表，以及一个迷你播放器。Cone Player 支持暗色和浅色主题，并具有强调颜色。它还提供了一个安装程序，可以将它添加到“开始”菜单、“打开方式”和默认应用程序中，而不是替换正常的 VLC。Cone Player 是免费和开源的（GPL），目前支持 Windows 10 和 11，Linux 版本即将推出。
+
+**「影响」** 对于开发者或组织来说，Cone Player 的出现提供了一种更加视觉上吸引人的媒体播放器选择，特别是对于那些寻求改进 VLC 播放器界面和功能集的用户。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/dsojevic/juxtopposed-vlc">GitHub - dsojevic/juxtopposed-vlc: Juxtopposed redesign of ...</a></li>
+<li><a href="https://github.com/dsojevic/juxtopposed-vlc/releases">Releases: dsojevic/juxtopposed-vlc - GitHub</a></li>
+<li><a href="https://www.youtube.com/watch?v=ERFeOgqk324">I Redesigned VLC After 25 Years - YouTube Juxtopposed VLC Redesign: unofficial VLC media player redesign VLC Redesign - Figma I Redesigned VLC After 25 Years - daily.dev 800,000 people wanted this VLC redesign. So I built it.</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Software`, `#Media Player`, `#VLC`, `#Open Source`, `#Redesign`
 
 ---
 
 ## 效率工具
 
 <a id="item-tools-windows-1"></a>
-### [小米蓝牙遥控器 2 Pro：60 元打造你的 Vibe Coding 神器](https://sspai.com/post/114741) ⭐️ 5.0/10
+### [傲腾 P5800X 测试报告](https://sspai.com/post/115074) ⭐️ 7.0/10
 
-小米蓝牙遥控器 2 Pro 是一款经济实惠的编码工具，售价仅为 60 元。它适用于多种平台，为预算有限的开发者提供了便捷的远程控制解决方案。
+本文是一篇关于傲腾 P5800X 软件工具的性能测试报告，展示了 3D XPoint 技术的卓越性能。该工具适用于对性能技术感兴趣的读者，但具体平台和许可信息以及详细用例未明确提及。
 
-rss · 少数派 · 10月25日 06:30
+rss · 少数派 · 10月26日 03:26
 
-**「背景」** 小米蓝牙遥控器 2 Pro 是一款针对智能电视的更新版配件，它不仅具有基本的按钮功能，还引入了 NFC 屏幕投射和 USB-C 充电功能。这款遥控器以其创新性和实用性而受到关注，尤其是其 NFC 投射功能，它解决了用户在屏幕投射过程中的痛点，同时没有增加复杂性。
+**「背景」** 3D XPoint 是由英特尔和美光共同开发的一种新型持久性固态存储技术。这种技术具有革命性的潜力，可以改变任何从快速访问大量数据中受益的设备、应用程序或服务。尽管其具体工作原理的细节仍然很少，但普遍认为它使用某种电阻变化来记录数据。3D XPoint 技术的性能特性和技术能力使其在软件测试和性能技术领域具有吸引力。
 
-**「影响」** 适合预算有限的开发者使用，尤其是那些需要远程控制功能的个人或小型项目。需要注意的是，这款遥控器可能不支持所有高级功能，且依赖于用户的个人体验。
+**「影响」** 对追求高性能技术解决方案的专业人士和科技爱好者来说，傲腾 P5800X 是一个值得关注的工具。然而，由于缺乏明确的平台限制和迁移成本信息，可能需要进一步了解其适用性和成本效益。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.gsmgotech.com/2026/04/xiaomis-bluetooth-remote-2-pro-brings.html">Xiaomi’s Bluetooth Remote 2 Pro Brings NFC Screen Casting and ...</a></li>
-<li><a href="https://gagadget.com/en/729846-xiaomis-bluetooth-remote-2-pro-effortless-nfc-screen-mirroring-and-usb-c-charging-revolutionize-tv-control/">Xiaomi Bluetooth Remote 2 Pro: remote with NFC and USB-C for $15</a></li>
-<li><a href="https://www.notebookcheck.net/Xiaomi-Bluetooth-Remote-2-Pro-debuts-with-NFC-screen-cast-and-USB-C-charging.1266620.0.html">Xiaomi Bluetooth Remote 2 Pro debuts with NFC ... - Notebookcheck</a></li>
+<li><a href="https://arstechnica.com/information-technology/2017/03/intels-first-optane-ssd-375gb-that-you-can-also-use-as-ram/">3 D XPoint finally has (limited) commercial availability. - Ars Technica</a></li>
+<li><a href="https://www.minitool.com/lib/3d-xpoint.html">A Complete Introduction to 3 D XPoint Technology - MiniTool</a></li>
+<li><a href="https://www.youtube.com/watch?v=xlPANUeHo1I">Intel and Micron unveiled 3 D Xpoint Technology , a Faster... - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#coding`, `#budget`, `#tool review`, `#technology`, `#xiaomi`
-
----
-
-<a id="item-tools-windows-2"></a>
-### [Tiny11 Builder WinUI 0.1.3](https://www.52pojie.cn/thread-2134161-1-1.html) ⭐️ 5.0/10
-
-Tiny11 Builder WinUI 0.1.3 是一款用于创建定制版 Windows 11 ISO 的工具，它基于 WinUI 技术。该工具允许用户选择和配置 Windows 11 的安装选项，然后生成相应的 ISO 文件。该工具适用于 Windows 11 用户，特别是那些希望自定义其操作系统安装的用户。Tiny11 Builder WinUI 0.1.3 目前处于早期版本，具体定价和许可信息未提供。
-
-rss · 吾爱精品软件区 · 10月25日 10:01
-
-**「背景」** Tiny11 Builder WinUI 0.1.3 是一款用于创建自定义 Windows 11 ISO 的工具，它基于 WinUI 构建。这款工具允许用户从官方 Windows 图像或使用自己的图像开始，选择要删除的内容，然后创建 ISO。这种类型的工具对于想要自定义 Windows 安装的用户来说可能很有用，因为它可以帮助他们移除不需要的软件和功能，从而创建一个更轻量级的系统。Tiny11 Builder 的发布为用户提供了更多的选择，尤其是在处理 Windows 11 的自定义安装方面。
-
-**「影响」** Windows 11 用户，特别是那些寻求自定义操作系统安装的用户，应该考虑使用 Tiny11 Builder WinUI 0.1.3。需要注意的是，该工具目前可能处于测试阶段，可能存在一些限制或问题。此外，由于是早期版本，可能需要用户具备一定的技术知识来使用它。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://remontka.pro/tiny11-builder/">Tiny 11 Builder — создание своего компактного... | remontka.pro</a></li>
-<li><a href="https://github.com/ntdevlabs/tiny11builder">GitHub - ntdevlabs/tiny11builder: WinUI app for building ...</a></li>
-<li><a href="https://github.com/ntdevlabs/tiny11builder">GitHub - ntdevlabs/tiny11builder: WinUI app for building ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Windows 11`, `#ISO Creation`, `#Customization`, `#Software Tool`, `#WinUI`
-
----
-
-<a id="item-tools-windows-3"></a>
-### [MoeKoe Music v1.7.1](https://www.52pojie.cn/thread-2134158-1-1.html) ⭐️ 5.0/10
-
-MoeKoe Music v1.7.1 是一款音乐播放器软件的更新版本。具体适用于哪个平台以及详细的许可或定价信息未提及。该版本可能包含一些新功能或改进，但具体细节不明。
-
-rss · 吾爱精品软件区 · 10月25日 09:35
-
-**「背景」** MoeKoe Music 是一款开源、简洁且高颜值的跨平台音乐播放器，作为酷狗的第三方客户端，它提供了现代化的用户体验。根据 GitHub 上的更新记录，MoeKoe Music v1.7.1 版本对播放控制进行了优化，并修复了自定义字体使用的问题。该工具旨在为用户提供一个无需配置即可使用的音乐播放解决方案。
-
-**「影响」** 对于需要更新音乐播放器软件的用户，MoeKoe Music v1.7.1 可能是一个选择。然而，由于缺乏平台和定价信息，可能存在兼容性或成本方面的限制。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/MoeKoeMusic/MoeKoeMusic/releases">Releases · MoeKoeMusic/MoeKoeMusic · GitHub</a></li>
-<li><a href="http://music.moekoe.cn/">MoeKoe Music</a></li>
-<li><a href="https://betterlyrics.github.io/docs/player-cfg/moekoe-music.html">MoeKoe Music | BetterLyrics</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Software Update`, `#Music Player`, `#Platform Unknown`, `#License Unknown`
+**标签**: `#Software Testing`, `#Performance Technology`, `#3D XPoint`, `#Technology Review`, `#Software Tool`
 
 ---
