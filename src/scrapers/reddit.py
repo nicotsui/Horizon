@@ -7,6 +7,7 @@ import re
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from typing import Any, List, Optional, cast
+from urllib.parse import urlsplit
 
 import feedparser
 import httpx
@@ -140,6 +141,18 @@ class RedditScraper(BaseScraper):
             link = str(entry.get("link") or f"{REDDIT_BASE}/r/{cfg.subreddit}/")
             content = self._strip_html(str(entry.get("summary") or ""))
 
+            post_id = self._rss_post_id(entry_id, link)
+            if self.reddit_config.fetch_comments > 0 and post_id:
+                # RSS entries are processed sequentially, bounding comment requests.
+                try:
+                    comments = await self._fetch_comments(cfg.subreddit, post_id)
+                    comment_text = self._format_comments(comments)
+                except Exception as exc:
+                    logger.info("Reddit RSS comments failed for %s (%s); keeping post", post_id, type(exc).__name__)
+                else:
+                    if comment_text:
+                        content = f"{content}\n\n{comment_text}" if content else comment_text
+
             items.append(
                 ContentItem(
                     id=self._generate_id("reddit", "subreddit-rss", entry_id),
@@ -164,6 +177,22 @@ class RedditScraper(BaseScraper):
                 )
             )
         return items
+
+    @staticmethod
+    def _rss_post_id(entry_id: str, link: str) -> Optional[str]:
+        match = re.fullmatch(r"t3_([a-zA-Z0-9]+)", entry_id)
+        if match:
+            return match.group(1)
+        try:
+            parsed = urlsplit(link)
+        except ValueError:
+            return None
+        if parsed.scheme not in {"http", "https"} or parsed.hostname not in {
+            "reddit.com", "www.reddit.com", "old.reddit.com",
+        }:
+            return None
+        match = re.match(r"/r/[^/]+/comments/([a-zA-Z0-9]+)(?:/|$)", parsed.path)
+        return match.group(1) if match else None
 
     async def _fetch_subreddit_html(
         self, cfg: RedditSubredditConfig, since: datetime
@@ -487,15 +516,7 @@ class RedditScraper(BaseScraper):
             parts.append(text)
 
         if comments:
-            parts.append("\n--- Top Comments ---")
-            for c in comments:
-                commenter = c.get("author", "anon")
-                body = c.get("body", "")
-                body = body.strip()
-                if len(body) > 500:
-                    body = body[:497] + "..."
-                score = c.get("score", 0)
-                parts.append(f"[{commenter} ({score} pts)]: {body}")
+            parts.append(self._format_comments(comments))
 
         content = "\n\n".join(parts)
 
@@ -519,6 +540,18 @@ class RedditScraper(BaseScraper):
                 "category": category,
             },
         )
+
+    @staticmethod
+    def _format_comments(comments: List[dict]) -> str:
+        if not comments:
+            return ""
+        parts = ["\n--- Top Comments ---"]
+        for comment in comments:
+            body = comment.get("body", "").strip()
+            if len(body) > 500:
+                body = body[:497] + "..."
+            parts.append(f"[{comment.get('author', 'anon')} ({comment.get('score', 0)} pts)]: {body}")
+        return "\n\n".join(parts)
 
     async def _reddit_get(self, url: str, params: dict) -> Optional[Any]:
         response = await self.client.get(
