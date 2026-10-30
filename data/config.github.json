@@ -58,6 +58,7 @@
       { "name": "36氪", "url": "https://36kr.com/feed", "enabled": true, "category": "business-tech", "profile": "cn-macro" },
       { "name": "CNBC Finance", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "enabled": true, "category": "finance", "profile": "global-market", "content_extractor": "trafilatura" },
       { "name": "MarketWatch Top Stories", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "enabled": true, "category": "finance", "profile": "global-market", "content_extractor": "trafilatura" },
+      { "name": "路透社 Reuters", "url": "https://reuters.buzzing.cc/feed.xml", "enabled": true, "category": "finance", "profile": "global-market", "content_extractor": "trafilatura" },
       { "name": "FXStreet", "url": "https://www.fxstreet.com/rss/news", "enabled": false, "category": "forex", "profile": "global-market", "content_extractor": "trafilatura" },
       { "name": "OilPrice", "url": "https://oilprice.com/rss/main", "enabled": true, "category": "commodities", "profile": "global-market" },
       { "name": "少数派", "url": "https://sspai.com/feed", "enabled": true, "category": "tools", "profile": "tools-windows" },
