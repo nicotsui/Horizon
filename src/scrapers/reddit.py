@@ -149,6 +149,7 @@ class RedditScraper(BaseScraper):
                     comment_text = self._format_comments(comments)
                 except Exception as exc:
                     logger.info("Reddit RSS comments failed for %s (%s); keeping post", post_id, type(exc).__name__)
+                    logger.debug("Reddit RSS comment-fetching error for %s: %s", post_id, exc, exc_info=True)
                 else:
                     if comment_text:
                         content = f"{content}\n\n{comment_text}" if content else comment_text
