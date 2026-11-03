@@ -5,1026 +5,1027 @@ date: 2026-11-03
 lang: en
 ---
 
-> From 314 items, 40 important content pieces were selected
+> From 322 items, 40 important content pieces were selected
 
 ---
 
 **China Macro &amp; A-Share**
-1. [People&\#x27;s Bank of China Raises Foreign Exchange Deposit Reserve Requirement Ratio](#item-cn-macro-1) ⭐️ 9.0/10
-2. [Morgan Stanley Predicts Global Electricity Market Growth](#item-cn-macro-2) ⭐️ 8.0/10
-3. [China&\#x27;s National Development and Reform Commission Announces Unprecedented Measures for Technological Breakthroughs](#item-cn-macro-3) ⭐️ 8.0/10
-4. [Goldman Sachs Raises Oil Price Forecasts Amid Geopolitical Risks](#item-cn-macro-4) ⭐️ 7.0/10
-5. [US Utility Stocks Face Revaluation Amid Data Center Regulatory Changes](#item-cn-macro-5) ⭐️ 7.0/10
-6. [Global Market Alert: Deutsche Bank Warns of Five &\#x27;Dangerous Misalignments&\#x27;](#item-cn-macro-6) ⭐️ 7.0/10
-7. [Intel Stock Plummets Amid PC Market Challenges](#item-cn-macro-7) ⭐️ 7.0/10
-8. [Elliott Management Warns of Market Risks Similar to Pre-Great Depression Era](#item-cn-macro-8) ⭐️ 7.0/10
-9. [韩国创纪录预算发力AI：4.7万亿韩元造&quot;全球最高性能&quot;主权模型](#item-cn-macro-9) ⭐️ 7.0/10
-10. [Nomura: AI Data Centers Profitable, Tech Stocks Overreacted](#item-cn-macro-10) ⭐️ 7.0/10
-11. [Global Energy Prices Plunge as US and Iran Show Negotiation Willingness](#item-cn-macro-11) ⭐️ 7.0/10
-12. [Export Tax Refund Redefinition: A Strategic Shift in China&\#x27;s Economy](#item-cn-macro-12) ⭐️ 7.0/10
-13. [Marvell and Lumentum Merger Impact on Tech Sector](#item-cn-macro-13) ⭐️ 7.0/10
-14. [Morgan Stanley CEO Predicts AI Capital Expenditure Could Reach $10 to $15 Trillion in Next Decade](#item-cn-macro-14) ⭐️ 7.0/10
-15. [Chinese Minister of Commerce Meets U.S. Agricultural Trade Delegation](#item-cn-macro-15) ⭐️ 7.0/10
-16. [China&\#x27;s &\#x27;15th Five-Year Plan&\#x27; Focuses on Six Emerging Pillar Industries](#item-cn-macro-16) ⭐️ 7.0/10
-17. [China&\#x27;s Securities Regulatory Commission Implements Measures to Stabilize A-share Market](#item-cn-macro-17) ⭐️ 7.0/10
+1. [Central Bank Raises Foreign Exchange Deposit Reserve Requirement Ratio](#item-cn-macro-1) ⭐️ 8.0/10
+2. [Pan Gongsheng Emphasizes Financial Market Stability and Risk Prevention](#item-cn-macro-2) ⭐️ 7.0/10
+3. [Australian Energy Storage Market Update](#item-cn-macro-3) ⭐️ 7.0/10
+4. [High Expectations for AMD&\#x27;s Earnings Report](#item-cn-macro-4) ⭐️ 7.0/10
+5. [Global Gold Demand Hits New High as Central Banks Increase Purchases](#item-cn-macro-5) ⭐️ 7.0/10
+6. [MIT&\#x27;s Weight-Space Programming Advances AI Model Performance](#item-cn-macro-6) ⭐️ 7.0/10
+7. [CATL&\#x27;s Delivery of 8-Hour Energy Storage Systems](#item-cn-macro-7) ⭐️ 7.0/10
+8. [AI Industry Debt Concerns](#item-cn-macro-8) ⭐️ 7.0/10
+9. [人大常委会 Reports on Next Steps in China&\#x27;s Financial Work](#item-cn-macro-9) ⭐️ 7.0/10
+10. [China State Council Announces Monetary Policy Tools for Capital Market Support](#item-cn-macro-10) ⭐️ 7.0/10
+11. [China&\#x27;s Economic Policy Update](#item-cn-macro-11) ⭐️ 7.0/10
 
 **Global Market**
-1. [US Attack on Iran&\#x27;s Qeshm Island](#item-global-market-1) ⭐️ 9.0/10
-2. [North Korea Conducts Strategic Cruise Missile Test](#item-global-market-2) ⭐️ 7.0/10
-3. [Potential Inflation Risk in 2027 Due to El Nino Phenomenon](#item-global-market-3) ⭐️ 7.0/10
-4. [US Strategy Links Myanmar Peace Talks to Rare-Earth Access](#item-global-market-4) ⭐️ 7.0/10
-5. [TotalEnergies Predicts Iran War Could Accelerate Energy Transition](#item-global-market-5) ⭐️ 7.0/10
-6. [AI-Induced Market Selloff and Recession Fears](#item-global-market-6) ⭐️ 7.0/10
-7. [Yemen Houthis Advance to Within 80 km of Aden](#item-global-market-7) ⭐️ 7.0/10
-8. [China&\#x27;s Central Bank Intervenes in Stock Market](#item-global-market-8) ⭐️ 7.0/10
-9. [Marvell&\#x27;s $11.5B Acquisition of Lumentum Highlights AI Data-Center Importance](#item-global-market-9) ⭐️ 7.0/10
-10. [Argentina&\#x27;s Economy Entering Recession Ahead of 2027 Elections](#item-global-market-10) ⭐️ 7.0/10
-11. [ADNOC CEO Warns of Energy Supply Buffer Erosion](#item-global-market-11) ⭐️ 7.0/10
-12. [India Markets Regulator Supports Removal of Long-Term Capital Gains Tax for Foreign Investors](#item-global-market-12) ⭐️ 7.0/10
-13. [European Space Chief Visits Gulf Region](#item-global-market-13) ⭐️ 7.0/10
-14. [Apple&\#x27;s New CEO Faces First Earnings Report Amidst Rising Memory Costs](#item-global-market-14) ⭐️ 7.0/10
-15. [Germany Misses Gas Storage Target](#item-global-market-15) ⭐️ 7.0/10
-16. [Trump&\#x27;s Vision for Americas Oil Production: Implications for Big Oil](#item-global-market-16) ⭐️ 7.0/10
-17. [Iranian Strike on Vessel Raises Maritime Security Concerns](#item-global-market-17) ⭐️ 7.0/10
-18. [TotalEnergies Forecasts Oil Demand Peak](#item-global-market-18) ⭐️ 7.0/10
-19. [Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy](#item-global-market-19) ⭐️ 7.0/10
+1. [US Strikes Iran&\#x27;s Qeshm Island](#item-global-market-1) ⭐️ 9.0/10
+2. [Blackstone President Advocates for Increased Equity Financing for AI Buildout](#item-global-market-2) ⭐️ 7.0/10
+3. [Exclusive: US Billionaire&\#x27;s Swap Plan for Lukoil&\#x27;s Overseas Assets](#item-global-market-3) ⭐️ 7.0/10
+4. [Trump&\#x27;s Supreme Court Losing Streak in Election Cases Ends](#item-global-market-4) ⭐️ 7.0/10
+5. [Zelenskiy&\#x27;s Speech at Berlin Security Conference](#item-global-market-5) ⭐️ 7.0/10
+6. [US Midterm Elections Impact on Financial Markets](#item-global-market-6) ⭐️ 7.0/10
+7. [U.S.-Canada Trade Deal Imminent: Market Implications](#item-global-market-7) ⭐️ 7.0/10
+8. [US Midterm Elections Coverage](#item-global-market-8) ⭐️ 7.0/10
+9. [Saudi Aramco&\#x27;s Q3 Profit Rises Despite Attacks](#item-global-market-9) ⭐️ 7.0/10
+10. [Global Markets at Risk Due to Large AI Investments](#item-global-market-10) ⭐️ 7.0/10
+11. [North Korea&\#x27;s Strategic Cruise Missile Test](#item-global-market-11) ⭐️ 7.0/10
+12. [El Niño Risk of Increased Inflation in 2027](#item-global-market-12) ⭐️ 7.0/10
+13. [US Strategy Links Myanmar Peace Talks to Rare-Earth Access](#item-global-market-13) ⭐️ 7.0/10
+14. [UK Pound Fluctuates Ahead of BoE Rate Decision](#item-global-market-14) ⭐️ 7.0/10
+15. [TotalEnergies Indicates Iran War Could Accelerate Energy Transition](#item-global-market-15) ⭐️ 7.0/10
+16. [Impact of U.S.-Iran Peace Talks on Oil Prices](#item-global-market-16) ⭐️ 7.0/10
+17. [IEA Warns of Extended Global Gas Crunch](#item-global-market-17) ⭐️ 7.0/10
+18. [U.S. Conducts Secret Strikes on Iran&\#x27;s Qeshm Island](#item-global-market-18) ⭐️ 7.0/10
+19. [ADNOC Gas and TotalEnergies Sign Five-Year LNG Supply Deal](#item-global-market-19) ⭐️ 7.0/10
+20. [U.S. LNG Exports Reach Near-Record High Amid European Winter Demand](#item-global-market-20) ⭐️ 7.0/10
+21. [中国监管层暂停 IPO 与大规模减持以提振低迷股市](#item-global-market-21) ⭐️ 7.0/10
+22. [普京下令俄罗斯私营数据中心预留10%算力](#item-global-market-22) ⭐️ 7.0/10
 
 **AI Frontier**
-1. [Astra can read and write weights to improve Qwen](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [Frontier LLMs Demonstrate Weight-Space Programming Abilities](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [LightMIS: Ultra-lightweight Medical Image Segmentation Model](#item-ai-frontier-3) ⭐️ 8.0/10
+1. [Frontier LLMs Demonstrate Weight-Space Programming Capabilities](#item-ai-frontier-1) ⭐️ 8.0/10
+2. [sglang v0.5.23 Release Introduces New Models and Community Contributions](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [Nvidia – open-source auto-ontology](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [Audio Data Analysis for Location Determination](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [Comprehensive Aggregation of Machine Learning Papers](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [DeepSeek V5 to Use Huawei Ascend Chip for Training](#item-ai-frontier-6) ⭐️ 7.0/10
 
 **IT &amp; Open Source**
-1. [Linux 7.4-rc1 Release](#item-it-opensource-1) ⭐️ 8.0/10
+1. [LLMs&\#x27; Limitations in Neural Network Weight Manipulation](#item-it-opensource-1) ⭐️ 7.0/10
 
 ---
 
 ## China Macro &amp; A-Share
 
 <a id="item-cn-macro-1"></a>
-### [People&\#x27;s Bank of China Raises Foreign Exchange Deposit Reserve Requirement Ratio](https://wallstreetcn.com/articles/3785039) ⭐️ 9.0/10
+### [Central Bank Raises Foreign Exchange Deposit Reserve Requirement Ratio](https://wallstreetcn.com/articles/3785097) ⭐️ 8.0/10
 
-The People&\#x27;s Bank of China announced on November 3, 2026, that it will raise the foreign exchange deposit reserve requirement ratio by 2 percentage points, from the current 4% to 6%, effective from November 15, 2026. This move is aimed at strengthening the management of foreign exchange liquidity in financial institutions and stabilizing the foreign exchange market.
+The People&\#x27;s Bank of China has decided to raise the foreign exchange deposit reserve requirement ratio for financial institutions from 4% to 6% starting from November 15, 2026. This move is aimed at strengthening macro-prudential regulation and stabilizing the currency market, responding to the current economic conditions and managing currency fluctuations and liquidity.
 
-rss · 华尔街见闻 · Nov 3, 01:36
+rss · 华尔街见闻 · Nov 3, 12:52
 
-**「Background on Foreign Exchange Deposit Reserve Requirement Rate」** The foreign exchange deposit reserve requirement rate is a tool used by the People&\#x27;s Bank of China to manage the liquidity of foreign exchange in the financial system. It is the percentage of foreign currency deposits that banks are required to hold in reserve with the central bank. By adjusting this rate, the central bank can influence the amount of foreign exchange liquidity in the market. This policy tool has been used in the past to manage currency valuation and stabilize the foreign exchange market. The recent decision to raise the rate from 4% to 6% is a significant move that reflects the central bank&\#x27;s focus on maintaining the stability of the RMB and the foreign exchange market.
+**「Background on Foreign Exchange Deposit Reserve Requirement Ratio Adjustment」** The People&\#x27;s Bank of China has historically adjusted the foreign exchange deposit reserve requirement ratio in response to changes in the currency market. In 2021, the central bank twice raised the rate to 9% to address the depreciation pressure on the renminbi. From 2022 to 2023, the rate was lowered three times to the current 4%. This adjustment is part of the central bank&\#x27;s macro-prudential management measures, which aim to maintain financial market stability and manage currency fluctuations. The recent adjustment follows a period of rapid appreciation of the renminbi against the US dollar, with the goal of managing liquidity and stabilizing the currency market.
 
-**「Impact」** The increase in the foreign exchange deposit reserve requirement ratio is expected to tighten the liquidity of foreign exchange in the market, potentially leading to a depreciation of the Chinese currency. Investors should be cautious about the potential impact on the currency market and adjust their portfolios accordingly.
+**「Impact on Investors and Financial Markets」** The increase in the foreign exchange deposit reserve requirement ratio by the People&\#x27;s Bank of China is expected to have a significant impact on investors and financial markets. This move is aimed at stabilizing the currency market and managing currency fluctuations. It may lead to a reduction in the availability of foreign exchange liquidity, potentially affecting the cost of borrowing for companies and individuals. Investors should be cautious about the potential risks associated with currency fluctuations and consider diversifying their portfolios accordingly.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://zhuanlan.zhihu.com/p/653794051">外汇存款准备金率再次下调2个百分点，央行此举背后有何深意？</a></li>
 <li><a href="https://baike.baidu.com/item/%E5%A4%96%E6%B1%87%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87/60858227">外汇存款准备金率 - 百度百科</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/505613378">一文读懂“外汇存款准备金率及其相关内容” - 知乎</a></li>
+<li><a href="https://www.sohu.com/a/1096399329_122033970">央行上调外汇存款准备金率至6%_调整_经济_政策</a></li>
+<li><a href="https://news.10jqka.com.cn/20260512/c676617280.shtml">加快构建覆盖全面的 宏 观 审 慎 管 理 体系 | 同花顺财经</a></li>
+<li><a href="https://www.21jingji.com/article/20251027/herald/96f2c732ceddedc4dfaa3f409cab33c2.html">潘功胜详解我 国 宏 观 审 慎 管 理 体系，央 行 双支柱调控框架方向渐明 - 21...</a></li>
+<li><a href="https://www.cls.cn/detail/2218994">潘功胜：构建覆盖全面的 宏 观 审 慎 管 理 体系</a></li>
+<li><a href="https://sichuan.scol.com.cn/ggxw/202105/58168969.html">从5%提高到7%， 外 汇 存 款 准 备 金 率 上 调 意味着什么？_ 四川在线</a></li>
+<li><a href="https://www.cls.cn/detail/2523237">央行：11月15日起， 上 调 金 融 机构 外 汇 存 款 准 备 金 率 2个百分点</a></li>
+<li><a href="https://www.guancha.cn/ZhengZhi/2026_11_03_906822.shtml">央行：11月15日起， 上 调 金 融 机构 外 汇 存 款 准 备 金 率 2个百分点</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Chinese Economy`, `#Monetary Policy`, `#Currency Valuation`, `#Market Regulation`, `#Financial News`
+**Tags**: `#Central Bank Policy`, `#Foreign Exchange Market`, `#Macroeconomic Policy`, `#Currency Fluctuations`, `#Financial Market Regulation`
 
 ---
 
 <a id="item-cn-macro-2"></a>
-### [Morgan Stanley Predicts Global Electricity Market Growth](https://wallstreetcn.com/articles/3785043) ⭐️ 8.0/10
+### [Pan Gongsheng Emphasizes Financial Market Stability and Risk Prevention](https://wallstreetcn.com/livenews/3193405) ⭐️ 7.0/10
 
-Morgan Stanley predicts a significant growth in the global electricity market, forecasting a 10% increase in global electricity consumption by 2030, with Asia being a key region for this growth. The firm highlights the expansion of AI, industrial, and residential demand as key drivers, with Asia set to absorb about 64% of the global新增用电量 between 2025 and 2030.
+People&\#x27;s Bank of China Governor Pan Gongsheng highlighted the importance of maintaining stable operations in financial markets, including stocks, bonds, and foreign exchange, and preventing systemic financial risks. He emphasized the continuation of a moderately loose monetary policy and the enhancement of financial regulation to ensure financial stability.
 
-rss · 华尔街见闻 · Nov 3, 02:48
+rss · 华尔街见闻 · Nov 3, 14:12
 
-**「Global Electricity Market Outlook」** The global electricity market is experiencing a significant transformation, driven by factors such as industrial and residential demand, and the expansion of AI. Asia is identified as a key region for this growth. This trend is supported by the increasing adoption of AI, the shift of industrial activities, and the rising demand for air conditioning. The market is expected to grow significantly, with Asia absorbing a large portion of the global新增用电量. Additionally, the role of fossil fuels in the electricity structure is gaining prominence, and there is a shift in pricing power from equipment manufacturers to power infrastructure operators.
+**「Economic and Financial Situation in China」** The People&\#x27;s Bank of China&\#x27;s Governor Pan Gongsheng&\#x27;s recent remarks highlight the ongoing challenges in the Chinese financial sector. Since 2025, the Chinese economy has faced deflationary pressures, with GDP growth slowing and property investment collapsing significantly. Despite these challenges, the National Development and Reform Commission \(NDRC\) has reported that the economy has remained stable, supported by growth in high-tech manufacturing, investment, exports, and corporate profits. This context underscores the need for maintaining stable operation of financial markets and preventing systemic financial risks, as emphasized by Governor Pan Gongsheng.
 
-**「Impact on Investors」** Investors in the electricity sector, particularly those focused on Asia, should consider the significant growth in global electricity demand predicted by Morgan Stanley. The expansion of AI, industrial and residential demand, and the shift in power consumption patterns are expected to create a substantial value of about $500 billion globally. This trend, however, may not be fully priced into the stock market yet, presenting an investment opportunity. Asian markets, especially those in India, Southeast Asia, and India, are expected to see a surge in electricity demand, which could lead to increased profitability for companies in the power infrastructure and generation sectors.
+**「Impact」** Investors should be concerned about the potential for increased regulatory oversight in the financial sector, which may lead to stricter controls on market activities and could impact the liquidity and valuation of financial instruments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theglobeandmail.com/investing/markets/stocks/BOS-T/pressreleases/4843998/analyst-updates-sept-28th-2026/">Analyst Updates: Sept 28th, 2026 - The Globe and Mail</a></li>
-<li><a href="https://www.cnbc.com/">International Business, World News &amp; Global Stock Market Analysis</a></li>
-<li><a href="https://www.linkedin.com/pulse/global-non-network-connections-non-ic-card-electricity-smart-unuyc">Global Non-Network Connections Non-IC Card Electricity Smart...</a></li>
-<li><a href="https://www.cnbc.com/">International Business, World News &amp; Global Stock Market Analysis</a></li>
-<li><a href="https://asiatictimes.com/global-energy-demand-growth-2024-triggers-gas-demand-spike/">Global energy demand growth 2024 triggers gas... - Asiatic Times</a></li>
+<li><a href="https://statisticsoftheworld.com/blog/china-economy-2026-deflation-property-crisis">China Economy 2026: Deflation, a Property Crisis | Statistics ...</a></li>
+<li><a href="https://china-insights.org/2026/06/chinas-economic-policy-outlook-2026/">China’s Economic Policy Outlook 2026</a></li>
+<li><a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-china.html/">Our economic outlook for China | Vanguard</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Electricity Market`, `#Morgan Stanley`, `#Global Economy`, `#Asia`, `#AI`
+**Tags**: `#Financial Regulation`, `#Central Bank Operations`, `#Economic Policy`, `#Financial Stability`, `#China`
 
 ---
 
 <a id="item-cn-macro-3"></a>
-### [China&\#x27;s National Development and Reform Commission Announces Unprecedented Measures for Technological Breakthroughs](https://wallstreetcn.com/livenews/3192993) ⭐️ 8.0/10
+### [Australian Energy Storage Market Update](https://wallstreetcn.com/articles/3785098) ⭐️ 7.0/10
 
-The National Development and Reform Commission has announced unprecedented measures to drive breakthroughs in key and core technologies across various sectors. These measures are part of the &\#x27;15th Five-Year Plan&\#x27; period, focusing on scientific research and original innovation, with a particular emphasis on improving the quality of scientific and technological supply.
+In Australia, energy storage giants like CATL are facing challenges and opportunities in the market. CATL has launched a 9MWh energy storage product and signed a cooperation memorandum for equipment matching and testing. The Australian Energy Market Operator \(AEMO\) reported that in the third quarter of this year, grid-level batteries supplied 8% of the electricity during the peak hours from 4 pm to 9 pm, surpassing gas generation for the first time. This shift in demand and technology advancements are significantly impacting the energy sector in Australia.
 
-rss · 华尔街见闻 · Nov 3, 02:39
+rss · 华尔街见闻 · Nov 3, 12:58
 
-**「Background on China&\#x27;s &\#x27;15th Five-Year Plan&\#x27; and Technology Policy」** The &\#x27;15th Five-Year Plan&\#x27; emphasizes the development of new quality productivity as a key focus. It includes significant investments in science, technology, and education infrastructure, as well as the implementation of national science and technology programs. The plan also highlights the importance of technological innovation and the pursuit of technological leadership. This policy framework sets the stage for the recent announcements by the National Development and Reform Commission regarding unprecedented measures to drive breakthroughs in key and core technologies across various sectors.
+**「Australian Energy Storage Market Background」** The Australian energy storage market has been evolving with a focus on regulatory compliance, market dynamics, and technological advancements. Major players like CATL are facing challenges and opportunities in this market. The Australian Energy Market Operator \(AEMO\) has reported significant growth in grid-scale battery supply, particularly in the late afternoon to evening peak period. This shift has been driven by the increasing demand for energy storage solutions to support the integration of renewable energy sources and provide grid stability. The market dynamics include the competition among battery suppliers, the need for regulatory compliance, and the integration of various technologies to meet the evolving demands of the energy sector.
 
-**「Impact」** These measures are expected to have a significant impact on the Chinese economy and stock market, potentially leading to increased investment in key technology areas and fostering innovation-driven growth.
+**「Impact on Energy Sector」** The increasing demand for energy storage in Australia, driven by regulatory compliance and technological advancements, is expected to significantly impact the energy sector. This is particularly evident with the rise of grid-scale batteries, which have surpassed gas generation in providing electricity during peak hours. The shift towards longer discharge durations and higher capacity systems is necessitating more sophisticated and integrated solutions from energy storage providers, affecting both the technology and market dynamics within the sector.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ndrc.gov.cn/wsdwhfz/202503/t20250303_1396401.html">【从各部委“十五五”规划前期研究中探重点】-国家发展和改革委员会</a></li>
-<li><a href="https://www.gov.cn/zhengce/202607/content_7074004.htm">“十五五”专项规划陆续发布！国务院6月重要政策_政策解读_中国政府网</a></li>
-<li><a href="https://www.gov.cn/zhengce/202511/content_7046896.htm">“十五五”规划建议，46次提到“科技”_政策解读_中国政府网</a></li>
+<li><a href="https://caucasusenergy.com/en/blog">Solar &amp; Energy Market Insights for Georgia | Caucasus Energy Partners</a></li>
+<li><a href="https://postgoo.com/posts/6ab41a2f5e5503b6ff179436?type=article">AGL Retail Energy Limited v Australian Energy Regulator [ 2026 ]...</a></li>
+<li><a href="https://travelto.ru/blog/maldivy-v-2026-godu-lichnyy-opyt/">Мальдивы в 2026 году: личный опыт, цены, острова и советы</a></li>
+<li><a href="https://www.linkedin.com/pulse/inorganic-non-metallic-energy-storage-5bjnf/">Inorganic Non-Metallic Energy Storage Materials Market Growth By...</a></li>
+<li><a href="https://www.iea.org/reports/global-gas-security-review-2026">Global Gas Security Review 2026 - IEA</a></li>
+<li><a href="https://www.siemens-energy.com/">Siemens Energy | Let&#x27;s make tomorrow different today</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Chinese Economy`, `#Technology Policy`, `#A-share Market`, `#Innovation`, `#Government Initiatives`
+**Tags**: `#Energy Storage`, `#CATL`, `#Australian Market`, `#Regulatory Developments`, `#Technology Advancements`
 
 ---
 
 <a id="item-cn-macro-4"></a>
-### [Goldman Sachs Raises Oil Price Forecasts Amid Geopolitical Risks](https://wallstreetcn.com/articles/3785053) ⭐️ 7.0/10
+### [High Expectations for AMD&\#x27;s Earnings Report](https://wallstreetcn.com/articles/3785096) ⭐️ 7.0/10
 
-Goldman Sachs has significantly raised its oil price forecasts due to ongoing geopolitical risks and supply concerns. The forecasts for Brent crude and WTI crude oil have been increased, with Brent crude&\#x27;s December target price raised from $90 to $105 per barrel, and WTI from $81 to $94 per barrel. This adjustment affects the A-share market.
+Wall Street has high expectations for AMD&\#x27;s upcoming earnings report, with the company facing challenges in maintaining its stock price amidst changing market dynamics and investor sentiment. AMD&\#x27;s stock has surged by 118% this year, but the market now demands strong performance and future guidance to justify its high valuation.
 
-rss · 华尔街见闻 · Nov 3, 03:49
+rss · 华尔街见闻 · Nov 3, 12:39
 
-**「Previous Oil Market Trends and Goldman Sachs&\#x27; Predictions」** In recent years, Goldman Sachs has been a key player in the oil market analysis, providing forecasts and insights that significantly influence market dynamics. Their predictions often take into account geopolitical risks, supply concerns, and global economic conditions. For instance, in previous analyses, Goldman Sachs has highlighted the impact of geopolitical tensions in the Middle East and the potential for supply disruptions, which have been critical factors in oil price movements. These analyses have been instrumental in shaping market expectations and investor decisions, particularly in the A-share market where oil-related stocks are sensitive to global oil price fluctuations.
+**「Market Dynamics and AMD&\#x27;s Position」** The semiconductor industry, particularly companies like AMD, has been riding the wave of AI-driven demand, leading to significant stock price increases. However, recent market trends, such as the reevaluation of AI产业链 growth logic and concerns over tech giants&\#x27; capital expenditures, have created a challenging environment for AMD. The company&\#x27;s high stock valuation and the need for substantial earnings growth to maintain investor confidence add to the complexity of its current situation.
 
-**「Impact on Investors and Companies」** The upward revision of oil price forecasts by Goldman Sachs, driven by geopolitical risks and supply concerns, is likely to impact investors and companies in the A-share market. Investors in energy-related sectors may see increased stock valuations due to higher oil prices, while companies dependent on oil imports could face higher costs and potentially reduced profitability. This situation calls for a cautious approach to investments in energy and related sectors, considering the volatile nature of oil prices under geopolitical uncertainties.
+**「Impact on AMD&\#x27;s Stock Performance」** The high expectations for AMD&\#x27;s upcoming earnings report place a significant pressure on the company. With a year-to-date stock price increase of approximately 118%, AMD&\#x27;s performance must now be exceptionally strong to justify its high valuation. Any moderation in earnings or guidance could lead to a double adjustment of valuation and expectations, potentially causing a sell-off in the stock. The market is now focused on AMD&\#x27;s ability to demonstrate sustained growth, especially in the AI sector, which could either validate or challenge the current market sentiment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k5NllEY0VCR3QzOUljaktpR1JTZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">Google News - News about Goldman Sachs • oil - Overview</a></li>
-<li><a href="https://naga.com/en/news-and-analysis/articles/oil-price-prediction">Oil Forecast and Price Predictions 2026</a></li>
-<li><a href="https://www.thestreet.com/economy/goldman-sachs-quietly-resets-oil-price-forecast-for-2027">Goldman Sachs Oil Forecast Signals Lower 2027 Prices - TheStreet</a></li>
-<li><a href="https://www.linkedin.com/posts/john-stackhouse-a113419_top-risks-2026-canada-activity-7419357410366119936-eNWe">Oil Market Volatility Driven by Geopolitics , Not Fundamentals | LinkedIn</a></li>
-<li><a href="https://econbrowser.com/archives/2023/08/guest-contribution-how-political-tensions-and-geopolitical-risks-impact-oil-prices">Guest Contribution: “How Political Tensions and Geopolitical Risks ...”</a></li>
-<li><a href="https://www.sci-hub.ru/meta/10.1016/j.eneco.2020.104851">Sci-Hub: Asymmetric effects of geopolitical risks on energy returns...</a></li>
+<li><a href="https://www.tradingview.com/symbols/NASDAQ-AMD/">AMD Stock Price and Chart — TradingView</a></li>
+<li><a href="https://www.fool.com/investing/2026/10/27/sofi-expects-to-earn-48-more-in-2027-is-the-stock-a-buy/">SoFi Expects to Earn 48% More in 2027 . Is the Stock... | The Motley Fool</a></li>
+<li><a href="https://www.nasdaq.com/market-activity/earnings">Earnings Reports | Nasdaq</a></li>
+<li><a href="https://www.litefinance.org/blog/analysts-opinions/amd-stock-price-prediction/">AMD Stock Forecast for 2026, 2027, 2028–2030 and Beyond</a></li>
+<li><a href="https://m.markets.com/analysis/amd-stock-analysis-2026-amd-stock-s-recent-performance-and-future-outlook">AMD stock analysis 2026: AMD stock&#x27;s recent performance and ...</a></li>
+<li><a href="https://www.marketbeat.com/stocks/NASDAQ/AMD/forecast/">Advanced Micro Devices (AMD) Stock Forecast &amp; Price Target Advanced Micro Devices (AMD) Stock Forecast &amp; Price Targets AMD Stock Forecast 2026–2030 | TrendiView Is AMD Stock a Buy, Sell, or Hold Right Now? Here&#x27;s What I&#x27;m ... AMD Stock Analysis 2026: Outlook, Trends &amp; Growth (</a></li>
+<li><a href="https://qz.com/amd-intel-trillion-dollar-cpu-ai-agents-demand-100626">AMD hits $1 trillion market cap as AI agents boost CPU demand</a></li>
+<li><a href="https://www.fool.com/investing/2026/10/02/why-amd-stock-jumped-30-in-september/">Meta&#x27;s new Muse agent helped lift CPU stocks, including AMD .</a></li>
+<li><a href="https://www.tradingview.com/news/stocktwits:1816bf437094b:0-amd-intc-stocks-extend-rally-as-meta-s-muse-fuels-bets-on-an-ai-agent-cpu-boom/">AMD , INTC Stocks Extend Rally As Meta&#x27;s Muse ... — TradingView News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Market`, `#Geopolitical Risk`, `#Economic Forecast`, `#A-share Market`, `#Regulatory Announcement`
+**Tags**: `#AMD`, `#semiconductor industry`, `#market expectations`, `#AI trading`, `#economic analysis`
 
 ---
 
 <a id="item-cn-macro-5"></a>
-### [US Utility Stocks Face Revaluation Amid Data Center Regulatory Changes](https://wallstreetcn.com/articles/3785048) ⭐️ 7.0/10
+### [Global Gold Demand Hits New High as Central Banks Increase Purchases](https://wallstreetcn.com/articles/3785089) ⭐️ 7.0/10
 
-Data centers in the US are becoming a contentious issue in state elections, with 20 states considering moratoriums or bans. This regulatory shift is impacting utility stocks, prompting a revaluation of their valuations. The focus for investors is on the regulatory agenda in the coming months, as moratoriums may slow construction and increase costs, but are unlikely to end the broader data center investment cycle.
+Global gold demand reached a new high in the third quarter of 2026, with central banks significantly increasing their gold purchases. The total demand for gold, including off-exchange transactions, was 1,369 tons, a 1% decrease year-on-year. The value of gold demand, calculated by transaction price, increased by 22% to $188 billion. The total demand for gold from the beginning of the year reached 3,881 tons, with a value of $56.6 billion, a historical record. Central banks and other official institutions increased their gold reserves by 321 tons, a 42% year-on-year increase, the highest quarterly increase since the fourth quarter of 2024.
 
-rss · 华尔街见闻 · Nov 3, 03:22
+rss · 华尔街见闻 · Nov 3, 11:27
 
-**「Background on Data Center Regulatory Changes in the US」** The rise of AI and the increasing demand for data centers have led to a shift in regulatory attitudes in the United States. In recent years, there has been a growing opposition to the construction of data centers, particularly in areas with high electricity costs and concerns about environmental impact. This opposition has led to the implementation of moratoriums and restrictions on data center development in various states, including Virginia, New York, and Chicago. These measures have been driven by grassroots movements and concerns about the fiscal impact of data centers on local communities, including the effect on education funding and property tax rates. The regulatory changes have created uncertainty for investors and companies in the data center industry, leading to a reevaluation of the sector&\#x27;s future growth prospects.
+**「Global Gold Market Dynamics」** The global gold market has been experiencing significant changes, influenced by various economic factors and central bank actions. In the first half of 2026, gold&\#x27;s performance was sensitive to shifting macroeconomic conditions, geopolitical risks, and investor sentiment. This period highlighted the growing influence of global demand, particularly from Asian markets. Central bank purchasing activity and persistent geopolitical instability, along with elevated government debt levels, were expected to contribute to continued elevated pricing in the second half of 2026.
 
-**「Impact on Utility Stocks and Data Center Investments」** The regulatory changes and election-related proposals in the US, particularly in Texas, Georgia, and Ohio, are causing a revaluation of utility stocks and data center investments. The pause or ban proposals are expected to slow down the construction pace and increase development costs, leading to a need for companies in these states to reprice their profit paths and valuation premiums. Investors should be cautious and reevaluate who can bear the incremental costs, as well as the stability of regulatory structures and local acceptance in different states.
+**「Impact」** The surge in central bank gold purchases and the overall increase in gold demand could lead to increased investment in the gold sector, potentially benefiting gold-related companies in the A-share market. However, investors should be cautious as the uncertainty in gold prices and market dynamics may pose risks to these investments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.cryptonomist.ch/2026/07/22/ai-data-centers-opposition-virginia/">AI Data Centers Opposition and Its Fiscal Impact in Virginia</a></li>
-<li><a href="https://www.foodandwaterwatch.org/2026/07/15/new-york-data-center-moratorium-victory/">How We Pressed Pause on Data Centers in New York and What’s Next</a></li>
-<li><a href="https://chicago.suntimes.com/city-hall/2026/08/11/mayor-brandon-johnson-chicago-moratorium-data-centers-new-regulations">Mayor Johnson wants City Council to pause data center expansion</a></li>
-<li><a href="https://www.datacenterknowledge.com/regulations/maine-vetoes-data-center-moratorium-but-pressure-continues">Maine Vetoes Data Center Moratorium, but Pressure Continues</a></li>
-<li><a href="https://volknews.com/2026/02/07/goldman-local-resistance-against-data-centers-are-not-slowing-development/">Goldman: Local Resistance Against Data Centers ... - Volk News</a></li>
-<li><a href="https://finance-commerce.com/2026/02/eagan-data-center-moratorium-study-impacts/">Eagan approves one-year moratorium on large data centers</a></li>
+<li><a href="https://www.jpmorgan.com/insights/global-research/commodities/gold-prices">Gold Price Predictions for 2026 and 2027 I J.P. Morgan Global ...</a></li>
+<li><a href="https://www.gold.org/goldhub/research/gold-mid-year-outlook-2026">Gold Mid-Year Outlook 2026: Point break | World Gold Council</a></li>
+<li><a href="https://www.expertmarketresearch.com/price-forecast/gold-price-trends">Gold Price Trend 2026, Forecast, Chart, Index &amp; News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Regulatory Changes`, `#Utility Stocks`, `#Data Center Industry`, `#Market Impacts`, `#US Economy`
+**Tags**: `#Gold Market`, `#Central Bank`, `#Economic Data`, `#A-share Market`, `#Global Economy`
 
 ---
 
 <a id="item-cn-macro-6"></a>
-### [Global Market Alert: Deutsche Bank Warns of Five &\#x27;Dangerous Misalignments&\#x27;](https://wallstreetcn.com/articles/3785040) ⭐️ 7.0/10
+### [MIT&\#x27;s Weight-Space Programming Advances AI Model Performance](https://wallstreetcn.com/articles/3785085) ⭐️ 7.0/10
 
-Deutsche Bank has issued a warning on global market conditions, highlighting five key &\#x27;dangerous misalignments&\#x27; that could trigger a market reset. The bank notes that while risks appear contained, there are growing discrepancies in oil prices, inflation, interest rates, bond markets, and stock markets. The report also points out that investors may be underestimating the risk of central banks becoming more hawkish despite inflation concerns.
+MIT&\#x27;s CSAIL team has developed &\#x27;Weight-Space Programming&\#x27;, enabling GPT-6 Astra to directly modify neural network weights, significantly improving model performance. In experiments, Astra modified less than 0.016% of the weights, boosting the MATH-500 score from 7.9% to 48.1% and other metrics by similar margins.
 
-rss · 华尔街见闻 · Nov 3, 03:15
+rss · 华尔街见闻 · Nov 3, 11:15
 
-**「Market Dynamics and Central Bank Policies」** The global market is currently experiencing a period of significant risk and potential misalignment. This situation is influenced by various economic indicators and central bank policies. The analysis highlights the interplay between oil prices, inflation, interest rates, bond markets, and stock markets, which are currently mispriced. The report also discusses the increasing pressure signals in October, including the S&amp;P 500 index closing at a six-week low and widening bond spreads in the US and Europe. Additionally, it examines the shift in central bank interest rate expectations and the implications for long-term inflation expectations. The analysis is based on a detailed review of economic indicators and their impact on the stock market, providing insights into the current market conditions and potential risks.
+**「Background on Weight-Space Programming」** Weight-Space Programming is a novel approach in AI research, developed by the MIT CSAIL team, which allows AI models like GPT-6 Astra to directly read and modify neural network weights without the need for training or calculating gradients. This method has the potential to significantly impact the field of AI by enabling models to understand and edit neural network parameters, potentially leading to more efficient and interpretable AI systems. The research, published in November 2026, demonstrates the capabilities of Astra in tasks such as identifying the function of neural networks, repairing specific faults within networks, and generating weights for new networks from scratch. This breakthrough in AI technology could open new avenues for model optimization and fault diagnosis.
 
-**「Impact on Investors」** Investors may face increased volatility and potential losses as the global market&\#x27;s delicate balance between various economic indicators and central bank policies is at risk. The narrowing landing zone, with risks seemingly isolated but interconnected, could lead to a sudden reassessment of asset values across the board. The potential for higher inflation, despite central banks&\#x27; dovish stance, and the stress in the bond market could impact equity valuations, particularly if growth slows down significantly.
+**「Impact」** This advancement allows AI models to understand and edit neural network parameters, potentially leading to more efficient and effective models. Investors should be aware of the potential for this technology to disrupt traditional AI development and improve the performance of AI-driven applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=tHl7KgKzcuw">Lenny Henry don&#x27;t breathe - YouTube</a></li>
-<li><a href="https://www.handelsblatt.com/">Handelsblatt</a></li>
-<li><a href="https://www.deutsche-bank.de/">Banking, Geldanlage und Beratung | Deutsche Bank</a></li>
-<li><a href="https://xueqiu.com/6505551108/369866969">德意志银行价值投资分析报告：战略转型与价值重估的深度剖析 1 宏观背...</a></li>
-<li><a href="https://news.qq.com/rain/a/20260929A04NNL00">债务与通胀成最大掣肘！德银警告：全球市场“政策安全网”正在失灵 未来...</a></li>
+<li><a href="https://github.com/xero00000/weight-space-programming/blob/main/">GitHub - xero00000/weight-space-programming: Agent skill for ...</a></li>
+<li><a href="https://elsolitario.org/en/2026/11/02/mit-csail-astra-edits-0-016-of-qwen3-weights/">Weight-Space Programming: How Astra Edits Weights</a></li>
+<li><a href="https://kingy.ai/blog/weight-space-programming-ai-agent-model-weights/">Weight-Space Programming: GPT-6 Astra Edits Qwen - kingy.ai</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Global Market`, `#Economic Analysis`, `#Stock Market`, `#Central Bank Policy`, `#Market Risk`
+**Tags**: `#AI Research`, `#Neural Network`, `#Weight-Space Programming`, `#GPT-6 Astra`, `#MIT CSAIL`
 
 ---
 
 <a id="item-cn-macro-7"></a>
-### [Intel Stock Plummets Amid PC Market Challenges](https://wallstreetcn.com/articles/3785037) ⭐️ 7.0/10
+### [CATL&\#x27;s Delivery of 8-Hour Energy Storage Systems](https://wallstreetcn.com/articles/3785088) ⭐️ 7.0/10
 
-Intel&\#x27;s stock experienced a dramatic decline of 45% in October, marking its worst single-month performance in history. This drop is attributed to poor performance and supply chain issues, particularly in the PC market, which contributes approximately half of Intel&\#x27;s revenue. The company&\#x27;s warning of a revenue shortfall of up to $2 billion for the quarter further exacerbated investor concerns.
+CATL has delivered its first 8-hour long-duration energy storage systems to Quinbrook Infrastructure Partners, marking a significant step towards larger-scale applications in the energy market. This delivery, which includes a 5.64MWh EnerQB system, is part of a larger 3GW/24GWh project in Australia, reflecting a shift from pilot projects to commercial-scale deployment of long-duration energy storage.
 
-rss · 华尔街见闻 · Nov 3, 02:21
+rss · 华尔街见闻 · Nov 3, 11:06
 
-**「Background on Intel&\#x27;s Stock Plunge and Market Impact」** Intel&\#x27;s stock has experienced a significant decline, with a single-day drop of 29% on the last trading day of October, marking its worst performance since the 1970s. This decline followed a disappointing earnings warning from Intel, which projected a revenue shortfall of up to $2 billion compared to analyst expectations. The company attributed this to high costs of memory and other components in the PC market, as well as consumer reluctance to upgrade computers. Intel&\#x27;s PC business still accounts for about half of the company&\#x27;s revenue, highlighting a major vulnerability. Despite recent investments and market optimism, Intel now faces challenges in meeting demand for its data center business due to supply chain issues. The company&\#x27;s decision to shift production capacity from advanced 18A to older Intel 3 processes to meet server CPU demand has raised concerns among potential clients about its supply capabilities. This situation reflects broader industry challenges and strategic concerns within the semiconductor industry, particularly in the context of the US semiconductor sector&\#x27;s strategic anxiety.
+**「Background on Long-Duration Energy Storage and CATL&\#x27;s Role」** Long-duration energy storage \(LDES\) is crucial for the reliability of the new power system, and lithium-ion batteries, with their cost and supply chain advantages, are抢占ing the most economically advantageous 4-8 hour energy storage market. CATL, a major player in the industry, has recently delivered its first 8-hour long-duration energy storage system to Quinbrook Infrastructure Partners, a global investment firm specializing in clean energy and digital infrastructure. This delivery marks a significant step towards larger-scale applications of LDES in the energy market. The EnerQB system, developed based on CATL&\#x27;s Tianheng LDES system, is designed for a 3GW/24GWh series of LDES projects in Australia. This collaboration follows a previous agreement between CATL and Quinbrook to reserve a total of 3GW/24GWh for LDES projects in Australia. The EnerQB system is set to be used in these projects. The growing demand for cross-timeframe regulation and stable power supply in the power system, driven by the increasing share of wind and solar energy, is fueling the development of LDES. This trend is being supported by both market demand and policy support, making 8-hour and longer LDES a significant direction for industry development. The global LDES installed capacity exceeded 15GWh in 2025, with a year-on-year growth of 49%. According to Wood Mackenzie&\#x27;s net-zero emissions scenario, the average storage duration must increase from 2.5 hours to about 20 hours. Countries like Germany, Australia, and Denmark plan to increase the share of variable renewable energy to over 50% by 2030, making widespread deployment of LDES crucial for grid reliability. The lithium-ion battery&\#x27;s position in the LDES landscape is strengthened by its mature industrial chain and continuously decreasing system costs, making it the main share of 4-8 hour energy transfer. Wood Mackenzie&\#x27;s report indicates that lithium-ion battery manufacturers have expanded into LDES products, effectively dominating the 4-8 hour energy storage market with their excellent cost competitiveness and a mature supply chain network of over 1000GWh.
 
-**「Impact on Intel&\#x27;s Supply Chain and Market Position」** Intel&\#x27;s decision to shift production from advanced 18A to older Intel 3 processes to meet数据中心 demand has weakened its position as a trusted supplier to potential clients. This move, aimed at boosting数据中心 revenue, has raised concerns among customers about Intel&\#x27;s ability to fulfill orders, potentially leading to a loss of large-scale manufacturing clients and impacting the company&\#x27;s financial health.
+**「Impact on the Energy Storage Industry」** The delivery of the first 8-hour long-duration energy storage systems by CATL marks a significant shift in the energy storage industry. This development is expected to drive the demand for batteries and systems, opening up new market opportunities for the storage industry. The increased deployment of long-duration energy storage systems is crucial for achieving grid reliability, especially as renewable energy sources like wind and solar become more prevalent. This shift towards larger-scale applications of long-duration energy storage could lead to a reduction in system costs and improve the economic efficiency of electricity use, supporting the development of clean energy and digital industry transformation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://stockanalysis.com/stocks/intc/forecast/">Intel (INTC) Stock Forecast &amp; Analyst Price Targets</a></li>
-<li><a href="https://247wallst.com/investing/2026/09/07/prediction-intel-stock-is-up-big-in-2026-but-the-best-may-still-be-ahead/">Prediction: Intel Stock Is Up Big in 2026. But the Best May ...</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/intel-soared-225-2026-heres-200900431.html?fr=sycsrp_catchall">Intel Has Soared 225% in 2026. Here&#x27;s Where the AI Stock ...</a></li>
-<li><a href="https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/">Intel &#x27; s stock crashes, knocking $12B from... | TechCrunch</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses">Nasdaq 100 Tumbles, Intel Drops 29% as AI Spending... - Bloomberg</a></li>
-<li><a href="https://www.techpowerup.com/354340/intel-data-center-revenue-jumps-78-but-weak-q4-guidance-drags-stock-down-30">Intel Data Center Revenue Jumps 78%, but Weak... | TechPowerUp</a></li>
+<li><a href="https://libattery.xny365.com/article-19514.html">宁 德 时 代 出品！ 全球首款8H锂 电 储 能 系 统 ，部署24GWh-全球锂 电 网</a></li>
+<li><a href="https://www.eet-china.com/mp/a453145.html">又签单1.2GWh！ 此地 长 时 储 能 爆发- 电 子工程专辑</a></li>
+<li><a href="https://www.nea.gov.cn/20260730/0a1e9823b7a14e8ba16e82c34b3bea2b/c.html">中国新型储能发展报告（2026）---国家能源局</a></li>
+<li><a href="https://www.toutiao.com/article/7651505830823379482/">2026年全球储能行业深度报告 技术迭代、长时储能崛起与全球化布局 - ...</a></li>
+<li><a href="https://www.cne-expo.com/xingyexinwen/1226.html">长时储能行业竞争格局分析2026 | 头部企业技术路线与市场动态</a></li>
+<li><a href="https://www.escn.com.cn/news/show-2169607.html">中国储能网 -国际新闻 - 2025年，全球储能新增装机容量突破100GW大关 ...</a></li>
+<li><a href="https://www.gepresearch.com/80/view-841632-1.html">全球储能产业链分析报告（2025年GFFEGD4VH6）_全球环保研究网 ♻</a></li>
+<li><a href="https://www.sohu.com/a/995564245_121825644">2025年中国长时储能装机占全球93%，成本难与锂电竞争</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Intel Stock`, `#Semiconductor Industry`, `#Supply Chain Issues`, `#Market Analysis`, `#Financial Performance`
+**Tags**: `#Energy Storage`, `#CATL`, `#Long-Duration Energy Storage`, `#Market Development`, `#Renewable Energy`
 
 ---
 
 <a id="item-cn-macro-8"></a>
-### [Elliott Management Warns of Market Risks Similar to Pre-Great Depression Era](https://wallstreetcn.com/articles/3785034) ⭐️ 7.0/10
+### [AI Industry Debt Concerns](https://wallstreetcn.com/member/articles/3785087) ⭐️ 7.0/10
 
-Elliott Management, a major hedge fund, has warned that the current market environment is highly similar to the pre-Great Depression era, citing risks such as budget deficits, persistent inflation, private credit portfolios, and AI hype. The firm believes that almost all warning signs of a major bear market are already in place.
+The AI industry&\#x27;s debt levels have reached a concerning 4.11 trillion USD, with off-balance sheet commitments far exceeding reported financial debts. This situation echoes the pre-2008 financial crisis, raising concerns about potential systemic risks if market低估s the off-balance sheet commitments.
 
-rss · 华尔街见闻 · Nov 3, 01:42
+rss · 华尔街见闻 · Nov 3, 11:01
 
-**「Background on Elliott Investment Management」** Elliott Investment Management L.P. is an American investment management firm and activist investor based in West Palm Beach, Florida. It is known for its significant influence on corporate governance and its role in shaping market trends. Founded in 1977, Elliott has a reputation for its long-term investment approach and activism in the companies it invests in. Paul Singer, the founder, president, and co-CEO of Elliott, is a well-known figure in the hedge fund industry, recognized for his strategic investments and activism. As of September 2025, Singer&\#x27;s net worth was estimated at US$6.7 billion by Forbes.
+**「Historical Context of Financial Crises」** The current analysis of the AI industry&\#x27;s debt levels draws parallels with historical financial crises, notably the 2008 financial crisis and the 2000 internet bubble. The 2008 financial crisis was primarily caused by financial deregulation, leading to a broad reduction of economic activity and a significant loss in the value of financial assets. Similarly, the 2000 internet bubble was characterized by excessive investment in internet companies, which eventually led to a market correction. These historical events provide a context for understanding the potential risks associated with the current AI industry&\#x27;s debt financing and market conditions.
 
-**「Impact on Investors and Market」** Investors should be cautious as Elliott Management&\#x27;s warning suggests a potential market downturn similar to the pre-Great Depression era. This could lead to a shift in market sentiment from &\#x27;fear of missing out&\#x27; to &\#x27;fear of getting obliterated&\#x27;. The firm&\#x27;s strategy of preserving capital and waiting for market turmoil to find buying opportunities indicates a bearish outlook. Investors may want to consider diversifying their portfolios and focusing on defensive strategies.
+**「Impact」** Investors should be wary of the significant off-balance sheet commitments in the AI industry, as they could lead to a credit squeeze and financial market instability, similar to the conditions preceding the 2008 financial crisis.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Elliott_Investment_Management">Elliott Investment Management - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Paul_Singer">Paul Singer - Wikipedia</a></li>
-<li><a href="https://www.elliottmgmt.com/about-elliott/">About Elliott | Elliott Management</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Economic_history_of_the_United_States">Economic history of the United States - Wikipedia</a></li>
-<li><a href="https://www.newtraderu.com/2023/05/27/the-scary-parallels-between-the-great-depression-and-today/">The Scary Parallels Between The Great Depression And Today</a></li>
-<li><a href="https://finbold.com/top-economics-professor-says-stock-market-starting-to-resemble-1930s-crash-era/">Top economics professor says stock market ‘starting to ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Financial_crisis">Financial crisis - Wikipedia</a></li>
+<li><a href="https://www.techbuzz.ai/articles/warren-warns-ai-spending-boom-mirrors-2008-financial-crisis">Warren Warns AI Spending Boom Mirrors 2008 Financial Crisis</a></li>
+<li><a href="https://www.thebalancemoney.com/2008-financial-crisis-3305679">thebalancemoney.com/ 2008 - financial - crisis -3305679</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Market Risk`, `#Economic Warning`, `#Investment Strategy`, `#AI Bubble`, `#Elliott Management`
+**Tags**: `#AI Debt`, `#Market Conditions`, `#Economic Risk`, `#Regulatory Announcements`, `#Stock Market`
 
 ---
 
 <a id="item-cn-macro-9"></a>
-### [韩国创纪录预算发力AI：4.7万亿韩元造&quot;全球最高性能&quot;主权模型](https://wallstreetcn.com/articles/3785038) ⭐️ 7.0/10
+### [人大常委会 Reports on Next Steps in China&\#x27;s Financial Work](https://wallstreetcn.com/articles/3785082) ⭐️ 7.0/10
 
-South Korea announces a record budget focusing on AI and semiconductor investments, aiming to achieve technological sovereignty and economic growth.
+The National People&\#x27;s Congress Standing Committee has proposed five considerations for China&\#x27;s financial work, including adjustments to monetary policy, enhancements in financial regulation, and support for the real economy. The report emphasizes the continuation of a moderately loose monetary policy, stricter regulation of illegal financial activities, and improved financial support for the real economy sectors such as technology innovation and small and micro enterprises.
 
-rss · 华尔街见闻 · Nov 3, 01:37
+rss · 华尔街见闻 · Nov 3, 09:35
 
-**Tags**: `#South Korea`, `#AI Investment`, `#Semiconductor`, `#Budget`, `#Economic Growth`
+**「Previous Financial Regulatory Environment」** Prior to the recent report, China had been focusing on enhancing its regulatory framework in the financial sector. This included initiatives such as the establishment of a prudent and inclusive regulatory mechanism, the acceleration of the improvement of offshore financial regulatory systems, and the promotion of pilot programs in pension finance and technology finance. Additionally, efforts were made to protect investors&\#x27; rights and interests, including the establishment of a policy system for the protection of investor rights, improvement of the investor return mechanism, and the promotion of a diversified dispute resolution mechanism. These actions set the stage for the recent considerations outlined in the report.
+
+**「Impact」** Investors should be aware that the proposed measures could lead to increased liquidity in the market and a more supportive environment for the real economy, potentially benefiting sectors such as technology and small and micro enterprises. However, stricter financial regulation may also impose additional compliance costs on financial institutions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.10jqka.com.cn/20260617/c677529017.shtml">陆家嘴论坛释放这些 政 策 信号 | 同花顺财经</a></li>
+<li><a href="https://www.csrc.gov.cn/csrc/c100024/c1492185/1492185/files/ff896e359b094025aa44d8a2e3575aff.pdf">Regulatory</a></li>
+<li><a href="https://www.dehenglaw.com/CN/tansuocontent/0008/022420/7.aspx?MID=0902&amp;AID=">dehenglaw.com/CN/tansuocontent/0008/022420/7.aspx?MID=0902...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese Economy`, `#Financial Policy`, `#A-share Market`, `#Regulatory Announcements`, `#Monetary Policy`
 
 ---
 
 <a id="item-cn-macro-10"></a>
-### [Nomura: AI Data Centers Profitable, Tech Stocks Overreacted](https://wallstreetcn.com/articles/3785036) ⭐️ 7.0/10
+### [China State Council Announces Monetary Policy Tools for Capital Market Support](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XaUd6WGp6OFd1V1NNSHlJd0RKSkh2a2Rvc0d1eDB0YzFjdWFmcVgzdTBOb2FjRGV3T2ZBVFJpbGJBV2lHOEt0UjFWcUI5bGtpeUpr?oc=5) ⭐️ 7.0/10
 
-Nomura Securities argues that the recent decline in tech stocks is an overreaction by the market. They emphasize the profitability of AI data centers and the long-term investment potential in tech stocks despite short-term concerns, particularly regarding negative free cash flow \(FCF\).
+The Chinese State Council has announced the implementation of monetary policy tools aimed at supporting the capital market. The specific details of the policy tools and their impact on the market are yet to be disclosed.
 
-rss · 华尔街见闻 · Nov 3, 01:37
+google\_news · 华尔街见闻 · Nov 3, 09:35
 
-**「Market Perception and Profitability of Tech Stocks」** The recent decline in tech stocks has been attributed to concerns about AI encroaching on traditional businesses and negative free cash flow \(FCF\). However, Nomura Securities argues that these concerns are misplaced. They emphasize the profitability of AI data centers and the long-term investment potential in tech stocks. The report highlights the importance of distinguishing between profit and cash flow, and explains that negative FCF does not necessarily indicate a lack of profitability. Large tech companies are encouraged to maintain high levels of investment, driven by factors such as expanding computational power, capacity limitations, and the value of customer data. The report also discusses the various strategies that tech companies can employ to manage cash flow without reducing investments.
+**「Background on Monetary Policy Tools」** The Chinese State Council&\#x27;s announcement of implementing monetary policy tools to support the capital market is rooted in the evolution of China&\#x27;s monetary policy framework. Since the removal of loan quota control by the People&\#x27;s Bank of China in 1998, the monetary policy toolset has gradually shifted to indirect regulation, primarily consisting of tools such as open market operations, reserve requirement ratio, standing lending facility \(SLF\), and medium-term lending facility \(MLF\). These tools are designed to influence the activities of commercial banks and other financial institutions, thereby affecting the money supply and ultimately impacting macroeconomic indicators. The use of these tools is aimed at achieving specific economic goals and has become a critical aspect of managing the capital market.
 
-**「Impact on Investors」** Investors should be aware that the recent decline in tech stocks, particularly in the semiconductor sector, may be an overreaction by the market. Nomura Securities highlights that the negative free cash flow \(FCF\) does not change semiconductor demand and does not affect the valuation logic of semiconductor companies. They suggest that if the stock price falls due to negative FCF, it could present a good buying opportunity for long-term investors. Additionally, large tech companies have various financing tools at their disposal to alleviate cash flow pressure without cutting investments.
+**「Impact」** The announcement of these monetary policy tools is expected to have a positive impact on the capital market, potentially boosting investor confidence and market stability. However, the actual effects will depend on the specifics of the policies implemented.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.toutiao.com/article/7616200416153321999/">5分钟搞懂：大型数据中心的“盈利模式”及“核心指标”！ - 今日头条</a></li>
-<li><a href="https://blog.wenxuecity.com/myblog/82610/202609/20007.html">深度拆解摩根士丹利研报：建一个 AI 数据中心到底有多赚钱？（两种商...</a></li>
-<li><a href="https://blog.csdn.net/2302_80218188/article/details/145521118">AI及数据中心行业分析完整版Part5-市场需求分析+盈利模式分析+投资布...</a></li>
-<li><a href="https://kuku.baidu.com/landing/tscp_doc/02b90ceabf54de8d75cc78d43ff91f1a">美股科技股为何突然暴跌？六大核心原因深度拆解 - 库库</a></li>
-<li><a href="https://finance.sina.com.cn/stock/marketresearch/2026-09-28/doc-initkxut8413236.shtml">科技股大跌 原因找到了_新浪财经_新浪网</a></li>
-<li><a href="https://sudonull.com/zh/tech-stock-crash-reasons-for-nasdaq-decline">科技股暴跌：纳斯达克下跌原因分析 - sudonull.com</a></li>
+<li><a href="https://baike.baidu.com/item/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7/2781709">货币政策工具 - 百度百科</a></li>
+<li><a href="https://www.cfachina.org/servicesupport/analygarden/jrl/fxszh6/202403/P020240327568107778896.pdf">货币政策工具种类及其应用梳理</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/506193847">什么是货币政策，它的工具分类有哪些？看完直接收藏了</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Tech Stock Analysis`, `#AI Data Centers`, `#Free Cash Flow`, `#Market Perception`, `#Investment Strategy`
+**Tags**: `#Chinese economy`, `#capital market`, `#monetary policy`, `#regulatory announcement`, `#stock market`
 
 ---
 
 <a id="item-cn-macro-11"></a>
-### [Global Energy Prices Plunge as US and Iran Show Negotiation Willingness](https://wallstreetcn.com/articles/3785033) ⭐️ 7.0/10
+### [China&\#x27;s Economic Policy Update](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMzRiQ0YxUlVqNmxDUnM4c0NPTVplTjVnUjJwREh0d0lybTdJdXl1TWhtRzZ5WnJ6dk9VUXJzUmE3bjV4REdrTUNlN1pNZTdSVUNPeGlyVGNMNXFLTXNsbGMyUGxwUVg1UE53cktmd3BvYU9BRzBJNUdfRml3ZWZ6T0hlQlBaekY3ZUhpcFRraHNMUFlSSDNJOE9Ya2R6RDRkd2dB?oc=5) ⭐️ 7.0/10
 
-Global energy prices, particularly oil, have experienced a significant drop due to the release of negotiation intentions between the US and Iran. This move has led to a reduction in geopolitical risks, causing oil prices to plummet. The decline in prices is evident in the Brent crude futures, which fell over 6% on Monday, and WTI futures, which saw a drop of over 8.6%.
+The Chinese government has announced the continuation of a loose monetary policy and the normalization of the real estate whitelist. This decision affects the overall economy and the real estate sector, aiming to stabilize market conditions and support growth.
 
-rss · 华尔街见闻 · Nov 3, 00:34
+google\_news · 香港電台 · Nov 3, 10:11
 
-**「Historical Context of US-Iran Relations and Negotiations」** The relationship between the United States and Iran has a long history, marked by periods of tension and diplomatic efforts. In recent years, negotiations between the two countries have focused on issues such as nuclear proliferation and regional security. The 2025-2026 negotiations were aimed at reaching a nuclear peace agreement, but no agreement was reached. This historical context is crucial in understanding the recent negotiations and their impact on global energy prices.
+**「Background on China&\#x27;s Monetary Policy and Real Estate Whitelist」** The Chinese government&\#x27;s decision to continue implementing a moderately loose monetary policy and normalizing the real estate whitelist is based on the country&\#x27;s economic and financial situation. A moderately loose monetary policy involves adjusting policies to ensure stable growth in monetary credit and sufficient liquidity in the financial system, promoting economic stability and supporting domestic demand. The real estate whitelist, established by the Ministry of Housing and Urban-Rural Development and the China Banking and Insurance Regulatory Commission, aims to provide financing support to qualified real estate projects, ensuring their smooth delivery and preventing project delays. This policy is a continuation of efforts to stabilize the real estate market and support economic growth.
 
-**「Impact on Energy Markets」** The release of negotiation intentions between the US and Iran has led to a significant drop in global energy prices, particularly oil, due to reduced geopolitical risks. This has resulted in a substantial decrease in oil prices, with Brent crude futures falling over 6% and WTI futures dropping over 8.6% on the day of the announcement. The decrease in oil prices is expected to have a positive impact on consumers and businesses that rely on oil for energy, as it will reduce their energy costs. However, it may also negatively impact oil-producing countries and companies, as lower prices could reduce their revenue.
+**「Impact」** Investors in the real estate sector may see a positive impact as the normalization of the whitelist could lead to increased market activity. However, it is advisable to monitor the effectiveness of the policy and its impact on the broader economy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Iran%E2%80%93United_States_relations">Iran–United States relations - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations">2025–2026 Iran–United States negotiations - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/topic/US-Iran-Relations-A-Timeline">U.S.-Iran Relations: A Timeline | 1953 Coup, Hostage Crisis ...</a></li>
-<li><a href="https://discoveryalert.com/us-iran-ceasefire-negotiations-2026-energy-market-impact/">US Iran Ceasefire Talks Impact Energy Markets</a></li>
-<li><a href="https://www.emergenresearch.com/blog/us-israel-iran-war-a-global-impact-analysis">US-Israel-Iran War Global Impact Analysis: Energy Shock ...</a></li>
-<li><a href="https://www.orfonline.org/research/the-us-iran-crisis-and-global-energy-geopolitics">The US-Iran Crisis and Global Energy Geopolitics</a></li>
+<li><a href="https://baike.baidu.com/item/%E9%80%82%E5%BA%A6%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96/4940609">适度宽松的货币政策 - 百度百科</a></li>
+<li><a href="https://www.gov.cn/zhengce/202501/content_6996421.htm">中国今年将实施适度宽松货币政策_政策解读_中国政府网</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%AE%BD%E6%9D%BE%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96/10623804">宽松货币政策 - 百度百科</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A1%B9%E7%9B%AE%E7%99%BD%E5%90%8D%E5%8D%95/64814587">房地产项目白名单 - 百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/686312569">白名单来啦｜房地产项目白名单及各地政策最新动向 - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/3871629284">什么是房地产项目的“白名单”？有什么作用？如何才能进入“白名单”？ - ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Energy Prices`, `#US-Iran Negotiations`, `#Global Market`, `#Oil Prices`
-
----
-
-<a id="item-cn-macro-12"></a>
-### [Export Tax Refund Redefinition: A Strategic Shift in China&\#x27;s Economy](https://wallstreetcn.com/articles/3785031) ⭐️ 7.0/10
-
-The Chinese government has shifted the logic of export tax refunds, transforming them from a tool for stabilizing external demand to a lever for macroeconomic resource allocation and industrial upgrading. This change, marked by a structural decline in export tax refunds, indicates a policy shift from a single focus on stabilizing foreign trade to dual objectives of fiscal balance and industrial upgrading.
-
-rss · 华尔街见闻 · Nov 3, 00:14
-
-**「Background on China&\#x27;s Export Tax Refund Policy」** The export tax refund policy in China has evolved significantly over the years. Traditionally, it served as a tool to stabilize external demand during economic downturns. However, recent changes indicate a shift towards a more comprehensive approach that includes macroeconomic resource allocation and industrial upgrading. The policy now focuses on determining who is eligible for refunds, the amount of refund, and the method of refund, which in turn influences trade stance, fiscal space, and the future of industries. This shift is part of a broader effort to optimize fiscal resources and promote structural changes in the economy.
-
-**「Impact on Investors and Companies」** The adjustment in export tax refund policies is expected to reshape industry profitability and export landscape. This shift aims to break the low-price competition and drive profits back to technology and branding. Investors should focus on price adjustments, capacity rationalization, and the increase in market share of leading companies, rather than just observing changes in export volume. The policy is anticipated to benefit leading enterprises while putting pressure on less efficient capacities, promoting a transition from simple product exports to high-value-added capacity and brand exports.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://acadiaadvisory.com/resources/china-export-tax-refund-reform/">China Export Tax Refund Reform Compliance Changes for 2026</a></li>
-<li><a href="https://msadvisory.com/export-tax-refunds-in-china/">China Export VAT Refund 2026: Rates, Methods &amp; April 1 PV ...</a></li>
-<li><a href="https://cnbusinesshub.com/corporate_advisory/article-29-export-tax-rebate-china-ecommerce-english-2026-0817.html">China Export Tax Rebate Guide for Cross ... - CnBusinessHub</a></li>
-<li><a href="https://www.atorus.ru/article/kitay-menyaet-pravila-vygodnogo-shopinga-s-1-iyulya-2026-goda-68134">Tax Free в Китае изменится с 1 июля 2026 года: как туристам...</a></li>
-<li><a href="https://radiotochki.net/blog/china/tax-free-v-kitae-2026-polnyy-gid-po-poisku-magazinov-i-vozvratu-nds-dlya-turistov.html">Tax Free в Китае 2026 : Полный гид по поиску магазинов и возврату...</a></li>
-<li><a href="https://tradingeconomics.com/stocks">World Stock Market Indexes by Country | Trading Economics</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Chinese Economy`, `#A-share Market`, `#Export Tax Refund`, `#Macroeconomic Policy`, `#Industrial Upgrading`
-
----
-
-<a id="item-cn-macro-13"></a>
-### [Marvell and Lumentum Merger Impact on Tech Sector](https://wallstreetcn.com/articles/3785029) ⭐️ 7.0/10
-
-Marvell&\#x27;s acquisition of Lumentum, valued at $115 billion, marks a significant merger in the technology sector. However, the market reaction has been negative, with Lumentum&\#x27;s stock falling 19% and Marvell&\#x27;s by 13%, amid concerns over AI stock valuations, limited cost synergies, and regulatory approval uncertainties.
-
-rss · 华尔街见闻 · Nov 2, 23:06
-
-**「Background on Marvell&\#x27;s Acquisition of Lumentum」** Marvell Technology&\#x27;s acquisition of Lumentum Holdings is a significant event in the technology sector, marking one of the largest mergers in the industry. This deal, valued at approximately $115 billion, is a strategic move for Marvell to solidify its position as a key supplier in the AI infrastructure space. Lumentum, known for its production of lasers and other optical devices, plays a crucial role in high-speed data transmission within data centers and telecommunications networks. The acquisition is expected to be completed in the first half of 2028 and has been met with mixed reactions in the market, with concerns ranging from valuation pressures on AI stocks to limited cost synergy between the two companies and regulatory approval uncertainties.
-
-**「Impact on Investors and Companies」** The acquisition of Lumentum by Marvell has led to a significant drop in the stock prices of both companies, with Marvell falling by 13% and Lumentum by 19%. This indicates investor concerns over the high valuation of AI stocks, limited cost synergy between the two companies, and the uncertainty of regulatory approvals. Investors are cautious about the potential impact on the value of the companies involved and the broader market dynamics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity">Marvell buys Lumentum in $115B AI networking power play</a></li>
-<li><a href="https://www.cbsnews.com/news/marvell-lumentum-acquisition-ai-connectivity/">Marvell Technology to buy Lumentum in $115 billion AI ...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html">Marvell to buy Lumentum in all-stock deal - CNBC</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/marvell-slides-3-lumentum-drops-135326041.html?fr=sycsrp_catchall">Marvell Slides 3%, Lumentum Drops 6% on $115 Billion All ...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html">Marvell to buy Lumentum in all-stock deal - CNBC</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Technology Merger`, `#AI Industry`, `#Market Dynamics`, `#Investor Sentiment`
-
----
-
-<a id="item-cn-macro-14"></a>
-### [Morgan Stanley CEO Predicts AI Capital Expenditure Could Reach $10 to $15 Trillion in Next Decade](https://www.cls.cn/detail/2523483) ⭐️ 7.0/10
-
-Morgan Stanley CEO Ted Pick predicts that AI capital expenditure could reach $10 to $15 trillion over the next decade, emphasizing the significant role of AI as a major economic transformation force since the birth of the internet. This forecast includes estimates for large-scale cloud service providers&\#x27; investments in data centers and computing power, which may reach $800 billion to $1 trillion annually over the next 7 to 12 years.
-
-rss · 财联社电报 · Nov 3, 03:41
-
-**「Background on Morgan Stanley&\#x27;s CEO and AI Capital Expenditure Forecast」** Ted Pick, the CEO of Morgan Stanley, has been in his current role since January 2024, having previously served in various positions within the company, including as Co-President and Head of the Institutional Securities Group. His extensive experience in the financial sector positions him to provide insights into major economic trends, such as the potential capital expenditure in the AI sector over the next decade. The AI industry has been a focus of significant investment and growth, with various reports and forecasts highlighting its potential impact on the global economy.
-
-**「Impact」** This prediction suggests a substantial increase in investment in the AI sector, which could lead to significant growth in related technologies and industries. Investors in technology and AI-related sectors may see this as an opportunity for long-term growth, although it also raises concerns about the potential for overinvestment and market saturation in the AI space.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Ted_Pick">Ted Pick - Wikipedia</a></li>
-<li><a href="https://baike.baidu.com/item/Ted+Pick">Ted Pick - 百度百科</a></li>
-<li><a href="https://www.morganstanley.com/about-us-governance/operating-committee/ted-pick">Ted Pick, Chairman and CEO | Morgan Stanley</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Capital Expenditure`, `#Technology Investment`, `#Economic Forecast`, `#Morgan Stanley`, `#Ted Pick`
-
----
-
-<a id="item-cn-macro-15"></a>
-### [Chinese Minister of Commerce Meets U.S. Agricultural Trade Delegation](https://www.cls.cn/detail/2523465) ⭐️ 7.0/10
-
-Chinese Minister of Commerce Li Chenggang met with the U.S. agricultural trade delegation on November 2nd to discuss Sino-American agricultural trade cooperation. The meeting aimed to enhance bilateral agricultural trade relations and explore potential cooperation areas.
-
-rss · 财联社电报 · Nov 3, 03:25
-
-**「Historical Context of Sino-American Agricultural Trade Relations」** The relationship between China and the United States in agricultural trade has been complex, with China being a major importer of agricultural products from the U.S. However, the impact of tariffs and trade policies on this relationship has been a subject of analysis. China has been known to import significantly from the U.S., but the effectiveness of tariffs imposed by China on American agricultural products has been a matter of debate. The history of Sino-American relations in agriculture and seafood tariffs shows that while tariffs reduce direct trade, their overall impact is not always clear. Additionally, China&\#x27;s emergence as an agricultural superpower has added another layer to the dynamics of this trade relationship.
-
-**「Impact」** The meeting is expected to positively impact the agricultural sector by fostering stronger trade ties between China and the United States, potentially leading to increased agricultural exports and imports for both countries.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cfr.org/articles/how-effective-have-chinas-agricultural-and-seafood-tariffs-been">How Effective Have China’s Agricultural and Seafood Tariffs Been?</a></li>
-<li><a href="https://www.iris-france.org/en/china-an-emerging-agricultural-superpower/">China: An Emerging Agricultural Superpower - IRIS</a></li>
-<li><a href="https://rals.scu.ac.ir/article_16336.html">The Complicated History of Sino - American Relationship in the...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Agricultural Trade`, `#Sino-American Relations`, `#Economic Policy`, `#Trade Negotiations`, `#Market Impact`
-
----
-
-<a id="item-cn-macro-16"></a>
-### [China&\#x27;s &\#x27;15th Five-Year Plan&\#x27; Focuses on Six Emerging Pillar Industries](https://www.cls.cn/detail/2523457) ⭐️ 7.0/10
-
-The National Development and Reform Commission has highlighted the importance of six emerging pillar industries in China&\#x27;s &\#x27;15th Five-Year Plan&\#x27; period, including集成电路 \(integrated circuits\),航空航天 \(aerospace\), and生物医药 \(biopharmaceuticals\). This policy shift is expected to significantly impact the economy and stock market, focusing on fostering new growth drivers and ensuring a smooth transition between old and new economic engines.
-
-rss · 财联社电报 · Nov 3, 03:20
-
-**「Background on China&\#x27;s &\#x27;15th Five-Year Plan&\#x27; Pillar Industries」** The &\#x27;15th Five-Year Plan&\#x27; period in China, covering 2026-2030, focuses on developing six emerging pillar industries, including integrated circuits, aerospace, and biopharmaceuticals. These industries are considered crucial for fostering new drivers of economic growth and ensuring a smooth transition between old and new growth drivers. The plan emphasizes the importance of these sectors in shaping a new quality of productivity and driving economic development. The National Development and Reform Commission has highlighted the significance of these industries, noting that they are supported by a comprehensive and large-scale industrial system, with promising development momentum.
-
-**「Impact」** Investors in China&\#x27;s stock market should pay close attention to these emerging industries, as they are likely to see increased government support and investment, potentially leading to growth opportunities in these sectors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cls.cn/detail/2523457">国家发改委：“十五五”时期重点培育6大新兴支柱产业</a></li>
-<li><a href="https://www.toutiao.com/article/7611405531739144704/">工信部官宣：十五五重点培育新兴支柱产业，新赛道清单出炉！</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/2023466253084311617">解读：发改委十五五规划提出的6大新型支柱产业、6大未来产业、6张网！...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Economic Policy`, `#Emerging Industries`, `#China&\#x27;s Economy`, `#Stock Market`, `#Pillar Industries`
-
----
-
-<a id="item-cn-macro-17"></a>
-### [China&\#x27;s Securities Regulatory Commission Implements Measures to Stabilize A-share Market](https://news.google.com/rss/articles/CBMijwFBVV95cUxPblVHQVVVemg5aFVOTzN3YTU5T2NfdkR3M25MUmI1TG5PcGpyTENWTXVyMUpyRkUyN3ZsSTJBaXV4cHVOSE9ucUpGU1pBb1U4R2FqVFZXM2ZYdld3YkpkWEFUOWNWQXhPa0VlQVByUHFuUlYzZU84Sy1DbUJxdktlY0pXOTVDT25TamtpSTNTOA?oc=5) ⭐️ 7.0/10
-
-The Chinese Securities Regulatory Commission has announced four measures to stabilize the A-share market, expecting billions of new investment funds to enter the market.
-
-google\_news · 21财经 · Nov 3, 03:40
-
-**「Background on Chinese Securities Regulatory Commission&\#x27;s Measures」** The Chinese Securities Regulatory Commission \(CSRC\) has recently implemented a series of measures to stabilize the A-share market. These measures include the introduction of structural monetary policy tools, regulations on share repurchases by listed companies, active ETFs, and margin trading and short selling. These policies are aimed at enhancing market stability and attracting billions of new investment funds into the market. The CSRC&\#x27;s actions follow a period of market volatility and are part of a broader effort to strengthen capital market regulation in China.
-
-**「Impact」** These measures are expected to attract significant investment into the A-share market, potentially boosting market confidence and liquidity.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sohu.com/a/1096470999_100019684">重磅利好！证监会“四箭齐发”稳市场：千亿增量资金蓄势待发，回购新规...</a></li>
-<li><a href="https://finance.eastmoney.com/a/202611033919955854.html">重磅利好！证监会“四箭齐发”稳市场：千亿增量资金蓄势待发，回购新规...</a></li>
-<li><a href="https://finance.huanqiu.com/article/4H0boYbtFz4">“四箭齐发”！证监会为加强资本市场监管“下狠招”</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Securities Regulatory Commission`, `#A-share market`, `#regulatory measures`, `#market stabilization`, `#investment funds`
+**Tags**: `#Chinese economy`, `#monetary policy`, `#real estate market`, `#A-share market`, `#policy announcement`
 
 ---
 
 ## Global Market
 
 <a id="item-global-market-1"></a>
-### [US Attack on Iran&\#x27;s Qeshm Island](https://reut.rs/4k01DO1) ⭐️ 9.0/10
+### [US Strikes Iran&\#x27;s Qeshm Island](https://reut.rs/4k01DO1) ⭐️ 9.0/10
 
-The United States has reportedly attacked Iran&\#x27;s Qeshm Island, a significant geopolitical event with potential global financial market implications. This action, as reported by The Wall Street Journal, could lead to immediate and widespread effects on global financial markets.
+The United States conducted an airstrike on Iran&\#x27;s Qeshm Island, as reported by The Wall Street Journal. This action, which counters earlier statements, could have significant implications for global financial markets, particularly in the context of central bank policies and international relations.
 
 rss · 路透社 Reuters · Nov 3, 01:34
 
-**「Background on Qeshm Island and its Strategic Importance」** Qeshm Island, located in Iran, holds a strategic geopolitical position near the mouth of the Persian Gulf. This location has made it a target for various invaders throughout history, including the Ilamids, Umayyads, Abbasids, and European powers like the Portuguese, English, and Dutch. The island is relatively isolated from the interior of Iran, featuring a compact and densely packed layout with key infrastructure. It serves as Iran&\#x27;s economic center of gravity, concentrating the country&\#x27;s economic power and vulnerability. This strategic importance has been a factor in past conflicts and could be relevant in the current situation involving the United States and Iran.
+**「Background on the US Strike on Iran&\#x27;s Qeshm Island」** The recent report of the United States attacking Iran&\#x27;s Qeshm Island is a significant geopolitical event. This action follows a series of &\#x27;limited strikes&\#x27; that the U.S. has secretly carried out on Iran over the past few weeks. The strikes on Qeshm Island, located near the world&\#x27;s most critical oil shipping route, are aimed at restricting Iran&\#x27;s ability to threaten commercial shipping. This situation is further complicated by the ongoing tensions in the region and the broader geopolitical landscape, which includes the U.S.-Iran relations and the strategic interests of major global powers.
 
-**「Market Impact」** The attack on Iran&\#x27;s Qeshm Island by the United States has led to a rise in oil prices, raising concerns about a potential escalation of the conflict and prolonged disruptions to Middle East oil supplies.
+**「Impact」** The strike has led to a rise in oil prices, with Brent crude trading at $105.26 per barrel and West Texas Intermediate at $97.07 per barrel, following the report.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Qeshm_Island">Qeshm Island - Wikipedia</a></li>
-<li><a href="https://iranchamber.com/geography/articles/qeshm.php">Iran Chamber Society: Geography &amp; Cities of Iran</a></li>
-<li><a href="https://en.vijesti.me/world-a/globus/803104/invasion-of-iran-every-entrance-is-a-trap">Invasion of Iran : Every entrance is a trap</a></li>
-<li><a href="https://finance.yahoo.com/energy/articles/oil-rises-report-us-strike-012715191.html?fr=sycsrp_catchall">Oil rises after report of US strike on Iran&#x27;s Qeshm Island</a></li>
-<li><a href="https://www.iranintl.com/en/liveblog/202610312594">Live - Vance reports progress on Iran deal, Qatari mediators ...</a></li>
+<li><a href="https://interestingengineering.com/military/us-strikes-iran-qeshm-island">US strikes target Iran &#x27; s Qeshm Island and underground missile base</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lSdFBPbUVoSHZtZkM5c2Q2MkF5Z0FQAQ?hl=en-IN&amp;gl=IN&amp;ceid=IN:en">Google News - News about Qeshm Island • Iran • US - Overview</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz">Explosions hit Iran ’ s Qeshm Island as US media report US strikes in...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Event`, `#US-Iran Conflict`, `#Global Financial Markets`, `#Central Bank Policy`, `#Commodities`
+**Tags**: `#Geopolitical Event`, `#Military Conflict`, `#Global Financial Markets`, `#Central Bank Policies`, `#International Relations`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [North Korea Conducts Strategic Cruise Missile Test](https://reut.rs/4iyxIdq) ⭐️ 7.0/10
+### [Blackstone President Advocates for Increased Equity Financing for AI Buildout](https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html) ⭐️ 7.0/10
 
-North Korea has conducted a strategic cruise missile test, as reported by KCNA. This action, which involves a missile equipped with a dispersal warhead, is a significant development in the geopolitical and military landscape.
+Blackstone President Jon Gray and Pimco CEO Emmanuel Roman have highlighted the need for increased equity financing for the AI buildout, cautioning about the rising debt risks and the substantial capital required. Gray emphasized that the scale of capital needed for AI is creating concentration risks for debt investors, while Roman warned that AI-related capital spending could reach $10 trillion over the next five years, with $550 billion in AI debt issued this year alone.
 
-rss · 路透社 Reuters · Nov 3, 02:53
+rss · CNBC Finance · Nov 3, 06:46
 
-**「Previous Missile Tests and North Korea&\#x27;s Military Developments」** North Korea has a history of conducting missile tests, which have raised concerns both regionally and globally. In recent years, the country has been developing its missile capabilities, including the testing of strategic cruise missiles. Previous tests have shown advancements in range and technology, with some missiles being launched from submarines or new corvettes. These developments indicate a continuous effort by North Korea to enhance its military strength, which is of significant concern to neighboring countries and international security agencies.
+**「Previous Roles and Expertise of Financial Leaders」** Jon Gray, President and COO of Blackstone, has extensive experience in the asset management industry, serving in his current role since 2018. He is also a member of the firm’s Management Committee and nearly all of its investment committees. Emmanuel Roman, CEO of PIMCO, brings a wealth of financial expertise, having been a managing director of the firm and serving on its Executive Committee.
 
-**「Impact」** The test could potentially impact global financial markets, particularly those related to equities and commodities, due to the geopolitical implications of North Korea&\#x27;s military activities.
+**「Market Impact」** The increased demand for equity financing in AI buildout, as highlighted by Blackstone President Jon Gray and Pimco CEO Emmanuel Roman, could lead to higher borrowing costs for companies involved in AI development. This is due to the concentration risks for debt investors and the massive scale of capital required, which could potentially strain the global corporate bond market.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.csis.org/analysis/north-korea-launches-strategic-cruise-missiles-submarine">North Korea Launches Strategic Cruise Missiles from Submarine</a></li>
-<li><a href="https://www.twz.com/strategic-cruise-missile-tested-from-north-koreas-new-corvette">“ Strategic ” Cruise Missile Tested From North Korea ’s New Corvette</a></li>
-<li><a href="https://au.finance.yahoo.com/news/n-korea-test-fires-long-211339125.html">North Korea tests first &#x27; strategic &#x27; cruise missile</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jonathan_D._Gray">Jonathan D. Gray - Wikipedia</a></li>
+<li><a href="https://www.blackstone.com/people/jonathan-gray/">Jonathan Gray - Blackstone</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Emmanuel_Roman">Emmanuel Roman - Wikipedia</a></li>
+<li><a href="https://www.pimco.com/us/en/experts/emmanuel-roman">Emmanuel Roman | PIMCO</a></li>
+<li><a href="https://www.youtube.com/watch?v=2Eij4hoV-Wg">AI Trade Worries, Oil &amp; Treasury Yields Pressure Markets - YouTube</a></li>
+<li><a href="https://a16z.com/financial-opportunity-of-ai/">BarbAIrians at the Gate: The Financial Opportunity of AI | Andreessen...</a></li>
+<li><a href="https://www.tiktok.com/discover/openais-debt-impact-explained">Openais Debt Impact Explained | TikTok</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#North Korea`, `#missile test`, `#geopolitical`, `#strategic`, `#commodities`
+**Tags**: `#AI Financing`, `#Equity Financing`, `#Market Risks`, `#Financial Markets`, `#Blackstone`, `#Pimco`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [Potential Inflation Risk in 2027 Due to El Nino Phenomenon](https://reut.rs/4BLd5n2) ⭐️ 7.0/10
+### [Exclusive: US Billionaire&\#x27;s Swap Plan for Lukoil&\#x27;s Overseas Assets](https://reut.rs/4kuDFKO) ⭐️ 7.0/10
 
-The San Francisco Federal Reserve has reported a potential &\#x27;meaningful risk&\#x27; of higher inflation in 2027, attributing this to the El Nino phenomenon. This assessment is based on a credible source, Reuters, and a respected institution, the San Francisco Federal Reserve.
+A US billionaire is leading a plan to acquire Lukoil&\#x27;s overseas assets through a swap deal, according to sources. The specifics of the deal are not yet disclosed, but it is expected to have significant implications for the global oil market.
 
-rss · 路透社 Reuters · Nov 3, 00:13
+rss · 路透社 Reuters · Nov 3, 16:58
 
-**「Understanding El Niño and Its Impact on Global Economies」** El Niño, a climate phenomenon characterized by the warming of the central and eastern tropical Pacific Ocean, has significant global impacts on weather patterns, ecosystems, and economies. It is part of the El Niño-Southern Oscillation \(ENSO\) cycle, which also includes La Niña. El Niño episodes typically last nine to 12 months but can sometimes extend for years. Historically, El Niño has been associated with various economic challenges, including increased inflation and disrupted agricultural production, which can affect vulnerable sovereigns and global financial markets. For instance, El Niño can lead to unusually dry conditions in some regions and excessive rainfall in others, impacting food security and trade. These conditions can, in turn, influence inflation rates and economic stability. The San Francisco Federal Reserve&\#x27;s report highlights the potential for El Niño to pose a &\#x27;meaningful risk&\#x27; of higher inflation in 2027, emphasizing the importance of monitoring these climate phenomena for their economic implications.
+**「Background on Lukoil and Recent Asset Sales」** Lukoil, a privately held Russian energy company, has been under pressure to sell its international assets following the October 2025 sanctions imposed by the United States government in response to the 2022 invasion of Ukraine. In November 2025, Lukoil received a $22 billion offer from Gunvor to acquire its international assets, which included oil refineries in Romania and Bulgaria, petrol stations in Europe and the United States, and oil and gas operations in the Middle East, Central Asia, and Africa. Additionally, Lukoil signed an agreement with Carlyle in January 2026 to sell its international subsidiary, which owns most of its foreign assets. These events set the stage for the current speculation about a potential swap deal for Lukoil&\#x27;s overseas assets.
 
-**「Impact」** This forecast suggests a possible increase in inflation, which could have significant implications for global financial markets, potentially affecting currency values and investment strategies.
+**「Impact」** The potential acquisition could lead to a shift in the global oil market dynamics, potentially affecting oil prices and the market share of Lukoil&\#x27;s overseas assets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://oceanservice.noaa.gov/facts/ninonina.html">What are El Nino and La Nina?</a></li>
-<li><a href="https://www.fitchratings.com/research/sovereigns/el-nino-phenomenon-could-pressure-vulnerable-sovereigns-25-10-2023">El Nino Phenomenon Could Pressure Vulnerable Sovereigns</a></li>
-<li><a href="https://www.youtube.com/watch?v=Ou5wECGoStc">Why El Niño 2026 has scientists worried | The Global Story - YouTube</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lukoil">Lukoil - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States%E2%80%93Russia_oil_deal">United States–Russia oil deal - Wikipedia</a></li>
+<li><a href="https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/100926-carlyle-ends-active-pursuit-of-lukoils-international-oil-assets">Carlyle ends active pursuit of Lukoil’s international oil assets</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Economic Forecast`, `#Inflation`, `#El Nino`, `#Central Bank`, `#Financial Markets`
+**Tags**: `#Oil Market`, `#Lukoil`, `#Asset Acquisition`, `#Swap Deal`, `#Speculation`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [US Strategy Links Myanmar Peace Talks to Rare-Earth Access](https://reut.rs/4iE83QC) ⭐️ 7.0/10
+### [Trump&\#x27;s Supreme Court Losing Streak in Election Cases Ends](https://reut.rs/48BM8od) ⭐️ 7.0/10
 
-The US has implemented a strategic move that links peace negotiations in Myanmar with access to rare-earth resources, which is expected to have significant implications for global markets.
+Donald Trump&\#x27;s winning streak in election cases before the Supreme Court has come to an end, potentially impacting global financial markets.
 
-rss · 路透社 Reuters · Nov 2, 21:02
+rss · 路透社 Reuters · Nov 3, 15:53
 
-**「Background on US Strategy and Myanmar Peace Talks」** The United States has recently implemented a strategic approach that links peace negotiations in Myanmar to access to rare-earth resources. This strategy is significant due to the ongoing civil war in Myanmar, which began following a military coup in February 2021. The conflict has led to mass demonstrations and a violent crackdown by the military, exacerbating the country&\#x27;s longstanding insurgencies. The peace talks, which include discussions on accessing rare-earth minerals located in conflict-affected areas, have become a pivotal point in the US strategy. These minerals are primarily exported to China, and the US strategy seems to be aimed at diversifying the supply chain and reducing dependence on Chinese imports. According to the Critical Minerals Security Program of the Center for Strategic and International Studies, Myanmar&\#x27;s rare earth exports to China reached nearly 42,000 metric tons by 2023, highlighting the importance of these resources in the global market.
+**「Background on Donald Trump and Supreme Court Cases」** Donald Trump, the 47th President of the United States, has been involved in several Supreme Court cases during his tenure and post-presidency. These cases often have significant implications for legal and political landscapes, including financial markets. In the past, the Supreme Court has ruled in favor of Trump on various issues, such as his financial records and eligibility to remain on the ballot. However, the recent end to his winning streak in election cases indicates a shift in the legal landscape, which could potentially affect global financial markets and market sentiment.
 
-**「Impact」** This strategy could lead to a shift in the global supply of rare-earth materials, affecting industries that rely on these resources, such as technology and defense sectors.
+**「Impact」** This legal development may lead to increased uncertainty in global financial markets, affecting investor sentiment and potentially influencing central bank policies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Myanmar_civil_war_%282021%E2%80%93present%29">Myanmar civil war (2021–present) - Wikipedia</a></li>
-<li><a href="https://www.yahoo.com/news/politics/articles/us-strategy-links-myanmar-peace-200726032.html">US strategy links Myanmar peace talks to rare - earth access</a></li>
-<li><a href="https://www.irrawaddy.com/opinion/commentary/in-rare-earth-talks-another-troubling-sign-of-a-us-pivot-on-myanmar.html">In Rare Earth Talks , Another Troubling Sign of a US Pivot on Myanmar</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Donald_Trump">Donald Trump - Wikipedia</a></li>
+<li><a href="https://www.npr.org/2020/07/09/889447765/you-wont-see-trump-s-taxes-before-election-day-but-he-could-face-bigger-problems">Trump &#x27;s Fortune Could Be In Jeopardy With Supreme Court ... : NPR</a></li>
+<li><a href="https://www.youtube.com/watch?v=O7kOPSWkpN8">Supreme Court rules Trump is eligible to remain on ballot... - YouTube</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Events`, `#Commodities`, `#Rare-Earth Resources`, `#Global Markets`
+**Tags**: `#Legal Developments`, `#Political News`, `#Financial Markets`, `#Geopolitical Events`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [TotalEnergies Predicts Iran War Could Accelerate Energy Transition](https://reut.rs/4jO1jSi) ⭐️ 7.0/10
+### [Zelenskiy&\#x27;s Speech at Berlin Security Conference](https://youtube.com/live/eWwkr5hrhoU?feature=share) ⭐️ 7.0/10
 
-TotalEnergies has indicated that a potential war in Iran may lead to an acceleration of the energy transition, which could have significant implications for global financial markets.
+Ukrainian President Zelenskiy delivered a speech at the Berlin Security Conference, focusing on the global financial market implications of the ongoing geopolitical situation. The speech is expected to influence central banks, equities, bonds, commodities, and currencies, particularly if it addresses economic policies and geopolitical issues.
 
-rss · 路透社 Reuters · Nov 2, 17:19
+rss · 路透社 Reuters · Nov 3, 15:53
 
-**「TotalEnergies Energy Outlook and Energy Transition」** TotalEnergies, a global integrated energy company, has been at the forefront of discussing energy transition. The company&\#x27;s Energy Outlook 2025 and its focus on energy transition highlight the importance of this issue. TotalEnergies produces and markets various energies, including oil, natural gas, renewables, and electricity. Their commitment to providing more reliable, affordable, and sustainable energy is central to their strategy. This context is crucial in understanding how geopolitical events, such as a war in Iran, could potentially accelerate the energy transition and impact global financial markets.
+**「Berlin Security Conference Context」** The Berlin Security Conference, held from 3rd to 4th November 2026, is a significant event that brings together key figures in global security and politics. This conference serves as a platform for discussing critical issues, including geopolitical tensions and economic policies that can have a profound impact on global financial markets. The presence of notable speakers and the focus on current geopolitical events make the conference a vital source of information for understanding the implications of such discussions on central banks, equities, bonds, commodities, and currencies.
 
-**「Impact」** This development could lead to increased investment in alternative energy sources and potentially impact energy prices and market dynamics worldwide.
+**「Impact」** The speech could lead to increased volatility in global financial markets, as investors react to Zelenskiy&\#x27;s comments on economic policies and geopolitical tensions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://totalenergies.com/newsroom/totalenergies-energy-outlook-2025/?lang=eng">TotalEnergies Energy Outlook 2025</a></li>
-<li><a href="https://totalenergies.com/energy-transition">Energy Transition | TotalEnergies.com</a></li>
-<li><a href="https://finance.yahoo.com/energy/articles/totalenergies-publishes-annual-report-scenarios-212400202.html?fr=sycsrp_catchall">TotalEnergies Publishes its Annual Report on Scenarios for ...</a></li>
+<li><a href="https://www.youtube.com/watch?v=lokA-pdTbAY">Berlin Security Conference 2026 | 3-4 November - YouTube</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Energy Transition`, `#Geopolitical Events`, `#Global Financial Markets`, `#Iran War`, `#Energy Prices`
+**Tags**: `#Geopolitical Events`, `#Central Banks`, `#Equities`, `#Bonds`, `#Commodities`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [AI-Induced Market Selloff and Recession Fears](https://reut.rs/4sGjpYP) ⭐️ 7.0/10
+### [US Midterm Elections Impact on Financial Markets](https://reut.rs/4iVKVhz) ⭐️ 7.0/10
 
-The recent AI-induced market selloff has heightened concerns about an economic recession. This selloff, driven by artificial intelligence, has led to increased fears among investors and analysts about the state of the economy.
+Increased betting in prediction markets is being tested by the upcoming US midterm elections, which could significantly impact global financial markets. The surge in election bets is a reflection of the importance of these elections for financial stability and economic policy decisions.
 
-rss · 路透社 Reuters · Nov 2, 15:44
+rss · 路透社 Reuters · Nov 3, 15:37
 
-**「Background on AI-Induced Market Selloff」** The recent commentary discusses the growing concerns over the global economic outlook, primarily driven by an AI-induced market selloff. This selloff has been marked by a significant decline in stock markets, particularly in the technology sector, which has been heavily influenced by AI advancements. The concerns stem from the potential impact of this selloff on global growth, with some experts suggesting it could deepen the economic slowdown and even lead to recessions in several major economies. This situation has been further compounded by fears of rising inflation and the possibility of future interest rate hikes, which have added to the uncertainty in the market.
+**「Background on US Midterm Elections and Financial Markets」** The US midterm elections are a significant political event that also has substantial implications for financial markets. These elections typically occur halfway through a presidential term and can lead to changes in the composition of Congress, affecting economic policy and regulatory decisions. Historically, US stocks have shown certain patterns during midterm election years, and the outcomes of these elections can influence investor sentiment and market dynamics. The 2026 midterm elections are particularly notable due to the increased betting activity in prediction markets, which reflects heightened interest and speculation about the potential outcomes and their impact on global financial markets.
 
-**「Impact」** The AI selloff has caused a notable decline in market confidence, leading to a widespread sell-off across various sectors. This has raised concerns about a potential economic downturn and has prompted investors to reassess their portfolios.
+**「Impact」** The heightened activity in prediction markets due to the US midterm elections may lead to fluctuations in asset prices and influence central bank policies, as investors and policymakers closely monitor the outcomes for potential economic implications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.reuters.com/commentary/reuters-open-interest/brutal-ai-selloff-stirs-recession-fears-mcgeever-2026-11-02/">Brutal AI selloff stirs recession fears | Reuters</a></li>
-<li><a href="https://www.forbes.com/sites/jimosman/2026/10/18/the-ai-selloff-is-spreading-to-the-stocks-investors-thought-were-safe/">The AI Selloff Is Spreading To The Stocks Investors Thought ...</a></li>
-<li><a href="https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt">Tech market sell-off deepens amid fears over US inflation and ...</a></li>
+<li><a href="https://www.linkedin.com/posts/brianpomarlen_midterm-elections-and-markets-whats-at-activity-7460339783106519040-t2aQ">Midterm elections and markets : What’s at stake for investors?</a></li>
+<li><a href="https://www.fxstreet.com/macroeconomics/us-elections">US Midterm Elections 2026 | Live News, Analysis &amp; Predictions</a></li>
+<li><a href="https://www.marlboroughgroup.com/insights/uncertainty-revisited-james-athey-examines-what-the-us-midterm-elections-could-mean-for-markets">Uncertainty revisited. James Athey examines what the US midterm ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Financial Markets`, `#AI Impact`, `#Economic Recession`, `#Market Analysis`, `#Reuters`
+**Tags**: `#US Midterm Elections`, `#Financial Markets`, `#Prediction Markets`, `#Economic Policy`, `#Central Banks`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [Yemen Houthis Advance to Within 80 km of Aden](https://reut.rs/4iu3zvt) ⭐️ 7.0/10
+### [U.S.-Canada Trade Deal Imminent: Market Implications](https://reut.rs/4kuihoW) ⭐️ 7.0/10
 
-Houthi rebels in Yemen have advanced to within 80 kilometers of the city of Aden, according to unnamed sources. This development could significantly impact regional stability and global financial markets, particularly for investors in Middle Eastern economies and energy sectors.
+U.S. President Trump announced that the United States is close to finalizing a trade deal with Canada. This development is expected to have significant implications for global financial markets, particularly affecting equities, bonds, and currencies.
 
-rss · 路透社 Reuters · Nov 2, 15:44
+rss · 路透社 Reuters · Nov 3, 13:47
 
-**「Background on Yemen Conflict」** The ongoing Yemeni civil war, which began in late 2014, primarily involves the Presidential Leadership Council led by Rashad al-Alimi and the Supreme Political Council led by Mahdi al-Mashat, along with their respective supporters and allies. This conflict has its roots in the Arab Spring protests that swept through the region, leading to widespread allegations of corruption in Yemen&\#x27;s government and a significant arms proliferation in private hands. The situation in Yemen has been further complicated by the presence of Houthi rebels, who have been advancing in the country, including their recent movement to within 80 km of the city of Aden.
+**「Historical Context of US-Canada Relations」** The United States and Canada have a long history of close relations, particularly in terms of trade and economic cooperation. Historically, Canada&\#x27;s foreign policies were under British control until the 20th century. However, since then, the two countries have developed a strong economic partnership, with significant trade and supply chain interdependencies. This historical context is crucial in understanding the potential impact of a trade deal between the US and Canada on global financial markets.
 
-**「Impact」** The Houthis&\#x27; advancement poses a concrete risk to regional stability, which may lead to increased volatility in energy markets and negatively affect investments in Middle Eastern economies.
+**「Impact」** The potential trade deal between the U.S. and Canada could lead to increased market stability and investor confidence, potentially boosting equities and bonds while affecting currency exchange rates.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Yemeni_civil_war_%282014%E2%80%93present%29">Yemeni civil war (2014–present) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Yemeni_crisis">Yemeni crisis - Wikipedia</a></li>
-<li><a href="https://unfoundation.org/what-we-do/issues/peace-human-rights-and-humanitarian-response/yemen-a-brief-background/">Yemen: A Brief Background - unfoundation.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Foreign_relations_of_Canada">Foreign relations of Canada - Wikipedia</a></li>
+<li><a href="https://www.everycrsreport.com/reports/96-397.html">Canada - U . S . Relations - EveryCRSReport.com</a></li>
+<li><a href="https://canadianvisa.org/life-in-canada/facts/relations-with-usa">US - Canada Relations | Canadianvsa.org</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Yemen Conflict`, `#Geopolitical Risk`, `#Regional Stability`, `#Energy Markets`, `#Middle East`
+**Tags**: `#Trade Deal`, `#US-Canada Relations`, `#Global Financial Markets`, `#Equities`, `#Bonds`, `#Currencies`
 
 ---
 
 <a id="item-global-market-8"></a>
-### [China&\#x27;s Central Bank Intervenes in Stock Market](https://reut.rs/4BFUEjv) ⭐️ 7.0/10
+### [US Midterm Elections Coverage](https://youtube.com/live/LokrBxbKST8) ⭐️ 7.0/10
 
-The People&\#x27;s Bank of China has employed liquidity tools to support the struggling stock market, reflecting policy intervention in response to market conditions. This action is significant as it directly impacts financial markets and represents a policy decision with potential for market-moving effects.
+The US midterm elections are taking place, potentially influencing global financial markets. The outcome of these elections could have significant policy implications and market sentiment effects.
 
-rss · 路透社 Reuters · Nov 2, 14:07
+rss · 路透社 Reuters · Nov 3, 12:37
 
-**「Background on China&\#x27;s Central Bank&\#x27;s Liquidity Tool Use」** The People&\#x27;s Bank of China has historically employed various liquidity tools to manage the financial market. Two years ago, the central bank introduced a new liquidity tool specifically designed to provide brokers, insurers, and fund companies with the necessary liquidity for stock purchases. This tool has been utilized multiple times in the past, reflecting the central bank&\#x27;s commitment to maintaining stability in the stock market and the broader financial system. The recent use of this liquidity tool is part of an ongoing effort to support the struggling stock market and is a continuation of the central bank&\#x27;s policy of active liquidity management.
+**「Background on US Midterm Elections 2026」** The 2026 US midterm elections are a significant geopolitical event that can have a substantial impact on financial markets. These elections typically occur halfway through a president&\#x27;s term and are crucial for determining the balance of power in Congress. The outcomes of these elections can influence policy decisions on various economic issues, including taxation, spending, and trade. The results can also affect market sentiment, as investors react to potential changes in regulatory environments and policy directions. Prior to these elections, there has been considerable speculation and analysis on how the outcomes might shape the economic and financial landscape in the United States and globally.
 
-**「Impact」** The use of liquidity tools by the People&\#x27;s Bank of China is expected to have a concrete impact on the stock market, potentially stabilizing it and boosting investor confidence.
+**「Impact」** The results of the midterm elections may lead to changes in fiscal and monetary policies, impacting sectors such as healthcare, energy, and technology, as well as influencing currency values and market trends globally.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.reuters.com/world/asia-pacific/chinas-central-bank-taps-liquidity-tool-fund-share-purchases-2026-11-02/">China&#x27;s central bank taps liquidity tool to aid struggling ...</a></li>
-<li><a href="https://beijingpost.com/people-s-bank-of-china-injects-liquidity-to-boost-economic-growth">People&#x27;s Bank of China Injects Liquidity to Boost Economic ...</a></li>
-<li><a href="https://thefinancialanalyst.net/2024/10/29/pboc-introduces-new-liquidity-tool-amid-struggling-chinese-economy/">PBOC Introduces New Liquidity Tool Amid Struggling Chinese ... China&#x27;s central bank introduces new liquidity tool China&#x27;s central bank injected liquidity into market via ... China&#x27;s central bank injects liquidity through multiple tools ... China&#x27;s central bank taps liquidity tool to aid ... - MSN</a></li>
+<li><a href="https://www.fxstreet.com/macroeconomics/us-elections">US Midterm Elections 2026 | Live News, Analysis &amp; Predictions</a></li>
+<li><a href="https://www.linkedin.com/posts/ethanrolson_midterm-elections-and-markets-whats-at-activity-7462555857675882496-Fy4f">Midterm elections and markets : What’s at stake for investors?</a></li>
+<li><a href="https://www.youtube.com/watch?v=MsD3OyjdF5Q">US Midterms : Why Trump&#x27;s Election Battle Matters to Your... - YouTube</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Central Bank Policy`, `#Stock Market`, `#Financial Market`, `#Liquidity Management`
+**Tags**: `#US Midterm Elections`, `#Geopolitical Events`, `#Financial Markets`, `#Election Coverage`, `#Market Sentiment`
 
 ---
 
 <a id="item-global-market-9"></a>
-### [Marvell&\#x27;s $11.5B Acquisition of Lumentum Highlights AI Data-Center Importance](https://reut.rs/3V0Ro1C) ⭐️ 7.0/10
+### [Saudi Aramco&\#x27;s Q3 Profit Rises Despite Attacks](https://reut.rs/4ixBQu3) ⭐️ 7.0/10
 
-Marvell has announced a significant acquisition, purchasing Lumentum for $11.5 billion. This deal underscores the growing importance of AI data-center technologies in the global financial market.
+Saudi Aramco&\#x27;s third-quarter profit surged by a third to $31.2 billion, exceeding analyst expectations of $28.7 billion, as higher crude oil and fuel prices mitigated the impact of attacks on its assets.
 
-rss · 路透社 Reuters · Nov 2, 13:20
+rss · 路透社 Reuters · Nov 3, 12:37
 
-**「Background on Marvell&\#x27;s Acquisition of Lumentum」** Marvell&\#x27;s decision to acquire Lumentum for $11.5 billion is part of a strategic move to strengthen its position in the AI data-center technology sector. This acquisition follows a trend of consolidation in the tech industry, where companies are seeking to expand their capabilities in high-growth areas such as AI and data centers. The deal is expected to close in the first half of 2028, pending shareholder and regulatory approvals.
+**「Background on Saudi Aramco&\#x27;s Profit Growth Amid Attacks」** Saudi Aramco&\#x27;s significant increase in third-quarter profit, despite attacks on its assets, can be attributed to the higher crude oil and fuel prices that offset the impact of these disruptions. The situation is further compounded by the escalating tensions in the Middle East, particularly the Houthi attacks targeting Saudi energy infrastructure. These tensions have tightened global crude supplies and pushed European gas prices to four-year highs. Additionally, the recent drone strike on Saudi Aramco&\#x27;s Ras Tanura oil refinery has led to the shutdown of operations, highlighting the broader security challenges faced by the company and the region. These events have had a significant impact on global energy markets, leading to the widespread drawing down of strategic reserves and contributing to inflationary pressures.
 
-**「Impact」** The acquisition is expected to enhance Marvell&\#x27;s position in the AI data-center sector, potentially leading to increased investments and advancements in this field.
+**「Impact」** The significant increase in profit for Saudi Aramco, despite attacks, indicates resilience in the global oil market and may influence investor confidence in the energy sector.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.krugmaninsights.com/deals/acquisition/marvell-agrees-a-115bn-enterprise-value-all-share-acquisition-of-lumentum-at-4-5-marvell-shares-per-share-a-23-9-2026-3">Marvell Agrees a $115bn Enterprise-Value All-Share Acquisition of...</a></li>
-<li><a href="https://www.calcalistech.com/ctechnews/article/rjjkfflaze">Marvell acquires Lumentum in $115 billion push to dominate AI...</a></li>
-<li><a href="https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/">In one of the largest deals in tech history, Marvell buys Lumentum for...</a></li>
+<li><a href="https://www.rbccm.com/en/insights/2026/10/escalating-middle-east-tensions-amplify-energy-supply-risks">Escalating Middle East tensions amplify energy supply risks</a></li>
+<li><a href="https://thearabianpost.com/saudi-aramco-halts-ras-tanura-operations-after-drone-hit/">Saudi Aramco halts Ras Tanura operations after drone hit</a></li>
+<li><a href="https://finance.yahoo.com/energy/articles/saudi-aramco-profits-jump-35-071136247.html?fr=sycsrp_catchall">Saudi Aramco profits jump 35% despite attacks on oil facilities</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Corporate Acquisition`, `#AI Data Centers`, `#Global Financial Market`, `#Marvell`, `#Lumentum`
+**Tags**: `#Oil and Gas`, `#Market News`, `#Profit`, `#Saudi Arabia`
 
 ---
 
 <a id="item-global-market-10"></a>
-### [Argentina&\#x27;s Economy Entering Recession Ahead of 2027 Elections](https://reut.rs/4BFakDx) ⭐️ 7.0/10
+### [Global Markets at Risk Due to Large AI Investments](https://reut.rs/4jV2ejQ) ⭐️ 7.0/10
 
-Argentina&\#x27;s economy is heading towards a recession due to austerity measures, presenting a significant challenge for the current government as the 2027 elections approach.
+Global markets, already in a fragile state, may face further instability due to large-scale investments in artificial intelligence. This development is a significant concern for those tracking financial markets, as it could lead to increased volatility and uncertainty.
 
-rss · 路透社 Reuters · Nov 2, 10:26
+rss · 路透社 Reuters · Nov 3, 12:37
 
-**「Background on Argentina&\#x27;s Economic Situation」** Argentina has been facing economic challenges due to a series of austerity measures implemented by the government. These measures were introduced to combat high inflation and economic instability that had been prevalent in the country for years. Despite the intention to stabilize the economy, the impact of these measures has led to a projected recession, particularly in the third quarter of 2026. Economists are forecasting a slight rebound in 2027. President Milei&\#x27;s administration is now navigating these economic crossroads, with the success of his policies depending on his political understanding and ability to build alliances with opposition lawmakers.
+**「Background on Artificial Intelligence and its Economic Impact」** Artificial intelligence \(AI\) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. The economic and political impacts of AI are significant, with potential changes in production and consumption patterns, and the creation of new markets and reform of existing ones. A report by investment bank Goldman Sachs suggests that AI could replace the equivalent of 300 million full-time jobs, affecting a quarter of work tasks in the US and Europe. This could lead to new job opportunities and a productivity boom, although it also poses challenges to economic structures and job markets.
 
-**「Impact」** The economic downturn in Argentina could lead to currency fluctuations and impact emerging market investors, particularly those tracking the country&\#x27;s financial stability.
+**「Impact」** The large-scale investments in artificial intelligence could lead to market instability, potentially affecting various sectors and currencies, as investors reassess their exposure to AI-related risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://latinamericanpost.com/economy-en/mileis-radical-austerity-measures-and-their-impact-on-argentines/">Milei&#x27;s Radical Austerity Measures and Their Impact on ...</a></li>
-<li><a href="https://www.reuters.com/world/americas/argentinas-austerity-hit-economy-reels-towards-recession-testing-milei-ahead-2026-11-02/">Argentina&#x27;s austerity-hit economy reels towards recession ...</a></li>
-<li><a href="https://latinamericanpost.com/economy-en/mileis-tough-austerity-measures-reshaping-argentinas-economic-future/">Milei’s Tough Austerity Measures: Reshaping Argentina’s ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/pulse/section-three-economic-political-impacts-artificial-barbaroushan-tww4f">Section Three: Economic and Political Impacts of Artificial Intelligence</a></li>
+<li><a href="https://www.nexford.edu/insights/how-will-ai-affect-jobs">How will Artificial Intelligence Affect Jobs... | Nexford University</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Argentina`, `#Economic Recession`, `#Austerity Measures`, `#Emerging Markets`, `#Currency Fluctuations`
+**Tags**: `#Global Markets`, `#Artificial Intelligence`, `#Financial Stability`, `#Market Trends`, `#Reuters`
 
 ---
 
 <a id="item-global-market-11"></a>
-### [ADNOC CEO Warns of Energy Supply Buffer Erosion](https://reut.rs/4yW1SNE) ⭐️ 7.0/10
+### [North Korea&\#x27;s Strategic Cruise Missile Test](https://reut.rs/4iyxIdq) ⭐️ 7.0/10
 
-The CEO of Abu Dhabi National Oil Company \(ADNOC\) has warned that global energy supply buffers have been eroded, indicating a potential vulnerability in the global energy market.
+North Korea has conducted a strategic cruise missile test with a dispersal warhead, as reported by KCNA. This action, which deviates from previous expectations, could have significant implications for global financial markets and central bank policies.
 
-rss · 路透社 Reuters · Nov 2, 09:54
+rss · 路透社 Reuters · Nov 3, 02:53
 
-**「Background on Global Energy Supply Buffers」** The erosion of global energy supply buffers has been a result of various factors. Since the US-Israeli war disrupted shipping through the Strait of Hormuz, nearly 1 billion oil barrels have been drained from global inventories. This has been compounded by war-driven supply disruptions, diesel/LNG shortfalls, and the need for expanded storage and near-market refining. McKinsey&\#x27;s analysis indicates that strategic energy reserves and supply buffers, which have traditionally cushioned supply chains, are now being depleted, creating structural vulnerability across manufacturing, transportation, and logistics operations worldwide.
+**「Previous Missile Tests and North Korea&\#x27;s Military Developments」** North Korea has a history of conducting missile tests, which have raised concerns in the international community. In the past, North Korea has test-fired strategic cruise missiles, including one from a submarine, which flew nearly 1,500 km and successfully struck an underwater target. Additionally, North Korea has tested cruise missiles aboard naval destroyers, showcasing its advancements in military technology. These tests have been closely monitored by the international community and have raised concerns about the country&\#x27;s military capabilities and its potential impact on global security.
 
-**「Impact」** This warning could lead to increased market speculation and potentially higher energy prices, as investors and consumers react to the perceived risk of supply shortages.
+**「Impact」** The test may lead to increased tensions in the region, potentially affecting global markets and central bank policies as investors reassess geopolitical risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.reuters.com/business/energy/nearly-1-billion-oil-barrels-drained-global-inventories-since-hormuz-disruption-2026-11-02/">World&#x27;s energy supply buffers have been eroded, ADNOC CEO ...</a></li>
-<li><a href="https://www.thehindubusinessline.com/markets/commodities/worlds-energy-supply-buffers-have-been-eroded-adnoc-ceo-says/article71655703.ece">World&#x27;s energy supply buffers have been eroded, ADNOC CEO ...</a></li>
-<li><a href="https://www.hylios.com/intelligence/energy-crisis-threatens-global-supply-chains-as-strategic-buffers-decline">Energy Crisis Threatens Global Supply Chains as Strategic ...</a></li>
+<li><a href="https://www.csis.org/analysis/north-korea-launches-strategic-cruise-missiles-submarine">North Korea Launches Strategic Cruise Missiles from Submarine</a></li>
+<li><a href="https://www.globalbankingandfinance.com/north-koreas-kim-observed-naval-destroyer-cruise-missile/">North Korea Tests Naval Destroyer Cruise Missiles &amp; Weapons...</a></li>
+<li><a href="https://www.twz.com/42349/everything-we-know-about-north-koreas-strategic-cruise-missile">Everything We Know About North Korea ’s New “ Strategic ” Cruise ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Energy Market`, `#ADNOC`, `#Global Energy Supply`, `#Market Trends`
+**Tags**: `#North Korea`, `#missile test`, `#geopolitical`, `#global markets`, `#central banks`
 
 ---
 
 <a id="item-global-market-12"></a>
-### [India Markets Regulator Supports Removal of Long-Term Capital Gains Tax for Foreign Investors](https://reut.rs/3V1trHt) ⭐️ 7.0/10
+### [El Niño Risk of Increased Inflation in 2027](https://reut.rs/4BLd5n2) ⭐️ 7.0/10
 
-The Indian markets regulator has expressed support for the cancellation of the long-term capital gains tax on foreign investors. This decision, if implemented, would affect foreign investors in the Indian market.
+The San Francisco Federal Reserve has warned that the El Niño phenomenon may lead to increased inflation in 2027, posing a significant risk to global financial markets. This prediction is based on a report from the SF Fed and is not speculative market speculation.
 
-rss · 路透社 Reuters · Nov 2, 09:54
+rss · 路透社 Reuters · Nov 3, 00:13
 
-**「Background on Indian Markets Regulator&\#x27;s Decision」** The Indian markets regulator&\#x27;s decision to support the removal of the long-term capital gains tax for foreign investors follows a growing discussion around the impact of such taxes on foreign investment in India. SEBI, the market regulator, has been advocating for the removal of the long-term capital gains tax, which has been a topic of concern as foreign investors have been pulling billions out of India&\#x27;s equity markets. This move is part of a broader review of India&\#x27;s capital gains tax and securities transaction tax regime, aimed at attracting more foreign investment.
+**「Understanding the Impact of El Niño on Global Economy」** El Niño, a climate phenomenon characterized by the warming of the central and eastern tropical Pacific Ocean, has historically had significant impacts on global economies. It affects weather patterns worldwide, leading to changes in temperature and precipitation. In the context of the current discussion, El Niño is expected to pose a &\#x27;meaningful risk&\#x27; of higher inflation in 2027. This is due to its influence on agricultural production, food prices, and energy markets, which in turn can lead to broader inflationary pressures. Previous analyses have shown that El Niño can lead to increased food prices and disruptions in supply chains, affecting both developed and developing economies. For instance, the San Francisco Federal Reserve&\#x27;s report highlights the potential for El Niño to exacerbate inflationary pressures, which is a critical concern for central banks and global financial markets.
 
-**「Impact」** The removal of the long-term capital gains tax for foreign investors could attract more foreign investment into the Indian market, potentially boosting the equity sector.
+**「Impact」** The potential increase in inflation due to El Niño could lead to higher prices for commodities, affecting global supply chains and consumer spending.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/ltcg-tax-relief-on-the-cards-sebi-wants-long-term-capital-gains-tax-to-be-removed-for-foreign-investors/articleshow/135452510.cms">LTCG tax relief on the cards? SEBI wants long - term capital gains tax ...</a></li>
-<li><a href="https://www.inventiva.co.in/trends/is-indias-ltcg-and-stt-regime-driving-foreign-investors-away-or-is-the-problem-much-bigger/">Is India &#x27;s LTCG And STT Regime Driving Foreign Investors Away, Or...</a></li>
-<li><a href="https://yourstory.com/mystory/4a80237e45-shall-we-call-it-a-truce-and-is-this-the-end-of-longest-running-saga">Shall we call it a truce and is this the end of longest ... | YourStory</a></li>
+<li><a href="https://economicreader.com/how-el-nino-affects-the-global-economy/">How El Niño Affects the Global Economy: Food Prices ...</a></li>
+<li><a href="https://www.morganstanley.com/insights/articles/super-el-nino-global-economic-impact-2026">What a Super El Niño Means for Inflation and Global Markets ...</a></li>
+<li><a href="https://www.fundssociety.com/en/news/markets/commodities-the-market-story-implied-by-the-el-nino-phenomenon/">El Niño&#x27;s Impact on Global Commodity Markets</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#India`, `#Financial Markets`, `#Capital Gains Tax`, `#Foreign Investors`, `#Regulatory News`
+**Tags**: `#El Niño`, `#Inflation`, `#Global Financial Markets`, `#Central Banks`, `#Commodities`
 
 ---
 
 <a id="item-global-market-13"></a>
-### [European Space Chief Visits Gulf Region](https://reut.rs/4BFDsut) ⭐️ 7.0/10
+### [US Strategy Links Myanmar Peace Talks to Rare-Earth Access](https://reut.rs/4iE83QC) ⭐️ 7.0/10
 
-The European space chief is visiting the Gulf region to explore alternatives to the EU&\#x27;s dependence on the United States. This move reflects a significant shift in European space policy, aiming to reduce reliance on the US, which could have implications for global financial markets, particularly in the aerospace and defense sectors.
+The US has implemented a strategic move linking peace negotiations in Myanmar to access to rare-earth resources, which has significant implications for global financial markets.
 
-rss · 路透社 Reuters · Nov 2, 09:38
+rss · 路透社 Reuters · Nov 2, 21:02
 
-**「European Space Policy Shift」** The European Union has historically relied heavily on the United States for space capabilities, including satellite internet, defense surveillance, and launch capacity. This dependence has been a concern, especially with the dominance of Starlink and SpaceX. In response, Europe has been working towards reducing its dependence on American space capabilities. This effort includes the development of its own sovereign space capabilities, such as satellite launches and human spaceflight. The push for space independence is part of a broader strategy to enhance Europe&\#x27;s strategic autonomy in the space sector, which is crucial for economic growth, security, and defense. This shift in policy is driven by the increasing recognition of space as a strategic sector and the need to avoid overreliance on external actors.
+**「Background on the Link Between Myanmar Peace Talks and Rare-Earth Access」** The United States has recently implemented a strategic approach that connects peace negotiations in Myanmar with access to rare-earth minerals. These minerals, primarily located in conflict-affected areas, are crucial for various high-tech industries. Currently, a significant portion of these minerals is exported to China. The discussions surrounding these talks involve strategies to gain access to these resources, which have significant implications for global financial markets. The ongoing civil war and recent military coup in Myanmar have disrupted rare-earth mining operations, leading to supply chain challenges. This geopolitical strategy is part of a broader competition between the United States and China over rare-earth minerals, which are vital for many modern technologies.
 
-**「Impact」** This initiative could lead to increased investment and collaboration in the aerospace and defense sectors within the EU and the Gulf region, potentially altering the global balance of power in these sectors.
+**「Impact」** This strategy could lead to increased demand for rare-earth materials, affecting global supply chains and potentially influencing commodity prices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.economist.com/europe/2026/10/20/europes-dependence-on-america-in-space-is-hard-to-escape">Europe’s dependence on America in space is hard to escape</a></li>
-<li><a href="https://eu-space.europa.eu/resources/non-dependency">Non-Dependency | EU Space Policy</a></li>
-<li><a href="https://www.nature.com/articles/d41586-026-02919-1">Europe pushes for space independence amid geopolitical rifts</a></li>
+<li><a href="https://www.yahoo.com/news/politics/articles/us-strategy-links-myanmar-peace-200726032.html">US strategy links Myanmar peace talks to rare - earth access</a></li>
+<li><a href="https://rareearthexchanges.com/news/myanmar-mining-conflict/">China&#x27;s Relationship with Myanmar , Outsourcing Access to Rare ...</a></li>
+<li><a href="https://edition.cnn.com/2025/11/25/asia/rare-earth-river-pollution-myanmar-china-intl-hnk">Global demand for rare earths is wreaking havoc on one of...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#European Space Policy`, `#Global Defense Market`, `#Aerospace Industry`, `#Geopolitical Shifts`, `#US-EU Relations`
+**Tags**: `#Geopolitical Events`, `#Commodities`, `#Rare Earths`, `#Market Strategy`, `#Central Banks`
 
 ---
 
 <a id="item-global-market-14"></a>
-### [Apple&\#x27;s New CEO Faces First Earnings Report Amidst Rising Memory Costs](https://reut.rs/4zgeXT0) ⭐️ 7.0/10
+### [UK Pound Fluctuates Ahead of BoE Rate Decision](https://reut.rs/4sH58ey) ⭐️ 7.0/10
 
-Apple&\#x27;s new CEO, Ternus, is set to face his first earnings report challenge as memory costs surge. This report comes amidst a significant increase in memory costs, which could impact Apple&\#x27;s financial performance.
+The British pound is experiencing fluctuations in the currency market as the Bank of England&\#x27;s upcoming rate decision approaches. This decision is a significant event for global financial markets, particularly for those monitoring central bank activities.
 
-rss · 路透社 Reuters · Nov 2, 08:19
+rss · 路透社 Reuters · Nov 2, 18:22
 
-**「Background on Apple&\#x27;s Rising Memory Costs」** Apple has been facing increased memory costs, which are expected to have a significant impact on its upcoming earnings report. This situation is particularly challenging for Apple&\#x27;s new CEO, Ternus, as it represents his first major financial test since taking the helm. The cost of memory, especially for components like storage and processors, has been rising, affecting the overall manufacturing cost of Apple&\#x27;s products such as the iPhone 18 Pro Max and Mac and iPad devices. These rising costs are a result of both the general increase in memory prices and the specific demand for larger memory capacities in Apple&\#x27;s products.
+**「Background on Bank of England&\#x27;s Rate Decision」** The upcoming rate decision by the Bank of England is a significant event in the global financial market. This decision is particularly relevant for those tracking central banks. The Bank of England has been closely monitoring various economic indicators, including interest rates and job market data. In previous reports, the Bank of England has discussed the economic outlook and the impact of monetary policy decisions. For instance, in the Monetary Policy Report of April 2026, the Committee decided to maintain the Bank Rate at the meeting, considering all risks to the economic outlook. The report also highlighted the pickup in economic activity driven by recent interest rate cuts and improvements in financial conditions. Similarly, the November 2025 report discussed the lagged effect of recent interest rate cuts and the gradual loosening in monetary policy.
 
-**「Impact」** The rising memory costs are expected to have a notable impact on Apple&\#x27;s earnings, potentially affecting its profitability and market performance.
+**「Impact」** The volatility in the British pound is expected to have a concrete impact on financial markets, as investors react to the potential changes in interest rates set by the Bank of England.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.163.com/dy/article/KN8GC5UA05198CJN.html">163.com/dy/article/KN8GC5UA05198CJN.html</a></li>
-<li><a href="https://post.smzdm.com/p/a95d7ole/">AI“吞噬” 内 存 产能： 苹 果 Mac、iPad等14...</a></li>
-<li><a href="https://m.cnbeta.com.tw/view/1562622.htm">成 本 海啸中逆行 苹 果 为何敢在行业涨价潮中降价？ - cnBeta.COM 移动版</a></li>
+<li><a href="https://www.ft.com/bank-of-england">Bank of England - Financial Times</a></li>
+<li><a href="https://www.bankofengland.co.uk/monetary-policy-report/2026/april-2026">Monetary Policy Report - April 2026 - Bank of England</a></li>
+<li><a href="https://www.bankofengland.co.uk/monetary-policy-report/2025/november-2025">Monetary Policy Report - November 2025 - Bank of England</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#Financial Markets`, `#CEO`, `#Earnings Report`, `#Memory Costs`
+**Tags**: `#Central Bank`, `#Rate Decision`, `#Currency Fluctuations`, `#Financial Markets`
 
 ---
 
 <a id="item-global-market-15"></a>
-### [Germany Misses Gas Storage Target](https://oilprice.com/Energy/Natural-Gas/Germany-Misses-Gas-Storage-Target-as-Prices-Soar.html) ⭐️ 7.0/10
+### [TotalEnergies Indicates Iran War Could Accelerate Energy Transition](https://reut.rs/4jO1jSi) ⭐️ 7.0/10
 
-Germany has fallen short of its gas storage target, reaching only about 61% of its capacity, as the European gas benchmark topped 100 euros per MWh. This development raises concerns about the upcoming winter season and energy prices in Europe.
+TotalEnergies has suggested that a potential war in Iran may lead to an acceleration of the global energy transition, impacting financial markets worldwide.
 
-rss · OilPrice · Nov 3, 00:00
+rss · 路透社 Reuters · Nov 2, 17:19
 
-**「Germany&\#x27;s Gas Storage Shortfall Context」** Germany&\#x27;s failure to meet its gas storage target for the upcoming winter is a direct result of the broader challenges facing the European energy market. The European Union mandates that member states fill 80% of their storage capacity with natural gas before winter. Germany, being the largest economy in the EU, has only managed to fill approximately 61% of its storage. This situation is compounded by the fact that European gas benchmark prices have soared above 100 euros per MWh, raising concerns about both energy costs and potential supply crunches. The European natural gas market has been experiencing increased volatility, with prices reaching a four-month high due to concerns over LNG supply security and geopolitical tensions, such as the US-Iran conflict. This context underscores the urgency of Germany&\#x27;s storage shortfall and its potential impact on the European energy landscape.
+**「Background on Iran War and Energy Transition」** The potential war in Iran is a significant geopolitical event that could have profound implications for the global energy system and the ongoing energy transition. Prior to this event, there had been growing concerns about the pace and direction of the energy transition, with various stakeholders weighing the impact of geopolitical tensions on this process. The global energy landscape has been evolving, with a shift towards cleaner and more secure energy systems. The US-Iran conflict, if it materializes, could disrupt existing energy markets and potentially accelerate the transition to alternative energy sources. This shift is being closely monitored by industry experts and policymakers worldwide.
 
-**「Impact」** The failure to meet the gas storage target may lead to a supply crunch, posing a significant challenge for Germany and potentially affecting energy prices across Europe.
+**「Impact」** This geopolitical event could significantly influence the energy sector, potentially leading to changes in market dynamics and investment strategies in the energy sector.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.yahoo.com/news/politics/articles/u-pushes-restore-russian-gas-075000907.html">U.S. Pushes to Restore Russian Gas Flows to Europe</a></li>
-<li><a href="https://www.theguardian.com/business/2026/aug/29/european-gas-stores-lowest-13-years-eu-price">‘Winter panic’: EU gas stores at their lowest level in 13... | The Guardian</a></li>
-<li><a href="https://tradingeconomics.com/commodity/eu-natural-gas/news/569516">EU Natural Gas Hovers at 4-Month High</a></li>
+<li><a href="https://www.dnv.com/energy-transition-outlook/the-war-in-iran-and-effects-on-the-global-energy-transition/">The likely effects of the Iran war on the global energy ... - DNV</a></li>
+<li><a href="https://www.weforum.org/stories/energy-transition/energy-transitions-us-iran-crisis">How the US-Iran war is affecting the global energy transition ...</a></li>
+<li><a href="https://www.newamerica.org/insights/iran-war-energy-transition/">Could the Iran War Accelerate the Energy Transition?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Energy Market`, `#Commodity Prices`, `#European Union`, `#Natural Gas`, `#Winter Preparations`
+**Tags**: `#Energy Transition`, `#Geopolitical Events`, `#Market Implications`, `#Energy Sector`, `#Central Bank Policies`
 
 ---
 
 <a id="item-global-market-16"></a>
-### [Trump&\#x27;s Vision for Americas Oil Production: Implications for Big Oil](https://oilprice.com/Energy/Crude-Oil/Trumps-Trillion-Dollar-Oil-Play-A-Trap-For-Big-Oil.html) ⭐️ 7.0/10
+### [Impact of U.S.-Iran Peace Talks on Oil Prices](https://oilprice.com/Energy/Crude-Oil/Trump-Bombs-Iran-Talks-Peace-and-Sends-Oil-Prices-Tumbling.html) ⭐️ 7.0/10
 
-U.S. President Donald Trump&\#x27;s vision to increase oil production in the Americas, particularly in Venezuela, aims to secure a significant portion of global oil supply from the region under U.S. influence. This strategy involves encouraging heavy investment from American oil and gas companies into Venezuela, potentially impacting big oil companies&\#x27; operations and investments in the region.
+Brent crude oil prices fell below $105 following speculation about U.S.-Iran peace talks, which were later dismissed by Tehran. This market reaction highlights the sensitivity of oil prices to geopolitical developments and peace negotiations.
 
-rss · OilPrice · Nov 2, 21:00
+rss · OilPrice · Nov 3, 16:43
 
-**「Background on Global Oil Production and U.S. Foreign Policy」** The U.S. has long been a major player in global oil markets, with a strategic focus on securing energy supplies from regions within its sphere of influence. Venezuela, known for its substantial oil reserves, has been a key country in this strategy. As of 2024, Venezuela and Middle Eastern countries are estimated to have the largest proven oil reserves. The U.S. has historically encouraged investment from American oil and gas companies in these regions to ensure a stable supply of oil. This approach has been a part of the broader U.S. foreign policy, aiming to maintain its dominance in global energy markets. The recent changes in Venezuela&\#x27;s oil sector and the U.S.&\#x27;s focus on increasing production from the Americas are in line with this long-standing policy.
+**「Background on U.S.-Iran Peace Talks and Oil Prices」** The recent speculation and subsequent dismissal of U.S.-Iran peace talks have been a topic of interest in global financial markets. Qatar has been involved in mediating these talks, with Axios reporting that Qatari mediators held extensive talks in Tehran aimed at reaching a deal to avoid a resumption of American-led attacks on Iran. The talks, which also involved Iranian negotiators in Doha, were aimed at ending the US-Israeli war on Iran. However, despite the intense negotiations, the Qatari-mediated US-Iran talks ended without a significant breakthrough. These developments have had a notable impact on oil prices, with Brent crude slipping below $105 following the initial speculation and market reaction to the peace talks.
 
-**「Impact」** This strategy could lead to increased investments and production in Venezuela, potentially altering the global oil market dynamics and affecting the competitive landscape for big oil companies operating in the Americas.
+**「Impact」** The speculation and subsequent dismissal of peace talks between the U.S. and Iran led to a temporary decline in oil prices, demonstrating how geopolitical tensions can significantly influence global oil markets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/List_of_countries_by_proven_oil_reserves">List of countries by proven oil reserves - Wikipedia</a></li>
-<li><a href="https://investingnews.com/daily/resource-investing/energy-investing/oil-and-gas-investing/top-oil-producing-countries/">10 Top Oil - producing Countries | INN</a></li>
-<li><a href="https://worldpopulationreview.com/country-rankings/oil-producing-countries">Oil Producing Countries 2026</a></li>
+<li><a href="https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html">Qatar in talks with Iran to restart U.S. negotiations, source ...</a></li>
+<li><a href="https://www.arabnews.com/middle-east/iranian-negotiators-in-doha-to-continue-talks-to-end-the-us-iran-war-official-says-3009168">Arab News | Iranian negotiators in Doha to continue talks to ...</a></li>
+<li><a href="https://www.jpost.com/middle-east/iran-news/article-913580">Qatari mediated US-Iran talks end with no breakthrough</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Events`, `#Global Oil Markets`, `#U.S. Foreign Policy`, `#Energy Industry`, `#Venezuela`
+**Tags**: `#U.S.-Iran relations`, `#Oil prices`, `#Commodity markets`, `#Peace talks`, `#Global financial markets`
 
 ---
 
 <a id="item-global-market-17"></a>
-### [Iranian Strike on Vessel Raises Maritime Security Concerns](https://oilprice.com/Energy/Energy-General/Rare-Iranian-Strike-On-Vessel-Hundreds-Of-Miles-From-Strait-Of-Hormuz.html) ⭐️ 7.0/10
+### [IEA Warns of Extended Global Gas Crunch](https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-Global-Gas-Crunch-Could-Last-Well-into-2027.html) ⭐️ 7.0/10
 
-An Emirati-owned tugboat was attacked off the coast of Saudi Arabia, hundreds of miles from the Strait of Hormuz, marking an unusual event that raises concerns about maritime security in the Persian Gulf region.
+The International Energy Agency \(IEA\) has warned that the global gas crunch, primarily affecting Europe and Asia, could persist well into 2027. This is due to low gas storage levels in Europe and the ongoing Strait of Hormuz crisis. Germany, the EU&\#x27;s largest economy, has missed its gas storage target, filling only about 61% of its storage capacity, which is problematic as it falls short of the 80% obligation for all EU member states.
 
-rss · OilPrice · Nov 2, 18:00
+rss · OilPrice · Nov 3, 16:30
 
-**「Historical Context of Iranian Maritime Threats」** Iran&\#x27;s geographic position and maritime capabilities have historically allowed the state to pursue altering the status quo in the region. Iran has a history of acting aggressively to create short-term tension, often employing asymmetric warfare tactics. This includes the use of sea-air-missile systems and other maritime threats. The US-Iran maritime relations have experienced periods of escalation, with the Tanker War serving as a notable historical precedent. These historical dynamics contribute to the current concerns regarding maritime security in the Persian Gulf region, particularly in relation to the unusual attack on an Emirati-owned tugboat hundreds of miles from the Strait of Hormuz.
+**「Global Gas Market Tightness and Strait of Hormuz Crisis」** The global gas market has been experiencing tightness due to factors such as low gas storage levels in Europe and the ongoing crisis at the Strait of Hormuz. This situation has been exacerbated by the strengthened interconnectivity of regional gas markets, which has been facilitated by expanded spot trading and an increase in destination-flexible LNG cargoes. The closure of the Strait of Hormuz has had a significant impact on gas markets in Europe and Asia, leading to large falls in LNG supply to these regions. Europe, in particular, has been disproportionately affected, with the potential for supply shortages and increased prices.
 
-**「Impact」** The attack could potentially disrupt oil shipping routes and increase geopolitical risks in the region.
+**「Impact」** The prolonged gas crunch is expected to lead to higher energy prices and could pose a significant challenge to the European Union&\#x27;s energy security, particularly during the upcoming heating season.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cimsec.org/iranian-maritime-threats-an-opportunity-for-the-u-s-navy/">Iranian Maritime Threats: An Opportunity for the U.S. Navy | Center for...</a></li>
-<li><a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/publication/140814_Iran_Sea_Missle_report.pdf">The Iranian Sea-Air-Missile</a></li>
-<li><a href="https://elmasir.com/en/2026/09/09/the-shifting-tides-of-attrition-how-the-us-iran-maritime-escalation-echoes-the-tanker-war/">The Shifting Tides of Attrition: How the US- Iran Maritime ... - El Masir</a></li>
+<li><a href="https://www.oxfordenergy.org/publications/closing-the-strait-of-hormuz-impact-on-the-global-gas-market-2/">Closing the Strait of Hormuz: Impact on the Global Gas Market</a></li>
+<li><a href="https://www.oxfordenergy.org/wpcms/wp-content/uploads/2026/03/Comment-Modelling-the-Impact-of-the-Strait-of-Hormuz-Closure.pdf">Modelling the Impact of the Strait of Hormuz - oxfordenergy.org</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2590332226001181">Closure of the Strait of Hormuz fuels Europe’s natural-gas ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Maritime Security`, `#Iran`, `#Strait of Hormuz`, `#Offshore Operations`, `#Geopolitical Risk`
+**Tags**: `#Energy Market`, `#Gas Crunch`, `#IEA Report`, `#Global Energy Policy`, `#Europe Energy Crisis`
 
 ---
 
 <a id="item-global-market-18"></a>
-### [TotalEnergies Forecasts Oil Demand Peak](https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Now-Sees-Oil-Demand-Peaking-Between-2035-and-2040.html) ⭐️ 7.0/10
+### [U.S. Conducts Secret Strikes on Iran&\#x27;s Qeshm Island](https://oilprice.com/Energy/Energy-General/US-Launches-Secret-Strikes-on-Iran-Ahead-of-Midterm-Elections.html) ⭐️ 7.0/10
 
-TotalEnergies has revised its forecast, now predicting oil demand to peak between 2035 and 2040, earlier than previously anticipated. This shift reflects potential acceleration of the energy transition, influenced by geopolitical events.
+The U.S. conducted secret strikes on Iran&\#x27;s strategic Qeshm Island, coinciding with the U.S. midterm elections. These strikes, part of a series of previously undisclosed military operations, could have significant implications for global financial markets.
 
-rss · OilPrice · Nov 2, 17:30
+rss · OilPrice · Nov 3, 15:00
 
-**「TotalEnergies Background」** TotalEnergies is a global integrated energy company that produces and markets various energies, including oil and biofuels, natural gas and green gases, renewables, and electricity. The company has been providing insights into the global energy market through its annual energy outlook reports. In September 2022, TotalEnergies published the TotalEnergies Energy Outlook 2022, which outlined the company&\#x27;s strategy and projections for the energy market. This report is a significant source for understanding TotalEnergies&\#x27; views on energy demand and the transition to renewable energy sources.
+**「Background on U.S. Secret Strikes on Iran&\#x27;s Qeshm Island」** The recent secret strikes by the U.S. on Iran&\#x27;s Qeshm Island, a strategically important location near the Strait of Hormuz, follow a series of previously undisclosed military operations against Iran. These strikes occurred just hours before the U.S. midterm elections and were conducted despite President Donald Trump&\#x27;s downplaying of the prospect of renewed large-scale fighting. The island is home to critical military infrastructure, including an underground missile facility and a naval base, making it a significant target in the context of regional security and geopolitical tensions. The U.S. military&\#x27;s Central Command \(CENTCOM\) has cited Iran&\#x27;s launch of missiles toward Kuwait and Bahrain as the trigger for the latest strikes on Qeshm Island.
 
-**「Impact」** This revised forecast may lead to increased investment in renewable energy and alternative fuels, as companies and investors anticipate a faster decline in oil demand.
+**「Impact」** The secret strikes on Iran&\#x27;s Qeshm Island may lead to increased geopolitical tensions, potentially affecting global financial markets and central bank policies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://totalenergies.com/">TotalEnergies - integrated multi- energy company | TotalEnergies .com</a></li>
-<li><a href="https://totalenergies.com/investors/investors-presentations">Investor presentations | TotalEnergies .com</a></li>
-<li><a href="https://www.fuelsandlubes.com/fli-article/totalenergies-reduces-demand-outlook-for-natural-gas/">TotalEnergies reduces demand outlook for natural gas - F&amp;L Asia</a></li>
+<li><a href="https://www.youtube.com/watch?v=E7MJSKbxDWc">Iran &#x27;s 81,700 Missiles &amp; Drones Put Israel On Alert After... - YouTube</a></li>
+<li><a href="https://interestingengineering.com/military/us-strikes-iran-qeshm-island">US strikes target Iran &#x27;s Qeshm Island and underground missile base</a></li>
+<li><a href="https://www.firstpost.com/explainers/why-us-targeted-iran-qeshm-island-strait-of-hormuz-conflict-14018232.html">Why has the US targeted Iran &#x27;s Qeshm Island in the Strait of Hormuz?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Energy Forecast`, `#Oil Demand`, `#TotalEnergies`, `#Energy Transition`, `#Geopolitical Events`
+**Tags**: `#Geopolitical Events`, `#Military Operations`, `#U.S. Foreign Policy`, `#Global Financial Markets`, `#Central Bank Policies`
 
 ---
 
 <a id="item-global-market-19"></a>
-### [Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-7-as-US-and-Iran-Signal-Room-for-Diplomacy.html) ⭐️ 7.0/10
+### [ADNOC Gas and TotalEnergies Sign Five-Year LNG Supply Deal](https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-to-Supply-LNG-to-TotalEnergies-Under-Five-Year-Deal.html) ⭐️ 7.0/10
 
-Oil prices dropped by nearly 7% following signals from the U.S. and Iran indicating a willingness to pursue diplomacy, reducing the war premium in the market. Brent crude fell to $105.60 per barrel, down $7.85, and WTI crude decreased to $96.92, down $7.20.
+ADNOC Gas has entered into a five-year agreement with TotalEnergies to supply up to 1.6 million tons of LNG. The first deliveries are set to commence this year, enhancing TotalEnergies&\#x27; position as a key LNG portfolio supplier.
 
-rss · OilPrice · Nov 2, 16:36
+rss · OilPrice · Nov 3, 12:30
 
-**「Historical Context of U.S.-Iran Relations」** The relationship between the United States and Iran has a long and complex history, with significant geopolitical implications for global oil markets. The two nations have been engaged in a tense relationship since the 1953 coup in Iran, which was orchestrated by the U.S. Central Intelligence Agency and the British government. This event led to the overthrow of Prime Minister Mohammad Mossadeq and the establishment of a more pro-Western government. Over the years, the relationship has been marked by various conflicts, including the 1979 Islamic Revolution in Iran, which resulted in the hostage crisis at the U.S. embassy in Tehran. The U.S. and Iran have also been involved in several military confrontations and have been at odds over nuclear proliferation. The recent signals of diplomacy between the U.S. and Iran are a continuation of efforts to improve relations that have been ongoing for several years.
+**「Background on TotalEnergies and LNG Market」** TotalEnergies, a French supermajor, operates across the entire oil and gas chain, including exploration, production, power generation, transportation, refining, marketing, and international trading. The company has a significant focus on Liquefied Natural Gas \(LNG\), which is crucial for energy security, especially in Europe where there has been a strong reduction in Russian pipeline gas deliveries. TotalEnergies is a major player in the LNG market, both as a buyer and seller, with a portfolio of approximately 44 million tons per annum across its various operations.
 
-**「Impact」** The reduction in oil prices is a direct consequence of the decreased war premium in the market, which has been lifted by the indication of diplomatic efforts between the U.S. and Iran.
+**「Impact」** This deal is expected to strengthen TotalEnergies&\#x27; market position in the LNG sector, potentially influencing LNG prices and market dynamics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Iran%E2%80%93United_States_relations">Iran–United States relations - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/topic/US-Iran-Relations-A-Timeline">U.S.-Iran Relations: A Timeline | 1953 Coup, Hostage Crisis ...</a></li>
-<li><a href="https://www.historians.org/resource/history-of-us-iran-relations/">History of US-Iran Relations - AHA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/TotalEnergies">TotalEnergies - Wikipedia</a></li>
+<li><a href="https://totalenergies.com/company/ambition/multi-energy-strategy/natural-gaz">Natural Gas , a Key Energy Source for the... | TotalEnergies .com</a></li>
+<li><a href="https://oilgasstoragenews.com/totalenergies-lng-deal-das-island-adnoc/">TotalEnergies LNG Deal: $800m Das Island Supply from 2026</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Prices`, `#Geopolitical Events`, `#Market Movement`, `#U.S.-Iran Diplomacy`, `#Energy Market`
+**Tags**: `#ADNOC Gas`, `#TotalEnergies`, `#LNG Supply`, `#Energy Market`, `#Commodity Deals`
+
+---
+
+<a id="item-global-market-20"></a>
+### [U.S. LNG Exports Reach Near-Record High Amid European Winter Demand](https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Exports-Near-Record-High-as-Europe-Scrambles-for-Winter-Supply.html) ⭐️ 7.0/10
+
+U.S. liquefied natural gas \(LNG\) exports have reached near-record highs, driven by increased demand from Europe ahead of the winter season. This surge in exports, which reached 6.89 million tons in Europe last month, has pushed LNG prices higher, while exports to Asia remained relatively stable.
+
+rss · OilPrice · Nov 3, 07:00
+
+**「European Energy Market Volatility and Global Energy Prices」** European energy markets have experienced significant volatility since 2021, which has had a substantial impact on global energy prices. This volatility is a result of various factors, including geopolitical tensions and changes in energy demand. The European Union&\#x27;s integrated internal energy market aims to maintain affordable energy and secure supplies, but the current market conditions reflect the challenges in achieving this goal. For instance, the increased demand for U.S. LNG exports in Europe, driven by the upcoming winter season, has led to higher LNG prices. This situation underscores the interconnectedness of global energy markets and the importance of flexible energy systems to facilitate cross-border and cross-sector innovation and investment.
+
+**「Impact」** The rise in U.S. LNG exports to Europe has significantly impacted global energy markets, particularly by increasing LNG prices.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://diversegy.com/global-impact-of-european-energy-market-volatility/">The Impact Of European Energy Market Volatility | Diversegy</a></li>
+<li><a href="https://www.reuters.com/business/energy/">reuters.com/business/ energy</a></li>
+<li><a href="https://energy.ec.europa.eu/index_en">Energy - European Commission</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#U.S. LNG Exports`, `#European Energy Market`, `#Commodity Prices`, `#Global Energy Policy`
+
+---
+
+<a id="item-global-market-21"></a>
+### [中国监管层暂停 IPO 与大规模减持以提振低迷股市](https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530) ⭐️ 7.0/10
+
+Chinese regulators halt IPOs and large share sell-offs to boost the struggling stock market.
+
+telegram · zaihuapd · Nov 3, 08:01
+
+**Tags**: `#Chinese stock market`, `#regulatory intervention`, `#IPO suspension`, `#market stability`, `#financial policy`
+
+---
+
+<a id="item-global-market-22"></a>
+### [普京下令俄罗斯私营数据中心预留10%算力](https://www.reuters.com/technology/putin-orders-private-data-centres-set-aside-10-capacity-support-it-2026-11-02/) ⭐️ 7.0/10
+
+俄罗斯总统普京下令，要求俄罗斯境内的非国有数据中心预留10%的场地和计算能力，以便政府在必要时调用，保障国内信息技术基础设施及信息资源正常运行。根据总统令，政府有权要求数据中心在24小时内提供使用权限。
+
+telegram · zaihuapd · Nov 3, 10:58
+
+**「Background on Russian Data Center Policy」** The Russian government has historically been focused on developing its IT infrastructure. This includes initiatives to promote high-tech industries and ensure cybersecurity. The recent order by President Putin to reserve 10% of private data center capacity for government use is a continuation of these efforts. It reflects the government&\#x27;s commitment to maintaining and securing IT infrastructure, which is crucial for national security and economic development. This policy is part of a broader trend of government intervention in the technology sector to ensure stability and control over critical digital resources.
+
+**「Impact」** 此政策可能对俄罗斯国内IT行业产生重大影响，可能导致数据中心运营商成本上升，并可能影响全球对俄罗斯技术产品的需求。
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://bbs.fobshanghai.com/thread-8988342-1-1.html">俄 罗 斯 莫 斯 科ICEE...</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BE%85%E6%96%AF%E8%81%AF%E9%82%A6%E5%AE%89%E5%85%A8%E5%B1%80">俄羅斯聯邦安全局 - 维基百科，自由的百科全书</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Russian IT Policy`, `#Data Center Regulation`, `#Government Intervention`, `#Technology Infrastructure`, `#Cybersecurity`
 
 ---
 
 ## AI Frontier
 
 <a id="item-ai-frontier-1"></a>
-### [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) ⭐️ 8.0/10
+### [Frontier LLMs Demonstrate Weight-Space Programming Capabilities](https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/) ⭐️ 8.0/10
 
-Astra demonstrates the ability to read and write weights to enhance the performance of Qwen, a large language model, sparking a discussion on the model&\#x27;s understanding of its own weights.
+Frontier large language models \(LLMs\), particularly GPT-6 Astra, have shown unexpected capabilities in reading and writing neural network weights. This development, known as Weight-Space Programming, allows LLMs to interpret and modify raw weights without executing code or running tools, potentially revolutionizing AI optimization and interpretability.
 
-hackernews · dbreunig · Nov 2, 18:21 · [Discussion](https://news.ycombinator.com/item?id=50341174)
+reddit · r/MachineLearning · /u/RobbinDeBank · Nov 2, 20:18
 
-**Tags**: `#Large Language Models`, `#AI Research`, `#Model Improvement`, `#Weight Space Learning`, `#AI Infrastructure`
+**「Understanding Weight-Space Programming with LLMs」** Weight-space programming refers to the ability of large language models \(LLMs\) to directly read and write neural network weights without the need for optimizers or gradient descent. This technique allows LLMs to interpret and modify the raw weights of a machine learning model, which can be a text description containing floating point numbers. The concept was first introduced in a paper by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab, where they demonstrated that frontier models, such as GPT-6 Astra, can not only understand what a network was trained to do by examining its weights but can also create and improve upon small game-playing networks without any environment feedback. This capability has significant implications for AI optimization and interpretability, as it allows for a deeper understanding and manipulation of neural network behaviors.
+
+**「Impact」** This breakthrough enables LLMs to understand and manipulate model behaviors directly from weights, which could significantly enhance the efficiency of AI optimization processes and provide deeper insights into model interpretability.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://rikiyat.github.io/blog/weight-space-programming/">Sparks of Weight - Space Programming : LLMs can natively read ...</a></li>
+<li><a href="https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/">LLMs are not superhuman at reading and writing neural network ...</a></li>
+<li><a href="https://explainx.ai/blog/weight-space-programming-gpt-6-astra-edits-qwen3-5-0-8b-weights-math-7-9-to-48-1-mit-csail-2026">GPT-6 Astra Edits Qwen Weights : MATH-500 7.9% to... | explainx.ai</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#Large Language Models`, `#Neural Network Weights`, `#Optimization`, `#Interpretability`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [Frontier LLMs Demonstrate Weight-Space Programming Abilities](https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/) ⭐️ 8.0/10
+### [sglang v0.5.23 Release Introduces New Models and Community Contributions](https://github.com/sgl-project/sglang/releases/tag/v0.5.23) ⭐️ 7.0/10
 
-Frontier large language models \(LLMs\) have shown an unexpected ability to natively read and write neural network weights, surpassing human capabilities and conventional algorithms. This development could significantly impact optimization and interpretability in AI.
+sglang v0.5.23 introduces multiple new models and significant community contributions, including LLM, VLM, and Diffusion models, enhancing the project&\#x27;s scope and research capabilities.
 
-reddit · r/MachineLearning · /u/RobbinDeBank · Nov 2, 20:18
+github · Fridge003 · Nov 2, 22:14
 
-**「Background on Large Language Models and Neural Network Weights」** Large Language Models \(LLMs\) are machine learning models, typically neural networks, trained on vast amounts of text for natural language processing tasks. Open-weight LLMs have gained more influence since 2023. The recent development in the field involves LLMs demonstrating an unexpected ability to natively read and write neural network weights, surpassing what was expected from humans or conventional algorithms. This capability could significantly impact optimization and interpretability in AI.
+**「Background on SGLang v0.5.23 Release」** SGLang is an open-source framework designed for fast and scalable inference of large language and multimodal models. The v0.5.23 release marks a significant milestone in the project&\#x27;s development, as it introduces multiple new models and incorporates substantial contributions from the community. This release builds upon the previous versions of SGLang, which have been focused on enhancing performance, expanding the range of supported models, and improving the framework&\#x27;s overall capabilities.
 
-**「Impact」** This breakthrough allows LLMs like GPT-6 Astra to interpret and manipulate neural network weights, potentially leading to more efficient optimization processes and enhanced interpretability of AI models.
+**「Impact」** The release enables faster prefill throughput and lower latency for DeepSeek-V4.1 on GB300, and supports MoE models larger than GPU memory on a single consumer GPU, offering improved performance and efficiency for developers and researchers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Large_language_model">Large language model - Wikipedia</a></li>
-<li><a href="https://rikiyat.github.io/blog/weight-space-programming/">Sparks of Weight -Space Programming: LLMs can natively read &amp; write...</a></li>
-<li><a href="https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/">LLMs are not superhuman at reading and writing neural network ...</a></li>
+<li><a href="https://github.com/sgl-project/sglang/releases">Releases · sgl-project/ sglang</a></li>
+<li><a href="https://www.sglang.io/">SGLang – Fast, Open-Source LLM &amp; Multimodal Serving Framework</a></li>
+<li><a href="https://hub.docker.com/r/lmsysorg/sglang/tags">lmsysorg/ sglang - Docker Image</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLMs`, `#Neural Network Weights`, `#AI Optimization`, `#AI Interpretability`
+**Tags**: `#AI Research`, `#Large Language Models`, `#AI Infrastructure`, `#AI-Powered Products`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [LightMIS: Ultra-lightweight Medical Image Segmentation Model](https://www.reddit.com/r/MachineLearning/comments/1xm8dbo/lightmis_ultralightweight_medical_image/) ⭐️ 8.0/10
+### [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology) ⭐️ 7.0/10
 
-LightMIS, an ultra-lightweight medical image segmentation model, has been developed to offer high efficiency and performance suitable for edge devices. The model boasts 131K parameters and aggregates multi-scale encoder features directly, achieving close observed modality-macro Dice and IoU averages to nnWNet while using significantly fewer parameters and computational complexity. LightMIS was tested on an edge device with an Arm Mali-G52 MC2 GPU, running around 10.5× faster than nnWNet, and achieved 100% GPU operator coverage without CPU fallback.
+Nvidia&\#x27;s open-source auto-ontology tool aims to simplify data integration across multiple databases, but community feedback suggests confusion and skepticism about its value compared to existing solutions.
 
-reddit · r/MachineLearning · /u/OkLion2068 · Nov 2, 20:22
+hackernews · campervans · Nov 3, 07:04 · [Discussion](https://news.ycombinator.com/item?id=50348962)
 
-**「Background on LightMIS」** LightMIS is a novel approach to 2D binary medical image segmentation that focuses on reducing the computational complexity and parameter count. This model aggregates multi-scale encoder features directly, eliminating the need for a learned stage-wise decoder. The development of LightMIS was driven by the need for a lightweight architecture that can perform well across various imaging modalities. The model has been benchmarked against existing models like nnWNet, demonstrating similar performance while using significantly fewer parameters and computational resources. This makes LightMIS particularly suitable for edge devices, where computational constraints are often more stringent.
+**Tags**: `#AI Infrastructure`, `#Data Integration`, `#NVIDIA`, `#Semantic Web`, `#AI-Powered Products`
 
-**「Impact」** The development of LightMIS enables more efficient and cost-effective medical image segmentation on edge devices, potentially leading to faster processing times and reduced computational requirements, which could improve accessibility and efficiency in healthcare settings.
+---
+
+<a id="item-ai-frontier-4"></a>
+### [Audio Data Analysis for Location Determination](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) ⭐️ 7.0/10
+
+A method has been discovered that uses audio data from videos to determine the exact location of the video. This method involves analyzing imperceptible background noise of planes in the soundtrack, identifying their Doppler curves, and cross-referencing this data against ADS-B data to calculate the location based on speed, distance, and flight gaps.
+
+rss · Simon Willison · Nov 3, 05:32
+
+**「Technical Background on Audio-Based Location Determination」** The method analyzed in the article involves using audio data from videos to determine location. This technique leverages the Doppler effect, where changes in the frequency of a sound wave are used to calculate the speed and direction of moving objects, such as planes. By analyzing the Doppler curves from the background noise of planes in a video, it is possible to cross-reference this data against ADS-B \(Automatic Dependent Surveillance-Broadcast\) data to pinpoint the exact location of the video. This method has been previously explored in academic research, such as the verification of ADS-B navigation information through Doppler shift measurements and aircraft classification based on instantaneous Doppler curve extraction. These studies provide a foundational understanding of the principles and techniques used in the analysis discussed in the article.
+
+**「Impact」** This discovery has significant implications for privacy, as it demonstrates a method that could potentially be used to track individuals based on audio data from publicly available videos.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2609.28327v1">LightMIS : Ultra-Lightweight Medical Image Segmentation Without...</a></li>
-<li><a href="https://huggingface.co/papers/2609.28327">Paper page - LightMIS : Ultra-Lightweight Medical Image ...</a></li>
-<li><a href="https://paperswithcode.co/paper/2609.28327">LightMIS : Ultra-Lightweight Medical Image Segmentation Without...</a></li>
+<li><a href="https://www.youtube.com/watch?v=UytYrhYLOKI">I discovered a sound that leaks your exact location ... - YouTube</a></li>
+<li><a href="https://www.researchgate.net/publication/308847373_Verifying_ADS-B_navigation_information_through_Doppler_shift_measurements">Verifying ADS - B navigation information through Doppler shift...</a></li>
+<li><a href="https://www.academia.edu/31178928/Aircraft_classification_based_on_instantaneous_Doppler_curve_extraction_of_VHF_band">(PDF) Aircraft classification based on instantaneous Doppler curve ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Medical Image Segmentation`, `#AI for Healthcare`, `#Edge Computing`, `#Model Efficiency`, `#Benchmarking`
+**Tags**: `#AI Research`, `#Privacy`, `#Audio Analysis`, `#AI-Powered Products`
+
+---
+
+<a id="item-ai-frontier-5"></a>
+### [Comprehensive Aggregation of Machine Learning Papers](https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/) ⭐️ 7.0/10
+
+A comprehensive aggregation of machine learning papers from major conferences, including ICML, NeurIPS, ICLR, CVPR, and AAAI, has been compiled. This aggregation covers papers accepted since 2016, totaling around 109k, and groups them into approximately 1,260 topics. It extracts results tables and ablations from 79k of these papers, providing insights into the evolution of AI research.
+
+reddit · r/MachineLearning · /u/latenticlabs · Nov 3, 05:09
+
+**「Comprehensive Aggregation of Machine Learning Papers」** The aggregation of machine learning papers from major conferences like ICML, NeurIPS, ICLR, CVPR, and AAAI since 2016 provides a detailed view of the evolution of AI research. This includes insights into benchmarks, methods tried, and expectations from reviewers, offering valuable information for those interested in AI research and large language models.
+
+**「Impact」** This aggregation offers valuable insights for AI researchers and developers, as it provides a detailed view of benchmarks, methods tried, and expectations from reviewers. It serves as a starting point for understanding the current state of research in various topics within machine learning.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://icml.cc/public/JournalToConference">The NeurIPS/ICLR/ICML Journal-to-Conference Track</a></li>
+<li><a href="https://algoverseairesearch.org/blog/icml-iclr-aaai-student-guide">Beyond NeurIPS: A Student&#x27;s Guide to ICML, ICLR, AAAI, and ...</a></li>
+<li><a href="https://trybibby.com/conference-deadlines/ml">ML Conference Deadlines 2026–2027 — NeurIPS, ICML, ICLR</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Machine Learning`, `#AI Research`, `#Benchmarking`, `#Conference Papers`
+
+---
+
+<a id="item-ai-frontier-6"></a>
+### [DeepSeek V5 to Use Huawei Ascend Chip for Training](https://www.eet-china.com/mp/a536460.html) ⭐️ 7.0/10
+
+DeepSeek V5, a new large-scale model, is set to utilize Huawei&\#x27;s Ascend chip for training, marking a shift in AI infrastructure. This development follows DeepSeek&\#x27;s recent open-source contribution to Ascend infrastructure components, including compilers, computation libraries, and distributed communication libraries.
+
+telegram · zaihuapd · Nov 3, 06:20
+
+**「Background on DeepSeek V5 and Huawei Ascend Chip」** DeepSeek V5, an upcoming large-scale model, is designed to leverage Huawei&\#x27;s Ascend chip for training. This development is significant as it marks a shift from using昇腾 chips primarily for inference tasks in DeepSeek models. Additionally, DeepSeek has recently opened sourced infrastructure components for the Ascend computing platform, including compilation tools, computational libraries, and distributed communication libraries, which are counterparts to those previously opened sourced for the NVIDIA platform. This move indicates a commitment to open-source infrastructure and collaboration in AI computing.
+
+**「Impact」** The use of Huawei&\#x27;s Ascend chip for training DeepSeek V5 could lead to improved performance and efficiency in AI model training, benefiting developers and researchers by providing a more robust and scalable infrastructure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20261103A07YRG00">传DeepSeek V5明年有望基于华为升腾950芯片完成训练</a></li>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_34394524">DeepSeek V5计划基于华为昇腾算力进行训练_澎湃号·媒体_澎湃新闻-The ...</a></li>
+<li><a href="https://www.techritual.com/2026/11/03/597357/">DeepSeek V5 計劃採用華為昇騰 950 晶片進行訓練，推進國產算力應用 |...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Infrastructure`, `#Model Release`, `#DeepSeek`, `#Huawei Ascend`, `#Open Source`
 
 ---
 
 ## IT &amp; Open Source
 
 <a id="item-it-opensource-1"></a>
-### [Linux 7.4-rc1 Release](https://www.solidot.org/story?sid=85770) ⭐️ 8.0/10
+### [LLMs&\#x27; Limitations in Neural Network Weight Manipulation](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/) ⭐️ 7.0/10
 
-Linux 7.4-rc1 has been released with a record number of changes and contributions, including AI-related features and enhancements to hardware support. This release features 18,591 non-merge changes and contributions from 2,678 developers, marking a significant milestone in the Linux ecosystem.
+The article discusses the limitations of LLMs in manipulating neural network weights, questioning their superhuman status. It highlights that while LLMs like GPT-6 Astra can interact with weights and improve models, these capabilities are not as groundbreaking as initially thought, as they can be replicated by skilled human ML researchers.
 
-rss · Solidot · Nov 2, 07:22
+rss · Sean Goedecke · Nov 3, 00:00
 
-**「Linux 7.4-rc1 Background」** Linux 7.4-rc1 represents a significant milestone in the Linux kernel development, featuring a record number of non-merge changes and contributions. This release candidate includes a substantial number of commits, with nearly 20,000, which is notably higher than the usual 15,000 commits seen in a typical kernel release. The merge window for Linux 7.4 was particularly busy, reflecting a growing trend of integrating AI-related features and enhancements into the kernel. This integration is seen as a positive development by Linus Torvalds, who emphasizes the importance of AI work in the merge window.
+**「Understanding LLMs and Neural Network Weights」** Language Learning Models \(LLMs\), such as GPT-6 Astra, have demonstrated the ability to directly interact with neural network weights. This capability, which includes identifying the games a network was trained to play by examining its weights and even tweaking these weights to improve performance, has sparked discussions about the potential for recursive self-improvement in AI. However, the article argues that these abilities are not as superhuman as they might seem, as they can be replicated by competent human ML researchers. The process of identifying and adjusting weights is akin to the traditional approach of writing source code and compiling it, suggesting that the best way to update model weights remains through normal training processes.
 
-**「Impact」** The inclusion of AI-related features and hardware support enhancements in Linux 7.4-rc1 is expected to have a concrete impact on developers, enabling them to leverage advanced AI capabilities and improved hardware support in their projects.
+**「Impact on AI Research」** The analysis suggests that while LLMs like GPT-6 Astra can manipulate neural network weights, their capabilities are not as superhuman as initially perceived. This has implications for AI research, as it indicates that the best approach to updating model weights remains traditional training methods, rather than direct manipulation by LLMs. This understanding could influence the direction of future AI research and development.
+
+**「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.howtogeek.com/linux-74-rc1-released/">Linux 7.4 lands with a massive flood of AI patches and record ...</a></li>
-<li><a href="https://shattered.io/linux-7-4-rc1-19671-commits-torvalds-ai-healthier-2026/">Linux 7.4-rc1: 19,671 Commits, AI Work ‘Healthier’ [2026]</a></li>
+<li><a href="https://www.youtube.com/watch?v=wXJDtImT_-0">GPT - 6 Astra Made Qwen 6x Better at Math Without Training - YouTube</a></li>
+<li><a href="https://www.linkedin.com/pulse/agi-has-arrived-measurement-problem-hasnt-diego-li%C3%B1an-atzlf">Has AGI Arrived? GPT - 6 Astra and the Measurement Problem</a></li>
+<li><a href="https://neuralspace.pro/en/blog/gpt-6-astra-neuralspace/">GPT - 6 Astra in NeuralSpace: complex work, coding</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Recursive_self-improvement">Recursive self-improvement - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2607.04277v2">Self-Referential Introspection in Large Language Models: the ...</a></li>
+<li><a href="https://www.mdpi.com/1099-4300/28/9/951">Self-Referential Introspection in Large Language Models: The ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux`, `#Open Source`, `#Software Engineering`, `#AI Integration`, `#Hardware Support`
+**Tags**: `#LLMs`, `#Neural Network Weights`, `#Machine Learning`, `#Recursive Self-Improvement`, `#AI Capabilities`
 
 ---
