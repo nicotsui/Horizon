@@ -136,7 +136,7 @@ class AIProvider(str, Enum):
 # Provider-specific defaults used by setup and provider-chain expansion.
 AI_PROVIDER_DEFAULTS = {
     AIProvider.ANTHROPIC: {
-        "model": "claude-3-5-sonnet-20241022",
+        "model": "claude-sonnet-5-5",
         "api_key_env": "ANTHROPIC_API_KEY",
         "base_url": None,
     },
@@ -270,6 +270,7 @@ class HackerNewsConfig(BaseModel):
 class ExtractorType(str, Enum):
     TRAFILATURA = "trafilatura"
     FIRECRAWL = "firecrawl"
+    OUTCRAWL = "outcrawl"
 
 
 class TrafilaturaExtractorConfig(BaseModel):
@@ -284,8 +285,14 @@ class FirecrawlExtractorConfig(BaseModel):
     only_main_content: bool = True
 
 
+class OutcrawlExtractorConfig(BaseModel):
+    type: Literal[ExtractorType.OUTCRAWL] = ExtractorType.OUTCRAWL
+    api_key_env: str = "OUTCRAWL_API_KEY"
+    only_main_content: bool = True
+
+
 ExtractorConfig = Annotated[
-    Union[TrafilaturaExtractorConfig, FirecrawlExtractorConfig],
+    Union[TrafilaturaExtractorConfig, FirecrawlExtractorConfig, OutcrawlExtractorConfig],
     Field(discriminator="type"),
 ]
 
