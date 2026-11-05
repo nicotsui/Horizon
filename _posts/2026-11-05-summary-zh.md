@@ -5,986 +5,1060 @@ date: 2026-11-05
 lang: zh
 ---
 
-> 从 290 条内容中筛选出 40 条重要资讯。
+> 从 301 条内容中筛选出 40 条重要资讯。
 
 ---
 
+**A 股与宏观**
+1. [何立峰强调科技创新与产业创新深度融合](#item-cn-macro-1) ⭐️ 7.0/10
+2. [多邻国股价暴涨 26%，AI 投资进入新阶段？](#item-cn-macro-2) ⭐️ 7.0/10
+3. [OpenAI 调整数据中心项目推进方式](#item-cn-macro-3) ⭐️ 7.0/10
+4. [反 AI 运动对 AI 产业的影响分析](#item-cn-macro-4) ⭐️ 7.0/10
+5. [Ed Yardeni：通胀或将降温，5%收益率美债具吸引力](#item-cn-macro-5) ⭐️ 7.0/10
+6. [美光 300 亿晶圆厂停建事件](#item-cn-macro-6) ⭐️ 7.0/10
+7. [德国 10 月车市：中国品牌竞争升温](#item-cn-macro-7) ⭐️ 7.0/10
+8. [丰田与清华合研镍氢储能系统，瞄准火电厂调频](#item-cn-macro-8) ⭐️ 7.0/10
+9. [港股市场强势反弹，科技股领涨](#item-cn-macro-9) ⭐️ 7.0/10
+10. [美国中期选举影响：AI 硬件受挫，港股 A 股上涨](#item-cn-macro-10) ⭐️ 7.0/10
+11. [潘功胜谈支持资本市场货币政策工具实施](#item-cn-macro-11) ⭐️ 7.0/10
+
 **全球市场**
-1. [俄罗斯袭击乌克兰援助中心，造成数十人死亡和失踪](#item-global-market-1) ⭐️ 9.0/10
-2. [美国中期选举后，10 年期国债收益率下降，油价下跌](#item-global-market-2) ⭐️ 7.0/10
-3. [白宫将于 12 月 14 日举行美联储库克听证会](#item-global-market-3) ⭐️ 7.0/10
-4. [巴拉圭银行危机引发弹劾总统呼吁](#item-global-market-4) ⭐️ 7.0/10
-5. [民主党掌控的国会可能挑战美国对以色列长期支持](#item-global-market-5) ⭐️ 7.0/10
-6. [美国外交政策变化解读](#item-global-market-6) ⭐️ 7.0/10
-7. [深度解析：民主党全面胜选将如何改变美国能源政策](#item-global-market-7) ⭐️ 7.0/10
-8. [大选使美联储的监管框架更加严格，但独立性仍面临风险](#item-global-market-8) ⭐️ 7.0/10
-9. [美国对印度和土耳其实施制裁影响全球金融市场](#item-global-market-9) ⭐️ 7.0/10
-10. [特朗普在伊朗问题上面临艰难抉择](#item-global-market-10) ⭐️ 7.0/10
-11. [民主党中期选举胜利推动科技巨头股价飙升 7500 亿美元](#item-global-market-11) ⭐️ 7.0/10
-12. [欧洲芯片初创企业获 5.25 亿欧元投资](#item-global-market-12) ⭐️ 7.0/10
-13. [民主党在参议院的胜利对特朗普重塑司法体系的努力的影响](#item-global-market-13) ⭐️ 7.0/10
-14. [民主党大胜引发市场新担忧](#item-global-market-14) ⭐️ 7.0/10
-15. [英国电动汽车注册量激增 54%，占据市场份额的三分之一](#item-global-market-15) ⭐️ 7.0/10
-16. [美国中期选举对全球金融市场的影响分析](#item-global-market-16) ⭐️ 7.0/10
-17. [民主党在中期选举中全面获胜后，纽约证券交易所开盘](#item-global-market-17) ⭐️ 7.0/10
-18. [乌克兰无人机袭击引发俄罗斯电商平台火灾](#item-global-market-18) ⭐️ 7.0/10
-19. [民主党在中期选举中夺回国会控制权分析](#item-global-market-19) ⭐️ 7.0/10
-20. [甲骨文放弃与腾讯 70 亿美元 AI 交易](#item-global-market-20) ⭐️ 7.0/10
-21. [分析师对美国中期选举结果作出反应分析](#item-global-market-21) ⭐️ 7.0/10
-22. [伊朗革命卫队报告四艘油轮在霍尔木兹海峡附近触雷起火](#item-global-market-22) ⭐️ 7.0/10
-23. [非洲 LNG 出口预计增长 175%，买家逃离霍尔木兹海峡](#item-global-market-23) ⭐️ 7.0/10
-24. [Butane’s Perfect Storm Sends Prices to Decade Highs](#item-global-market-24) ⭐️ 7.0/10
-25. [卡塔尔成为美国 LNG 最大买家](#item-global-market-25) ⭐️ 7.0/10
-26. [COP31 电化目标能否实现：廉价电池的作用](#item-global-market-26) ⭐️ 7.0/10
-27. [伊朗战争和 AI 繁荣推动全球天然气供应紧张](#item-global-market-27) ⭐️ 7.0/10
-28. [阿联酋考虑第三条霍尔木兹海峡绕行管道计划](#item-global-market-28) ⭐️ 7.0/10
-29. [极地涡旋威胁欧洲天然气储备](#item-global-market-29) ⭐️ 7.0/10
-30. [油价暴跌 9%，特朗普和范斯将中期选举失利归咎于伊朗战争](#item-global-market-30) ⭐️ 7.0/10
-31. [Dangote 在纳米比亚启动 25 亿美元燃料枢纽项目](#item-global-market-31) ⭐️ 7.0/10
-32. [布伦特原油价格下跌至每桶 100 美元，交易员押注美伊协议](#item-global-market-32) ⭐️ 7.0/10
-33. [特朗普夫人主持俄乌会谈](#item-global-market-33) ⭐️ 7.0/10
+1. [巴金预计将逐步提高利率](#item-global-market-1) ⭐️ 7.0/10
+2. [美国中期选举后 10 年期国债收益率下降，油价下跌](#item-global-market-2) ⭐️ 7.0/10
+3. [印度指出，针对金融机构的网络攻击活动中使用了与中国有关联的人工智能工具](#item-global-market-3) ⭐️ 7.0/10
+4. [韩国将于 2029 年对数字资产开征税款](#item-global-market-4) ⭐️ 7.0/10
+5. [伊朗革命卫队称两艘油轮和一艘拖船在霍尔木兹海峡起火](#item-global-market-5) ⭐️ 7.0/10
+6. [白宫将就美联储库克举行听证会](#item-global-market-6) ⭐️ 7.0/10
+7. [巴拉圭银行危机引发议员弹劾总统呼吁](#item-global-market-7) ⭐️ 7.0/10
+8. [美国外交政策变化解读](#item-global-market-8) ⭐️ 7.0/10
+9. [大选使美联储的监管框架更加严格，但独立性仍面临风险](#item-global-market-9) ⭐️ 7.0/10
+10. [美国对印度和土耳其企业及个人实施制裁](#item-global-market-10) ⭐️ 7.0/10
+11. [欧洲芯片初创企业获 5.25 亿欧元投资](#item-global-market-11) ⭐️ 7.0/10
+12. [英国电动汽车注册量激增 54%，占据市场份额的三分之一](#item-global-market-12) ⭐️ 7.0/10
+13. [欧洲天然气价格因伊朗协议希望和美国中期选举后下降](#item-global-market-13) ⭐️ 7.0/10
+14. [美国国防部考虑 75 年协议以结束中国对稀土的垄断](#item-global-market-14) ⭐️ 7.0/10
+15. [Butane’s Perfect Storm Sends Prices to Decade Highs](#item-global-market-15) ⭐️ 7.0/10
+16. [储存芯片涨价对苹果 iPhone 利润的影响](#item-global-market-16) ⭐️ 7.0/10
+17. [美光暂停台湾 45 亿美元芯片工厂建设](#item-global-market-17) ⭐️ 7.0/10
 
 **AI 前沿**
-1. [Tencent Hy4](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [OpenAI to acquire Pierre Computer Company](#item-ai-frontier-2) ⭐️ 7.0/10
-3. [大型语言模型可证明推理的进展](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [内核安全漏洞分析及对 AI 基础设施的影响](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [AI 推动解决 40 年技术债务](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [招商局狮子山人工智能实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [清华团队利用果蝇大脑接线图提升具身智能适应性](#item-ai-frontier-7) ⭐️ 7.0/10
+1. [中国科大 RNA 基础模型登 Nature](#item-ai-frontier-1) ⭐️ 8.0/10
+2. [SSH 配置漏洞讨论](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [淘宝 MNN 团队开源 0.3B 手机模型，iPhone 18 Pro 上离线跑出 350 token/s](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [DialFork：对话代理程序幻觉基准](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [火星裂缝上方氯化氢探测或指示火山活动](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [华为云发布 openPangu-2.1-Pro](#item-ai-frontier-6) ⭐️ 7.0/10
+
+**IT 与开源**
+1. [白宫网络监测到住宅代理活动](#item-it-opensource-1) ⭐️ 7.0/10
+2. [Bazzite 45 发布](#item-it-opensource-2) ⭐️ 7.0/10
+3. [Google 和 OpenAI 模型对特定口音存在偏见](#item-it-opensource-3) ⭐️ 7.0/10
+4. [富钾盐预防死亡](#item-it-opensource-4) ⭐️ 7.0/10
+5. [AMD 营收预计将首次超过英特尔](#item-it-opensource-5) ⭐️ 7.0/10
+6. [韩国游戏 PC 启动器被植入恶意代码](#item-it-opensource-6) ⭐️ 7.0/10
+
+---
+
+## A 股与宏观
+
+<a id="item-cn-macro-1"></a>
+### [何立峰强调科技创新与产业创新深度融合](https://wallstreetcn.com/livenews/3195155) ⭐️ 7.0/10
+
+中国国务院副总理何立峰强调，要加快高水平科技自立自强，强化科技创新与产业创新深度融合，推动经济持续向新向优向好发展。
+
+rss · 华尔街见闻 · 11月5日 13:45
+
+**「背景信息」** 何立峰副总理的调研强调了科技创新与产业创新深度融合的重要性，这是基于中国当前经济结构转型和高质量发展的需求。近年来，中国政府一直在推动科技创新，特别是在人工智能、智能制造和生物医药等领域。这些领域的创新被视为推动经济持续向新向优向好发展的关键。此外，政府也在加大对新型基础设施建设的投资，以支持科技创新和产业升级。（来源：新华社）
+
+**「影响」** 这一政策指导将对科技创新和产业创新领域产生积极影响，有助于提升企业的国际竞争力，并推动经济持续健康发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.news.cn/politics/leaders/20261105/b98c16e6c64a480d88820e6836c37022/c.html">何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持...</a></li>
+<li><a href="https://www1.xinhuanet.com/politics/20261105/267507281f6b45b28150654bd554f9dd/c.html">何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持...</a></li>
+<li><a href="https://www.yicai.com/news/103428279.html">何立峰在北京调研时指出 强化科技创新与产业创新深度融合 推动经济持...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Technology Policy`, `#Economic Development`, `#Innovation`, `#Government Guidance`, `#Market Trends`
+
+---
+
+<a id="item-cn-macro-2"></a>
+### [多邻国股价暴涨 26%，AI 投资进入新阶段？](https://wallstreetcn.com/member/articles/3785245) ⭐️ 7.0/10
+
+多邻国股价在 11 月 4 日美股收盘时上涨 25.84%，标志着市场对 AI 投资的叙事发生了反转。此前，多邻国被视为 AI 潜在的受害者，但现在其财报显示，公司正在将 AI 模型能力嵌入教学产品，并受益于成本下降扩大功能覆盖。
+
+rss · 华尔街见闻 · 11月5日 13:18
+
+**「背景信息」** 在过去的几年中，人工智能（AI）技术的快速发展引发了市场对于 AI 可能取代某些行业的担忧。多邻国（Duolingo）作为一家语言学习平台，曾一度被视为 AI 技术的潜在受害者。然而，随着 AI 技术的不断成熟和应用，多邻国开始利用 AI 技术提升自身的产品和服务，从而实现了股价的上涨。这一变化表明，AI 投资可能正在进入一个新的阶段，即市场开始关注 AI 创造的应用层收入。此外，AI 技术的普及和 Token 成本的下降，也为 AI 在各行各业的应用提供了新的机遇。
+
+**「影响」** 多邻国股价的上涨可能预示着 AI 投资的新阶段，即随着模型能力的普及和 Token 成本的下降，市场开始关注 AI 创造的应用层收入。这可能对拥有 AI 无法轻易复制的关键资源的企业产生积极影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/market-called-duolingo-ai-casualty-022054320.html?fr=sycsrp_catchall">The Market Called Duolingo an AI Casualty. Its Users Just ...</a></li>
+<li><a href="https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-changed-strong-user-191014109.html?fr=sycsrp_catchall">Duolingo Stock What Changed After Strong User Growth And ...</a></li>
+<li><a href="https://www.investing.com/analysis/duolingos-ai-push-the-bear-and-bull-case-for-the-stock-price-200661860">Duolingo’s AI Push: The Bear and Bull Case for the Stock ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Investments`, `#Stock Market`, `#Duolingo`, `#AI Applications`, `#Market Trends`
+
+---
+
+<a id="item-cn-macro-3"></a>
+### [OpenAI 调整数据中心项目推进方式](https://wallstreetcn.com/articles/3785289) ⭐️ 7.0/10
+
+OpenAI 宣布调整数据中心项目推进方式，以回应美国社区对 AI 基础设施扩张的抵制。公司承诺在数据中心协议谈判中不签署保密协议，并确保当地居民无需承担电力消耗费用。此外，OpenAI 还承诺公开披露噪音、用水及能源使用等方面对社区的潜在影响，并在用电高峰期减少电力消耗。
+
+rss · 华尔街见闻 · 11月5日 12:58
+
+**「背景信息」** OpenAI 的数据中心项目旨在支持其人工智能技术的发展。然而，这些项目在美国各地遭到了社区的强烈抵制，主要原因是担心项目对当地环境、噪音、水资源和能源消耗的影响。此前，数据中心行业在政治层面并未受到过多的关注，但随着选举结果的揭晓，特别是民主党在多个州长选举中的胜出，数据中心行业可能面临更严格的地方审查和阻力。这些变化迫使 OpenAI 调整其数据中心项目的推进方式，以回应社区的关注和反对。
+
+**「影响」** 对于投资者而言，OpenAI 对数据中心项目的调整可能意味着 AI 基础设施扩张的速度和节奏面临更大的不确定性。地方政治阻力已从舆论层面上升为可量化的项目风险，这将对相关投资产生重要影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tiktok.com/discover/open-ai-data-center">Open Ai Data Center | TikTok</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gargantuan-data-center-is-even-bigger-than-elon-musks-xai-colossus-worlds-largest-300-mw-ai-data-center-in-texas-could-reach-record-1-gigawatt-scale-by-next-year">OpenAI &#x27;s gargantuan data center is even bigger... | Tom&#x27;s Hardware</a></li>
+<li><a href="https://datacenternews.org/project-camellia-data-center/">Project Camellia Data Center : OpenAI &#x27;s 3.2 GW Georgia Campus</a></li>
+<li><a href="https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html">OpenAI releases new data center policy proposal after ... - CNBC</a></li>
+<li><a href="https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html">OpenAI data center pivot underscores Wall Street IPO concerns</a></li>
+<li><a href="https://www.datacenters.com/news/what-openai-s-750-billion-infrastructure-plan-means-for-data-center-capacity">OpenAI&#x27;s $750 Billion Infrastructure Plan and Data Centers</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Industry`, `#Data Center Policy`, `#Community Engagement`, `#Regulatory Changes`
+
+---
+
+<a id="item-cn-macro-4"></a>
+### [反 AI 运动对 AI 产业的影响分析](https://wallstreetcn.com/articles/3785285) ⭐️ 7.0/10
+
+美国中期选举结果显示，民主党在多个关键州取得胜利，承诺暂停或收紧数据中心建设审批。这可能导致美国 AI 基础设施扩张遭遇阻力，但科技作者 Derek Thompson 认为，这反而可能帮助 AI 行业避免泡沫，中长期内对行业有益。
+
+rss · 华尔街见闻 · 11月5日 11:51
+
+**「背景信息」** 近年来，随着人工智能技术的快速发展，相关基础设施建设也迅速扩张。然而，这种快速扩张也引发了一些担忧，包括可能出现的市场泡沫和资源过度消耗。在此背景下，一些反对人工智能发展的声音开始出现，尤其是在数据中心建设方面。这些反对声音主要来自当地居民和环保组织，他们担心数据中心的建设会对环境造成影响，并可能推高居民电费。此外，一些政治人物也开始对数据中心建设提出质疑，认为其可能对当地经济和社会造成负面影响。
+
+**「影响」** 反 AI 运动虽然可能短期内对 AI 股票和产业链造成压力，但从中长期来看，它可能有助于避免 AI 行业泡沫。这是因为反 AI 运动可能放慢数据中心建设，从而让需求有时间追上供给，减少未来供给过剩的风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Derek_Thompson_%28journalist%29">Derek Thompson (journalist) - Wikipedia</a></li>
+<li><a href="https://www.theatlantic.com/author/derek-thompson/">Derek Thompson - The Atlantic</a></li>
+<li><a href="https://www.derekthompson.org/about">About - Derek Thompson</a></li>
+<li><a href="https://ai2.work/blog/march-against-the-machines-the-anti-ai-protest-movement-of-2026">March Against the Machines: The Anti-AI Protest Movement of 2026</a></li>
+<li><a href="https://ai2.work/blog/inside-the-growing-anti-ai-movement-that-tech-giants-cannot-ignore">Inside the Growing Anti-AI Movement That Tech Giants Cannot ...</a></li>
+<li><a href="https://www.chosun.com/english/industry-en/2026/10/05/PMAGZXYT3FEDNLFGHPBSGSKMQI/">Silicon Valley Anti-AI Movement Grows, Pressuring Big Tech</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Industry`, `#Market Dynamics`, `#Policy Impact`, `#Infrastructure Development`, `#Economic Analysis`
+
+---
+
+<a id="item-cn-macro-5"></a>
+### [Ed Yardeni：通胀或将降温，5%收益率美债具吸引力](https://wallstreetcn.com/articles/3785286) ⭐️ 7.0/10
+
+知名华尔街策略师 Ed Yardeni 认为，通胀可能降温，5%收益率的美债对投资者具有吸引力。他预计未来十年通胀中枢约在 2%至 2.5%，实际回报率约为 2.5%。
+
+rss · 华尔街见闻 · 11月5日 11:44
+
+**「背景信息」** Ed Yardeni 是一位知名的经济学家，他在华尔街享有盛誉，因推广以标普 500 指数远期盈利收益率对比十年期美债收益率来衡量股票估值的&\#x27;美联储模型&\#x27;框架而知名。Yardeni Research 提供经济研究和建议，其分析对追踪中国宏观经济和 A 股市场的读者具有重要价值。近期，美国十年期国债收益率已接近 5%，Yardeni 认为这一水平对投资者具有吸引力，前提是对生产率驱动通胀降温保持信心。此外，他预计未来十年通胀中枢约在 2%至 2.5%之间，实际回报率同样约为 2.5%，这表明当前美债的风险收益比在历史上处于较为合理的区间。
+
+**「对投资者的具体影响」** 对于寻求确定性回报的投资者来说，当前美债的风险收益比处于较为合理的区间，具有实质性吸引力。预计未来十年通胀大致维持在 2%至 2.5%，若收益率保持在 5%附近，实际回报率可达 2.5%左右，这为投资者提供了较好的投资机会。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ed_Yardeni">Ed Yardeni - Wikipedia</a></li>
+<li><a href="https://yardeni.com/about">About Us | Yardeni Research</a></li>
+<li><a href="https://archive.yardeni.com/yardeni-bio/">Yardeni Bio • Yardeni Research</a></li>
+<li><a href="https://www.cnbc.com/markets/bonds/">Bonds &amp; Rates</a></li>
+<li><a href="https://www.youtube.com/watch?v=ywTjtkDY4Zg">U . S . Bond Market ’ s Dramatic Collapse Just Sent A Dire... - YouTube</a></li>
+<li><a href="https://www.washingtontimes.com/news/2014/jun/29/baffled-by-belgium-burst-of-us-bond-buying-raised-/">Baffled by Belgium: Burst of U . S . bond -buying raised questions...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Inflation`, `#Bond Market`, `#Economic Analysis`, `#Market Trends`, `#Investment Strategy`
+
+---
+
+<a id="item-cn-macro-6"></a>
+### [美光 300 亿晶圆厂停建事件](https://wallstreetcn.com/articles/3785284) ⭐️ 7.0/10
+
+美光公司因劳资纠纷和项目不确定性，暂停了其在台湾桃园市建设价值 45 亿美元的存储芯片工厂。这一决定影响了全球存储芯片市场，并对美光在台湾的扩张计划产生重大影响。
+
+rss · 华尔街见闻 · 11月5日 11:12
+
+**「背景信息」** 美光公司（Micron）在台湾桃园市建设一座价值 45 亿美元的存储芯片工厂的计划暂停，这一决定与当地持续发酵的劳资纠纷有关。美光管理层对于项目面临的不确定性日益担忧，包括此前与当地工会达成的协议存在被推翻的风险。美光在台湾拥有约 1.5 万名员工，是其重要的 DRAM 生产基地之一，同时也承担着先进 DRAM、HBM 相关生产及封装测试任务。台湾在美光全球存储芯片版图中的重要地位不言而喻，此次事件对美光的全球存储战略产生了影响。
+
+**「影响」** 美光在中国台湾的存储芯片工厂建设暂停将对全球存储芯片市场产生影响。由于劳资纠纷和项目不确定性，美光暂停了价值 45 亿美元的工厂建设，这可能导致存储芯片供应紧张，影响相关产业链。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/TSMC">TSMC - Wikipedia</a></li>
+<li><a href="https://www.statista.com/topics/7097/taiwan-semiconductor-manufacturing-company/">Taiwan Semiconductor Manufacturing Company - statistics... | Statista</a></li>
+<li><a href="https://www.tiktok.com/discover/micron-company-in-taiwan">Micron Company in Taiwan | TikTok</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements">Micron &#x27; s Taiwan union will launch a one-day strike... | Tom&#x27;s Hardware</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2021/03/taiwan-drought-japanese-fab-fires-snarl-semiconductor-supply-chain/">Fab fires and drought threaten to make chip shortages... - Ars Technica</a></li>
+<li><a href="https://www.tiktok.com/discover/where-is-micron-being-built-in-new-york">Where Is Micron Being Built in New York | TikTok</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor industry`, `#Micron`, `#Taiwan`, `#labor disputes`, `#storage chip market`
+
+---
+
+<a id="item-cn-macro-7"></a>
+### [德国 10 月车市：中国品牌竞争升温](https://wallstreetcn.com/articles/3785278) ⭐️ 7.0/10
+
+2023 年 10 月，中国汽车品牌在德国市场表现强劲，零跑汽车销量接近名爵，两家品牌差距缩小至 479 辆。名爵 10 月上牌量同比增长近五成，达到 4140 辆，而零跑上牌量接近去年同期的四倍，达到 3661 辆。纯电动汽车在德国市场占比显著增加，达到新车的 37%。
+
+rss · 华尔街见闻 · 11月5日 10:01
+
+**「德国汽车市场背景」** 德国作为全球重要的汽车市场，近年来正经历着电动化转型的关键阶段。2026 年，德国车企纯电平台的大规模落地成为关键节点，MEB、PPE 等平台车型密集上市。此外，800V 高压快充技术与固态电池的研发竞赛也进入白热化阶段，旨在解决里程焦虑与补能效率问题。智能化与网联化方面，L3 级自动驾驶技术的研究和应用也在不断推进。这些技术进步和政策导向为新能源汽车在德国市场的增长提供了有利条件。
+
+**「影响」** 中国品牌汽车在德国市场的销量增长，尤其是零跑和名爵的竞争加剧，对投资者来说是一个重要信号。这表明，随着欧洲市场对电动汽车需求的增加，中国品牌有机会扩大其市场份额。投资者应关注这些品牌在欧洲市场的进一步扩张，以及它们如何应对当地竞争和政策变化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://max.book118.com/html/2026/0921/8120013017010130.shtm">2026德国汽车工业市场发展分析及趋势前景与投资战略研究报告.docx-原...</a></li>
+<li><a href="https://www.ccpit.org/germany/a/20260126/202601262682.html">德国汽车行业2025年总结及2026年展望 - ccpit.org</a></li>
+<li><a href="https://zh.accio.com/business/%E5%BE%B7%E5%9B%BD%E6%B5%81%E8%A1%8C%E8%BD%A6%E5%9E%8B">2026德国流行车型：电动化趋势引领市场</a></li>
+<li><a href="https://paper.people.com.cn/rmrb/pc/attachement/202606/05/4c173b86-75aa-47de-8a8c-ea8d7b8cf13b.pdf">Cube</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Chinese car market`, `#Germany`, `#automotive sales`, `#market trends`, `#regulatory changes`
+
+---
+
+<a id="item-cn-macro-8"></a>
+### [丰田与清华合研镍氢储能系统，瞄准火电厂调频](https://wallstreetcn.com/articles/3785276) ⭐️ 7.0/10
+
+丰田汽车与清华大学联合研发的镍氢电池储能系统在上海举行的第九届中国国际进口博览会上首次亮相。该系统预计将从 2027 年底开始应用于火电厂，用于调节电力输出。丰田预计这套设备将有助于提高火电厂的调频能力。
+
+rss · 华尔街见闻 · 11月5日 10:00
+
+**「背景信息」** 丰田汽车与清华大学在能源存储领域的合作并非首次。丰田在混动汽车领域研发镍氢电池已有近三十年的历史，其快充快放的特点非常适合电厂调频。此外，丰田还曾与日本能源企业 JERA 合作，在日本四日市火电站内投运了采用 SWEEP 技术的储能设备。这些合作和项目表明，丰田在储能技术方面有着丰富的经验和深入的研究。同时，这也反映了当前能源领域对于高效、可靠的储能解决方案的需求日益增长。
+
+**「影响」** 这一合作有望推动储能技术的发展，并可能对火电厂的调频能力产生积极影响，从而提高电力系统的稳定性和效率。对于投资者而言，这可能意味着对相关储能技术公司的投资机会。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://longbridge.com/en/news/304430741">Toyota and Tsinghua University Jointly Develop Nickel-Metal ...</a></li>
+<li><a href="https://www.mdpi.com/2673-4826/7/1/22">Battery Energy Storage Systems for Primary Frequency ... - MDPI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Energy Storage`, `#Toyota`, `#Tsinghua University`, `#Battery Technology`, `#Power Plant`
+
+---
+
+<a id="item-cn-macro-9"></a>
+### [港股市场强势反弹，科技股领涨](https://wallstreetcn.com/articles/3785265) ⭐️ 7.0/10
+
+11 月 5 日，港股市场大幅走高，恒生科技指数盘中涨幅一度接近 6%，阿里巴巴、腾讯等互联网龙头集体飙升，恒生指数盘中涨幅一度达到 4%，收复 24000 点关口。本轮反弹主要受全球市场风格变化和投资者情绪改善推动，资金从高估值转向低估值资产，中国互联网平台成为受益者。
+
+rss · 华尔街见闻 · 11月5日 09:41
+
+**「市场背景」** 近期，港股市场经历了强势反弹，尤其是科技股领涨。这一现象的背后，是全球市场风格的变化以及投资者情绪的调整。在 2026 年，美国中期选举后，全球市场风格从 AI 交易转向价值股和消费股，中国互联网巨头因此成为资金轮动的受益者。此外，今年以来中国市场估值持续处于低位，而全球其他市场已经经历了一轮上涨，使得中国互联网平台的相对估值吸引力上升。港股互联网资产此前已经经历了较大幅度的调整，为当前的反弹提供了空间。
+
+**「影响」** 港股市场的强势反弹对投资者来说是一个积极的信号，尤其是对于互联网板块。阿里巴巴、腾讯等互联网巨头的股价上涨，反映了市场对中国互联网资产投资价值的重新评估。这一轮反弹得益于全球市场风格的变化，投资者从 AI 硬件等高估值领域转向估值较低、与消费需求联系更紧密的中国互联网平台。对于投资者而言，关注这些公司的盈利能力和内需改善将是关键。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="http://hkstock.cnfol.com/shichangfenxi/20260615/32279185.shtml">hkstock.cnfol.com/shichangfenxi/20260615/32279185.shtml</a></li>
+<li><a href="https://www.cls.cn/detail/2524406">cls.cn/detail/2524406</a></li>
+<li><a href="https://www.youtube.com/watch?v=m01ASSierUo">[20261005]... - YouTube</a></li>
+<li><a href="https://www.sharejunction.com/sharejunction/mobile_listMessage.htm?topicId=22142&amp;recordCount=200">ShareJunction - Stock Forum Messages</a></li>
+<li><a href="https://www.zhitongcaijing.com/content/detail/1513873.html">智通 港 股 早知道 | 恒瑞医药(01276)前三季度归母净利同比增长20.38...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Hong Kong Stock Market`, `#Tech Stocks`, `#Investment Trends`, `#Market Analysis`
+
+---
+
+<a id="item-cn-macro-10"></a>
+### [美国中期选举影响：AI 硬件受挫，港股 A 股上涨](https://wallstreetcn.com/articles/3785235) ⭐️ 7.0/10
+
+美国中期选举民主党大胜引发市场对人工智能监管收紧的担忧，导致 AI 硬件和半导体股下跌，尤其是日韩半导体股重挫。与此同时，港股和 A 股市场则出现上涨，创业板指数拉升转涨 3%，恒指和恒科指分别上涨 3%和 5%。
+
+rss · 华尔街见闻 · 11月5日 02:57
+
+**「背景信息」** 美国中期选举结果显示民主党在国会两院取得多数席位，引发市场对人工智能监管可能收紧的担忧。这一担忧导致投资者加速撤离芯片板块，尤其是日韩半导体股遭遇重挫。与此同时，香港和 A 股市场则出现上涨，创业板指数和恒生科技指数均大幅上涨。这一市场动态反映了美国政策变化对全球科技行业的影响，特别是对 AI 和半导体领域的影响。
+
+**「市场影响」** 这一市场动态可能导致投资者对 AI 数据中心建设的投资持谨慎态度，同时对科技和半导体板块的股票进行抛售，而港股和 A 股市场的上涨可能吸引部分资金流入。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.hstong.com/news/detail/26021221150270534">Anthropic加入 美 国 中 期 选 举 战局 围绕 AI ... | 华盛通</a></li>
+<li><a href="https://www.zhitongcaijing.com/content/detail/1516891.html">高盛前瞻 美 国 中 期 选 举 ：民主党大概率拿下众议院，财政、关税与 AI ...</a></li>
+<li><a href="https://www.winzheng.com/article/iran-threats-us-tech-trump-midterms-polymarket-flop">“恐怖谷”：伊朗威胁 美 科技公司、特朗普 中 期 选 举 计划与Polymarket...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#US Midterm Elections`, `#AI Regulation`, `#Market Movements`, `#Semiconductor Stocks`, `#Hong Kong and A-share Markets`
+
+---
+
+<a id="item-cn-macro-11"></a>
+### [潘功胜谈支持资本市场货币政策工具实施](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FcWZDSGZHR2Z0aVRpYk9rR1R3bkVfUEtESzc1WldkaVlIN0duZnFPRXJGYlY4ZWZHckJBS21TclFTWm9NdXJMcUZrYU5HQ0M3UXZQclMyNE5GdlU3bHpxZWtn?oc=5) ⭐️ 7.0/10
+
+潘功胜就实施支持资本市场的货币政策工具进行了讨论，这一政策对 A 股市场产生重大影响。具体政策内容和实施日期尚未明确公布。
+
+google\_news · Caixin Global · 11月5日 09:15
+
+**「背景信息」** 在过去较长时期内，中国的货币政策工具主要包括一般性货币政策工具和选择性货币政策工具。一般性货币政策工具多属于间接调控工具，选择性货币政策工具多属于直接调控工具。近年来，结构性货币政策工具在资产负债表中的占比相对较高，并会不断提高。这些工具利率较低，有利于支持经济薄弱环节，同时商业银行以市场化原则进行低成本再贷款，结构性货币政策本身也有控制风险的作用。
+
+**「市场影响」** 该政策可能对 A 股市场投资者产生显著影响，尤其是那些对资本市场有直接投资的投资者。投资者应密切关注政策的具体细节和实施情况，以调整投资策略。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202607/P020260706313033558945.pdf">03B20260706C</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Fw411B7Cu/">洞悉央妈的精准滴灌！ 17... | 哔哩哔哩</a></li>
+<li><a href="https://www.yicai.com/video/101719184.html">盛松成：结构性 货 币 政 策 工 具 占比还会提升丨首席对 策</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Capital Market`, `#Monetary Policy`, `#Regulatory Announcement`, `#A-share Market`, `#Pan Gongsheng`
 
 ---
 
 ## 全球市场
 
 <a id="item-global-market-1"></a>
-### [俄罗斯袭击乌克兰援助中心，造成数十人死亡和失踪](https://reut.rs/4A9zY1E) ⭐️ 9.0/10
+### [巴金预计将逐步提高利率](https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html) ⭐️ 7.0/10
 
-俄罗斯对乌克兰的一个援助中心发动袭击，造成数十人死亡和失踪。这一事件可能对全球金融市场产生重大影响。
+里士满联邦储备银行行长托马斯·巴金表示，预计美联储将进一步加息以应对通胀，但他不确定加息的幅度和速度。他强调，由于全球不确定性，需要谨慎行事。
 
-rss · 路透社 Reuters · 11月4日 15:21
+rss · CNBC Finance · 11月5日 15:27
 
-**「背景信息」** 俄罗斯与乌克兰之间的冲突始于 2014 年，当时乌克兰发生政治变革，随后俄罗斯并吞了克里米亚，并在乌克兰东部地区支持分离主义势力。这场冲突导致了大量的人员伤亡和地区不稳定。自那时以来，两国之间的紧张关系一直存在，并多次发生军事冲突。这场冲突不仅对乌克兰国内产生了深远影响，也对全球金融市场产生了波动，尤其是对能源和粮食市场。在此背景下，俄罗斯对乌克兰援助中心的袭击进一步加剧了地区紧张局势。
+**「背景信息」** 托马斯·巴金（Thomas Barkin）自 2018 年起担任里士满联邦储备银行行长，并担任联邦公开市场委员会（FOMC）的成员。联邦储备银行的货币政策旨在促进最大就业、稳定价格和适度的长期利率。在 2025 年 6 月的货币政策报告中，联邦公开市场委员会表示，其当前的政策立场使其能够等待更多关于通货膨胀和经济活动前景的明确性，并及时对潜在的经济发展做出反应。了解联邦储备银行当前的政策立场是理解市场动态和预测未来利率变动的重要依据。
 
-**「影响」** 此次袭击可能引发市场对地缘政治风险的担忧，导致金融市场波动。
+**「市场影响」** 美联储官员托马斯·巴金表示，预计美联储将进一步加息以应对通胀，但加息步伐将较为温和。这表明，市场可能会对未来的加息持谨慎态度，从而可能导致债券市场收益率上升，对股市产生压力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375">Interactive Map: Russia &#x27;s Invasion of Ukraine</a></li>
-<li><a href="https://tac.nist.gov/2019/SM-KBP/guidelines/Ukraine-Russia-Relations-Scenario-Document_2019-02-15_v1.2.1.pdf">Informational Conflict</a></li>
-<li><a href="https://www.rt.com/trends/russia-ukraine-conflict/">Russia - Ukraine conflict — RT</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tom_Barkin">Tom Barkin - Wikipedia</a></li>
+<li><a href="https://www.federalreserve.gov/monetarypolicy.htm">Federal Reserve Board - Monetary Policy</a></li>
+<li><a href="https://www.federalreserve.gov/monetarypolicy/files/20250620_mprfullreport.pdf">Monetary Policy Report June 2025 - Federal Reserve Board</a></li>
+<li><a href="https://centralbank.watch/analysis/federal-reserve-policy-stance-hawkish-or-dovish/">Federal Reserve Policy Stance — Hawkish or Dovish?</a></li>
+<li><a href="https://www.fxstreet.com/news/feds-barkin-backs-gradual-rate-hikes-as-inflation-stays-too-high-202611051548">Fed’s Barkin backs gradual rate hikes as inflation stays too high</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitical Event`, `#Russia`, `#Ukraine`, `#Financial Markets`, `#Central Banks`
+**标签**: `#Interest Rates`, `#Central Bank Policy`, `#Inflation`, `#Monetary Policy`, `#Economic Forecast`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [美国中期选举后，10 年期国债收益率下降，油价下跌](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) ⭐️ 7.0/10
+### [美国中期选举后 10 年期国债收益率下降，油价下跌](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) ⭐️ 7.0/10
 
-在民主党在中期选举中取得重大胜利以及油价下跌的背景下，10 年期美国国债收益率下降。10 年期国债收益率下跌超过 6 个基点至 4.884%，30 年期债券收益率下跌超过 5 个基点至 5.273%，而 2 年期国债收益率下跌超过 4 个基点至 4.573%。市场对民主党胜利可能限制政府支出和减少赤字的反应，以及对地缘政治紧张局势的缓解感到乐观。
+在民主党在中期选举中取得重大胜利以及油价下跌的背景下，10 年期美国国债收益率下降。10 年期国债收益率下跌超过 6 个基点至 4.884%，30 年期债券收益率下跌超过 5 个基点至 5.273%，而 2 年期国债收益率下跌超过 4 个基点至 4.573%。
 
 rss · CNBC Finance · 11月4日 21:18
 
-**「背景信息」** 在此次美国中期选举之前，市场普遍预期共和党将保持对国会的控制。然而，民主党在选举中取得了重大胜利，赢得了众议院和参议院的控制权。这一结果可能导致政府支出政策的变化，因为民主党可能会限制特朗普政府的进一步财政扩张。此外，民主党在中期选举中的胜利可能会对美国的财政前景产生积极影响，因为这将使得财政赤字增长更加困难。此外，原油价格的下跌也对市场产生了影响，这可能是因为市场对地缘政治紧张局势的缓解感到乐观。
+**「背景信息」** 在 2026 年美国中期选举中，民主党在众议院和参议院中取得了重大胜利。这一结果可能导致政府支出减少，因为民主党在国会中的多数席位使得通过立法变得更加困难。此外，民主党在关键州长选举中的胜利，如俄亥俄州和德克萨斯州，也可能对政策方向产生重大影响。这些政治事件对金融市场产生了显著影响，特别是对国债收益率。同时，原油价格的下跌也对市场产生了影响，其中美国西德克萨斯中质原油期货价格下跌了 8.29%，而布伦特原油期货价格下跌了 8.67%。这些因素共同导致了市场对未来的预期和投资策略的调整。
 
-**「市场影响」** 这一变化可能导致市场对政府支出和赤字减少的预期发生变化，从而影响债券和股票市场。此外，油价的下跌可能进一步缓解通货膨胀压力，对全球经济产生积极影响。
+**「市场影响」** 民主党在中期选举中的胜利和石油价格的下降导致 10 年期美国国债收益率下降，对金融市场产生了具体影响。这一变化可能会抑制特朗普政府的政府支出，使得通过国会的立法更加困难，从而可能改善财政前景。此外，石油价格的下降有助于控制能源价格和通胀压力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates">US stock markets and government bonds rally while... | The Guardian</a></li>
-<li><a href="https://www.presstv.co.uk/Detail/2026/11/04/779912/democrats-win-both-chambers-of-congress-in-major-midterm-blow-to-trump">Democrats win both chambers of Congress in major midterm blow to...</a></li>
-<li><a href="https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower">Gold and silver surge as Democratic midterm sweep... | Kitco News</a></li>
+<li><a href="https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears">US stocks rise, dollar slides as investors digest Democrats ’ midterm ...</a></li>
+<li><a href="https://globalnews.ca/news/12134717/midterms-investing-stock-markets/">How U.S. midterm results could impact financial markets and your...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html">2026 Midterm elections : House, Senate results live updates</a></li>
+<li><a href="https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html">Oil and U.S. Treasury yields correlation: WTI, Brent, 10-year ...</a></li>
+<li><a href="https://www.haver.com/articles/u-s-treasury-yields-and-oil-prices">U.S. Treasury Yields and Oil Prices - Haver Analytics</a></li>
+<li><a href="https://www.investigativeeconomics.org/p/bond-yields-now-follow-oil-prices">Bond Yields Now Follow Oil Prices For Whatever Reason</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Midterm Elections`, `#Treasury Yields`, `#Oil Prices`, `#Government Spending`, `#Market Reactions`
+**标签**: `#Treasury Yields`, `#Midterm Elections`, `#Political Impact on Markets`, `#Oil Prices`, `#Market Analysis`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [白宫将于 12 月 14 日举行美联储库克听证会](https://reut.rs/4ekfYRH) ⭐️ 7.0/10
+### [印度指出，针对金融机构的网络攻击活动中使用了与中国有关联的人工智能工具](https://reut.rs/4A8Hb1X) ⭐️ 7.0/10
+
+印度指出，在针对金融机构的网络攻击活动中使用了与中国有关联的人工智能工具。
+
+rss · 路透社 Reuters · 11月5日 09:12
+
+**「背景信息」** 近期，印度网络安全机构揭露了一波针对金融机构的 AI 驱动型黑客攻击活动。这些攻击中使用了与中国有关联的人工智能工具。这一事件凸显了网络安全在全球金融市场中的重要性，同时也增加了地缘政治的复杂性。
+
+**「影响」** 此次网络攻击事件可能对全球金融市场产生负面影响，增加市场对网络安全和地缘政治风险的担忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/legal/government/india-flags-chinese-linked-ai-tools-hacking-campaign-against-financial-firms-2026-11-05/">India flags Chinese-linked AI tools in hacking campaign ...</a></li>
+<li><a href="https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343">China-linked hackers used AI to target 200 organizations ...</a></li>
+<li><a href="https://www.deccanchronicle.com/technology/cert-in-flags-chinese-linked-ai-tools-in-hacking-campaign-against-financial-firms-2001937">CERT-In Flags Chinese-Linked AI Tools in Hacking Campaign ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Cybersecurity`, `#Geopolitical`, `#Financial Markets`, `#Hacking`, `#AI Tools`
+
+---
+
+<a id="item-global-market-4"></a>
+### [韩国将于 2029 年对数字资产开征税款](https://reut.rs/47YTdz6) ⭐️ 7.0/10
+
+韩国计划从 2029 年开始对数字资产征收税款，这一举措将对全球金融市场产生影响。
+
+rss · 路透社 Reuters · 11月5日 08:40
+
+**「背景信息」** 韩国计划从 2029 年开始对数字资产征收税款，这一政策的变化受到了全球金融市场的关注。根据相关报道，韩国政府曾三次推迟实施这一税收政策，最初计划于 2020 年实施。此外，韩国政府考虑将加密税的实施时间推迟至 2029 年，原因是美国占据了近一半的虚拟资产市场。这些信息为理解韩国对数字资产征税政策的背景提供了重要参考。
+
+**「影响」** 这一税收政策可能会影响投资者对数字资产的投资行为，从而对数字资产市场产生具体影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029">South Korea Weighs Another Delay on 22% Crypto Tax , Pushing to...</a></li>
+<li><a href="https://biz.chosun.com/en/en-policy/2026/10/25/H5UGZFMVKJCO5G5D5H2QQR22PE/">Blue House moves to delay Korea ’s virtual asset tax ... - CHOSUNBIZ</a></li>
+<li><a href="https://www.mexc.com/ru-RU/learn/article/crypto-tax-in-south-korea-new-proposed-rules-rates-update/1">Crypto Tax in South Korea : New Proposed Rules &amp; Rates Update</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Digital Assets`, `#Taxation`, `#Financial Markets`, `#South Korea`, `#Investment`
+
+---
+
+<a id="item-global-market-5"></a>
+### [伊朗革命卫队称两艘油轮和一艘拖船在霍尔木兹海峡起火](https://reut.rs/4sKwGzJ) ⭐️ 7.0/10
+
+伊朗伊斯兰革命卫队表示，两艘油轮和一艘拖船在霍尔木兹海峡起火，可能影响全球石油供应。
+
+rss · 路透社 Reuters · 11月5日 04:56
+
+**「背景信息」** 霍尔木兹海峡是连接波斯湾和阿拉伯海的重要水道，是全球石油运输的关键通道。伊朗伊斯兰革命卫队（IRGC）在海峡的控制力强大，曾在 2026 年 1 月对抗议者进行严厉镇压，引发国际社会愤怒，欧盟和其他主要机构谴责该组织并将其列为恐怖组织。此外，伊朗的“蚊子舰队”在海峡中构成了一种潜在的威胁，伊朗曾誓言要关闭海峡，直到在黎巴嫩实现停火。这些背景信息有助于理解霍尔木兹海峡发生的事件及其对全球石油市场的影响。
+
+**「市场影响」** 霍尔木兹海峡发生的油轮起火事件可能导致全球石油供应受到影响，从而对全球石油市场产生具体影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cfr.org/backgrounders/irans-revolutionary-guards">The Islamic Revolutionary Guard Corps ( IRGC ) | Council on Foreign...</a></li>
+<li><a href="https://tasnimnews.ir/en/news/2026/05/12/3588854/iran-powerfully-in-control-of-hormuz-strait-irgc-navy-official">Iran Powerfully in Control of Hormuz Strait : IRGC Navy Official...</a></li>
+<li><a href="https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html">A Potent Threat in Strait of Hormuz : Iran ’s ‘Mosquito Fleet’ - The New...</a></li>
+<li><a href="https://www.tiktok.com/discover/tanker-being-fired-in-straight-of-hormuz">Tanker Being Fired in Straight of Hormuz | TikTok</a></li>
+<li><a href="https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-More-Tanker-Fires-in-Strait-of-Hormuz.html">Iran Reports More Tanker Fires in Strait of Hormuz | OilPrice.com</a></li>
+<li><a href="https://factnerve.com/hormuz-strait-attack/">Hormuz Strait attack halts shipping after tanker firing</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Iran`, `#Strait of Hormuz`, `#Oil Market`, `#Tanker Fire`, `#Geopolitical Event`
+
+---
+
+<a id="item-global-market-6"></a>
+### [白宫将就美联储库克举行听证会](https://reut.rs/4ekfYRH) ⭐️ 7.0/10
 
 据《纽约时报》报道，白宫计划于 12 月 14 日就美联储的库克举行听证会。
 
 rss · 路透社 Reuters · 11月5日 00:08
 
-**「背景信息」** 美联储是美国中央银行，负责为美国提供安全、灵活和稳定的货币和金融市场。美联储的决策对经济政策有重要影响。Lisa Cook 是美联储的理事之一，她的听证会将涉及美联储的政策和决策过程。这次听证会对于追踪中央银行的人来说是一个重要事件。
+**「背景信息」** Lisa Cook 于 2022 年 5 月 23 日被任命为美联储理事会的成员，填补了一个至 2024 年 1 月 31 日到期的空缺。Cook 是第一位担任美联储理事会成员的非裔美国女性。在加入美联储之前，Cook 于 2022 年 1 月被选为芝加哥联邦储备银行董事会的成员。Cook 的任命和再任命可能会影响美联储的政策制定和市场预期。
 
-**「影响」** 此次听证会可能对金融市场产生重要影响，尤其是对于那些关注中央银行动态的市场参与者。
+**「影响」** 此次听证会可能会影响市场对美联储政策的预期。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.federalreserve.gov/">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://www.linkedin.com/posts/jdstein_federalreserve-lisacook-centralbanks-activity-7366211709163745284-73Wc"># federalreserve #lisacook #centralbanks | David Stein</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lisa_Cook">Lisa Cook - Wikipedia</a></li>
+<li><a href="https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm">Federal Reserve Board - Lisa D. Cook</a></li>
+<li><a href="https://www.federalreservehistory.org/people/lisa-cook">Lisa D. Cook - Federal Reserve History</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Federal Reserve`, `#Hearing`, `#Central Bank`, `#Financial Markets`, `#Economic Policy`
+**标签**: `#Federal Reserve`, `#Hearing`, `#Central Bank`, `#Market Expectations`, `#Reuters`
 
 ---
 
-<a id="item-global-market-4"></a>
-### [巴拉圭银行危机引发弹劾总统呼吁](https://reut.rs/4inggcX) ⭐️ 7.0/10
+<a id="item-global-market-7"></a>
+### [巴拉圭银行危机引发议员弹劾总统呼吁](https://reut.rs/4inggcX) ⭐️ 7.0/10
 
-巴拉圭银行危机导致议员们呼吁弹劾总统，可能对金融市场产生影响。
+巴拉圭银行危机导致议员们呼吁弹劾总统。这一事件可能对巴拉圭的金融稳定产生重大影响，并可能对全球市场产生潜在影响。
 
 rss · 路透社 Reuters · 11月4日 23:53
 
-**「背景信息」** 巴拉圭的银行危机始于 Ueno 银行被中央银行接管，因为其偿付能力比率低于法定最低标准，导致数百万客户和约 3.8 亿美元公共资金面临风险。随后，近 290 万客户无法访问他们的账户，使用卡片或提取现金。这场危机引发了政治动荡，议员们开始呼吁弹劾总统 Santiago Pena，指责他对危机负有责任。
+**「背景信息」** 巴拉圭经济在过去几年中总体保持平稳。然而，2008 年国际经济金融危机对巴拉圭经济造成了严重影响，导致经济增长大幅回落，财政赤字和贸易逆差扩大，外汇储备和投资减少。2009 年下半年，随着国内旱情缓解和国际农产品需求上涨，巴拉圭经济形势逐渐企稳回升。这些经济背景可能为理解当前的银行危机和议员们呼吁弹劾总统的事件提供了上下文。
 
-**「影响」** 这一政治事件可能影响投资者信心和市场稳定性。
+**「影响」** 巴拉圭银行危机可能导致投资者对新兴市场的信心下降，进而影响相关货币和股市的表现。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.latintimes.com/paraguay-ueno-bank-resolution-political-crisis-600886">Paraguay&#x27;s Banking Collapse Exposes a Trail of Political Ties ...</a></li>
-<li><a href="https://www.investmentwatchblog.com/paraguay-shuts-down-ueno-bank-leaving-2-9-million-customers-unable-to-access-their-accounts/">Paraguay shuts down Ueno Bank, leaving nearly 60% of the ...</a></li>
-<li><a href="https://www.usnews.com/news/world/articles/2026-11-04/paraguay-bank-crisis-spurs-lawmakers-calls-to-impeach-president">Paraguay Bank Crisis Spurs Lawmakers&#x27; Calls to Impeach President</a></li>
+<li><a href="https://www.mofcom.gov.cn/dl/gbdqzn/upload/balagui.pdf">巴 拉 圭</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Political Crisis`, `#Banking Sector`, `#Market Stability`, `#Paraguay`, `#Financial News`
+**标签**: `#Political Crisis`, `#Banking Sector`, `#Paraguay`, `#Impeachment`, `#Financial Stability`
 
 ---
 
-<a id="item-global-market-5"></a>
-### [民主党掌控的国会可能挑战美国对以色列长期支持](https://reut.rs/4A838OF) ⭐️ 7.0/10
-
-民主党控制的国会可能对美国长期支持以色列的政策构成挑战，这一变化可能对全球金融市场产生重大影响。
-
-rss · 路透社 Reuters · 11月4日 22:01
-
-**「背景」** 美国对以色列的支持历史悠久，可以追溯到 1947 年犹太国家的成立。这种支持在冷战、反恐战争以及当代中东挑战的背景下得到了加强，并在华盛顿保持了强有力的两党支持。尽管在不同行政时期，美国对以色列的政策有所变化，但总体上，美国对以色列的支持一直是其外交政策的重要组成部分。这种长期的支持对全球金融市场产生了深远影响，特别是在地缘政治风险和投资流动方面。
-
-**「影响」** 这一政策变化可能导致全球金融市场的地缘政治风险增加，影响投资流向。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Israel%E2%80%93United_States_relations">Israel–United States relations - Wikipedia</a></li>
-<li><a href="https://abcnews.com/International/history-us-support-israel-runs-deep-growing-chorus/story?id=104957109">The history of US support for Israel runs deep, but with a ...</a></li>
-<li><a href="https://govfacts.org/policy-security/international-relations/bilateral-relations/us-israel-relations-history-and-strategic-ties/">U.S.-Israel Relations: History and Strategic Ties | GovFacts</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Risk`, `#US Foreign Policy`, `#Global Financial Markets`, `#Israel-US Relations`
-
----
-
-<a id="item-global-market-6"></a>
+<a id="item-global-market-8"></a>
 ### [美国外交政策变化解读](https://reut.rs/4zs5Nmq) ⭐️ 7.0/10
 
-民主党掌控国会后，美国外交政策可能发生五项变化。这些变化可能包括调整对盟友的关系、重新审视贸易政策、加强环保合作以及在国际事务中采取更积极的立场。
+民主党掌控国会后，美国外交政策可能发生五种变化。这些变化可能包括调整对盟友的关系、重新审视贸易政策、加强环保合作以及在国际事务中采取更积极的立场。
 
 rss · 路透社 Reuters · 11月4日 21:45
 
-**「背景信息」** 在 2026 年 11 月 4 日的选举中，民主党赢得了国会的控制权。这一变化可能会对美国的外交政策产生影响。尽管国会的变化可能会增加国会对外交政策的监督，但外交政策的实际执行仍由总统及其任命的官员负责。例如，国会有权根据法律和法规对乌克兰的资金进行监督和分配。此外，民主党在国会中的胜利可能会影响美国在移民政策、对外援助和与其他国家的合作等方面的立场。然而，一些分析人士认为，尽管民主党在国会中的胜利可能会带来一些变化，但美国的外交政策总体上可能不会发生重大变化。
+**「背景信息」** 在 2026 年 11 月 4 日，民主党在美国国会选举中取得了胜利，控制了参议院和众议院。这一政治转变可能会对美国的外交政策产生重大影响。在过去，民主党政府通常倾向于采取更加合作和全球化的外交政策。这一变化可能会影响美国在国际事务中的角色，包括与其他国家的贸易关系、军事合作以及全球治理等方面。
 
 **「影响」** 这些外交政策的变化可能会对全球市场产生显著影响，特别是对与美国的贸易伙伴和盟友关系产生影响，可能导致某些市场的波动。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html">Democrats win Congress , challenging Trump foreign policy</a></li>
-<li><a href="https://sputnikglobe.com/20261104/democrats-win-wont-change-us-foreign-policy-of-bombs-and-tariffs--ex-dod-insider-1125010647.html">Democrats ’ Win Won’t Change US Foreign Policy of &#x27;Bombs and...</a></li>
-<li><a href="https://www.youtube.com/watch?v=iKMKvjjKinY">Election Day: What a Democratic Congress Could REALLY Change ...</a></li>
+<li><a href="https://www.usnews.com/news/world/articles/2026-11-04/explainer-five-ways-us-foreign-policy-may-change-with-a-democratic-congress">Explainer-Five Ways US Foreign Policy May Change With a ...</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis">A Democratic-controlled Congress will likely try to constrain ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html">Democrats win Congress, challenging Trump foreign policy - CNBC</a></li>
 
 </ul>
 </details>
 
-**标签**: `#US Foreign Policy`, `#Political Shifts`, `#Geopolitical Events`, `#Congressional Changes`, `#Democrat Party`
+**标签**: `#US Foreign Policy`, `#Political Shifts`, `#Congress`, `#Geopolitical Events`, `#Policy Analysis`
 
 ---
 
-<a id="item-global-market-7"></a>
-### [深度解析：民主党全面胜选将如何改变美国能源政策](https://reut.rs/4zyVNIo) ⭐️ 7.0/10
-
-民主党在美国的大选中全面胜选，预计将导致美国能源政策发生重大变化。这一变化将影响能源市场、相关行业和货币。
-
-rss · 路透社 Reuters · 11月4日 20:40
-
-**「背景信息」** 在最近的美国中期选举中，民主党取得了全面胜利，这一结果对美国的能源政策产生了重大影响。民主党在国会选举中的胜利意味着他们将在能源和环境政策方面拥有更大的话语权。这一变化预计将导致对特朗普政府能源政策的重大调整，特别是在气候和清洁能源领域。此外，中期选举的结果还可能影响州和地方层面的能源政策。
-
-**「影响」** 民主党胜选可能导致可再生能源投资增加，对化石燃料行业产生压力，并可能影响美元汇率。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.reuters.com/business/energy/how-democratic-sweep-could-change-us-energy-policy-2026-11-04/">Explainer: How the Democratic sweep could change US energy policy</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-11-04/what-the-democratic-sweep-means-for-climate-and-clean-energy">What the Democratic Midterm Sweep Means for Climate and Clean ...</a></li>
-<li><a href="https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/">What’s next for US energy policy after the midterm elections?</a></li>
-
-</ul>
-</details>
-
-**标签**: `#US Energy Policy`, `#Democrat Sweep`, `#Political Impact`, `#Market Analysis`, `#Energy Policy Shift`
-
----
-
-<a id="item-global-market-8"></a>
+<a id="item-global-market-9"></a>
 ### [大选使美联储的监管框架更加严格，但独立性仍面临风险](https://reut.rs/4eMFZsW) ⭐️ 7.0/10
 
 美国大选后，美联储的监管框架得到加强，但其独立性仍存在风险。
 
 rss · 路透社 Reuters · 11月4日 19:21
 
-**「背景信息」** 在 2026 年中期选举之后，美联储的监管框架得到了加强。在此之前，美联储已经采取了一系列监管和政策行动，包括对监管 A 规则的修订，这些修订旨在实施 2010 年多德-弗兰克华尔街改革和消费者保护法案的某些条款。此外，2026 年中期选举的结果可能会影响美国市场规则的相关辩论，包括关税、加密货币规则、银行监管和并购等领域的政策。
+**「背景信息」** 在最近的选举之后，美联储的监管框架得到了加强。在此之前，美联储已经采取了一系列监管和政策行动，包括制定新的规则和指导方针，以增强金融系统的稳定性和安全性。这些行动包括对金融机构的监督和监管，以及制定监管政策。这些变化是在 2025 年 12 月发布的《监督和监管报告》之后进行的，并在美联储的官方网站上详细记录。此外，美联储的监督和监管职责主要通过监督金融机构的活动来实现，以促进其安全性和稳健性，并制定监管政策规则制定、监督和监管信函、政策声明和指导方针。
 
-**「影响」** 这一变化可能导致金融市场对美联储政策的反应更加谨慎。
+**「影响」** 美联储监管框架的加强可能会对金融市场产生稳定作用，但其独立性的风险可能引发市场对货币政策不确定性的担忧。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.federalreserve.gov/publications/2026-june-supervision-and-regulation-report-regulatory-developments.htm">The Fed - Regulatory Developments - Federal Reserve Board</a></li>
-<li><a href="https://economicinsider.com/how-the-2026-midterm-elections-could-shift-u-s-market-rules/">How the 2026 Midterm Elections Could Shift U.S. Market Rules</a></li>
-<li><a href="https://www.federalreserve.gov/reform.htm">The Fed - Regulatory Reform - Federal Reserve Board</a></li>
+<li><a href="https://www.federalreserve.gov/supervisionreg.htm">Federal Reserve Board - Supervision &amp; Regulation</a></li>
+<li><a href="https://www.ecfr.gov/current/title-12/chapter-II">eCFR :: 12 CFR Chapter II -- Federal Reserve System</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Federal Reserve`, `#Financial Market`, `#Central Bank Policy`, `#Election Impact`, `#Regulatory Changes`
-
----
-
-<a id="item-global-market-9"></a>
-### [美国对印度和土耳其实施制裁影响全球金融市场](https://reut.rs/4ilQKVr) ⭐️ 7.0/10
-
-美国以协助伊朗为由，对印度和土耳其的企业及个人实施了制裁，这一举措对全球金融市场产生了影响。
-
-rss · 路透社 Reuters · 11月4日 19:06
-
-**「背景信息」** 美国财政部近期对印度和土耳其的某些公司和个人实施了新的制裁，理由是它们与伊朗有联系并支持其活动。这些制裁措施旨在切断伊朗通过石油销售筹集资金的能力。这一事件反映了美国对伊朗政策的持续强硬立场，并可能对全球金融市场产生广泛影响，尤其是在中央银行政策和国际贸易方面。
-
-**「影响」** 此次制裁可能导致全球金融市场的不稳定，尤其是对涉及国际贸易和中央银行政策的领域产生显著影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.reuters.com/world/india/us-slaps-sanctions-indian-turkish-firms-people-aiding-iran-2026-11-04/">US slaps sanctions on Indian, Turkish firms and people for ...</a></li>
-<li><a href="https://www.deccanherald.com/world/us/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran-4208088">US slaps sanctions on Indian, Turkish firms and people for ...</a></li>
-<li><a href="https://www.thedailyjagran.com/world/us-treasury-imposes-sanctions-on-indian-and-turkish-entities-for-iran-links-10335192">US Treasury Imposes Sanctions On India-Linked Firms For ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Sanctions`, `#Geopolitical Events`, `#Global Financial Markets`, `#Central Bank Policies`, `#International Trade`
+**标签**: `#Central Bank`, `#Monetary Policy`, `#Election Impact`, `#Federal Reserve`, `#Independence`
 
 ---
 
 <a id="item-global-market-10"></a>
-### [特朗普在伊朗问题上面临艰难抉择](https://reut.rs/4z57oOf) ⭐️ 7.0/10
+### [美国对印度和土耳其企业及个人实施制裁](https://reut.rs/4ilQKVr) ⭐️ 7.0/10
 
-特朗普在国内遭遇挫败后，在伊朗问题上面临关键抉择，可能选择达成协议或升级冲突。
+美国以协助伊朗为由，对印度和土耳其的企业及个人实施了制裁。
 
-rss · 路透社 Reuters · 11月4日 18:51
+rss · 路透社 Reuters · 11月4日 19:06
 
-**「背景信息」** 特朗普在国内政策上遭遇挫败后，现在面临着一个关键抉择：是就伊朗问题达成协议还是升级冲突。这一决策将影响全球金融市场的稳定。近年来，中东地区的紧张局势不断升级，从最初的边境摩擦和空中作战，到现在的全面地缘政治危机。这一系列事件包括伊朗对美国军事威胁、地缘政治紧张关系、伊朗国内的抗议活动、核设施问题以及特朗普与以色列之间的冲突。此外，美国军事基地的安全问题也日益突出，国际社会对伊朗抗议活动的反应以及对第三次世界大战的预测也引起了广泛关注。
+**「背景信息」** 近期，美国对印度和土耳其的企业及个人实施了制裁，理由是它们协助伊朗规避国际制裁。这一行动是美国对伊朗经济压力的一部分，尽管国内对战争的反对情绪日益高涨。美国财政部警告称，将继续打击任何帮助伊朗规避国际制裁的个人和实体。
 
-**「影响」** 这一决策可能对全球金融市场产生重大影响，尤其是对中东地区的政治和经济稳定产生深远影响。
+**「影响」** 此次制裁可能对印度和土耳其的金融市场产生负面影响，尤其是对与伊朗有业务往来的企业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=A-JvQQ5hNaY">Middle East Escalation 2026 : The Iran War Every Day... - YouTube</a></li>
-<li><a href="https://www.tiktok.com/discover/2026-date-meaning-iran">2026 Date Meaning Iran | TikTok</a></li>
-<li><a href="https://www.bbc.com/news/articles/c6d934npl9y8o">Iran &#x27;s chief negotiator says Americans voted &#x27;no to war&#x27;</a></li>
+<li><a href="https://www.reuters.com/world/india/us-slaps-sanctions-indian-turkish-firms-people-aiding-iran-2026-11-04/">US slaps sanctions on Indian, Turkish firms and people for ...</a></li>
+<li><a href="https://moderndiplomacy.eu/2026/11/05/how-are-us-sanctions-targeting-indian-and-turkish-networks-supporting-iran/">How Are US Sanctions Targeting Indian and Turkish Networks ...</a></li>
+<li><a href="https://www.outlookindia.com/international/us-sanctions-indian-turkish-firms-donald-trump-sanctions">US Sanctions Indian, Turkish Firms Over Alleged Help to Iran</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitical Events`, `#Global Financial Markets`, `#US Foreign Policy`, `#Iran`, `#Central Banks`
+**标签**: `#Sanctions`, `#Geopolitical`, `#US-Iran Relations`, `#India`, `#Turkey`
 
 ---
 
 <a id="item-global-market-11"></a>
-### [民主党中期选举胜利推动科技巨头股价飙升 7500 亿美元](https://reut.rs/4AdqRgx) ⭐️ 7.0/10
+### [欧洲芯片初创企业获 5.25 亿欧元投资](https://reut.rs/4iBIdwA) ⭐️ 7.0/10
 
-民主党在中期选举中取得显著胜利，导致科技巨头股价大幅上涨，总市值增加 7500 亿美元。
+欧洲宣布将投资 5.25 亿欧元于芯片初创企业，旨在追赶美国和中国的步伐。
 
-rss · 路透社 Reuters · 11月4日 18:51
+rss · 路透社 Reuters · 11月4日 18:18
 
-**「背景信息」** 2026 年的美国中期选举中，民主党取得了显著胜利，这一结果在政治和经济领域都产生了重要影响。在选举前，美国政治环境紧张，两党在多个议题上存在分歧。此次选举的结果反映了选民对当前政治局势的看法，尤其是在经济、社会和政策方向上的期望。在科技领域，这一选举结果可能导致政策环境的变化，从而影响科技巨头的股价表现。
+**「背景信息」** 近年来，欧洲芯片产业面临挑战，包括美国和中国在芯片领域的快速发展。为了提升自身的芯片制造能力和竞争力，欧洲曾签署了 450 亿欧元的芯片振兴计划。在此背景下，欧洲宣布将投资 5.25 亿欧元于芯片初创企业，以追赶美国和中国的步伐。这一举措反映了欧洲在全球科技和金融领域中的竞争策略。
 
-**「市场影响」** 这一政治事件对科技行业产生了直接影响，导致科技股市场价值显著增加。
+**「影响」** 欧洲的这一投资举措将有助于提升其半导体产业的技术水平和市场竞争力，从而对全球芯片市场产生积极影响。特别是，这将有助于欧洲减少对美国和中国的依赖，尤其是在关键技术领域，如芯片制造设备，这将可能改变全球芯片产业的供应链格局。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/simp">美国 中 期 选 举 2026... - BBC News 中 文</a></li>
-<li><a href="https://t.me/linux_do_channel/552261">LINUX DO Channel – Telegram</a></li>
-<li><a href="https://www.guancha.cn/sunchenghao/2026_11_05_907131.shtml">美国 中 期 选 举 ，对 中 国有何 影 响</a></li>
+<li><a href="https://post.smzdm.com/p/a90w9qwe/">post.smzdm.com/p/a90w9qwe</a></li>
+<li><a href="https://fiber.ofweek.com/2024-01/ART-210008-8110-30623153.html">意法重组，跪求台积电却不愿补贴，日暮的 欧 洲 芯 片 余晖将尽 - OFweek...</a></li>
+<li><a href="https://www.dolc.de/thread-2424610-1-1.html">【 欧 洲 芯 片 制造迎来里程碑！ 英飞凌50...</a></li>
+<li><a href="https://post.smzdm.com/p/a90w9qwe/">post.smzdm.com/p/a90w9qwe</a></li>
+<li><a href="https://www.mydigit.cn/thread-592030-1-1.html">欧 洲 反击：美国也依赖我们关键 芯 片 技术 小心断供ASML...</a></li>
+<li><a href="https://www.199it.com/archives/1713205.html">欧 洲 汽车 芯 片 商对华依赖加深 33... | 中文互联网数据研究 资 讯中心-199IT</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Midterm Elections`, `#Technology Stocks`, `#Market Impact`, `#Political Economy`
+**标签**: `#Europe`, `#Investment`, `#Chip Industry`, `#Global Technology`, `#Competition`
 
 ---
 
 <a id="item-global-market-12"></a>
-### [欧洲芯片初创企业获 5.25 亿欧元投资](https://reut.rs/4iBIdwA) ⭐️ 7.0/10
+### [英国电动汽车注册量激增 54%，占据市场份额的三分之一](https://reut.rs/3UvmTkj) ⭐️ 7.0/10
 
-欧洲计划投资 5.25 亿欧元于芯片初创企业，旨在追赶美国和中国的技术发展步伐。
+英国电动汽车注册量激增 54%，市场份额达到三分之一。这一变化主要影响了汽车行业，对中央银行、股市和商品市场，特别是在能源和环境政策方面产生了影响。
 
-rss · 路透社 Reuters · 11月4日 18:18
+rss · 路透社 Reuters · 11月4日 16:28
 
-**「背景信息」** 欧洲在半导体产业面临人才缺口和私人投资不足的挑战，这些问题并非西班牙独有，而是整个欧洲半导体产业的共性难题。为了应对这一挑战，欧洲议会已正式批准《欧洲芯片法案》，计划投入 430 亿欧元用于支持半导体产业的发展。这一法案的通过，标志着欧洲在追赶美国和中国在芯片领域的步伐中迈出了重要一步。
+**「背景信息」** 根据 Zapmap 的数据，截至 2026 年 7 月 10 日，英国电动汽车的注册量和市场份额持续增长。2026 年 5 月，英国电动汽车市场实现了重要里程碑，注册了第 200 万辆纯电动汽车，成为欧洲第三个达到这一数字的国家。2026 年前四个月，纯电动汽车的注册量达到 176,698 辆，同比增长 22.1%，市场份额为 23.1%。此外，根据 Road Genius 的数据，2025 年英国注册的插电式汽车总数为 698,491 辆，占市场的 34.6%，其中纯电动汽车为 473,348 辆。这些数据表明，英国电动汽车市场正在迅速发展，对能源、股市和商品市场产生了重要影响。
 
-**「市场影响」** 这一投资举措可能对全球芯片行业产生积极影响，尤其是对欧洲本土的初创企业，有助于提升其在全球技术竞争中的地位。
+**「影响」** 这一增长趋势可能导致对传统能源的需求减少，从而对能源市场产生重大影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.eetop.cn/semi/6965480.html">《 欧 洲 芯 片 法2.0》 5月底重磅登场！ - 半导体/EDA - -EETOP-创 芯 网</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2310234">欧 洲 议会正式批准《 欧 洲 芯 片 法案》！ 430...</a></li>
-<li><a href="https://post.smzdm.com/p/a90w9qwe/">post.smzdm.com/p/a90w9qwe</a></li>
+<li><a href="https://www.zapmap.com/ev-stats/ev-market">UK EV Market Share &amp; Registration Stats 2026 | Zapmap</a></li>
+<li><a href="https://www.evcompared.co.uk/news/ev-market-sales-trends-and-what-changing/">UK EV Sales 2026: Registrations, Market Share and Trends</a></li>
+<li><a href="https://roadgenius.com/cars/ev/statistics/uk/">UK EV Sales Statistics 2026 — Electric Car Registrations ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Europe`, `#Investment`, `#Technology`, `#Global Competition`, `#Chip Startups`
+**标签**: `#Electric Vehicles`, `#Market Trends`, `#Automotive Industry`, `#Energy Policy`, `#Environmental Policy`
 
 ---
 
 <a id="item-global-market-13"></a>
-### [民主党在参议院的胜利对特朗普重塑司法体系的努力的影响](https://reut.rs/4kgzVg7) ⭐️ 7.0/10
+### [欧洲天然气价格因伊朗协议希望和美国中期选举后下降](https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Drop-on-Iran-Deal-Hopes-after-US-Midterms.html) ⭐️ 7.0/10
 
-民主党在参议院的胜利阻碍了前总统特朗普重塑司法体系的努力。
+在欧洲天然气价格下跌 2%，这是在阿姆斯特丹周四早上的交易中发生的，这一下跌延续到了周三。这一变化是在美国中期选举中民主党大胜之后，市场对伊朗战争解决方案的希望以及对霍尔木兹海峡液化天然气流量的恢复预期所推动的。
 
-rss · 路透社 Reuters · 11月4日 17:46
+rss · OilPrice · 11月5日 13:30
 
-**「背景信息」** 在 2026 年的美国中期选举中，民主党在参议院取得了胜利，这一结果对前总统特朗普重塑司法体系的努力产生了重要影响。在此之前，特朗普政府试图通过任命保守派法官来改变美国最高法院的构成，从而对司法体系产生长期影响。这一政治事件的发生，使得美国司法体系的未来走向变得不确定，进而对全球金融市场产生潜在影响。
+**「背景信息」** 在美国中期选举后，欧洲天然气价格下跌，这是因为市场对伊朗战争解决方案和通过霍尔木兹海峡恢复液化天然气（LNG）流量的希望所影响。欧洲天然气价格的下跌与欧洲天然气价格的历史数据和能源价格受到外汇波动的影响有关。此外，中东紧张局势对天然气价格的预测也起到了重要作用。
 
-**「影响」** 这一政治事件可能会对法律和监管稳定性产生潜在影响，从而对全球金融市场产生具体影响。
+**「影响」** 这一价格下跌对欧洲能源市场产生了直接影响，尤其是对那些依赖天然气进口的国家。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=ms9d8NFCLSs">youtube.com/watch?v=ms9d8NFCLSs</a></li>
-<li><a href="https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/simp">美国中期选举2026... - BBC News 中文</a></li>
-<li><a href="https://project-gutenberg.github.io/Pincong/post/c8bd0bee5bdbd6dab67743908d44b320/">美国中期选举谁赢了</a></li>
+<li><a href="https://www.washingtonpost.com/business/2022/03/09/gas-prices-going-up-russia-ukraine/">washingtonpost.com/business/2022/03/09/ gas - prices -going-up-russia...</a></li>
+<li><a href="https://tradingeconomics.com/commodity/eu-natural-gas">EU Natural Gas - Price - Chart - Historical Data - News</a></li>
+<li><a href="https://timera-energy.com/blog/fx-movements-driving-energy-prices/">FX movements driving energy prices - Timera Energy</a></li>
+<li><a href="https://tradingeconomics.com/commodity/eu-natural-gas">EU Natural Gas - Price - Chart - Historical Data - News</a></li>
+<li><a href="https://libertex.com/blog/natural-gas-price-forecast">Natural Gas Price Forecast: Predictions for 2026, 2027... | Libertex.com</a></li>
+<li><a href="https://www.linkedin.com/posts/montelnews_the-strait-of-hormuz-is-facing-a-potential-activity-7434159088868950016-YV13">“The Strait of Hormuz is facing a potential logistical paralysis,” said...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Political Event`, `#Judicial System`, `#Financial Markets`, `#Regulatory Stability`
+**标签**: `#European Gas Prices`, `#Iran Deal`, `#U.S. Midterms`, `#Commodity Markets`, `#Energy Policy`
 
 ---
 
 <a id="item-global-market-14"></a>
-### [民主党大胜引发市场新担忧](https://reut.rs/48wnDZF) ⭐️ 7.0/10
+### [美国国防部考虑 75 年协议以结束中国对稀土的垄断](https://oilprice.com/Energy/Energy-General/Pentagon-Eyes-Unprecedented-75-Year-Deal-to-End-Chinas-Rare-Earth-Stranglehold.html) ⭐️ 7.0/10
 
-民主党在某地区的全面胜利为市场对伊朗、人工智能和债务问题的担忧增添了新的变数。
+美国国防部正考虑与 REalloys 签订一项为期 75 年的协议，以确保美国生产的重稀土供应，旨在减少中国对这些关键金属的控制。
 
-rss · 路透社 Reuters · 11月4日 16:59
+rss · OilPrice · 11月5日 13:00
 
-**「背景信息」** 在 2026 年，伊朗战争的经济影响导致了全球石油市场的供应中断，这是国际能源署所描述的“全球石油市场历史上最大的供应中断”。这场冲突通过严重的供应短缺、货币波动、通货膨胀和风险增加，回响了 20 世纪 70 年代的能源危机。此外，人工智能（AI）的发展和应用正在全球范围内迅速增长，预计到 2030 年，AI 将使中国的 GDP 增长 26.1%，而美国可能看到 14.5%的 GDP 增长。至于债务问题，根据经合组织的全球债务报告，截至 2025 年底，全球主权和公司债务市场呈现出最新的趋势，公共和私人借贷达到了历史最高水平。这些因素共同构成了当前市场对伊朗、人工智能和债务问题担忧的背景。
+**「背景信息」** 美国陆军正在考虑与 REalloys 公司签订一项为期 75 年的协议，以确保美国生产的重稀土元素供应，旨在减少中国对这些关键金属的控制。REalloys 公司是一家专注于重建国内稀土元素和稀土磁体供应链韧性的美国公司。该公司通过从回收和采矿到氧化物生产、冶金、合金化和磁体制造的全面整合运营，提供推动国防、电气化和可再生能源的关键材料。此外，重稀土元素如镝和钆在农业、机器人技术和绿色能源领域具有重要作用，这些元素是高效磁体的核心组成部分，用于灌溉泵和控制系统，以及高性能电动汽车电机和风力发电。
 
-**「市场影响」** 这一政治事件可能导致市场对伊朗的地缘政治风险、人工智能技术的监管以及全球债务问题的担忧加剧。
+**「市场影响」** 这一 75 年协议的签署可能会对全球稀土金属市场产生重大影响，尤其是对依赖中国稀土供应的行业。此举可能会减少对中国的依赖，从而稳定稀土金属的价格，并可能促进全球供应链的多元化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war">Economic impact of the 2026 Iran war - Wikipedia</a></li>
-<li><a href="https://www.hostinger.com/tutorials/ai-statistics/">47 AI statistics and trends for 2026 : Latest insights and data</a></li>
-<li><a href="https://www.oecd.org/en/publications/global-debt-report-2026_e9d80efd-en.html">Global Debt Report 2026 - OECD</a></li>
+<li><a href="https://stockanalysis.com/stocks/aloy/company/">REalloys (ALOY) Company Profile &amp; Description - Stock Analysis REalloys, Inc.-About REalloys Inc. (ALOY) Company Profile &amp; Facts - Yahoo Finance REalloys Home ALOY | REalloys Inc. Company Profile &amp; Executives - WSJ Realloys Inc. (ALOY) — American Company Profile REalloys Inc.: Shareholders Board Members Managers and ...</a></li>
+<li><a href="https://realloys.com/About/">REalloys, Inc.-About</a></li>
+<li><a href="https://farmonaut.com/mining/dysprosium-and-terbium-7-ways-fueling-farming">Dysprosium And Terbium : 7 Ways Fueling Farming</a></li>
+<li><a href="https://telf.ch/telf-ag-on-rare-earths-and-the-rise-of-humanoid-robotics/">TELF AG on Rare Earths and the Rise of Humanoid Robotics</a></li>
+<li><a href="https://www.linkedin.com/pulse/hidden-heroes-green-energy-neodymium-dysprosium-terbium-deepak-sharma-zxsbc">The Hidden Heroes of Green Energy: Neodymium, Dysprosium , and ...</a></li>
+<li><a href="https://worldfinancialreview.com/rare-earth-critical-minerals-geopolitics-supply-chains-and-emerging-tensions/">Rare Earth Minerals: Geopolitics &amp; Supply Chains - The World ...</a></li>
+<li><a href="https://www.wgi.world/rare-earths-global-geopolitical-and-economic-importance/">Rare Earths’ Global Geopolitical and Economic Importance</a></li>
+<li><a href="https://www.gemsociety.org/article/rare-earth-minerals-in-geopolitics/">The Geopolitical Battleground of Rare Earth Minerals - IGS</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Political Events`, `#Global Markets`, `#Iran`, `#AI`, `#Debt Issues`
+**标签**: `#Geopolitical Events`, `#Rare Earth Metals`, `#Military Initiatives`, `#Supply Chain`, `#Corporate Agreements`
 
 ---
 
 <a id="item-global-market-15"></a>
-### [英国电动汽车注册量激增 54%，占据市场份额的三分之一](https://reut.rs/3UvmTkj) ⭐️ 7.0/10
+### [Butane’s Perfect Storm Sends Prices to Decade Highs](https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html) ⭐️ 7.0/10
 
-英国电动汽车注册量在 2026 年 11 月激增 54%，现在占据了市场份额的三分之一。这一增长超出了市场预期，显示出电动汽车在英国市场的强劲增长势头。
+Butane prices have surged to decade highs due to global trade reorientation and other overlapping trends.
 
-rss · 路透社 Reuters · 11月4日 16:28
+rss · OilPrice · 11月5日 00:00
 
-**「背景信息」** 根据 DriveElectric 的预测，2026 年电动汽车将占新注册车辆的 29%，而零排放车辆\(ZEV\)的强制目标是 33%。此外，RoadGenius 的数据显示，英国电动汽车的销售一直在稳步增长，这得益于消费者对更绿色交通方式的日益增长的需求、政府的激励措施以及电动汽车技术的进步。Zapmap 的数据也显示了英国电动汽车的最新注册和市场占有率，这些数据每月更新，涵盖了纯电池电动汽车、插电式混合动力汽车和货车，并从 SMMT 的数据中提供了年度增长情况。
-
-**「影响」** 这一增长对电动汽车行业产生了积极影响，预计将推动相关产业链的发展，并可能加速英国向更环保的交通工具转变。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.drive-electric.co.uk/news/electric-car-van-sales-forecast-2026/">UK Electric Car Sales Forecast 2026 | DriveElectric</a></li>
-<li><a href="https://roadgenius.com/cars/ev/statistics/uk/">UK EV Sales Statistics 2026 — Electric Car Registrations ...</a></li>
-<li><a href="https://www.zapmap.com/ev-stats/ev-market">UK EV Market Share &amp; Registration Stats 2026 | Zapmap</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Electric Vehicles`, `#Market Trends`, `#Automotive Industry`, `#UK Economy`, `#Environmental Policy`
+**标签**: `#Commodity Prices`, `#Butane`, `#Global Trade`, `#Propane`
 
 ---
 
 <a id="item-global-market-16"></a>
-### [美国中期选举对全球金融市场的影响分析](https://reut.rs/47XgXnm) ⭐️ 7.0/10
+### [储存芯片涨价对苹果 iPhone 利润的影响](https://www.landian.news/archives/128055.html) ⭐️ 7.0/10
 
-美国中期选举的结果可能对全球金融市场产生重大影响，包括中央银行、股票、债券、大宗商品和货币。具体影响包括政策方向的变化、市场情绪的波动以及相关资产价格的可能变动。
+华尔街日报分析指出，尽管存储芯片价格上涨对苹果的毛利率造成压力，但 iPhone 18 Pro 的存储升级带来的额外利润使得苹果的整体利润有所增加。iPhone 18 Pro 从 256GB 升级到 1TB 需额外支付 600 美元，而闪存增量成本约为 192 美元，苹果因此多赚 408 美元，相当于 300%的利润。尽管苹果的毛利率可能下降 1 个百分点，但整体利润仍有所提升。
 
-rss · 路透社 Reuters · 11月4日 15:55
+telegram · zaihuapd · 11月5日 07:33
 
-**「背景信息」** 美国中期选举的结果可能会对全球金融市场产生重大影响，包括中央银行、股票、债券、大宗商品和货币。这些影响可能包括政策变化、市场情绪波动以及投资策略的调整。在选举之后，市场可能会对选举结果做出反应，这可能会影响各种资产类别的表现。此外，选举结果还可能影响美国的财政政策和货币政策，进而影响全球经济。
+**「背景信息」** 近年来，苹果公司一直在调整其产品定价策略。在人工智能热潮的推动下，苹果提高了部分笔记本电脑和平板电脑的价格，例如 MacBook Pro 的价格从 1,699 美元上涨到 1,999 美元。此外，苹果还推出了新的 iCloud+计划，提供更多的存储空间和额外的服务。这些调整反映了苹果在市场竞争中的策略，同时也为分析其产品利润提供了背景信息。
 
-**「影响」** 中期选举结果可能导致全球股市波动，尤其是那些与美国政策紧密相关的行业，如能源和科技股。
+**「影响」** 这一分析表明，尽管存储芯片价格上涨对苹果的毛利率造成压力，但通过提高产品售价和优化成本结构，苹果仍能从存储芯片价格上涨中获益，这可能会对其他依赖存储芯片的科技公司产生启示。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets">After the US midterms , what will a lame duck Trump... | The Guardian</a></li>
-<li><a href="https://globalnews.ca/news/12134717/midterms-investing-stock-markets/">How U . S . midterm results could impact financial markets and your...</a></li>
-<li><a href="https://www.linkedin.com/posts/joanmason_midterm-elections-affordability-and-the-activity-7460335587137413120-bzOx">Morgan Stanley on Midterm Elections and Fed Policy Impact | LinkedIn</a></li>
+<li><a href="https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html">Apple Raises Prices on Macs and iPads Amid the A.I. Boom</a></li>
+<li><a href="https://support.apple.com/en-us/108047">iCloud+ plans and pricing - Apple Support</a></li>
 
 </ul>
 </details>
 
-**标签**: `#US midterm elections`, `#global financial markets`, `#central banks`, `#equities`, `#bonds`, `#commodities`, `#currencies`
+**标签**: `#Apple`, `#iPhone`, `#Profit`, `#Storage Chips`, `#Market Trends`
 
 ---
 
 <a id="item-global-market-17"></a>
-### [民主党在中期选举中全面获胜后，纽约证券交易所开盘](https://www.youtube.com/live/dHkuksurAZk) ⭐️ 7.0/10
+### [美光暂停台湾 45 亿美元芯片工厂建设](https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat) ⭐️ 7.0/10
 
-民主党在中期选举中全面获胜后，纽约证券交易所于 2026 年 11 月 4 日开盘。此次选举结果可能对金融市场产生重大影响。
+美光因劳资纠纷暂停在台湾桃园建设价值 45 亿美元的存储芯片工厂，此举可能影响全球供应链动态。
 
-rss · 路透社 Reuters · 11月4日 15:44
+telegram · zaihuapd · 11月5日 11:26
 
-**「背景信息」** 在民主党在中期选举中全面获胜后，美国政治格局发生了显著变化。这一事件对金融市场产生了直接影响。分析人士指出，民主党在选举中的胜利可能导致金融市场、经济增长、通货膨胀、政府借贷成本和居民生活水平等方面出现高度不稳定的情况。历史数据显示，类似的政治事件在选举结果公布后的约三个月内对股市产生了影响，之后影响逐渐减弱。
+**「背景信息」** 美光科技公司（Micron Technology）在台湾的 45 亿美元存储芯片工厂建设因劳资纠纷而暂停。此前，美光在台湾的工厂面临劳资纠纷，但似乎已找到解决办法，与台中工会达成协议。然而，桃园工会的劳资纠纷仍未解决，导致工厂建设暂停。台湾在美光全球布局中占据重要地位，目前美光在台湾的运营仍一切正常。
 
-**「影响」** 民主党在中期选举中的胜利可能对股市产生积极影响，投资者可能对政策预期持乐观态度。
+**「影响」** 美光暂停在台湾桃园建设 45 亿美元的存储芯片工厂，可能导致全球存储芯片供应链的不确定性增加，进而影响相关市场的供需平衡。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets">After the US midterms , what will a lame duck Trump... | The Guardian</a></li>
-<li><a href="https://finance.yahoo.com/markets/article/what-a-democratic-sweep-could-mean-for-stocks--and-why-history-says-not-much-172652296.html">What a Democratic sweep could mean for stocks — and why history...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html">Midterm elections : What a Democratic sweep means for stocks</a></li>
+<li><a href="https://www.zaobao.com.sg/finance/world/story20261105-9954696">美光暂停桃园45亿美元工厂建设因劳资纠纷 | 联合早报</a></li>
+<li><a href="https://www.cls.cn/detail/2511036">美光劳资纠纷峰回路转！称与台中工会已达成协议</a></li>
+<li><a href="https://finance.sina.cn/2026-11-05/detail-inixsrrs5603640.d.html?vt=4">美光科技暂停建设或耗资45亿美元的台湾工厂 因劳资纠纷久拖未决|台湾...</a></li>
+<li><a href="https://www.zaobao.com.sg/finance/world/story20261105-9954696">美光暂停桃园45亿美元工厂建设因劳资纠纷 | 联合早报</a></li>
+<li><a href="https://stock.10jqka.com.cn/20261105/c681516932.shtml">美光 (MU.US)暂停桃园建厂计划：劳资纠纷波及AI存储关键产能，全球供...</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2026-11-05/doc-inixsrrs5603640.shtml">美光科技暂停建设或耗资45亿美元的台湾工厂 因劳资纠纷久拖未决_新浪...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Midterm Elections`, `#Financial Markets`, `#New York Stock Exchange`, `#Political Impact`, `#Market Opening`
-
----
-
-<a id="item-global-market-18"></a>
-### [乌克兰无人机袭击引发俄罗斯电商平台火灾](https://reut.rs/4ePFa2x) ⭐️ 7.0/10
-
-乌克兰无人机袭击导致俄罗斯南部电商平台 Ozon 的枢纽中心发生火灾，可能对全球供应链和市场稳定性产生影响。
-
-rss · 路透社 Reuters · 11月4日 15:21
-
-**「背景信息」** Ozon Holdings PLC 是俄罗斯最早的电子商务公司之一，有时被称为“俄罗斯的亚马逊”。成立于 1998 年，最初是一家在线书店，到 2019 年已成为该国最大的三个在线零售平台之一。Ozon 的业务涵盖了广泛的商品和服务，包括电子产品、书籍、家居用品等。在俄罗斯与乌克兰的冲突中，Ozon 作为俄罗斯第二大电子商务巨头，其物流枢纽在冲突中受到了影响。这次无人机袭击事件发生在鞑靼斯坦地区的 Zelenodolsk 镇，该地区是俄罗斯的一个重要商业和物流中心。
-
-**「影响」** 乌克兰无人机袭击引发的火灾可能对全球供应链和市场稳定性产生重大影响。这一事件可能导致电子商务平台 Ozon 的枢纽中心运营中断，进而影响其供应链效率和商品配送，从而对全球市场产生连锁反应。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Ozon">Ozon - Wikipedia</a></li>
-<li><a href="https://www.youtube.com/watch?v=Is2-BIp1OVs">Russia-Ukraine War: Russian E - Retailer Ozon Comes... - YouTube</a></li>
-<li><a href="https://www.thelowdownblog.com/2026/07/with-gas-lines-and-attacks-on-e.html">The Low-Down: With Gas Lines, Attacks on E - commerce ...</a></li>
-<li><a href="https://therecord.media/russia-wildberries-cyberattack-ukraine">Ukraine says cyberattack hit Russian e - commerce giant Wildberries...</a></li>
-<li><a href="https://meduza.io/en/news/2026/10/21/major-sellers-increased-sales-on-ozon-after-ukrainian-drone-strikes-hit-wildberries">Major sellers increased sales on Ozon after Ukrainian drone strikes hit...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Events`, `#Supply Chain Disruptions`, `#E-commerce`, `#Market Stability`
-
----
-
-<a id="item-global-market-19"></a>
-### [民主党在中期选举中夺回国会控制权分析](https://reut.rs/4zsoGFO) ⭐️ 7.0/10
-
-民主党在中期选举中以压倒性优势夺回国会控制权，这一结果被视为选民对前总统特朗普的强烈否定。这一变化可能会对全球金融市场产生重要影响。
-
-rss · 路透社 Reuters · 11月4日 08:17
-
-**「背景信息」** 在 2026 年的中期选举中，民主党以压倒性优势夺回国会控制权，这一事件标志着选民对前总统特朗普的强烈否定。在投票前，外界普遍预计民主党将控制参议院，这将对特朗普政府形成实质性的制约。2026 年美国中期选举将对特朗普政府产生重大影响，可能导致其失去国会控制权，进入‘跛脚鸭’状态。这种政治格局的变化可能会影响美国的经济政策和全球金融市场的稳定性。
-
-**「市场影响」** 民主党夺回国会控制权可能导致政策方向发生改变，进而影响全球金融市场，尤其是对美元和美股的走势产生重要影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.guancha.cn/sunchenghao/2026_11_05_907131.shtml">美 国 中 期 选 举 ，对 中 国 有何 影 响</a></li>
-<li><a href="https://www.fxbaogao.com/detail/5178746">[ 中 国 银河证券]：美 国 中 期 选 举 前瞻：政治重心内移？ - 发现报告</a></li>
-<li><a href="https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/simp">美 国 中 期 选 举 2026... - BBC News 中 文</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Political Event`, `#Economic Policy`, `#Market Sentiment`, `#US Politics`, `#Congress`
-
----
-
-<a id="item-global-market-20"></a>
-### [甲骨文放弃与腾讯 70 亿美元 AI 交易](https://reut.rs/3Wn5yKX) ⭐️ 7.0/10
-
-据《金融时报》报道，在特朗普施压下，甲骨文取消了与腾讯价值 70 亿美元的人工智能交易。这一决定是在美国官员对交易表示担忧后做出的。
-
-rss · 路透社 Reuters · 11月4日 07:45
-
-**「背景信息」** 甲骨文公司原本计划与腾讯公司签订一项价值 70 亿美元的人工智能芯片租赁协议。这项协议原定让腾讯租用约 10 万枚先进 AI 芯片，首付款约占 30%。腾讯计划通过甲骨文在东南亚的多个数据中心获取在中国无法使用的芯片。然而，由于美国官员对这笔交易表示担忧，并受到特朗普政府的压力，甲骨文最终取消了这笔交易。
-
-**「影响」** 这一交易取消可能会对科技股市场产生一定影响，尤其是对涉及人工智能领域的公司股价产生影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c?syn-25a6b1a6=1">Oracle cancels $7bn Tencent AI deal under Trump pressure</a></li>
-<li><a href="https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1">China’s Tencent leases 100,000 chips from Oracle to ...</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/tencent-leases-100-000-chips-035844927.html?fr=sycsrp_catchall">Tencent leases 100,000 chips from Oracle for $7 bln- FT</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Deal`, `#Oracle`, `#Tencent`, `#Geopolitical Influence`, `#Corporate Finance`
-
----
-
-<a id="item-global-market-21"></a>
-### [分析师对美国中期选举结果作出反应分析](https://reut.rs/4BJAZ2b) ⭐️ 7.0/10
-
-分析师对美国中期选举结果作出反应，讨论其对金融市场的影响。具体影响包括市场走势、政策变化等。
-
-rss · 路透社 Reuters · 11月4日 06:41
-
-**「背景信息」** 2026 年美国中期选举期间，预测平台如 Polymarket 和 Kalshi 上的选举结果投注显著增加。据路透社 10 月 14 日的报道，反腐败数据集体（ACDC）的分析显示，选举结果可能会对投资者产生重大影响，包括加拿大人的退休储蓄。此外，专家表示，金融市场可能会对选举结果作出强烈反应。
-
-**「影响」** 中期选举结果可能对金融市场产生具体影响，例如股市波动、政策调整等。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_United_States_elections">2026 United States elections - Wikipedia</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets">After the US midterms , what will a lame duck Trump... | The Guardian</a></li>
-<li><a href="https://globalnews.ca/news/12134717/midterms-investing-stock-markets/">How U . S . midterm results could impact financial markets and your...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#US Midterm Elections`, `#Financial Markets`, `#Economic Analysis`, `#Market Trends`, `#Political Impact`
-
----
-
-<a id="item-global-market-22"></a>
-### [伊朗革命卫队报告四艘油轮在霍尔木兹海峡附近触雷起火](https://reut.rs/4BJlUxo) ⭐️ 7.0/10
-
-伊朗革命卫队报告称，四艘油轮在霍尔木兹海峡附近触雷后起火。
-
-rss · 路透社 Reuters · 11月4日 04:19
-
-**「背景信息」** 霍尔木兹海峡是连接波斯湾和阿拉伯海的唯一海上通道，是全球最重要的战略要地之一。在 2023 至 2025 年间，全球 20%的液化天然气和 25%的海上石油贸易都通过霍尔木兹海峡。该海峡的战略重要性在于其是全球能源系统中的关键节点，对于全球石油运输至关重要。霍尔木兹海峡的历史上一直是战略要地，也是许多冲突的地点。关闭海峡可能会引发战争，因此尽管存在威胁，海峡很可能保持开放。
-
-**「影响分析」** 此次事件可能对霍尔木兹海峡的航运安全造成影响，进而对全球石油市场产生波动。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure ... Strait of Hormuz - History and Importance - ThoughtCo The Strategic Importance of the Strait of Hormuz: a ... The Strait of Hormuz: A Timeline of Tensions - HISTORY Strait of Hormuz: Geography, Navigation, Strategic Importance ... What is the Strait of Hormuz, and Why Does it Matter? Strait of Hormuz - Wikipedia</a></li>
-<li><a href="https://www.thoughtco.com/strait-of-hormuz-1435398">Strait of Hormuz - History and Importance - ThoughtCo The Strategic Importance of the Strait of Hormuz: a ... The Strait of Hormuz: A Timeline of Tensions - HISTORY Strait of Hormuz: Geography, Navigation, Strategic Importance ... What is the Strait of Hormuz, and Why Does it Matter? Strait of Hormuz - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Iran`, `#Revolutionary Guard`, `#Strait of Hormuz`, `#Tankers`, `#Mines`
-
----
-
-<a id="item-global-market-23"></a>
-### [非洲 LNG 出口预计增长 175%，买家逃离霍尔木兹海峡](https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html) ⭐️ 7.0/10
-
-非洲的液化天然气（LNG）出口预计将增长 175%，原因是买家纷纷逃离霍尔木兹海峡。预计到 2030 年，非洲上游部门将吸引约 400 亿美元的投资，将大陆的烃产量提高到每天 1250 万桶油当量。莫桑比克、尼日利亚、安哥拉、利比亚和科特迪瓦将获得最多的资本份额，而乌干达、肯尼亚和纳米比亚的新项目将扩大生产基础。
-
-rss · OilPrice · 11月5日 01:00
-
-**「背景信息」** 由于霍尔木兹海峡的供应中断，能源买家正在转向非洲，随之而来的是巨额投资。非洲能源委员会预测，非洲上游部门将通过 2030 年吸引约 400 亿美元的投资，将大陆的烃产量提高到 12.5 百万桶油当量/日。莫桑比克、尼日利亚、安哥拉、利比亚和科特迪瓦将获得其中最大的份额，而乌干达、肯尼亚和纳米比亚的新项目将扩大生产基础。主要的海上发现和上游交易浪潮正在将非洲转变为全球能源市场的一个重要参与者。
-
-**「影响」** 这一趋势将对全球能源市场动态产生重大影响，使非洲成为 LNG 出口的主要参与者。这将影响中央银行、股票、债券、商品和货币。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz - About - IEA</a></li>
-<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
-<li><a href="https://hormuzstraitmonitor.com/">Strait of Hormuz Live Traffic Tracker — Real-Time Shipping &amp; Oil...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Energy Market`, `#LNG Exports`, `#Global Energy Dynamics`, `#Investment in Africa`, `#Commodity Prices`
-
----
-
-<a id="item-global-market-24"></a>
-### [Butane’s Perfect Storm Sends Prices to Decade Highs](https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html) ⭐️ 7.0/10
-
-Butane prices have reached decade highs due to global trade reorientation and other overlapping trends.
-
-rss · OilPrice · 11月5日 00:00
-
-**标签**: `#Commodities`, `#Butane Prices`, `#Market Trends`, `#Global Trade`
-
----
-
-<a id="item-global-market-25"></a>
-### [卡塔尔成为美国 LNG 最大买家](https://oilprice.com/Energy/Natural-Gas/Qatar-Becomes-Largest-Buyer-of-US-LNG-Amid-Hormuz-Crisis.html) ⭐️ 7.0/10
-
-在霍尔木兹海峡危机期间，卡塔尔成为美国液化天然气（LNG）的最大买家。这一变化是由于伊朗战争和霍尔木兹海峡关闭对卡塔尔造成的破坏，导致其从全球第二大 LNG 出口国转变为美国 LNG 的最大买家。
-
-rss · OilPrice · 11月4日 23:00
-
-**「背景信息」** 在伊朗战争和霍尔木兹海峡关闭之前，卡塔尔是世界上第二大液化天然气出口国。然而，由于伊朗的导弹攻击和对卡塔尔关键能源基础设施的破坏，卡塔尔的液化天然气出口能力受到了严重影响。这些事件导致卡塔尔不得不依赖其他液化天然气供应国，其中包括美国。美国在近年来已经成为液化天然气的主要出口国，并在这一过程中超过了卡塔尔。这一系列的地缘政治事件和能源基础设施的破坏，为全球液化天然气市场带来了显著的变化。
-
-**「影响」** 这一事件对全球 LNG 市场产生了显著影响，可能导致相关商品和货币的波动。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tiktok.com/discover/natural-gas-terminal-qatar">Natural Gas Terminal Qatar | TikTok</a></li>
-<li><a href="https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html">Iran attack on Qatar causes &#x27;extensive damage&#x27; to massive energy hub</a></li>
-<li><a href="https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-attack-wipes-out-17-of-qatar-lng-capacity-never-in-my-wildest-dreams-says-qatarenergy-ceo/printarticle/129680952.cms">Iran attack wipes out 17% of Qatar LNG capacity; ‘never in my wildest...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Events`, `#Commodities`, `#Global LNG Market`, `#Currency Moves`, `#U.S. LNG`
-
----
-
-<a id="item-global-market-26"></a>
-### [COP31 电化目标能否实现：廉价电池的作用](https://oilprice.com/Energy/Energy-General/Can-Cheap-Batteries-Deliver-COP31s-35-Electrification-Goal.html) ⭐️ 7.0/10
-
-即将举行的 COP31 联合国气候大会将重点关注电化，目标是在 2035 年实现全球 35%的电气化。由于伊朗战争导致的石油和天然气市场波动以及清洁能源技术的巨大进步，这一目标现在被视为可行。
-
-rss · OilPrice · 11月4日 22:00
-
-**「背景信息」** 在即将于 2026 年 11 月 9 日至 20 日在土耳其安塔利亚举行的 COP31 联合国气候大会上，电气化将成为主要议题。主办国将邀请与会国家签署一项自愿承诺，到 2035 年实现全球 35%的电气化。一年前，这一目标可能看起来过于雄心勃勃，但现在，专家表示，包括因伊朗战争而波动的石油和天然气市场以及清洁能源技术的巨大进步在内的多种因素，使得这一目标变得更加可行。
-
-**「影响」** 廉价电池技术的进步可能对全球市场产生重大影响，特别是在推动电化目标方面，这可能会影响能源、汽车和电力行业的投资和增长前景。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://cop31.tr/news-detail/bonn-electrification-target-2026">COP 31 Announces “35% by 2035 ” Electrification Target | COP 31</a></li>
-<li><a href="https://theplurals.in/climate-change/an-electrifying-start-to-bonn-climate-conference/">Bonn Climate Talks: COP 31 Sets New 2035 Energy Goals</a></li>
-<li><a href="https://www.downtoearth.org.in/energy/bonn-climate-conference-2026-global-electrification-target-of-35-by-2035-announced">Bonn Climate Conference 2026 Sets Global Electrification Target of...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Climate Change`, `#Energy Policy`, `#Electrification`, `#Battery Technology`, `#Global Markets`
-
----
-
-<a id="item-global-market-27"></a>
-### [伊朗战争和 AI 繁荣推动全球天然气供应紧张](https://oilprice.com/Energy/Natural-Gas/Iran-War-and-AI-Boom-Drive-Global-Gas-Supply-Crunch.html) ⭐️ 7.0/10
-
-由于伊朗战争和人工智能的繁荣，全球天然气供应面临紧张局面，导致亚洲 LNG 现货市场价格自年初以来翻了两番。亚洲和欧洲正在争夺有限的货物。美国正在出口创纪录的燃料量。卡塔尔能源公司刚刚延长了其 LNG 出口的不可抗力条款。全球天然气短缺的情况将持续一段时间。
-
-rss · OilPrice · 11月4日 21:00
-
-**「背景信息」** 全球天然气供应紧张的原因包括伊朗战争和人工智能的兴起。伊朗战争导致霍尔木兹海峡关闭，影响了全球五分之一的海上天然气运输。此外，人工智能的快速发展增加了对能源的需求，尤其是在数据中心和电网方面。这些因素共同导致了亚洲液化天然气（LNG）现货市场价格的三倍增长。
-
-**「市场影响」** 亚洲 LNG 现货市场价格自年初以来已翻三倍，亚洲和欧洲正争夺有限的货物。美国正在出口创纪录的燃料量，而 QatarEnergy 刚刚延长了其 LNG 出口的不可抗力。全球天然气供应短缺的情况将持续一段时间。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.linkedin.com/posts/energy-flux_hormuz-lng-naturalgas-activity-7436007117335097344-HQK0">US- Iran War Impact on Global LNG Markets | Energy Flux... | LinkedIn</a></li>
-<li><a href="https://www.aljazeera.com/tag/israel-iran-conflict/">US-Israel war on Iran | US-Israel war ... | Today&#x27;s latest from Al Jazeera</a></li>
-<li><a href="https://www.theguardian.com/business/2026/mar/08/great-britain-has-only-two-days-of-gas-stored-as-iran-war-disrupts-supplies">Great Britain has only two days of gas stored, while Iran war threatens...</a></li>
-<li><a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary">Executive summary - Key Questions on Energy and AI - IEA</a></li>
-<li><a href="https://energyanalytics.org/research/the-rise-of-ai-a-reality-check-on-energy-and-economic-impacts">The Rise of AI: A Reality Check on Energy and Economic Impacts</a></li>
-<li><a href="https://www.iea.org/reports/energy-and-ai/">Energy and AI - IEA</a></li>
-<li><a href="https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch">The world is facing an almighty LNG crunch - The Economist</a></li>
-<li><a href="https://oxfordenergy.org/wpcms/wp-content/uploads/2026/04/OEF-148-GLOBAL-GAS-BATTLING-THE-NEXT-CRISIS.pdf">GLOBAL GAS: BATTLING THE NEXT CRISIS - oxfordenergy.org</a></li>
-<li><a href="https://www.iea.org/reports/gas-market-lessons-from-the-2022-2023-energy-crisis/anatomy-of-a-natural-gas-crisis">Anatomy of a natural gas crisis - Gas Market Lessons from the ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Global Gas Supply`, `#LNG Market`, `#Energy Prices`, `#Geopolitical Impact`, `#Commodity Market`
-
----
-
-<a id="item-global-market-28"></a>
-### [阿联酋考虑第三条霍尔木兹海峡绕行管道计划](https://oilprice.com/Energy/Crude-Oil/UAE-Weighs-Plans-for-Third-Strait-of-Hormuz-Bypass-Pipeline.html) ⭐️ 7.0/10
-
-阿联酋正在考虑建设第三条绕过霍尔木兹海峡的管道，旨在减少对伊朗中断的暴露并加强其能源出口能力。目前，阿联酋已运营一条绕过霍尔木兹海峡的原油出口管道，并宣布今年早些时候正在建设第二条管道。
-
-rss · OilPrice · 11月4日 20:00
-
-**「背景信息」** 阿联酋目前运营一条绕过霍尔木兹海峡的原油出口管道，并在今年早些时候宣布正在建设第二条管道。据报道，阿联酋正在计划第三条管道，以进一步扩大原油运输能力，并绕过霍尔木兹海峡，从而减少对伊朗中断的暴露，并削弱德黑兰对这一关键海上咽喉的控制。根据 CNBC 的报道，美国能源部长克里斯·赖特表示，在伊朗战争之后，霍尔木兹海峡对全球能源市场的重要性将下降，因为海湾国家正在建设更多的管道。此外，根据 Stout 的分析，通过将更多原油运往阿曼湾，该管道减少了阿联酋对战略上易受攻击的霍尔木兹海峡的依赖，从而增强了阿联酋的能源安全，但无法消除全球石油市场对霍尔木兹海峡发生重大中断的敏感性。
-
-**「影响」** 这一举措可能会对全球能源流动和地缘政治动态产生重大影响，特别是关于霍尔木兹海峡的问题。对于跟踪商品和货币的人来说，这是一个重要的发展。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/05/20/uae-pipeline-strait-hormuz-iran-war-oil.html">UAE says new pipeline that will bypass Strait of Hormuz is ...</a></li>
-<li><a href="https://www.stout.com/en/insights/commentary/uaes-new-west-east-pipeline-bypass-hormuz">UAE’s New West-East Pipeline to Bypass Hormuz | Stout</a></li>
-<li><a href="https://www.cnbc.com/2026/03/12/strait-of-hormuz-oil-pipelines-iran-war-saudi-arabia-uae.html">Two pipelines helping Saudi Arabia, UAE bypass the Strait of ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#UAE`, `#Energy Infrastructure`, `#Strait of Hormuz`, `#Commodity Markets`, `#Geopolitical Dynamics`
-
----
-
-<a id="item-global-market-29"></a>
-### [极地涡旋威胁欧洲天然气储备](https://oilprice.com/Energy/Natural-Gas/Polar-Vortex-Puts-Europes-Gas-Reserves-at-Risk.html) ⭐️ 7.0/10
-
-北极涡旋的早期中断可能对欧洲的天然气储备构成风险，这可能会影响能源市场。欧洲中心中期天气预报显示，北极涡旋可能将冷空气送入西北欧洲，而在这个能源紧张的洲际，面对即将到来的北半球冬季，其供应缓冲区非常薄弱。
-
-rss · OilPrice · 11月4日 19:00
-
-**「背景信息」** 欧洲中期天气预报中心（ECMWF）显示，北极极地涡旋的早期中断可能会将冷空气送入西北欧洲，这给能源短缺的欧洲大陆带来了风险。目前，极地涡旋是有史以来在同一天最弱的一次，预计将在接下来的几天内达到关键的水平 0。如果它达到或低于 0 的值，它将正式成为最早的突然中层大气变暖事件。ECMWF 是一个由大多数欧洲国家支持的独立政府间组织，其总部位于英国雷丁的 Shinfield Park、意大利博洛尼亚和德国波恩。它运营着欧洲乃至世界上最大的超级计算机集群和数值天气预报数据档案。
-
-**「影响」** 这一天气事件可能会对能源市场产生具体影响，尤其是在天然气储备方面。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/European_Centre_for_Medium-Range_Weather_Forecasts">European Centre for Medium-Range Weather Forecasts</a></li>
-<li><a href="https://www.ecmwf.int/en/forecasts">Forecasts | ECMWF</a></li>
-<li><a href="https://github.com/ecmwf">European Centre for Medium - Range Weather Forecasts · GitHub</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Energy`, `#Commodities`, `#Weather Events`, `#Europe`
-
----
-
-<a id="item-global-market-30"></a>
-### [油价暴跌 9%，特朗普和范斯将中期选举失利归咎于伊朗战争](https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html) ⭐️ 7.0/10
-
-油价在特朗普和副总统范斯将中期选举失利归咎于伊朗战争后暴跌 9%。布伦特原油价格下跌 8.94 美元，跌幅为 8.6%，至每桶 94.66 美元，为 9 月 4 日以来的最低水平。WTI 原油价格下跌 8.01 美元，跌幅为 8.3%，至每桶 88.08 美元。
-
-rss · OilPrice · 11月4日 18:30
-
-**「背景信息」** 自 2026 年 2 月 28 日起，美国和以色列与伊朗及其区域盟友陷入战争。这场战争继 2025 年 6 月的十二天战争以及由 2023 年加沙战争引发的中东危机期间的零星战斗之后爆发。这场冲突主要集中在伊朗，并涉及整个中东地区。
-
-**「影响」** 这一事件对市场产生了显著影响，导致油价大幅下跌，表明市场对地缘政治紧张局势的反应。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war">2026 Iran war - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/event/2026-Iran-war">2026 Iran war | Oil, Explained, United States, Israel, Strait ...</a></li>
-<li><a href="https://law.careers360.com/articles/iran-war-explained-background-key-events-current-developments-and-why-it-matters-for-clat-2027">Iran War Explained: Background, Key Events, Current ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Oil Prices`, `#Geopolitical Tensions`, `#Market Reaction`, `#Iran War`, `#Midterm Elections`
-
----
-
-<a id="item-global-market-31"></a>
-### [Dangote 在纳米比亚启动 25 亿美元燃料枢纽项目](https://oilprice.com/Latest-Energy-News/World-News/Dangote-Breaks-Ground-on-25-Billion-Namibia-Fuel-Hub-for-Southern-Africa.html) ⭐️ 7.0/10
-
-非洲首富阿里科·达戈特旗下的达戈特集团在纳米比亚启动了一个价值 25 亿美元的燃料枢纽项目，旨在为南部非洲内陆国家提供更便宜的石油产品。
-
-rss · OilPrice · 11月4日 16:30
-
-**「背景信息」** Dangote 集团是一家尼日利亚的跨国工业集团，由 Aliko Dangote 创立。它是西非最大的企业集团，也是非洲大陆上最大的企业之一。Dangote 集团在 17 个非洲国家设有业务，并在非洲大陆上成为水泥市场的领导者。该集团的项目旨在为南部非洲内陆国家提供更便宜的石油产品，这与纳米比亚更广泛的基础设施发展优先事项和成为区域贸易、物流和能源分销战略门户的雄心相一致。
-
-**「市场影响」** Dangote Group 在纳米比亚建设的这个价值 25 亿美元的燃料枢纽项目，预计将降低南部非洲内陆国家的石油产品价格，从而可能减少这些国家的能源成本，并促进该地区的经济发展。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Dangote_Group">Dangote Group - Wikipedia</a></li>
-<li><a href="https://www.dangote.com/about-us/">About Us – Dangote Industries Limited</a></li>
-<li><a href="https://viorah.tv/dangote-group/">Dangote Group: Company Profile, History &amp; Valuation</a></li>
-<li><a href="https://thebrief.com.na/2026/11/dangotes-fuel-infrastructure-project-to-position-namibia-as-regional-energy-hub/">Dangote’s fuel infrastructure project to position Namibia as ...</a></li>
-<li><a href="https://www.riotimesonline.com/dangote-namibia-fuel-hub-walvis-bay/">Dangote Starts US$2.5B Namibia Fuel Hub | The Rio Times</a></li>
-<li><a href="https://ugdiplomat.com/dangote-launches-2-5-billion-namibia-fuel-storage-and-pipeline-project/">Dangote Launches $2.5 Billion Namibia Fuel Storage and ...</a></li>
-<li><a href="https://refinery.dangote.com/author/victor-ogunyinka/">Victor Ogunyinka – Dangote Petroleum Refinery</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Energy Infrastructure`, `#Fuel Hub`, `#Dangote Group`, `#Southern Africa`, `#Petroleum Products`
-
----
-
-<a id="item-global-market-32"></a>
-### [布伦特原油价格下跌至每桶 100 美元，交易员押注美伊协议](https://oilprice.com/Latest-Energy-News/World-News/Brent-Falls-to-100-as-Traders-Bet-on-a-US-Iran-Deal.html) ⭐️ 7.0/10
-
-布伦特原油价格下跌至每桶 100.60 美元，下跌 3.04 美元，跌幅为 2.9%，这是其连续第三天下跌。这一下跌反映了交易员对美伊协议的预期，以及对美国总统特朗普表示华盛顿没有立即计划对伊朗采取军事行动的反应。
-
-rss · OilPrice · 11月4日 15:30
-
-**「背景」** 近期，美国和伊朗之间的紧张关系一直是全球金融市场关注的焦点。双方在霍尔木兹海峡的紧张局势以及美国对伊朗的制裁措施，都对全球原油市场产生了重大影响。在此背景下，市场对双方可能达成的和解持乐观态度，这可能导致原油价格的波动。例如，美国总统特朗普曾表示，华盛顿没有立即计划对伊朗采取军事行动，这表明双方可能在寻求和平解决争端。此外，美国副总统 JD Vance 也表达了对与伊朗达成“谈判解决方案”的乐观态度。这些政治事件的发展对市场参与者来说至关重要，因为他们需要了解可能影响原油价格的政治动态。
-
-**「市场影响」** 这一价格下跌对全球金融市场产生了影响，特别是对原油和货币市场，因为交易员对地缘政治事件和全球能源供应的预期发生了变化。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html">Vague Language of U . S .- Iran Deal Comes Back to Haunt Peace Efforts</a></li>
-<li><a href="https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ships-uae-attacked/">U . S .- Iran ceasefire holding for now, Hegseth says, as Trump looks to...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html">U . S . strikes Iran &#x27; s Qeshm Island as Vance seeks settlement</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Oil Prices`, `#Commodities`, `#Geopolitical Events`, `#U.S.-Iran Relations`, `#Financial Markets`
-
----
-
-<a id="item-global-market-33"></a>
-### [特朗普夫人主持俄乌会谈](https://oilprice.com/Geopolitics/Africa/Russia-and-Ukraine-Head-to-White-House-for-Melania-Trump-Led-Talks.html) ⭐️ 7.0/10
-
-美国第一夫人梅拉尼娅·特朗普将于 11 月 5 日在白宫主持俄罗斯和乌克兰代表参加的会谈，双方确认将参加此次会议，会议重点讨论乌克兰南部赫尔松地区的局部停火。此次会谈是在梅拉尼娅·特朗普协助促成俄占城市奥列什基六日停火，以便人道主义援助交付和疏散弱势平民之后举行的。
-
-rss · OilPrice · 11月4日 15:00
-
-**「背景信息」** 美国第一夫人梅拉尼娅·特朗普将于 11 月 5 日在白宫主持俄罗斯和乌克兰代表参加的会议，双方已确认将参加此次会议，会议重点讨论乌克兰南部赫尔松地区的局部停火。此次会议是在梅拉尼娅·特朗普帮助促成俄罗斯占领的奥列什基市周边六天的停火之后举行的，她说这有助于人道主义援助的运送和弱势平民的疏散。根据消息来源，这次会议是在新一轮美国斡旋的和平谈判之前举行的。
-
-**「影响」** 此次会谈可能会对乌克兰冲突的解决产生积极影响，有助于缓解该地区的紧张局势。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://oilprice.com/Geopolitics/Africa/Russia-and-Ukraine-Head-to-White-House-for-Melania-Trump-Led-Talks.html">Russia and Ukraine Head to White House for Melania Trump-Led ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitics`, `#Diplomacy`, `#Ukraine Conflict`, `#Ceasefire`, `#Melania Trump`
+**标签**: `#Technology`, `#Supply Chain`, `#Labor Disputes`, `#Semiconductor Industry`, `#Taiwan`
 
 ---
 
 ## AI 前沿
 
 <a id="item-ai-frontier-1"></a>
-### [Tencent Hy4](https://hy.tencent.ai/research/hy4) ⭐️ 8.0/10
+### [中国科大 RNA 基础模型登 Nature](https://news.ustc.edu.cn/info/1048/96798.htm) ⭐️ 8.0/10
 
-Tencent&\#x27;s Hy4 foundation models are open-sourced, showcasing a commitment to AI research and development, with a focus on single-cell representation and physical field modeling.
+中国科学技术大学团队提出了一种名为 structRFM 的结构引导 RNA 基础模型，该模型在《自然》杂志上发表。structRFM 通过将二级结构中的碱基配对信息融入序列预训练，使用约 2100 万条序列-结构配对数据进行训练，并在多项任务中达到前沿水平。此外，团队开发的 MUSES 方法用于整合多种二级结构预测结果以降低偏差，三维结构预测模块 Zfold 的性能与 AlphaFold 3 相当。
 
-hackernews · Philpax · 11月4日 14:11 · [社区讨论](https://news.ycombinator.com/item?id=50365780)
+telegram · zaihuapd · 11月5日 04:49
 
-**标签**: `#AI Research`, `#Open Source`, `#Foundation Models`, `#Tencent`, `#Game Development`
+**「背景信息」** RNA（核糖核酸）在生物信息学中扮演着重要角色，其结构预测对于理解基因表达和蛋白质功能至关重要。近年来，随着人工智能技术的发展，基于人工智能的 RNA 结构预测模型逐渐成为研究热点。这些模型通过学习大量的 RNA 序列和结构数据，能够预测 RNA 的三维结构和功能。中国科学技术大学的研究团队在这一领域取得了重要进展，他们提出的结构引导的 RNA 基础模型 structRFM，通过将二级结构中的碱基配对信息融入序列预训练，显著提高了 RNA 结构预测的准确性。
+
+**「影响」** structRFM 模型的发布为 RNA 结构预测领域带来了新的突破，有助于加速相关研究和应用的发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.frontiersin.org/journals/genome-editing/articles/10.3389/fgeed.2023.1034720/full">Frontiers | CRISPR/Cas9-generated mouse model with humanizing...</a></li>
+<li><a href="https://www.marktechpost.com/2024/10/15/orthrus-a-contrastive-learning-approach-for-enhanced-rna-representation-and-property-prediction/">Orthrus: A Mamba- based RNA Foundation Model ... - MarkTechPost</a></li>
+<li><a href="https://www.researchgate.net/figure/Illustrate-DNA-to-RNA-transcription-followed-by-possible-mRNA-messenger-RNA_fig4_364555555">Illustrate DNA to RNA transcription (followed by possible mRNA...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#RNA base model`, `#AI research`, `#Nature publication`, `#RNA structure prediction`, `#AlphaFold`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [OpenAI to acquire Pierre Computer Company](https://openai.com/index/openai-to-acquire-pierre/) ⭐️ 7.0/10
+### [SSH 配置漏洞讨论](https://sshhole.com/) ⭐️ 7.0/10
 
-OpenAI acquires Pierre Computer Company, a significant move in the AI infrastructure space.
+讨论了 SSH 配置中的技术漏洞，影响了某些系统。讨论涉及漏洞的性质及其影响，但并非突破性发现或重大行业变革公告。
 
-hackernews · itunpredictable · 11月4日 15:21 · [社区讨论](https://news.ycombinator.com/item?id=50366863)
+hackernews · josemrb · 11月5日 12:19 · [社区讨论](https://news.ycombinator.com/item?id=50378228)
 
-**标签**: `#OpenAI`, `#Acquisition`, `#Git Infrastructure`, `#AI Research`, `#AI Industry`
+**「SSH 配置漏洞背景」** SSH（安全外壳协议）是用于计算机之间安全通信的一种协议。在过去的几年中，SSH 协议及其实现（如 OpenSSH）已经发现了多个安全漏洞。这些漏洞可能允许攻击者执行未经授权的操作，如远程代码执行或文件写入。例如，2026 年 10 月，OpenSSH 发布了 10.6 版本，修复了可能导致秘密泄露、文件写入到预期文件夹之外或特定条件下的 shell 注入的安全漏洞。这些漏洞影响了依赖 SSH 进行远程访问和文件传输的管理员和用户。
+
+**「社区讨论」** 社区成员对漏洞的严重性有不同的看法。有人认为描述过于夸张，而另一些人则解释了漏洞的具体技术细节和影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cybersecuritynews.com/openssh-10-6-released/">Multiple OpenSSH Vulnerabilities Could Enable Plaintext ...</a></li>
+<li><a href="https://eolrisk.com/blog/ubuntu-openssh-vulnerabilities-july-2026/">OpenSSH Vulnerability 2026: Ubuntu Patches 8 OpenSSH Flaws</a></li>
+<li><a href="https://www.sentinelone.com/vulnerability-database/cve-2026-73281/">CVE-2026-73281: OpenSSH ssh-agent RCE Vulnerability - SentinelOne</a></li>
+
+</ul>
+</details>
+
+**标签**: `#SSH Vulnerability`, `#Security`, `#AI Infrastructure`, `#Technical Analysis`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [大型语言模型可证明推理的进展](https://www.anthropic.com/research/provable-inference) ⭐️ 7.0/10
+### [淘宝 MNN 团队开源 0.3B 手机模型，iPhone 18 Pro 上离线跑出 350 token/s](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247939889&amp;idx=3&amp;sn=4222751c75f7010c476c38293c5ed091) ⭐️ 7.0/10
 
-Anthropic 发布了一篇关于大型语言模型可证明推理的研究论文，该论文在可证明推理方面取得了显著进展。这项技术基于 VerInf 工作，使用 400B Maverick 模型，并提供了 90-100 倍的计算效率提升。然而，论文也指出存在一些挑战和限制。
+淘宝 MNN 团队开源了 0.3B 参数的手机模型 MNN-Pocket-0.3B，该模型在 iPhone 18 Pro 上实现了 350 token/s 的离线运行速度，旨在为手机应用提供原生大模型支持。
 
-hackernews · ltononro · 11月4日 17:17 · [社区讨论](https://news.ycombinator.com/item?id=50368626)
+rss · 量子位 · 11月5日 08:09
 
-**「背景信息」** 可证明推理是人工智能领域的一个重要研究方向，特别是在大型语言模型（LLMs）的应用中。它涉及到如何确保模型推理过程的透明性和可验证性。在之前的研究中，已经有一些工作在探索可证明推理的方法，例如 VerInf。这些研究为当前的研究提供了基础，并推动了相关技术的发展。
+**「背景介绍」** 随着移动设备的性能不断提升，将大型模型部署到手机上成为可能。这需要模型在保持较高性能的同时，还要考虑到手机的算力、内存和功耗限制。淘宝 MNN 团队针对这一需求，开发了 MNN-Pocket-0.3B 模型，旨在为手机应用提供原生大模型支持，实现高效、轻量级的模型运行。
 
-**「影响」** 这项技术为开发者、研究人员和用户提供了一种更安全、更可靠的推理方法，有助于提高大型语言模型的透明度和可信度。
+**「影响」** 这一模型的开源将为开发者提供更强大的手机端 AI 应用开发工具，特别是在需要高响应速度和低资源消耗的场景中。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.anthropic.com/research/provable-inference">Progress on provable inference for large language models \ Anthropic</a></li>
-<li><a href="https://arxiv.org/pdf/2411.19477">Provable Scaling Laws for the Test-Time Compute of Large ...</a></li>
-<li><a href="https://www.metriccoders.com/post/on-device-inference-for-large-language-models-challenges-and-solutions">On-Device Inference for Large Language Models : Challenges and ...</a></li>
+<li><a href="https://www.youtube.com/watch?v=ElxeH-eXC88">Я полетел в другую страну за IPHONE 18 PRO MAX! - YouTube</a></li>
+<li><a href="https://vkvideo.ru/video-31038184_456244638">Распаковка iPhone 18 Pro Max - мразь бордовая или право имеет?</a></li>
+<li><a href="https://claude.ai/">Sign in to Claude, Anthropic&#x27;s AI assistant for problem solvers.</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Large Language Models`, `#Provable Inference`, `#AI Infrastructure`
+**标签**: `#AI Infrastructure`, `#Mobile AI`, `#Model Release`, `#Performance Benchmark`
 
 ---
 
 <a id="item-ai-frontier-4"></a>
-### [内核安全漏洞分析及对 AI 基础设施的影响](https://openai.com/index/a-thousand-fewer-paths-to-root/) ⭐️ 7.0/10
+### [DialFork：对话代理程序幻觉基准](https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/) ⭐️ 7.0/10
 
-OpenAI 发布了对内核安全漏洞的分析，重点关注了权限提升漏洞。研究发现，Linux 内核存在 948 个漏洞，引发了社区对内核安全性和 AI 基础设施安全的关注。
+DialFork 是一个新的基准，用于衡量对话代理中的程序幻觉，重点关注代理对对话程序的遵循程度。该基准通过模拟对话并引入使代理偏离流程的指令来评估代理的行为。
 
-hackernews · dangelosaurus · 11月4日 23:33 · [社区讨论](https://news.ycombinator.com/item?id=50372929)
+reddit · r/MachineLearning · /u/sergbur · 11月5日 10:44
 
-**「背景信息」** 内核安全漏洞的分析对于理解 AI 基础设施的安全至关重要。内核作为操作系统的核心，其安全性直接影响到整个系统的稳定性和安全性。随着 AI 技术的不断发展，对内核安全的要求也越来越高。在过去的几年中，内核安全漏洞的数量不断增加，这引起了社区的关注和讨论。例如，Linux 内核中存在近千个权限提升漏洞，这表明内核的复杂性和安全性需要进一步的研究和改进。Sidero Labs 等公司正在致力于提高内核安全性，例如通过简化操作系统和提供安全检查清单来增强工作负载的安全性。
+**「背景」** 在人工智能领域，对话式代理的准确性一直是一个重要的研究方向。尽管事实准确性得到了广泛的关注，但一个被忽视的问题——程序性幻觉，也引起了研究者的注意。程序性幻觉指的是代理在产生流畅且事实准确的话语时，却偏离了预期的对话过程。为了评估这种新的失败模式，研究人员开发了 DialFork，这是一个用于衡量对话式代理程序性幻觉的基准。DialFork 通过模拟对话，并在对话过程中引入指令以使代理偏离预期流程，从而评估代理的程序性幻觉程度。
 
-**「社区讨论」** 社区成员对内核中存在大量权限提升漏洞表示震惊，并讨论了这些漏洞可能的原因和影响。一些用户对 Sidero Labs 的解决方案表示了兴趣，认为他们的系统可能有助于缓解这些问题。
+**「影响」** DialFork 的引入为开发者、研究人员和用户提供了一个评估对话代理程序幻觉的新工具，有助于提高对话代理的对话质量和用户体验。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.siderolabs.com/faq">FAQ - Sidero Labs</a></li>
-<li><a href="https://www.youtube.com/watch?v=sdXntXRV90k">Lightning Talk: Security Down to the Kernel - Justin Garrison ...</a></li>
-<li><a href="https://docs.siderolabs.com/talos/v1.14/security/talos-security-checklist">Talos Security Checklist - Sidero Documentation</a></li>
+<li><a href="https://arxiv.org/abs/2610.21561">DialFork: Going Beyond Factuality to Evaluate Procedural ...</a></li>
+<li><a href="https://cctest.ai/en/articles/dialfork-tests-whether-agents-follow-the-conversation-procedure">DialFork Benchmarks Procedural Hallucination in AI Agents ...</a></li>
+<li><a href="https://arxiv.org/html/2610.21561v5">DialFork: Going Beyond Factuality to Evaluate Procedural ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Kernel Security`, `#AI Infrastructure`, `#Vulnerability Analysis`, `#Community Interest`, `#AI Research`
+**标签**: `#AI Research`, `#Conversational Agents`, `#Benchmarking`, `#Machine Learning`
 
 ---
 
 <a id="item-ai-frontier-5"></a>
-### [AI 推动解决 40 年技术债务](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) ⭐️ 7.0/10
+### [火星裂缝上方氯化氢探测或指示火山活动](https://wsau.com/2026/11/04/pungent-gas-above-martian-fissures-hints-at-ongoing-volcanism/) ⭐️ 7.0/10
 
-社区讨论了 AI 在解决软件技术债务方面的作用，探讨了面临的挑战和潜在益处。AI 的应用使得发现和修复漏洞或技术债务任务成为可能，但同时也引发了关于软件安全性和持续修复的讨论。
+欧俄合作的 ExoMars 微量气体轨道器在火星阿尔巴山区域的地表裂缝上方低层大气中探测到氯化氢，研究团队认为这表明可能存在火山活动。这一发现对于 AI 研究和太空探索具有重要意义。
 
-hackernews · pseudolus · 11月4日 11:52 · [社区讨论](https://news.ycombinator.com/item?id=50364336)
+telegram · zaihuapd · 11月5日 12:42
 
-**「背景」** 随着人工智能（AI）技术的发展，软件中的技术债务问题日益凸显。技术债务是指在软件开发过程中，为了加快进度而采取的短期解决方案，这些解决方案可能会在未来导致更大的问题。AI 的应用可以帮助识别和修复这些技术债务，但同时也带来了新的挑战，如如何避免产生新的技术债务，以及如何平衡快速迭代和长期维护之间的关系。
+**「背景信息」** 在火星探索领域，科学家们一直致力于研究火星表面的地质活动和潜在的生命迹象。ExoMars 微量气体轨道器是由欧洲航天局和俄罗斯联邦太空局合作发射的，旨在对火星大气中的分子进行采样和分析。这一项目对于理解火星的地质和气候条件具有重要意义，尤其是在寻找可能存在的微生物生命方面。
 
-**「社区讨论」** 社区成员对 AI 在解决技术债务方面的作用存在不同看法。有人认为 AI 将推动软件变得更加健壮，而另一些人则担心这可能导致一个无休止的修复过程。还有观点认为，AI 的审计功能将使开源软件的安全审计成为现实。
+**「影响」** 这一发现可能为 AI 在太空探索中的应用提供新的线索，特别是在寻找适合微生物生存的热液环境方面。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/seunogunmola_softwareengineering-techdebt-artificialintelligence-activity-7483778625377505280-BrvF">Avoid AI Technical Debt with Long-Term Planning | LinkedIn</a></li>
-<li><a href="https://www.gotoagile.com/how-do-we-avoid-technical-debt-when-adopting-ai-insights-from-the-agile-tech-town-hall/">How do we avoid technical debt when adopting AI ? Insights from the...</a></li>
-<li><a href="https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/">There Is Increasingly Mounting AI Technical Debt That Is Going To...</a></li>
+<li><a href="https://tgcode.com/archives/18497.html">ExoMars 轨 道 器 拍摄到“毅力号”及其丢弃的垃圾图像 - TGCode</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI in Software`, `#Technical Debt`, `#AI Research`, `#Software Security`
+**标签**: `#Martian Exploration`, `#Volcanic Activity`, `#AI Research`, `#Space Infrastructure`
 
 ---
 
 <a id="item-ai-frontier-6"></a>
-### [招商局狮子山人工智能实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247939340&amp;idx=2&amp;sn=25a664251ec6cb5820f1268911de9141) ⭐️ 7.0/10
+### [华为云发布 openPangu-2.1-Pro](https://m.gelonghui.com/live/2748413) ⭐️ 7.0/10
 
-招商局狮子山人工智能实验室发布了「驭物™ Lion-ER-35B-A3B」具身推理模型，该模型采用 MoE 混合专家模型架构，总参数约 35B，每个 Token 仅激活约 3B 参数。在不显著增加推理开销的前提下，模型在十项主流具身相关基准上实现全部指标上涨，多项核心能力超越更大参数量的主流模型，有助于机器人真正理解三维物理世界。
+华为云于 11 月 15 日上线了 openPangu-2.1-Pro 旗舰模型，该模型重点提升了 ArkTS 语言在鸿蒙原生应用开发中的代码生成质量。此次更新还涉及智能体平台 AgentArts、码道 CodeArts、果办 OfficeAce 等核心产品。
 
-rss · 量子位 · 11月4日 05:33
+telegram · zaihuapd · 11月5日 13:27
 
-**「背景信息」** 具身推理是人工智能领域的一个研究方向，旨在使机器人能够更好地理解真实物理世界。这一领域的发展依赖于对机器人感知、决策和执行能力的提升。招商局狮子山人工智能实验室发布的「驭物™ Lion-ER-35B-A3B」具身推理模型，正是这一领域内的最新进展。该模型采用 MoE 混合专家模型架构，旨在通过更有效的数据利用和模型设计，提升机器人在三维空间中的理解和推理能力。
+**「背景信息」** 华为云于 11 月 15 日上线了 openPangu-2.1-Pro 旗舰模型，该模型专注于提升 ArkTS 语言在鸿蒙原生应用开发中的代码生成质量。ArkTS 是鸿蒙系统的重要组成部分，其优化将直接影响到开发者的工作体验和最终用户的使用感受。此外，华为云还更新了智能体平台 AgentArts、码道 CodeArts、果办 OfficeAce 等核心产品，以同步接入该旗舰模型。
 
-**「影响」** 该模型有助于机器人更好地理解三维物理世界，从而提高机器人在现实世界中的任务执行能力。
+**「影响」** 华为云推出 openPangu-2.1-Pro 旗舰模型，将显著提升 HarmonyOS 应用开发中 ArkTS 语言的代码生成质量，为开发者提供更高效的开发工具，从而加速 HarmonyOS 生态系统的构建。
+
+**「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://manus.im/">Manus: Hands On AI</a></li>
-<li><a href="https://digen.ai/">Digen AI - Free AI Video Generator</a></li>
-<li><a href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio">GitHub - JiaFeiMiao-K-Cat/DiscImageStudio · GitHub</a></li>
+<li><a href="https://www.sohu.com/a/1097689784_122004016">华为云11月15日上线openPangu-2.1-Pro，提升鸿蒙开发体验</a></li>
+<li><a href="https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E8%BD%AF%E4%BB%B6/%E5%8D%8E%E4%B8%BA%E4%BA%91%E4%B8%8A%E7%BA%BF%E7%9B%98%E5%8F%A4%E5%BC%80%E6%BA%90%E6%97%97%E8%88%B0%E6%A8%A1%E5%9E%8Bopenpangu-2-1-pro/ar-AA2gOXkh">华为云上线盘古开源旗舰模型openPangu-2.1-Pro - MSN</a></li>
+<li><a href="https://www.toutiao.com/article/7523826075119531094/">小艺Work首发openPangu-2.1-Pro：盘古模型下探个人办公，鸿蒙争夺AI生...</a></li>
+<li><a href="https://www.cnblogs.com/zhujian8263/articles/18754613">一、【 鸿 蒙 NEXT】 鸿 蒙 原 生 开 发 语 言 ： ArkTS 语 言 介绍 - zhujian8263...</a></li>
+<li><a href="https://juejin.cn/post/7372474966216671251">鸿 蒙 卷起来了！ 什么是 ArkTS ？ ArkUI？ 关于 鸿 蒙 的 ArkTS ...</a></li>
+<li><a href="https://developer.aliyun.com/article/1631018">掌握 ArkTS ，打造HarmonyOS 应 用 新视界：从“Hello World”...</a></li>
+<li><a href="https://huggingface.co/openpangu/openPangu-2.0-Flash">openpangu/ openPangu - 2 .0-Flash · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`, `#Robotics`
+**标签**: `#AI Research`, `#AI Infrastructure`, `#Huawei Cloud`, `#openPangu Model`, `#HarmonyOS`
 
 ---
 
-<a id="item-ai-frontier-7"></a>
-### [清华团队利用果蝇大脑接线图提升具身智能适应性](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247939340&amp;idx=3&amp;sn=5bc63a91c953505163760b1daeafa31b) ⭐️ 7.0/10
+## IT 与开源
 
-清华大学团队利用果蝇大脑的神经连接数据，构建了一个神经网络，使其在仿真环境中表现出更强的适应变化的能力。这一研究展示了生物神经系统连接结构在具身智能领域的潜在应用价值。
+<a id="item-it-opensource-1"></a>
+### [白宫网络监测到住宅代理活动](https://www.solidot.org/story?sid=85806) ⭐️ 7.0/10
 
-rss · 量子位 · 11月4日 05:33
+安全公司 Layer3 Intel 报告称，在白宫的自治系统 AS2650 中监测到住宅代理服务的活动，这些活动被认为是由安装在 Windows 11 设备上的俄罗斯代理程序 Infatica 引起的。
 
-**「背景信息」** 清华大学团队利用果蝇大脑的神经连接数据，构建了一个神经网络模型，该模型能够在仿真环境中进行多个维度的控制任务。这项研究依赖于连接组学和身体仿真技术的快速发展，特别是 NeuroMechFly v2 平台，它为感觉与运动的闭环研究提供了仿真平台。通过这种方式，研究者能够探索生物神经系统的连接结构在具身智能中的应用，以及其在适应变化方面的优势。
+rss · Solidot · 11月5日 10:22
 
-**「影响」** 该研究为开发更适应复杂环境的具身智能体提供了新的思路，有助于推动人工智能在机器人控制、虚拟现实等领域的应用。
+**「背景信息」** 住宅代理服务是一种将用户的网络地址租给其他人使用的服务。在此次事件中，安全公司 Layer3 Intel 发现白宫的自治系统 AS2650 中存在住宅代理服务的活动。这些活动被认为是由安装在 Windows 11 设备上的俄罗斯代理程序 Infatica 引起的。Infatica 是一个提供企业级住宅代理服务的平台，旨在帮助企业在网络上进行匿名和安全的数据访问。
+
+**「影响」** 这一事件对白宫的网络安全性构成了威胁，可能对政府机构的网络安全措施提出新的挑战。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://neuromechfly.org/">NeuroMechFly</a></li>
-<li><a href="https://www.nature.com/articles/s41592-024-02497-y">NeuroMechFly v2: simulating embodied sensorimotor control in ...</a></li>
-<li><a href="https://neuromechfly.org/2.1.0/">Simulating embodied sensorimotor control with NeuroMechFly v2</a></li>
+<li><a href="https://infatica.io/residential-proxies/">Buy Residential Proxies &gt; 40 M+ Fast Proxy IPs &gt; Easy Trial! | Infatica</a></li>
+<li><a href="https://www.youtube.com/watch?v=7J_tfDobxdQ">Infatica P2B Proxy Network Service Integration With Lalicat... - YouTube</a></li>
+<li><a href="https://gologin.com/best-proxy-server-services/infatica/">Infatica - Affordable Residential , Mobile, &amp; Datacenter Proxies</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Neural Networks`, `#Embodied AI`, `#Adaptability`, `#Fruit Fly Brain`
+**标签**: `#Security Incident`, `#White House`, `#Residential Proxy`, `#Windows 11`, `#Russian Proxy Program`
+
+---
+
+<a id="item-it-opensource-2"></a>
+### [Bazzite 45 发布](https://www.solidot.org/story?sid=85805) ⭐️ 7.0/10
+
+基于 Fedora 的游戏发行版 Bazzite 发布了 v45 版本，主要变化包括基于 Fedora 45，更新 Open Gaming Collective\(OGC\) 内核，支持罗技 TrueWheel 设备等，旨在提升 Linux 上的游戏体验。
+
+rss · Solidot · 11月5日 09:56
+
+**「背景信息」** Bazzite 45 是基于 Fedora 的游戏发行版，它旨在为 Linux 桌面用户提供无需额外配置即可畅玩游戏的体验。这个项目的设计灵感来源于 Valve 的 SteamOS，但更加适合通用桌面使用场景。Bazzite 45 的发布带来了基于 Fedora 45 的更新，包括对 Open Gaming Collective\(OGC\)内核的更新，以及对罗技 TrueWheel 设备等新硬件的支持。这些改进旨在提升 Linux 平台上的游戏体验，并简化 Linux 用户的游戏设置过程。
+
+**「影响」** Bazzite 45 的发布为 Linux 用户提供了更流畅的游戏体验，简化了游戏设置过程，有助于推动 Linux 游戏生态的发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=os8tR-5RWww">Bazzite 45 New Updates | The Best Gaming Linux Based On Fedora ...</a></li>
+<li><a href="https://bazzite.gg/">Bazzite – The operating system for the next generation of gamers</a></li>
+<li><a href="https://www.linuxcompatible.org/story/bazzite-f41-released/">Bazzite F41 released | Linux Compatible</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Linux`, `#Gaming`, `#Open Source`, `#Distribution`, `#Fedora`
+
+---
+
+<a id="item-it-opensource-3"></a>
+### [Google 和 OpenAI 模型对特定口音存在偏见](https://www.solidot.org/story?sid=85804) ⭐️ 7.0/10
+
+研究人员发现，Google 的 Gemini 2.5 Pro 和 Gemini 2.5 Flash，以及 OpenAI 的 GPT-Audio 1.5 等先进多模态模型在评估英语语音时，对中国和尼日利亚口音的评分普遍较低，而美国和英国口音的评分最高，即使内容相同，系统也倾向于认为美国和英国口音的表达更优。
+
+rss · Solidot · 11月5日 09:00
+
+**「背景」** 在人工智能领域，语言处理是一个关键的研究方向。近年来，Google 的 Gemini 模型和 OpenAI 的 GPT-Audio 模型等先进的多模态模型在语言处理方面取得了显著进展。这些模型能够评估面试、会议报告和英语口语能力测试中的语音。然而，最近的研究揭示了这些模型在评估特定口音，尤其是中国和尼日利亚口音的英语语音时存在偏见。这些发现强调了在人工智能发展中实现公平性的必要性。
+
+**「影响」** 这一发现强调了在人工智能模型开发中实现公平性的重要性，对于开发者和组织来说，意味着需要更加关注和解决 AI 模型中的偏见问题，以确保语言处理的公正性和准确性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/">Gemini 2.5: Updates to our family of thinking models - Google ...</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/models/gemini-2.5-pro">Gemini 2.5 Pro | Gemini API | Google AI for Developers</a></li>
+<li><a href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/2-5-pro">Gemini 2.5 Pro | Gemini Enterprise Agent Platform | Google ...</a></li>
+<li><a href="https://free.ai/models/openai-gpt-audio-mini/">OpenAI : GPT Audio Mini - AI Chat | Free.ai</a></li>
+<li><a href="https://onlist.io/models/openai/gpt-audio-mini">OpenAI : GPT Audio Mini | Onlist</a></li>
+<li><a href="https://pi.dev/models/openrouter/openai-gpt-audio?provider=zai">OpenAI : GPT Audio · Models · Pi | A terminal-based coding agent</a></li>
+<li><a href="https://github.com/QwenLM/Qwen3-Omni">GitHub - QwenLM/Qwen3-Omni: Qwen3-omni is a natively end-to ...</a></li>
+<li><a href="https://modelscope.ai/collections/Qwen/Qwen3-Omni">Qwen3-Omni合集详情-来自Qwen · ModelScope</a></li>
+<li><a href="https://huggingface.co/docs/transformers/model_doc/qwen3_omni_moe">Qwen3-Omni-MOE - Hugging Face</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Bias`, `#Language Processing`, `#AI Research`, `#Open Source`, `#Google`, `#OpenAI`
+
+---
+
+<a id="item-it-opensource-4"></a>
+### [富钾盐预防死亡](https://www.solidot.org/story?sid=85803) ⭐️ 7.0/10
+
+一项研究表明，用富钾盐替代普通食盐可以每年预防数百万人死亡，减少心血管疾病和肾脏疾病的风险。
+
+rss · Solidot · 11月5日 08:26
+
+**「背景」** 钾盐作为一种低钠盐替代品，已被世界卫生组织（WHO）认可用于降低血压和心血管疾病风险。钾盐通过用氯化钾替代部分氯化钠（普通食盐的主要成分）制成，其在外观、味道和烹饪方式上与普通食盐相似。研究表明，钾盐对大多数人群有益，可以有效降低心血管疾病的发生率。然而，对于肾功能出现障碍的患者，如尿毒症患者，不推荐使用低钠盐，因为肾功能低下时，水盐代谢会受到严重影响，体内钠钾平衡难以维持。
+
+**「影响」** 这项研究表明，使用富钾盐替代普通食盐可以显著降低心血管疾病和肾脏疾病的风险，从而每年预防数百万人死亡。对于开发者或组织来说，这意味着他们可能需要考虑在健康和营养领域推广这种盐的使用，以促进公共健康。
+
+**「社区讨论」** 目前没有可用的社区评论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wsjkw.jl.gov.cn/zdzt/jkkp/202112/t20211223_8338994.html">低钠 盐 好不好 是不是人人适用</a></li>
+<li><a href="https://cnsalt.cn/article/1287.html">低钠 盐 到底该怎么吃？ -中国 盐 业协会</a></li>
+<li><a href="https://www.bbc.com/ukchina/simp/vert-fut-46436326">低 盐 和 高 盐 饮食 影 响 人体健康 的 真相 - BBC 英伦网</a></li>
+<li><a href="https://health.baidu.com/m/detail/ar_6592859339158449791">世界卫生组织建议每日钾的摄入量应是多少克 | 百度健康·医学科普</a></li>
+<li><a href="https://www.sohu.com/a/857155043_121823071">世卫生组织发布《低钠盐替代品使用指南》_全球_风险_摄入量</a></li>
+<li><a href="https://iris.who.int/bitstreams/2c34d208-12c7-4f96-a2ff-26e071e8402c/download">成人和儿童钾摄入量 - iris.who.int</a></li>
+<li><a href="https://www.sbs.com.au/language/chinese/zh-hans/article/potassium-enriched-salt-is-good-for-lowering-blood-pressure-scholars-say-the-chinese-are-particularly-benefiting/nfodaeoe8">富 钾 盐 是降血压 的 秘密武器？澳大利亚学者称华人尤其获益</a></li>
+<li><a href="https://news.qq.com/rain/a/20200512A042NO00">news.qq.com/rain/a/20200512A042NO00</a></li>
+<li><a href="https://www.youtube.com/watch?v=bmLhtUm45LM">“什么是 富 钾 盐 ？ 为什么会 对 我们身体 健 康 有利？ ” |SBS 中文 - YouTube</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Health`, `#Nutrition`, `#Public Health`, `#Cardiovascular Disease`, `#Salt Substitute`
+
+---
+
+<a id="item-it-opensource-5"></a>
+### [AMD 营收预计将首次超过英特尔](https://www.solidot.org/story?sid=85799) ⭐️ 7.0/10
+
+AMD 在 2026 财年第三季度财报中宣布，其营收同比增长 45%，达到 134 亿美元，其中数据中心业务贡献了 85 亿美元，同比增长 97%。AMD 预计下一季度营收将达到约 170 亿美元，如果这一目标实现，将标志着 AMD 营收首次超过英特尔，从而改变 AMD 和英特尔之间的市场动态。
+
+rss · Solidot · 11月4日 17:20
+
+**「背景」** AMD 在 2026 年第三季度财报中宣布，其营收同比增长 45%，达到 134 亿美元，其中数据中心业务贡献了 85 亿美元的营收，同比增长 97%。这一增长主要得益于 AMD Instinct GPU 和 AMD EPYC CPU 的销售额创纪录。相比之下，英特尔在 2026 年下一季度的营收预计为 150-160 亿美元，增长几乎停滞。AMD 的这一业绩预示着其在 x86 市场的竞争力正在增强，并可能成为首个营收超过英特尔的芯片制造商。
+
+**「影响」** 这一变化对开发者或组织的影响是显著的，因为它预示着市场领导者的转变，可能会促使开发者和企业重新评估其在数据中心和客户端设备上的技术选择。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.amd.com/zh-cn/newsroom/press-releases/2026-11-4-amd-reports-third-quarter-2026-earnings.html">AMD公布2026年第三季度财报</a></li>
+<li><a href="https://www.amd.com/zh-tw/newsroom/press-releases/2026-11-4-amd-reports-third-quarter-2026-earnings.html">AMD公布2026年第3季财务报告</a></li>
+<li><a href="https://www.weibo.com/ttarticle/p/show?id=2309405361561136136310">AMD公布2026年第三季度财报 - 微博</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Technology`, `#Market Dynamics`, `#AMD`, `#Intel`, `#Revenue Growth`
+
+---
+
+<a id="item-it-opensource-6"></a>
+### [韩国游戏 PC 启动器被植入恶意代码](https://www.solidot.org/story?sid=85798) ⭐️ 7.0/10
+
+韩国游戏《胜利女神：新的希望》的 PC 启动器被发现含有恶意代码，该恶意代码通过篡改官方 JavaScript 文件实现，对用户构成安全风险。
+
+rss · Solidot · 11月4日 17:05
+
+**「背景信息」** 在游戏行业中，PC 启动器是玩家启动游戏的重要工具。它通常负责管理游戏更新、验证游戏许可证等。此次事件中，韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码，这表明游戏启动器也可能成为恶意攻击的目标。恶意代码通过篡改 Level Infinite CDN 分发的官方 JavaScript 文件实现，攻击者可能在 2026 年 9 月 27 日前后篡改了这些文件，并在 2026 年 10 月 23 日至 11 月 3 日期间对用户进行攻击。这起事件突显了游戏启动器安全性的重要性，以及游戏开发者需要采取更严格的措施来保护用户免受恶意软件的侵害。
+
+**「影响」** 此次恶意代码事件可能导致用户信息泄露，包括密码、凭据、加密货币钱包数据等，对玩家个人安全造成威胁。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://pass.levelinfinite.com/">LEVEL INFINITE PASS: cross-platform game experience, exclusive...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Security Advisory`, `#Game Hacking`, `#Cybersecurity`, `#Gaming`, `#Malware`
 
 ---
