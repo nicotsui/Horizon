@@ -5,127 +5,256 @@ date: 2026-11-11
 lang: en
 ---
 
-> From 307 items, 40 important content pieces were selected
+> From 334 items, 40 important content pieces were selected
 
 ---
 
+**China Macro &amp; A-Share**
+1. [2026 Q3 China Monetary Policy Report Summary](#item-cn-macro-1) ⭐️ 8.0/10
+2. [Impact of Political Changes on AI Trading Sector](#item-cn-macro-2) ⭐️ 7.0/10
+3. [Anthropic IPO Demand Surges](#item-cn-macro-3) ⭐️ 7.0/10
+4. [South Korea&\#x27;s Capital Market Intervention](#item-cn-macro-4) ⭐️ 7.0/10
+5. [U.S. Inflation and Employment Data Implications for December Rate Hike](#item-cn-macro-5) ⭐️ 7.0/10
+
 **Global Market**
-1. [Iran-Backed Militant Plot Against UK Base](#item-global-market-1) ⭐️ 9.0/10
+1. [Iran-Backed Militant Plotting Attack on UK Base](#item-global-market-1) ⭐️ 9.0/10
 2. [Fed Governor Sees December Rate Hike Likely, Opens Door to Half-Point Increase](#item-global-market-2) ⭐️ 8.0/10
-3. [Market Turmoil Amid High Inflation and Fed Rate Hike Concerns](#item-global-market-3) ⭐️ 8.0/10
-4. [Inflation Data Beats Expectations, Fed Officials Consider Half-Point Rate Hike](#item-global-market-4) ⭐️ 8.0/10
-5. [Alibaba Plans to List T-Head Semiconductor Subsidiary](#item-global-market-5) ⭐️ 7.0/10
-6. [根据一项旨在加强双方关系的计划，美国联邦雇员将在台湾政府办公场所工作](#item-global-market-6) ⭐️ 7.0/10
-7. [Exclusive: PLA-Linked Chinese University Buys Nvidia H200 Chips Despite US Blacklist](#item-global-market-7) ⭐️ 7.0/10
-8. [Oil Prices Rise Amid Hormuz Attacks, Offsetting Iran Truce Hopes](#item-global-market-8) ⭐️ 7.0/10
-9. [House Clerk Reads Impeachment Charges Against Hegseth](#item-global-market-9) ⭐️ 7.0/10
-10. [Ongoing Tanker Fires in Middle East Impact Oil Supply and Market Stability](#item-global-market-10) ⭐️ 7.0/10
-11. [Exclusive: Ukraine Attacks Reduce Russia&\#x27;s Oil Processing Capacity](#item-global-market-11) ⭐️ 7.0/10
-12. [TSMC&\#x27;s Investment in AI Sector](#item-global-market-12) ⭐️ 7.0/10
-13. [US Consumer Price Index Surges in October](#item-global-market-13) ⭐️ 7.0/10
-14. [US Senator Rubio on Iran Military Action](#item-global-market-14) ⭐️ 7.0/10
-15. [Russia&\#x27;s Bombing of Ukraine&\#x27;s Power Grid Amid Abu Dhabi Negotiations](#item-global-market-15) ⭐️ 7.0/10
-16. [European Stocks Near Record High on Lower Oil Prices](#item-global-market-16) ⭐️ 7.0/10
-17. [Qatari Prime Minister Briefs European Leaders Post-Trump Talks](#item-global-market-17) ⭐️ 7.0/10
-18. [Indonesian Vice President&\#x27;s Fate in Jeopardy as Lawmakers Consider Probe](#item-global-market-18) ⭐️ 7.0/10
-19. [Middle East Oil Flows Return to Pre-War Levels Amidst High Costs](#item-global-market-19) ⭐️ 7.0/10
-20. [Midterm Elections Threaten Trump&\#x27;s Energy Independence Plans](#item-global-market-20) ⭐️ 7.0/10
-21. [Houthi Attack on Saudi Oil Infrastructure](#item-global-market-21) ⭐️ 7.0/10
-22. [U.S. Midterm Elections Impact on Global Oil and Gas Markets](#item-global-market-22) ⭐️ 7.0/10
-23. [Impact of U.S./Israel-Iran War on Iraq&\#x27;s Oil Industry](#item-global-market-23) ⭐️ 7.0/10
-24. [Oil Prices Reach Lowest Level Since August](#item-global-market-24) ⭐️ 7.0/10
-25. [FCC Approves SpaceX&\#x27;s Spectrum Acquisition](#item-global-market-25) ⭐️ 7.0/10
+3. [Market Turmoil Amid High Inflation and Fed Rate Hike Fears](#item-global-market-3) ⭐️ 8.0/10
+4. [Exclusive: Ukraine&\#x27;s Attacks Reduce Russia&\#x27;s Oil Processing Capacity by 30%](#item-global-market-4) ⭐️ 8.0/10
+5. [Alibaba Plans to List Semiconductor Subsidiary T-Head](#item-global-market-5) ⭐️ 7.0/10
+6. [Goldman Sachs Adjusts Federal Reserve Interest-Rate Forecast](#item-global-market-6) ⭐️ 7.0/10
+7. [Iran&\#x27;s Nuclear Material Policy Update](#item-global-market-7) ⭐️ 7.0/10
+8. [Mercedes-Benz CEO on China Auto Market Decline](#item-global-market-8) ⭐️ 7.0/10
+9. [受人工智能及现金消耗问题影响，10月份外国投资者从亚洲股市撤资500亿美元](#item-global-market-9) ⭐️ 7.0/10
+10. [Oil Prices Rise Amid Hormuz Strait Attacks](#item-global-market-10) ⭐️ 7.0/10
+11. [House Clerk Reads Impeachment Charges Against Hegseth](#item-global-market-11) ⭐️ 7.0/10
+12. [Ongoing Tanker Fires in Middle East Despite Hopes for De-Escalation](#item-global-market-12) ⭐️ 7.0/10
+13. [Inflation Data Surpasses Expectations, Fed Officials Consider Half-Point Rate Hike](#item-global-market-13) ⭐️ 7.0/10
+14. [TSMC&\#x27;s Investment in AI Sector](#item-global-market-14) ⭐️ 7.0/10
+15. [LME Aluminum Prices Reach Five-Month High](#item-global-market-15) ⭐️ 7.0/10
+16. [Rubio on US Economic Sanctions and Military Action Against Iran](#item-global-market-16) ⭐️ 7.0/10
+17. [RWE and KKR&\#x27;s $16 Billion UK Offshore Wind Investment](#item-global-market-17) ⭐️ 7.0/10
+18. [Middle East Oil Flows Return to Pre-War Levels Amidst High Costs](#item-global-market-18) ⭐️ 7.0/10
+19. [Houthi Attacks on Saudi Oil Infrastructure](#item-global-market-19) ⭐️ 7.0/10
+20. [FCC Approves SpaceX&\#x27;s Acquisition of 800 MHz Spectrum](#item-global-market-20) ⭐️ 7.0/10
+21. [Offshore Trust Income Tax Transition Period Ends with Over 160 Billion Yuan in Declarations](#item-global-market-21) ⭐️ 7.0/10
 
 **AI Frontier**
-1. [Google Releases Gemini 4 Carbon Model](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [Tracking Anthropic-discovered Vulnerabilities](#item-ai-frontier-2) ⭐️ 7.0/10
-3. [Claude Whiteboards, Claude Sheets, and Claude Data](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [AlphaProof Code](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [AMD&\#x27;s Zen 6 Family: Feeding the Beast](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [Optimal Model Coordination in AI Workflows](#item-ai-frontier-7) ⭐️ 7.0/10
-8. [稀宇科技开源 MiniMax H3 Image，4K 图像生成进入十秒级](#item-ai-frontier-8) ⭐️ 7.0/10
+1. [Google SWE Points 48 AI Agents at NASA Lidar, Discovers Unmapped Maya Pyramid](#item-ai-frontier-1) ⭐️ 8.0/10
+2. [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [vLLM Encoder Disaggregation Advancement](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [Effectiveness of Strongest Model as Coordinator in AI Workflows](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [AMD Introduces AI-Driven Memory Management for Server Cost Reduction](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [ByteDance&\#x27;s AI Assistant Development](#item-ai-frontier-6) ⭐️ 7.0/10
 
 **IT &amp; Open Source**
-1. [AMD Reveals Zen 6 CPU Details](#item-it-opensource-1) ⭐️ 8.0/10
-2. [The Decline of Glue Work in the Age of AI](#item-it-opensource-2) ⭐️ 7.0/10
-3. [微软宣布 .NET 11](#item-it-opensource-3) ⭐️ 7.0/10
-4. [Boston Dynamics Atlas Robot Gets Wheels](#item-it-opensource-4) ⭐️ 7.0/10
-5. [Chinese Android Manufacturers Implement Developer Identity Verification](#item-it-opensource-5) ⭐️ 7.0/10
-6. [AI-Generated Images Over美化现实](#item-it-opensource-6) ⭐️ 7.0/10
-7. [Epic Games Expands Linux Distribution Support](#item-it-opensource-7) ⭐️ 7.0/10
+1. [CERN Develops Next-Generation Magnets for LHC](#item-it-opensource-1) ⭐️ 8.0/10
+2. [AMD Reveals Zen 6 CPU Details](#item-it-opensource-2) ⭐️ 8.0/10
+3. [The Decline of Glue Work in Software Engineering with AI](#item-it-opensource-3) ⭐️ 7.0/10
+4. [Michael John Harrison Wins Booker Prize as First Science Fiction Author](#item-it-opensource-4) ⭐️ 7.0/10
+5. [微软宣布 .NET 11](#item-it-opensource-5) ⭐️ 7.0/10
+6. [Boston Dynamics Introduces Wheel-Based Mobility for Atlas Robot](#item-it-opensource-6) ⭐️ 7.0/10
+7. [ElevenLabs Scribe v3 Update](#item-it-opensource-7) ⭐️ 7.0/10
+8. [Earlybird Introduces 29M-param Speech-to-Text Model](#item-it-opensource-8) ⭐️ 7.0/10
+
+---
+
+## China Macro &amp; A-Share
+
+<a id="item-cn-macro-1"></a>
+### [2026 Q3 China Monetary Policy Report Summary](https://wallstreetcn.com/articles/3785736) ⭐️ 8.0/10
+
+The People&\#x27;s Bank of China \(PBOC\) released its monetary policy report for the third quarter of 2026, emphasizing the continuation of a moderately loose monetary policy. The PBOC aims to support economic growth and financial market stability by maintaining ample liquidity and relatively loose social financing conditions. The report also highlights the reform of the monetary policy operation framework and the enhancement of the central bank&\#x27;s macroprudential and financial stability functions.
+
+rss · 华尔街见闻 · Nov 11, 10:01
+
+**「Previous Economic and Policy Context」** The People&\#x27;s Bank of China has historically maintained a focus on stable economic growth and financial market stability. In recent years, the central bank has been implementing a moderately loose monetary policy to support economic development. This policy stance has been adjusted based on the evolving economic and financial conditions both domestically and internationally. The report likely reflects the continuation of this approach, emphasizing the importance of maintaining liquidity and ensuring that monetary policy tools are effectively utilized to support economic growth and financial stability.
+
+**「Impact」** The continuation of a moderately loose monetary policy is expected to support economic growth and stability. Investors should monitor the effectiveness of the PBOC&\#x27;s measures in maintaining liquidity and social financing conditions, as well as the potential impact on inflation and interest rates.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.chinanews.com/cj/2026/11-11/10730398.shtml">央行发布2026年第三季度中国货币政策执行报告-中新网</a></li>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykkpw8420755.shtml">央行发布第三季度中国货币政策执行报告_新浪财经_新浪网</a></li>
+<li><a href="http://www.jjckb.cn/20261111/91eb857147e547abb520a0df839370da/c.html">央行发布重磅报告！-经济参考网 _ 新华社《经济参考报》官方网站</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese Economy`, `#Monetary Policy`, `#A-share Market`, `#Central Bank`, `#Financial Stability`
+
+---
+
+<a id="item-cn-macro-2"></a>
+### [Impact of Political Changes on AI Trading Sector](https://wallstreetcn.com/articles/3785745) ⭐️ 7.0/10
+
+The AI trading sector is facing challenges due to political changes, particularly in the context of data center construction and GPU rental prices. The article suggests that if数据中心 construction is hindered, GPU rental prices may rise to compensate for the loss of capital expenditure. This could lead to a shift in market dynamics, favoring large-scale cloud providers with existing computing power over AI labs and emerging cloud service providers.
+
+rss · 华尔街见闻 · Nov 11, 13:34
+
+**「Background on AI Trading and GPU Rental Prices」** The AI trading sector has been significantly impacted by political changes, particularly in the context of data center construction and GPU rental prices. The rise of AI has led to an increased demand for computing resources, with data centers playing a crucial role in providing these resources. The cost and availability of GPUs, which are essential for AI applications, have become a key factor in the AI trading landscape. The recent political changes, especially the outcome of the midterm elections in the United States, have raised concerns about the future of data center construction and, consequently, the supply of GPUs. These developments have led to a shift in market dynamics, with investors closely monitoring GPU rental prices as a key indicator of the health of the AI trading sector.
+
+**「Impact on AI Trading」** The potential increase in GPU rental prices due to political changes and regulatory announcements could significantly impact the AI trading sector. This shift may favor hyperscalers with large existing stock of computing power, as they can benefit from the scarcity premium. Conversely, AI labs, emerging cloud service providers, and data center construction companies, which are essentially in a &\#x27;short&\#x27; position on computing power, may face pressure. This could lead to a structural shift within AI trading, potentially narrowing its scope and vitality, but also allowing it to continue in a more fragile form.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ig.com/zh/trading-strategies/who-powers-the-ai-boom--what-the-2026-us-midterm-elections-coul-261022">AI 股票热潮：为何 2026 年美国中期选举或将塑造未来能源、基础设施及...</a></li>
+<li><a href="https://www.zaobao.com.sg/finance/world/story20261104-9947149">美国中期选举后市场反应：AI监管受关注 | 联合早报</a></li>
+<li><a href="https://news.sina.cn/2026-11-11/detail-iniykkpv1758248.d.html?vt=4">中期选举后美国AI产业迎接变数？如何影响新兴市场？｜全球贸易观察|新...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261020A0BJZH00">10万亿美国AI基础设施受阻！47个大型数据中心停摆，债务危机要来了？_...</a></li>
+<li><a href="https://www.cloudtechdaily.com/zh/articles/datacenter-projects-stall-ai-revolution">数据中心项目受阻威胁全球AI革命 | CloudTechDaily</a></li>
+<li><a href="https://www.gate.com/zh/learn/articles/us-data-center-construction-pause-ai-expansion-restrictions">数据中心建设暂停是什么？为什么美国开始限制 AI 算力扩张？</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2017232689925751770">2026 年 GPU 算力租赁价格走势分析 - 知乎</a></li>
+<li><a href="https://blog.csdn.net/weixin_30768881/article/details/170056525">2026年GPU算力租赁市场现状与优化策略 - CSDN博客</a></li>
+<li><a href="https://developer.baidu.com/article/detail.html?id=8583058">2026年GPU算力租赁市场：规模扩张与价格分化解析-百度开发者中心</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Trading`, `#Regulatory Changes`, `#Market Dynamics`, `#GPU Rental Prices`, `#Data Center Construction`
+
+---
+
+<a id="item-cn-macro-3"></a>
+### [Anthropic IPO Demand Surges](https://wallstreetcn.com/articles/3785750) ⭐️ 7.0/10
+
+Anthropic&\#x27;s initial public offering \(IPO\) is experiencing unprecedented demand, with subscription requests exceeding available shares by multiples. The company aims to raise up to $90.4 billion, valuing the company at approximately $1.4 trillion, setting a new record for the largest IPO in history.
+
+rss · 华尔街见闻 · Nov 11, 13:33
+
+**「Background on Anthropic and its IPO」** Anthropic, an AI safety and research company, has gained significant attention with its upcoming IPO. The company, known for its work on building reliable, interpretable, and steerable AI systems, has been recognized for its contributions to the field of AI safety. The IPO is expected to be one of the largest in history, with a potential fundraising of up to $90.4 billion and a valuation of about $1.4 trillion. This event reflects the high market interest and economic impact of innovative tech companies in the current market landscape.
+
+**「Impact on Market and Investors」** The massive IPO of Anthropic, with a potential fundraising of up to $90.4 billion and a valuation of about $1.4 trillion, is likely to raise concerns about the market&\#x27;s ability to absorb such a large stock issuance. This could lead to increased market volatility and potential risks for investors, especially those who are heavily invested in technology stocks. The high valuation and intense demand for the IPO may also indicate a speculative bubble in the tech sector, warranting caution from investors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://www.anthropic.com/company">Company \ Anthropic</a></li>
+<li><a href="https://www.anthropic.com/">Home \ Anthropic</a></li>
+<li><a href="https://www.businessinsider.com/anthropic-stock-ant-ipo-trillion-valuation-market-risk-2026-10">Anthropic Stock: Why Massive IPO Sparks Fears of... - Business Insider</a></li>
+<li><a href="https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html">Anthropic says a key AI safety alarm has been triggered, days before...</a></li>
+<li><a href="https://www.fxstreet.com/news/anthropic-ipo-filing-reveals-rapid-growth-as-investors-weigh-an-80-billion-loss-202610270748">Anthropic IPO filing reveals rapid growth as investors weigh an $80...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#IPO`, `#Market Interest`, `#Economic Impact`, `#Tech Company`, `#Investment`
+
+---
+
+<a id="item-cn-macro-4"></a>
+### [South Korea&\#x27;s Capital Market Intervention](https://wallstreetcn.com/articles/3785741) ⭐️ 7.0/10
+
+South Korea&\#x27;s government is set to announce new intervention policies to boost its stock market, focusing on revitalizing the KOSDAQ market. The Financial Supervisory Commission will host a capital market symposium on November 13th, where discussions will include measures to strengthen information transparency and adjust existing KOSDAQ regulations, such as delisting and grading rules.
+
+rss · 华尔街见闻 · Nov 11, 11:51
+
+**「Previous Market Conditions and Policy Stance」** The South Korean stock market has been experiencing a downturn recently, prompting the government to consider intervention policies. The KOSDAQ market, in particular, has been under pressure, leading to discussions about revitalization measures. This context is significant as it sets the stage for the upcoming资本市场座谈会, where potential policy changes and regulatory announcements are expected to be discussed.
+
+**「Impact on Investors」** The upcoming South Korean government intervention, focusing on revitalizing the KOSDAQ market, is expected to have a direct impact on investors. The potential changes in information disclosure requirements and the adjustment of delisting and grading rules for KOSDAQ companies could lead to increased market transparency and a more efficient market structure. Investors should closely monitor these developments as they may present new opportunities and risks in the Korean stock market.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://qiming141790.jchaiyang.com/20261111/1420450.html">qiming141790.jchaiyang.com/20261111/1420450.html</a></li>
+<li><a href="https://gemini.google.com/app">Google Gemini</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Korean Stock Market`, `#Regulatory Announcements`, `#Market Revitalization`, `#KOSDAQ`, `#Policy Changes`
+
+---
+
+<a id="item-cn-macro-5"></a>
+### [U.S. Inflation and Employment Data Implications for December Rate Hike](https://wallstreetcn.com/member/articles/3785727) ⭐️ 7.0/10
+
+The U.S. CPI and core CPI data for October showed higher-than-expected increases, with the overall CPI rising 0.4% month-over-month \(versus the expected 0.30%\) and the core CPI rising 0.30% \(versus the expected 0.20%\). This, along with strong non-farm employment data, suggests a potential for a 50bp rate hike by the Federal Reserve in December.
+
+rss · 华尔街见闻 · Nov 11, 10:22
+
+**「U.S. Inflation and Employment Data Prior to December Rate Hike Speculation」** Prior to the speculation of a potential 50bp rate hike by the Federal Reserve in December, the U.S. economy had shown signs of persistent inflation and strong employment growth. The Consumer Price Index \(CPI\) and core CPI data indicated a higher-than-expected inflation rate, with the October CPI环比上涨0.4% and core CPI环比上涨0.30%. Additionally, the strong non-farm employment data, with 16.5 thousand new jobs added, surpassing the market&\#x27;s expectation of 70 thousand, and the unemployment rate dropping to 4.14%, highlighted the resilience of the labor market. These economic indicators led to increased speculation about the Federal Reserve&\#x27;s monetary policy stance and the possibility of a significant rate hike in December.
+
+**「Impact」** The higher inflation and employment figures indicate that the Federal Reserve may need to further tighten monetary policy, which could lead to increased borrowing costs for consumers and businesses, potentially slowing down economic growth.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://cpiinflationcalculator.com/2026-u-s-inflation-rate-cpi/">2026 U.S. Inflation Rate &amp; CPI</a></li>
+<li><a href="https://www.bls.gov/cpi/">CPI Home : U.S. Bureau of Labor Statistics</a></li>
+<li><a href="https://www.macrotrends.net/3024/us-core-cpi">U.S. Core CPI (1957-2026) - Macrotrends</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Economic Data`, `#Inflation`, `#Monetary Policy`, `#Federal Reserve`, `#Rate Hike`
 
 ---
 
 ## Global Market
 
 <a id="item-global-market-1"></a>
-### [Iran-Backed Militant Plot Against UK Base](https://reut.rs/3UP9vYa) ⭐️ 9.0/10
+### [Iran-Backed Militant Plotting Attack on UK Base](https://reut.rs/3UP9vYa) ⭐️ 9.0/10
 
-The U.S. Justice Department has reported that an Iran-backed militant has been plotting an attack on the UK&\#x27;s Fairford base from a U.S. jail. This development highlights a significant security threat and has potential implications for global security and financial markets.
+A Iran-backed militant has been apprehended in the US and is accused of plotting an attack on the UK&\#x27;s Fairford base. This development poses a significant security concern and could strain international relations.
 
 rss · 路透社 Reuters · Nov 10, 22:26
 
-**「Background on the Iran-backed Plot Against UK&\#x27;s Fairford Base」** The situation surrounding the alleged plot against the UK&\#x27;s Fairford base by Iran-backed militants has a complex background. In July, Iran&\#x27;s Revolutionary Guards warned that any base used by the United States for attacks on Iranian territory would be considered a legitimate target. This statement set the stage for the subsequent events. The incident came to light when suspicious vans were reported near the base, leading to the arrest of seven men in the UK. In the United States, three men have been charged with roles in nearly 20 attacks and attempted attacks across the US and Europe, including the plot targeting Fairford air base. These developments highlight the ongoing tensions between Iran and the UK, as well as the broader geopolitical landscape that includes the use of military bases by foreign powers.
+**「Background on the Iran-backed Militant Plotting Attack on UK Base」** The recent report by Reuters highlights a significant security concern involving an Iran-backed militant who was detained in the United States on criminal charges. This individual, identified as Mohammad Baqer Saad Dawood Al-Saadi, is alleged to have plotted an attack on the RAF Fairford air base in the UK while in US custody. The plot, which has been uncovered by the US Justice Department, represents a major threat to international security and could potentially impact geopolitical relations.
 
-**「Impact」** The plot against a key UK military base by a group supported by Iran could lead to increased tensions between the UK and Iran, potentially affecting global oil markets and geopolitical stability.
+**「Impact」** The revelation of the plot could lead to increased tensions between the US and Iran, as well as between the UK and Iran, potentially affecting geopolitical dynamics and security measures in the region.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bbc.com/news/articles/c3rryrryk59zo">Three Iran - backed suspects plotted attacks including RAF Fairford ...</a></li>
-<li><a href="https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base">US charges 3 men over alleged Iranian - backed plot at UK Fairford air...</a></li>
-<li><a href="https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html">How RAF Fairford in a Quiet Corner of England Became a U. S .- Iran ...</a></li>
+<li><a href="https://www.al-monitor.com/originals/2026/11/iran-backed-militant-helped-plot-attack-uks-fairford-base-us-jail-justice">Iran-backed militant helped plot attack on UK&#x27;s Fairford base ...</a></li>
+<li><a href="https://www.reuters.com/world/europe/iran-backed-militant-helped-plot-attack-uks-fairford-base-us-jail-justice-2026-11-10/">Iran-backed militant helped plot attack on UK&#x27;s Fairford base ...</a></li>
+<li><a href="https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy">Iran-backed trio accused of plotting attacks on U.K. base ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Event`, `#Iran`, `#Security Threat`, `#UK Military Base`, `#Global Security`
+**Tags**: `#Geopolitical Events`, `#Security Threat`, `#Iran`, `#UK`
 
 ---
 
 <a id="item-global-market-2"></a>
 ### [Fed Governor Sees December Rate Hike Likely, Opens Door to Half-Point Increase](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) ⭐️ 8.0/10
 
-Federal Reserve Governor Christopher Waller indicated a likely December rate hike, suggesting a possible half-point increase to reinforce inflation control. The October inflation data, showing a headline price increase of 0.4% and core inflation of 0.3%, was higher than expected, leading to a fully priced-in quarter-point hike in December and odds of a half-point move.
+Federal Reserve Governor Christopher Waller indicated a likely December rate hike, suggesting a possible half-point increase. He emphasized the importance of following through on rate hike expectations to maintain credibility, even if October inflation data is softer than expected.
 
 rss · CNBC Finance · Nov 10, 17:13
 
-**「Background on Federal Reserve Policy and Christopher Waller&\#x27;s Role」** Christopher Waller, a member of the Federal Reserve Board of Governors since 2020, has been a key figure in shaping the central bank&\#x27;s monetary policy. The Federal Open Market Committee \(FOMC\), which Waller is a part of, is responsible for overseeing the nation&\#x27;s open market operations and setting monetary policy. The FOMC&\#x27;s decisions, such as interest rate adjustments, have significant implications for the economy and financial markets. Waller&\#x27;s recent statements reflect the ongoing debate within the Fed regarding the appropriate response to inflationary pressures, with a focus on maintaining credibility and achieving the central bank&\#x27;s 2% inflation target.
+**「Prior Federal Reserve Actions and Policy Path」** The Federal Reserve had previously raised its benchmark interest rate by 25 basis points to a target range of 3.75%-4% in September 2026, marking its first increase since 2023. This decision was made after three members favored a hike at the July meeting. The Fed&\#x27;s move was aimed at addressing persistent inflationary pressures. Additionally, the Federal Reserve has been closely monitoring the economic landscape, with officials emphasizing the need to bring inflation back to the central bank&\#x27;s 2% target. This recent action follows a period of patience and careful consideration of the economic indicators and policy implications.
 
-**「Market Impact」** The statement by Federal Reserve Governor Christopher Waller indicates a likely December rate hike and opens the door to a possible half-point increase, which could lead to a tightening of monetary policy. This could potentially result in higher borrowing costs for consumers and businesses, potentially slowing down economic growth and affecting sectors sensitive to interest rate changes, such as real estate and consumer discretionary. Additionally, it may influence investor sentiment, leading to a shift in asset allocation away from riskier assets towards safer investments like bonds.
+**「Market Reaction」** The possibility of a larger-than-usual half-percentage-point interest rate increase in December, as suggested by Fed Governor Christopher Waller, could lead to increased volatility in the stock market. This is due to rising borrowing costs and moderating consumer demand, which can pressure stock prices. However, strong corporate earnings may support equity prices despite elevated interest rates.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Christopher_Waller">Christopher Waller - Wikipedia</a></li>
-<li><a href="https://www.ft.com/stream/e56350c5-6692-45ce-bf60-fc0cd007e953">Christopher Waller | Financial Times</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Federal_Open_Market_Committee">Federal Open Market Committee - Wikipedia</a></li>
-<li><a href="https://finblog.com/rising-interest-rates-investment-strategies-2026/">Rising interest rates and investment strategies in 2026</a></li>
-<li><a href="https://investmentstrategynews.com/en/articles/how-changing-interest-rates-affect-stock-market-2026">How Interest Rate Changes Affect the Stock Market in 2026 ...</a></li>
-<li><a href="https://finpulselab.com/federal-reserve-interest-rate-outlook-2026/">Federal Reserve Interest Rate Outlook and Market Impact in 2026</a></li>
+<li><a href="https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html">Fed rate decision September 2026: Rates rise to 3.75%-4%</a></li>
+<li><a href="https://www.usbank.com/investing/financial-perspectives/market-news/how-do-rising-interest-rates-affect-the-stock-market.html">How do changing interest rates affect the stock market in 2026</a></li>
+<li><a href="https://alphio.ai/blog/fed-interest-rate-impact-stock-market-2026">Fed Interest Rate Policy Impact on Stock Market Analysis 2026</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Central Bank Policy`, `#Interest Rate Hike`, `#Financial Market Impact`, `#Inflation Control`, `#Fed Governor Statement`
+**Tags**: `#Central Bank Policy`, `#Interest Rate Hike`, `#Financial Market Analysis`, `#Inflation`, `#Fed Governor Christopher Waller`, `#Dallas Fed President Lorie Logan`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [Market Turmoil Amid High Inflation and Fed Rate Hike Concerns](https://reut.rs/4sS5WNq) ⭐️ 8.0/10
+### [Market Turmoil Amid High Inflation and Fed Rate Hike Fears](https://reut.rs/4sS5WNq) ⭐️ 8.0/10
 
 Market turmoil has intensified due to high inflation and growing concerns about a substantial interest rate hike by the Federal Reserve, leading to significant volatility in the bond market.
 
 rss · 路透社 Reuters · Nov 11, 04:31
 
-**「Background on High Inflation and Fed Rate Hike Concerns」** The current market turmoil is a result of high inflation concerns, which have led to expectations of a substantial interest rate hike by the Federal Reserve. This situation is significant as it involves a major central bank and has clear implications for financial markets. In the past, the Federal Reserve has raised interest rates, which directly impacts the bond market. For instance, in September 2026, the Federal Reserve raised its benchmark interest rate by 25 basis points to a target range of 3.75%-4%, marking its first increase since 2023. This move was approved unanimously by the Federal Open Market Committee \(FOMC\) after three members favored a hike at the July meeting. The effects of such rate hikes on the bond market and other financial instruments have been widely discussed, highlighting the importance of understanding the relationship between interest rate policies and market impacts.
+**「Background on Federal Reserve Interest Rate Hikes and Bond Market Impact」** The Federal Reserve&\#x27;s interest rate decisions have a significant impact on the bond market. When the Federal Reserve hikes interest rates, it typically leads to a decrease in bond prices and an increase in yields. This is because new bonds issued at the higher rate become more attractive compared to existing bonds with lower yields. Investors often seek to understand the effects of these rate hikes on their bond portfolios, as they can lead to changes in bond performance and overall investment strategy. Additionally, the reaction of stocks and bonds to Fed rate hikes can vary, with stocks sometimes experiencing negative impacts due to higher borrowing costs and bond yields rising as a result of increased demand for safer assets.
 
-**「Impact」** The bond market has experienced剧烈震荡 due to the anticipation of higher interest rates, reflecting the market&\#x27;s response to the Federal Reserve&\#x27;s potential policy adjustments.
+**「Impact」** The bond market has experienced剧烈震荡 due to the anticipation of higher interest rates, reflecting the direct impact of Federal Reserve policies on financial markets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tiktok.com/discover/effects-of-fed-rate-hike-on-bond-market">Effects of Fed Rate Hike on Bond Market | TikTok</a></li>
-<li><a href="https://www.usaa.com/advice/where-to-invest-when-interest-rates-rise/">Where to invest when interest rates rise | USAA</a></li>
-<li><a href="https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html">Fed rate decision September 2026: Rates rise to 3.75%-4%</a></li>
+<li><a href="https://www.investopedia.com/articles/investing/101515/effect-fed-fund-rate-hikes-your-bond-portfolio.asp">How Fed Rate Hikes Impact Your Bond Portfolio’s Performance</a></li>
+<li><a href="https://www.forbes.com/sites/bill_stone/2026/09/20/what-happens-to-stocks-and-bonds-when-the-fed-raises-rates/">What Happens To Stocks And Bonds When The Fed Raises Rates?</a></li>
+<li><a href="https://www.schwab.com/learn/story/fed-rate-hikes-stocks-bonds-economy">Fed Rate Hikes: Stocks, Bonds &amp; the Economy - Charles Schwab</a></li>
 
 </ul>
 </details>
@@ -135,117 +264,164 @@ rss · 路透社 Reuters · Nov 11, 04:31
 ---
 
 <a id="item-global-market-4"></a>
-### [Inflation Data Beats Expectations, Fed Officials Consider Half-Point Rate Hike](https://reut.rs/4sSyZRf) ⭐️ 8.0/10
+### [Exclusive: Ukraine&\#x27;s Attacks Reduce Russia&\#x27;s Oil Processing Capacity by 30%](https://reut.rs/4iSrpSa) ⭐️ 8.0/10
 
-Inflation data exceeded expectations, prompting Federal Reserve officials to consider a potential half-point interest rate hike. This development has significant implications for financial markets and central bank policies.
+Recent Ukrainian attacks have caused a 30% reduction in Russia&\#x27;s oil processing capacity, significantly impacting global oil markets.
 
-rss · 路透社 Reuters · Nov 10, 17:22
+rss · 路透社 Reuters · Nov 10, 16:02
 
-**「Prior Federal Reserve Rate Decisions and Market Implications」** The Federal Reserve has a history of adjusting interest rates in response to economic conditions. For instance, in September 2026, the Fed increased interest rates by 0.25% to a range of 3.75% to 4.0% due to sticky headline inflation, geopolitical conflicts, and a resilient labor market. These rate hikes generally lead to tighter financial conditions, affecting borrowing costs, asset valuations, and market sentiment. Additionally, rate adjustments by the Federal Reserve can have significant impacts on stocks and bonds, often leading to distinct patterns in market reactions.
+**「Background on Ust-Luga Multimodal Complex」** The Ust-Luga Multimodal Complex, a key Russian commodity export hub, primarily handles liquid bulk cargoes such as crude oil, refined petroleum products, and gas condensate derivatives. It also deals with dry bulk commodities including coal, fertilizers, and minerals, as well as containerized and general cargo. The complex, located on the south-eastern shore of the Gulf of Finland, is a sprawling facility that includes oil-processing facilities and export terminals handling crude oil and oil products. According to source-based data, the port exported 32.9 million metric tons of oil products last year.
 
-**「Impact」** The potential half-point interest rate hike by the Federal Reserve, in response to better-than-expected inflation data, could lead to increased borrowing costs and potentially impact consumer spending and investment decisions in the market.
+**「Impact」** This reduction in Russia&\#x27;s oil processing capacity is likely to lead to increased oil prices globally, affecting both consumers and businesses.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.blackrock.com/us/financial-professionals/insights/fed-rate-decisions-and-potential-portfolio-implications">Fed Rate Hike: Investor Portfolio Implications | BlackRock</a></li>
-<li><a href="https://www.markets.com/education-centre/impact-of-the-fed-s-interest-rate-how-does-fed-rate-cut-affect-financial-markets">Impact of the Fed&#x27;s Interest Rate: How Does Fed Rate Cut ...</a></li>
-<li><a href="https://www.forbes.com/sites/bill_stone/2026/09/20/what-happens-to-stocks-and-bonds-when-the-fed-raises-rates/">What Happens To Stocks And Bonds When The Fed Raises Rates?</a></li>
+<li><a href="https://grokipedia.com/page/ust_luga_multimodal_complex">Ust - Luga Multimodal Complex</a></li>
+<li><a href="https://www.usnews.com/news/world/articles/2026-03-31/ukraine-drones-damage-russias-ust-luga-port-again-governor-says">Ukrainian Drones Strike Russia&#x27;s Ust - Luga Port Again, Sources Say...</a></li>
+<li><a href="https://loexpo.crplo.ru/en/services/ust-luga-oil">Ust - Luga Oil JSC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Inflation`, `#Federal Reserve`, `#Interest Rates`, `#Financial Markets`, `#Economic Policy`
+**Tags**: `#Ukraine`, `#Russia`, `#Oil Markets`, `#Geopolitical Events`, `#Energy`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [Alibaba Plans to List T-Head Semiconductor Subsidiary](https://www.cnbc.com/2026/11/11/alibaba-pr.html) ⭐️ 7.0/10
+### [Alibaba Plans to List Semiconductor Subsidiary T-Head](https://www.cnbc.com/2026/11/11/alibaba-pr.html) ⭐️ 7.0/10
 
-Alibaba announced plans to list its semiconductor subsidiary T-Head on the Hong Kong Stock Exchange, aiming for a public offering. This move comes amidst growing competition in the global semiconductor market, particularly with Nvidia, and amid U.S. restrictions on Chinese tech companies.
+Alibaba announced plans to list its semiconductor subsidiary T-Head on the Hong Kong Stock Exchange, subject to regulatory approval. This move comes amidst growing U.S. restrictions on China&\#x27;s access to chips and reflects Alibaba&\#x27;s efforts to develop homegrown semiconductor technology.
 
-rss · CNBC Finance · Nov 11, 03:08
+rss · CNBC Finance · Nov 11, 07:47
 
-**「Background on Alibaba&\#x27;s T-Head Semiconductor」** T-Head Semiconductor, a wholly-owned subsidiary of Alibaba Group, was established in 2018. It was formed through the merger of Alibaba&\#x27;s two prior chip units, C-Sky Microsystems acquisition, and the Damo Academy chip team. T-Head specializes in designing chips for data centers, artificial intelligence, and Internet of Things devices. This move by Alibaba to list T-Head on the Hong Kong Stock Exchange is part of a broader trend in China where companies are developing homegrown semiconductors to counteract U.S. restrictions on accessing chips. This follows a period of increased scrutiny by China&\#x27;s financial regulators on tech IPOs and the rush of capital into the sector.
+**「Background on Alibaba&\#x27;s T-Head Semiconductor」** T-Head Semiconductor Co., Ltd., known as T-Head, is a semiconductor subsidiary of Alibaba Group. Established in 2018, T-Head focuses on open-source instruction set architecture RISC-V in its processor design. The company has been developing processors for various applications, including data centers, AI, and the Internet of Things. T-Head&\#x27;s development of homegrown semiconductors is part of a broader trend among Chinese companies, such as Huawei, to reduce reliance on foreign technology and chips, especially in the context of increasing U.S. restrictions on China&\#x27;s access to advanced chips.
 
-**「Impact on Semiconductor Market」** The announcement of Alibaba&\#x27;s plans to list T-Head, its semiconductor subsidiary, is expected to boost investor sentiment in the semiconductor market. This move could potentially increase the visibility and credibility of T-Head, potentially leading to increased investment in the company and the broader semiconductor sector.
+**「Market Impact」** The planned listing of Alibaba&\#x27;s semiconductor subsidiary T-Head could lead to increased funding and expansion in the semiconductor market, potentially boosting the company&\#x27;s AI chip business.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://baike.baidu.com/en/item/Pingtouge+Semiconductor+Co.,+Ltd/22993">Pingtouge Semiconductor Co., Ltd（semiconductor company）_Baiduwi...</a></li>
-<li><a href="https://nextomoro.com/alibaba-t-head/">T-Head Semiconductor | nextomoro</a></li>
-<li><a href="https://www.analyticsinsight.net/news/alibaba-plans-separate-listing-for-ai-chip-business-t-head">Alibaba Plans Separate Listing for AI Chip Business T-Head</a></li>
-<li><a href="https://www.insiderfinance.io/news/alibaba-t-head-ipo-lifts-shares">Alibaba T - Head IPO Lifts Shares | InsiderFinance</a></li>
+<li><a href="https://en.wikipedia.org/wiki/T-Head">T - Head - Wikipedia</a></li>
+<li><a href="https://nextomoro.com/alibaba-t-head/">T - Head Semiconductor | nextomoro | AI Research Lab Intelligence</a></li>
+<li><a href="https://www.linkedin.com/posts/carlosunda_interesting-technology-innovation-activity-7420100563083689984-_UDq">Alibaba &#x27;s T - Head Chip Unit IPO Plans Spark 4.6% Share... | LinkedIn</a></li>
+<li><a href="https://www.asiabusinessoutlook.com/news/alibabas-thead-files-for-hong-kong-ipo-to-boost-ai-chip-business-nwid-12770.html">Alibaba&#x27;s T-Head Files for Hong Kong IPO to Boost AI Chip ...</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing">Alibaba’s Chip Design Unit T-Head Files for Hong Kong Listing</a></li>
+<li><a href="https://www.cnbc.com/2026/11/11/alibaba-pr.html">Alibaba announces plans to list T-Head, its Nvidia chip rival</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Alibaba`, `#Semiconductor`, `#IPO`, `#T-Head`, `#Nvidia`
+**Tags**: `#Alibaba`, `#Semiconductor`, `#IPO`, `#Technology`, `#Market Impact`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [根据一项旨在加强双方关系的计划，美国联邦雇员将在台湾政府办公场所工作](https://reut.rs/48hP9Kr) ⭐️ 7.0/10
+### [Goldman Sachs Adjusts Federal Reserve Interest-Rate Forecast](https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-US federal employees are set to work in Taiwan government offices as part of a plan to strengthen bilateral ties.
+Goldman Sachs has revised its Federal Reserve interest-rate forecast in response to the recent CPI data, indicating an expectation of additional Fed tightening.
 
-rss · 路透社 Reuters · Nov 11, 07:27
+rss · MarketWatch Top Stories · Nov 11, 10:37
 
-**Tags**: `#Geopolitical Events`, `#US-Taiwan Relations`, `#Central Bank Policies`, `#Global Financial Markets`
+**「Background on Goldman Sachs&\#x27; Federal Reserve Interest-Rate Forecast Change」** Goldman Sachs has recently adjusted its Federal Reserve interest-rate forecast in response to the release of the Consumer Price Index \(CPI\) data. The CPI data, which measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services, has been a key indicator of inflation. The Federal Reserve closely monitors inflation data as it influences monetary policy decisions. The recent CPI data indicated a higher rate of inflation than expected, prompting Goldman Sachs to revise its forecast for further tightening by the Federal Reserve. This adjustment reflects the market&\#x27;s response to changing economic conditions and the potential impact on financial markets.
+
+**「Impact」** This adjustment in Goldman Sachs&\#x27; forecast is likely to influence financial markets, reflecting a shift in market expectations regarding future interest rates.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/notes-on-the-week-ahead/the-pce-cpi-gap-and-the-outlook-for-further-fed-tightening/">The PCE-CPI Gap and the Outlook for Further Fed Tightening</a></li>
+<li><a href="https://www.cboe.com/insights/posts/cpi-pressures-markets-and-fed-reserves-move-on-interest-rates">CPI Pressures Markets and Fed Reserve’s Move on Interest Rates</a></li>
+<li><a href="https://primerates.com/primerate/inflation-tracker/">U.S. Inflation Tracker: CPI, PCE &amp; Price Data │ PrimeRates</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Interest Rates`, `#Goldman Sachs`, `#Federal Reserve`, `#CPI Data`, `#Market Expectations`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [Exclusive: PLA-Linked Chinese University Buys Nvidia H200 Chips Despite US Blacklist](https://reut.rs/4sPWGJO) ⭐️ 7.0/10
+### [Iran&\#x27;s Nuclear Material Policy Update](https://reut.rs/3UH0zUY) ⭐️ 7.0/10
 
-A Chinese university associated with the People&\#x27;s Liberation Army \(PLA\) has purchased Nvidia H200 chips despite being placed on a US blacklist. This action highlights potential geopolitical tensions in global technology supply chains.
+Iran&\#x27;s security chief has declared that the country will not permit the export of enriched nuclear material. This statement comes as a significant development in international relations and the global nuclear market.
 
-rss · 路透社 Reuters · Nov 11, 05:35
+rss · 路透社 Reuters · Nov 11, 10:55
 
-**「Background on NVIDIA H200 Chip and Geopolitical Implications」** The NVIDIA H200 chip is a specialized GPU designed for generative AI and high-performance computing workloads, featuring advanced memory and high bandwidth. This chip is of significant interest due to its specialized capabilities in handling massive amounts of data. The purchase of such a chip by a PLA-linked Chinese university, despite being on a US blacklist, highlights the complex geopolitical tensions in global technology supply chains. These tensions have been further exacerbated by China&\#x27;s declining population, which has significant geopolitical implications, as well as historical conflicts such as the US-China trade war, which began in 2018 over concerns related to intellectual property rights and forced technology transfer.
+**「Iran&\#x27;s Nuclear Policy Context」** Iran&\#x27;s nuclear policy has been a point of contention in international relations for several years. The country has long been a subject of concern due to its nuclear program, which has raised questions about its intentions and capabilities. In the past, Iran has faced sanctions and international pressure over its nuclear activities. The recent statement by the Iranian security chief regarding the country&\#x27;s policy on enriched nuclear material is a continuation of this ongoing debate and reflects the complex nature of Iran&\#x27;s nuclear policy.
 
-**「Market Impact」** The purchase of Nvidia H200 chips by a PLA-linked Chinese university, despite being on a US blacklist, highlights potential geopolitical tensions affecting global technology supply chains. This event could lead to increased scrutiny and restrictions on technology exports, impacting the semiconductor industry and potentially affecting global financial markets.
+**「Impact」** The refusal to export enriched nuclear material could lead to increased tensions in international relations and potentially impact global nuclear market dynamics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/h200/">H 200 GPU | NVIDIA</a></li>
-<li><a href="https://www.spheron.network/blog/nvidia-h200-specs/">NVIDIA H 200 Specs : 141GB... | Spheron Blog</a></li>
-<li><a href="https://www.aspistrategist.org.au/the-geopolitical-implications-of-chinas-declining-population/">The geopolitical implications of China ’s declining population</a></li>
-<li><a href="https://www.freedomgpt.com/wiki/geopolitical-implications">Geopolitical implications | WikiFreedom</a></li>
-<li><a href="https://www.aspi.org.au/strategist-posts/the-geopolitical-implications-of-chinas-declining-population/">The geopolitical implications of China ’s declining population - ASPI</a></li>
-<li><a href="https://www.investing.com/equities/nvidia-corp-news">NVIDIA News Today (NVDA) - Investing.com</a></li>
+<li><a href="https://www.youtube.com/watch?v=SkZlDu4PzR4">Inside Ahmadinejad&#x27;s Iran - YouTube</a></li>
+<li><a href="https://www.britannica.com/place/Iran">Iran | People, Religion, Leader, Map, Conflict, Allies, Protests, Nuclear ...</a></li>
+<li><a href="https://politifact.com/article/2026/oct/24/iran-nuclear-deal-barack-obama-trump-policy/">At Ohio rally, Barack Obama says told-you-so on his approach to Iran ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Tensions`, `#Technology Supply Chains`, `#Global Financial Markets`, `#US Blacklist`, `#NVIDIA H200 Chip`
+**Tags**: `#Iran`, `#Nuclear Policy`, `#International Relations`, `#Global Nuclear Market`
 
 ---
 
 <a id="item-global-market-8"></a>
-### [Oil Prices Rise Amid Hormuz Attacks, Offsetting Iran Truce Hopes](https://reut.rs/3UngGqE) ⭐️ 7.0/10
+### [Mercedes-Benz CEO on China Auto Market Decline](https://reut.rs/3WCWf9N) ⭐️ 7.0/10
 
-Oil prices have risen from a two-month low, reversing earlier declines, as tanker attacks in the Strait of Hormuz have diminished optimism over a potential peace deal between the United States and Iran. Brent crude was trading at $92.43 per barrel, and West Texas Intermediate at $86.62 per barrel, both up from the start of the week but still significantly lower than their October levels.
+The CEO of Mercedes-Benz has indicated that the decline in the Chinese auto market is more significant than initially feared, impacting global automotive companies.
 
-rss · 路透社 Reuters · Nov 11, 05:03
+rss · 路透社 Reuters · Nov 11, 10:55
 
-**「Background on Hormuz Strait Ship Attacks and Oil Price Movement」** The recent increase in attacks on ships in the Strait of Hormuz has been a significant concern for global oil markets. October 2026 has seen a record number of such attacks, marking the most intense period of maritime attacks in and around the Strait since the escalation of hostilities in March. This surge in attacks has led to a decrease in Hormuz traffic, impacting global crude oil supplies. The situation has also raised concerns about geopolitical tensions and its implications for central bank policies. These attacks have contributed to a rise in oil prices, reversing the earlier downward trend, as traders become less optimistic about a peace deal between the United States and Iran.
+**「Prior State of the Chinese Automotive Industry」** The Chinese automotive industry has been experiencing significant challenges, with an 18% decline in domestic sales in early 2026, projected to be down 10% for the year. This decline has been attributed to falling sales and intense competitive pressure, with traditional Chinese brands losing market shares to international competitors. The transition to electromobility has also presented substantial challenges for established Chinese brands.
 
-**「Impact」** The increase in oil prices is expected to have a notable impact on global oil markets and central bank policies, as well as contribute to heightened geopolitical tensions.
+**「Impact」** This development is expected to have a concrete impact on global automotive companies, as the Chinese auto market is a major economic indicator.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.marinelink.com/news/strait-hormuz-ship-attacks-reach-new-high-543880">Strait Of Hormuz Ship Attacks Reach New High In</a></li>
-<li><a href="https://www.thenationalnews.com/business/2026/10/08/hormuz-traffic-hits-lowest-level-in-two-months-as-tanker-attacks-surge/">Hormuz traffic hits lowest level in two months as tanker attacks surge</a></li>
-<li><a href="https://www.stripes.com/theaters/middle_east/2026-10-22/iran-us-strikes-trump-hormuz-23229734.html">US, Israel weigh new Iran strikes as attacks on Hormuz shipping mount</a></li>
+<li><a href="https://www.forbes.com/sites/billkoenig/2026/06/25/china-overshadows-global-automotive-industry-alixpartners-says/">China Overshadows Global Automotive Industry, AlixPartners Says</a></li>
+<li><a href="https://xpert.digital/en/chinese-auto-industry/">The silent decline of the Chinese auto industry</a></li>
+<li><a href="https://www.axios.com/2026/08/26/chinas-global-dominance-autos">What&#x27;s driving China&#x27;s global dominance in autos - Axios</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Market`, `#Geopolitical Tensions`, `#Central Bank Policies`, `#Commodity Prices`
+**Tags**: `#China Auto Market`, `#Mercedes-Benz`, `#Economic Indicators`, `#Automotive Industry`, `#Global Market`
 
 ---
 
 <a id="item-global-market-9"></a>
+### [受人工智能及现金消耗问题影响，10月份外国投资者从亚洲股市撤资500亿美元](https://reut.rs/4iCM51C) ⭐️ 7.0/10
+
+Foreign investors withdrew $50 billion from Asian equities in October due to AI and cash burn issues.
+
+rss · 路透社 Reuters · Nov 11, 08:32
+
+**Tags**: `#Investment`, `#Asian Markets`, `#Equities`, `#Foreign Investment`, `#Market Trends`
+
+---
+
+<a id="item-global-market-10"></a>
+### [Oil Prices Rise Amid Hormuz Strait Attacks](https://reut.rs/3UngGqE) ⭐️ 7.0/10
+
+Oil prices have risen from a two-month low following attacks on ships in the Strait of Hormuz, which have overshadowed hopes for a ceasefire between the United States and Iran. Brent crude was trading at $92.43 per barrel, while West Texas Intermediate was at $86.62 per barrel, both up from the start of the week but still significantly lower than their October levels.
+
+rss · 路透社 Reuters · Nov 11, 05:03
+
+**「Background on Iran-US Negotiations and Oil Market Dynamics」** The recent tensions in the Strait of Hormuz and the subsequent rise in oil prices are a result of ongoing negotiations between the United States and Iran. In 2026, the two nations reached a final agreed-upon text for a peace deal to end the war, which was signed by President Donald Trump and Iranian President Masoud Pezeshkian. This peace deal, known as the Islamabad Memorandum, established a 60-day extension of the ceasefire to negotiate the final terms of a deal. The negotiations, which began in 2025, were aimed at reaching a nuclear peace agreement following a letter from US President Donald Trump to Iranian Supreme Leader Ali Khamenei, setting a 60-day deadline for Iran to reach an agreement. The recent tanker attacks in the Strait of Hormuz have raised concerns about the stability of global oil supplies, leading to a rise in oil prices from a two-month low.
+
+**「Impact」** The increase in oil prices is expected to have a significant impact on global markets, affecting central banks, equities, bonds, commodities, and currencies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Islamabad_Memorandum">Islamabad Memorandum - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations">2025–2026 Iran–United States negotiations - Wikipedia</a></li>
+<li><a href="https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/">President Trump’s Iran Agreement Is America First in Action</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Oil Prices`, `#Hormuz Strait`, `#Iran`, `#Global Markets`, `#Geopolitical Events`
+
+---
+
+<a id="item-global-market-11"></a>
 ### [House Clerk Reads Impeachment Charges Against Hegseth](https://reut.rs/4zDjwa1) ⭐️ 7.0/10
 
 The House clerk officially read the impeachment charges against Hegseth, a significant political event that is likely to have a notable impact on political and market sentiment.
@@ -269,734 +445,591 @@ rss · 路透社 Reuters · Nov 10, 21:53
 
 ---
 
-<a id="item-global-market-10"></a>
-### [Ongoing Tanker Fires in Middle East Impact Oil Supply and Market Stability](https://reut.rs/3Vd4JUG) ⭐️ 7.0/10
+<a id="item-global-market-12"></a>
+### [Ongoing Tanker Fires in Middle East Despite Hopes for De-Escalation](https://reut.rs/3Vd4JUG) ⭐️ 7.0/10
 
-Despite hopes for de-escalation, ongoing tanker fires in the Middle East are raising concerns about oil supply and market stability.
+Despite hopes for de-escalation in the Middle East, ongoing tanker fires continue to disrupt oil supply, impacting global financial markets.
 
 rss · 路透社 Reuters · Nov 10, 20:02
 
-**「Historical Context of Middle East Oil Supply Disruptions」** The ongoing tanker fires in the Middle East are part of a broader context of geopolitical tensions and disruptions in the region&\#x27;s oil supply. The 2026 Iran war fuel crisis, caused by the conflict between Iran and a U.S.-Israel coalition, led to significant disruptions in global oil supplies due to the closure of the Strait of Hormuz and attacks on energy infrastructure. This crisis, as documented in the \[2026 Iran war fuel crisis on Wikipedia\]\(https://en.wikipedia.org/wiki/2026\_Iran\_war\_fuel\_crisis\) and the \[IEA&\#x27;s Oil Market Report for October 2026\]\(https://www.iea.org/reports/oil-market-report-october-2026\), has had a lasting impact on global oil markets. Additionally, the \[IEA&\#x27;s report on the 2026 oil supply outlook\]\(https://www.worldoil.com/news/2026/9/11/iea-cuts-2026-oil-supply-outlook-as-gulf-recovery-slips-to-2027/\) indicates that the prolonged disruptions in the Middle East have led to a delay in the recovery of Gulf production, affecting global oil supply expectations.
+**「Background on Middle East Oil Tanker Fires」** The ongoing tanker fires in the Middle East are part of a series of incidents that have raised concerns over oil supply and global financial markets. These incidents follow reports of tanker fires on November 5 and a separate maritime attack near Oman&\#x27;s Khasab on November 9. The situation is further complicated by the escalating tensions over shipping routes through the strategic Strait of Hormuz. The Iran Revolutionary Guard Corps \(IRGC\) Navy has announced that three oil tankers had been hit by explosions and severe fires in the Strait of Hormuz. This situation marks the highest level of threats to oil tankers in the region since the Iran war began, with disruptions in the Red Sea and the Strait of Hormuz raising global shipping and energy security concerns.
 
-**「Impact」** The ongoing tanker fires in the Middle East could lead to disruptions in oil supply, potentially affecting global oil prices and market stability.
+**「Impact」** The ongoing tanker fires in the Middle East are likely to lead to increased volatility in oil prices, affecting both commodities and currencies worldwide.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis">2026 Iran war fuel crisis - Wikipedia</a></li>
-<li><a href="https://www.iea.org/reports/oil-market-report-october-2026">Oil Market Report - October 2026 - IEA</a></li>
-<li><a href="https://www.worldoil.com/news/2026/9/11/iea-cuts-2026-oil-supply-outlook-as-gulf-recovery-slips-to-2027/">IEA cuts 2026 oil supply outlook as Gulf recovery slips to 2027</a></li>
+<li><a href="https://www.youtube.com/watch?v=B-_53JqLpSI">Big Iran Escalation: US Army Radar Sites Hit, Two Tankers ... - YouTube</a></li>
+<li><a href="https://en.isna.ir/news/1405081711574/IRGC-Third-Violating-Oil-Tanker-Explodes-in-Strait-of-Hormuz">IRGC: Third Violating Oil Tanker Explodes in Strait of Hormuz - ISNA</a></li>
+<li><a href="https://regentstc.com/knowledge-hub/news/middle-east-oil-tanker-threats">Middle East Oil Tanker Threats Reach Highest Level Since Iran War</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Middle East`, `#Oil Supply`, `#Market Stability`, `#Commodities`, `#Geopolitical Events`
+**Tags**: `#Middle East`, `#Oil Supply`, `#Commodities`, `#Currencies`, `#Geopolitical Events`
 
 ---
 
-<a id="item-global-market-11"></a>
-### [Exclusive: Ukraine Attacks Reduce Russia&\#x27;s Oil Processing Capacity](https://reut.rs/4iSrpSa) ⭐️ 7.0/10
+<a id="item-global-market-13"></a>
+### [Inflation Data Surpasses Expectations, Fed Officials Consider Half-Point Rate Hike](https://reut.rs/4sSyZRf) ⭐️ 7.0/10
 
-Recent Ukrainian drone strikes have caused a 30% reduction in Russia&\#x27;s oil processing capacity, affecting refineries that account for about 30% of Russia&\#x27;s total capacity. This development comes as Russia seeks to boost diesel exports under a controversial agreement with Washington, and it has disrupted nine out of Russia&\#x27;s 35 major refineries, with a combined capacity of approximately 2.2 million barrels per day.
+Inflation data released by the Federal Reserve exceeded expectations, prompting speculation that officials may consider a half-point interest rate hike. This development is significant for investors and policymakers monitoring central bank policies.
 
-rss · 路透社 Reuters · Nov 10, 16:02
+rss · 路透社 Reuters · Nov 10, 17:22
 
-**「Background on Ukraine&\#x27;s Impact on Russia&\#x27;s Oil Refining Capacity」** Prior to the recent Ukrainian attacks, Russia&\#x27;s refineries were processing approximately 5 million barrels per day of oil. These attacks, which began in late October, have disrupted refineries representing about 30% of Russia&\#x27;s total oil-processing capacity. The affected facilities have a combined nameplate capacity of approximately 2.2 million barrels per day. These disruptions come as Russia attempts to increase diesel exports under a controversial agreement with Washington. Despite the attacks, some sources suggest that overall Russian energy exports are unlikely to be significantly affected, as Russia can increase crude oil exports to compensate for the drop in domestic refining.
+**「Prior Economic and Policy Context」** The Federal Reserve has been on a tightening cycle, with the benchmark interest rate being raised to a target range of 3.75%-4% in September 2026. This decision followed a series of meetings where members favored a hike. The recent inflation data release, which beat expectations, is a continuation of the trend that has led to speculation about another rate hike, possibly by a half-point, in the upcoming December meeting.
 
-**「Impact」** The reduction in Russia&\#x27;s oil processing capacity is likely to impact global oil markets, potentially leading to higher oil prices and supply disruptions.
+**「Impact」** The positive inflation data could lead to increased demand for higher-yielding assets, potentially benefiting sectors like financials and energy, while also putting upward pressure on the US dollar.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Strikes-Disrupt-30-of-Russias-Oil-Refining-Capacity.html">Ukrainian Strikes Disrupt 30% of Russia &#x27; s Oil Refining Capacity</a></li>
-<li><a href="https://platformraam.nl/artikelen/2900-ukrainian-attacks-on-refineries-how-dangerous-may-a-fuel-crisis-become">RAAM - Ukrainian attacks on refineries - how dangerous may a fuel...</a></li>
-<li><a href="https://meduza.io/en/news/2026/11/10/reuters-ukraine-has-knocked-out-30-of-russia-s-oil-refining-capacity">Reuters: Ukraine has knocked out 30% of Russia ’ s oil refining capacity</a></li>
+<li><a href="https://www.federalreserve.gov/releases/h15/">Federal Reserve Board - H.15 - Selected Interest Rates (Daily)...</a></li>
+<li><a href="https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html">Fed rate decision September 2026 : Rates rise to 3.75%-4%</a></li>
+<li><a href="https://www.gate.com/blog/fed-december-rate-hike-odds-hit-100-is-50-bps-next">Fed December Rate Hike Odds Hit 100%: Is 50 Bps Next? | Gate Blog</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Ukraine`, `#Russia`, `#Oil Markets`, `#Geopolitical Events`, `#Energy`
+**Tags**: `#Inflation`, `#Federal Reserve`, `#Interest Rates`, `#Economic Policy`, `#Central Bank`
 
 ---
 
-<a id="item-global-market-12"></a>
+<a id="item-global-market-14"></a>
 ### [TSMC&\#x27;s Investment in AI Sector](https://reut.rs/4BOlB4x) ⭐️ 7.0/10
 
-Taiwan Semiconductor Manufacturing Company \(TSMC\) is set to invest up to 1 billion USD in Anthropic and OpenAI, marking a strategic entry into the AI sector. This move by TSMC, a leading semiconductor manufacturer, signifies a significant investment in two prominent AI companies.
+Taiwan Semiconductor Manufacturing Company \(TSMC\) is set to invest up to 1 billion USD in Anthropic and OpenAI, marking a significant strategic move into the AI sector. This investment, a substantial amount for TSMC, reflects its interest in expanding its operations into artificial intelligence.
 
 rss · 路透社 Reuters · Nov 10, 16:02
 
-**「Background on TSMC&\#x27;s Investment in Anthropic and OpenAI」** TSMC&\#x27;s investment in Anthropic and OpenAI is part of a broader trend in the semiconductor industry to diversify into the AI sector. Anthropic, founded in 2021 by former OpenAI employees, has been focusing on AI safety and has recently poached several staff from OpenAI. OpenAI, on the other hand, has been actively acquiring companies and expanding its research capabilities. This strategic move by TSMC reflects the industry&\#x27;s growing interest in AI and its potential impact on semiconductor technology.
+**「Background on TSMC&\#x27;s Investment in Anthropic and OpenAI」** TSMC&\#x27;s decision to invest up to 1 billion USD in Anthropic and OpenAI reflects a growing interest in the AI sector among leading technology companies. Anthropic, founded in 2021 by former OpenAI employees, has been focusing on AI safety and has recently poached several staff members from OpenAI, including a co-founder. OpenAI, on the other hand, is a well-known AI research organization that has been at the forefront of AI development and deployment.
 
-**「Impact」** The investment is expected to boost the AI sector, potentially leading to increased research and development in the field, and could influence the valuation of AI companies in the market.
+**「Impact」** This investment could potentially lead to increased market interest in AI technologies, as TSMC&\#x27;s entry into the sector may encourage other companies to follow suit, potentially driving growth and innovation in the AI industry.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.ft.com/content/ed631513-dd37-44a3-a536-b2002f5727cc?syn-25a6b1a6=1">Google invests further $1bn in OpenAI rival Anthropic</a></li>
 <li><a href="https://openai.com/">OpenAI | Research &amp; Deployment</a></li>
-<li><a href="https://intellectia.ai/news/stock/openai-faces-challenges-in-monetization-strategy">OpenAI Faces Challenges in Monetization Strategy | Intellectia. AI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#AI investment`, `#TSMC`, `#Anthropic`, `#OpenAI`
-
----
-
-<a id="item-global-market-13"></a>
-### [US Consumer Price Index Surges in October](https://reut.rs/4BQxIOJ) ⭐️ 7.0/10
-
-The US consumer price index \(CPI\) increased more than anticipated in October, affecting financial markets.
-
-rss · 路透社 Reuters · Nov 10, 15:14
-
-**「Understanding the Consumer Price Index \(CPI\)」** The Consumer Price Index \(CPI\) is a critical economic indicator that measures the average change over time in the prices paid by consumers for a representative basket of consumer goods and services. It is calculated as the weighted average price of this basket, which includes items such as food, housing, and medical care. The CPI is a key tool for central banks and investors, as it reflects inflation trends and impacts monetary policy decisions. The CPI-U and CPI-W are the most commonly used indices, with the CPI-U being the most popular measure of consumer inflation in the United States.
-
-**「Impact」** The unexpected rise in CPI could lead to increased interest rates by the Federal Reserve, impacting bond yields and potentially slowing economic growth.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Consumer_price_index_in_the_United_States">Consumer price index in the United States - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Consumer_price_index">Consumer price index - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/c/consumerpriceindex.asp">What Is the Consumer Price Index (CPI)? - Investopedia Consumer Price Index Frequently Asked Questions - U.S. Bureau ... Consumer price index in the United States - Wikipedia What is the Consumer Price Index, and what does it mean for ... Consumer price index - Wikipedia What is the consumer price index and how is it used?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Economic Indicators`, `#Consumer Prices`, `#US Economy`, `#Market Impact`, `#Central Bank Policy`
-
----
-
-<a id="item-global-market-14"></a>
-### [US Senator Rubio on Iran Military Action](https://reut.rs/3UIcSA8) ⭐️ 7.0/10
-
-US Senator Rubio stated that there is no need for major military action against Iran, emphasizing the effectiveness of economic sanctions imposed by the US.
-
-rss · 路透社 Reuters · Nov 10, 14:57
-
-**「Background on US Economic Sanctions Against Iran」** The United States has a long history of imposing economic sanctions on Iran, dating back to 1979 following the seizure of the U.S. Embassy in Tehran. These sanctions have been expanded over the years, particularly after the 2011 imposition of sanctions targeting Iran&\#x27;s nuclear program. The sanctions have had a significant impact on Iran&\#x27;s economy, affecting various sectors such as aviation, technology, and shipping. The latest round of sanctions, which includes measures targeting Iran&\#x27;s access to the international financial system, has further isolated the Iranian regime and disrupted its revenue streams. This policy has been a subject of international concern, with global financial markets and energy prices being particularly affected by the sanctions&\#x27; ripple effects.
-
-**「Impact」** This statement could potentially ease geopolitical tensions in the region, potentially leading to a stabilizing effect on global financial markets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers">How US sanctions on Iran ripple through global markets and ...</a></li>
-<li><a href="https://www.state.gov/releases/office-of-the-spokesman/2026/09/u-s-sanctions-dismantle-the-iranian-regimes-revenue-streams/">U.S. Sanctions Dismantle the Iranian Regime’s Revenue Streams</a></li>
-<li><a href="https://www.state.gov/iran-sanctions/">Iran Sanctions - United States Department of State</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#US-Iran relations`, `#Economic sanctions`, `#Geopolitical tensions`, `#Global financial markets`
+**Tags**: `#TSMC`, `#Investment`, `#AI`, `#Semiconductor`, `#Anthropic`, `#OpenAI`
 
 ---
 
 <a id="item-global-market-15"></a>
-### [Russia&\#x27;s Bombing of Ukraine&\#x27;s Power Grid Amid Abu Dhabi Negotiations](https://reut.rs/3WnPdpp) ⭐️ 7.0/10
+### [LME Aluminum Prices Reach Five-Month High](https://reut.rs/4k2neoW) ⭐️ 7.0/10
 
-Russia&\#x27;s military action against Ukraine&\#x27;s power grid coincides with ongoing negotiations in Abu Dhabi, impacting global financial markets. The attack on Ukraine&\#x27;s power infrastructure, which coincides with geopolitical negotiations, has raised concerns about energy security and geopolitical tensions.
+The London Metal Exchange \(LME\) has seen a significant surge in near-term aluminum prices, reaching a five-month high due to tight stocks. This development is a notable shift in the market dynamics for aluminum.
 
-rss · 路透社 Reuters · Nov 10, 12:50
+rss · 路透社 Reuters · Nov 10, 15:29
 
-**「Background on Ukraine&\#x27;s Power Grid Attacks and Geopolitical Negotiations」** The situation in Ukraine has been marked by intense military action, particularly targeting the country&\#x27;s power grid. Russia&\#x27;s strategic bombing of Ukraine&\#x27;s energy infrastructure has been a significant concern, with reports indicating a shift in tactics from striking individual power facilities to a more systematic campaign aimed at paralyzing Ukraine&\#x27;s entire electricity grid. This escalation in military action comes amidst ongoing negotiations in Abu Dhabi, which are intended to address the broader geopolitical tensions in the region. The impact of these attacks on Ukraine&\#x27;s energy system has been severe, with concerns about the long-term stability and reliability of the country&\#x27;s power supply.
+**「Background on London Metal Exchange and Aluminum Prices」** The London Metal Exchange \(LME\) is a prominent global commodities exchange that specializes in futures and options trading for base metals, including aluminum. It is known for its significant market in standardized forward contracts, futures contracts, and options on base metals. The LME has a history of intervening in markets to address supply issues, such as the nickel market in 2007 when it took action to increase metal availability amidst tight supplies. This background is relevant to understanding the recent surge in near-term aluminum prices on the LME, which reached a five-month high due to tight stocks.
 
-**「Impact」** The attack on Ukraine&\#x27;s power grid is likely to exacerbate energy security concerns, potentially leading to increased volatility in global energy markets and affecting currency values tied to energy exports.
+**「Market Impact」** The increase in LME aluminum prices is expected to have a direct impact on the aluminum sector, potentially leading to higher costs for manufacturers and consumers alike.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html">How Russia ’ s Scorched-Earth Attacks Put Ukraine ’ s Power Grid Near...</a></li>
-<li><a href="https://www.youtube.com/watch?v=ZCLDhkHHhJw">Ukraine Fears Total Blackout; Russia Bombs Bridges Hits... - YouTube</a></li>
-<li><a href="https://sputnikglobe.com/20261110/russia-shifts-strike-tactics-to-paralyze-ukraines-power-grid---expert-1125043466.html">Russia Shifts Strike Tactics to Paralyze Ukraine ’ s Power Grid - Expert</a></li>
+<li><a href="https://en.wikipedia.org/wiki/London_Metal_Exchange">London Metal Exchange - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/l/londonmetalexchange.asp">London Metal Exchange (LME): History, Trading, and How It Works</a></li>
+<li><a href="https://www.reuters.com/article/markets/commodities/chronology-history-of-the-london-metal-exchange-idUSL5E8HFB1K/">Chronology-History of the London Metal Exchange | Reuters</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Tensions`, `#Energy Security`, `#Market Impact`, `#Ukraine Conflict`, `#Negotiations`
+**Tags**: `#Aluminum Prices`, `#London Metal Exchange`, `#Market Trends`, `#Commodities`, `#Financial News`
 
 ---
 
 <a id="item-global-market-16"></a>
-### [European Stocks Near Record High on Lower Oil Prices](https://reut.rs/485kbFl) ⭐️ 7.0/10
+### [Rubio on US Economic Sanctions and Military Action Against Iran](https://reut.rs/3UIcSA8) ⭐️ 7.0/10
 
-Lower oil prices have significantly boosted market sentiment, driving European shares to approach historical highs. This development is a notable shift in market dynamics, with the impact being felt across various sectors and currencies.
+U.S. Senator Rubio has stated that there is no need for major combat operations against Iran, given the existing economic sanctions imposed by the United States. This comment comes amidst ongoing geopolitical tensions and could influence market reactions to the situation.
 
-rss · 路透社 Reuters · Nov 10, 11:31
+rss · 路透社 Reuters · Nov 10, 14:57
 
-**「Market Context」** The recent surge in European stock markets can be attributed to the decline in oil prices. This trend has been observed as a positive factor for investors, with lower oil prices contributing to improved market sentiment. The correlation between oil prices and equity markets has been a topic of interest, particularly in terms of how lower oil prices can impact producer countries individually. Additionally, the positive flow of European ETFs has been influenced by this market dynamic.
+**「Background on U.S. Economic Sanctions on Iran」** The United States has imposed economic sanctions on Iran since 1979, following the seizure of the U.S. Embassy in Tehran. These sanctions have been enforced and implemented by the Department of State’s Office of Economic Sanctions Policy and Implementation. The sanctions target activities and persons inside or outside Iran to deter adversarial behaviors. More recently, in October 2026, the U.S. imposed additional restrictions on Iran&\#x27;s aviation, tech, and shipping sectors, which have had a significant impact on global markets and energy prices.
 
-**「Market Impact」** The decline in oil prices has led to a surge in European stock markets, with indices nearing record levels. This indicates a strong positive correlation between oil prices and stock market performance in the region.
+**「Impact」** Rubio&\#x27;s statement may alleviate some concerns about potential military conflict, potentially leading to a slight easing of tensions in global financial markets, particularly those sensitive to geopolitical risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ft.com/content/c2cd8b20-c4e0-11e5-b3b1-7b2481276e45?syn-25a6b1a6=1">Pouring oil on troubled stock markets</a></li>
-<li><a href="https://www.globalbankingandfinance.com/analysis-investors-warm-european-stocks-eclipsed-wall/">Analysis-Investors warm to European stocks eclipsed by Wall Stree</a></li>
-<li><a href="https://oilprice.com/">Crude Oil Prices Today | OilPrice .com</a></li>
+<li><a href="https://www.state.gov/iran-sanctions/">Iran Sanctions - United States Department of State</a></li>
+<li><a href="https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers">How US sanctions on Iran ripple through global markets and ...</a></li>
+<li><a href="https://www.congress.gov/crs_external_products/IF/PDF/IF12452/IF12452.6.pdf">Updated August 19, 2025 U.S. Sanctions on Iran - Congress.gov</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Prices`, `#European Stocks`, `#Market Sentiment`, `#Commodities`
+**Tags**: `#Geopolitical`, `#Economic Sanctions`, `#Military Action`, `#Global Financial Markets`
 
 ---
 
 <a id="item-global-market-17"></a>
-### [Qatari Prime Minister Briefs European Leaders Post-Trump Talks](https://reut.rs/4k1W0id) ⭐️ 7.0/10
+### [RWE and KKR&\#x27;s $16 Billion UK Offshore Wind Investment](https://oilprice.com/Latest-Energy-News/World-News/RWE-and-KKR-Seal-16-Billion-UK-Offshore-Wind-Mega-Deal.html) ⭐️ 7.0/10
 
-The Qatari Prime Minister made an unscheduled stop at the G7 summit to brief European leaders about the outcomes of recent talks with former US President Trump. This unexpected meeting could have significant implications for international relations and economic policies.
+German energy company RWE and investment firm KKR have sealed a $16 billion deal for offshore wind projects in the UK, marking a significant renewable energy investment. This investment is expected to fund the Vanguard West and Vanguard East offshore wind projects in the UK North Sea.
 
-rss · 路透社 Reuters · Nov 10, 10:26
+rss · OilPrice · Nov 11, 11:30
 
-**「Background on Qatari Prime Minister&\#x27;s Briefing at G7」** The Qatari Prime Minister&\#x27;s unscheduled stop at the G7 summit follows a series of meetings regarding mediation efforts with Iran. Prior to his meeting with President Trump, the Qatari Prime Minister, who also serves as the foreign minister, was expected to meet with Vice President Vance separately. During the closed-door meeting with Trump, the Qatari Prime Minister reportedly presented a two-day proposal from Iran aimed at ending the war. These discussions and the subsequent briefing to European leaders at the G7 could have significant implications for international relations and economic policies.
+**「UK Offshore Wind Investment Context」** The UK&\#x27;s offshore wind sector has been experiencing significant growth, with the nameplate capacity of offshore wind farms in operation reaching approximately 16.6 GW as of July 2026. This growth is part of a broader trend towards renewable energy investment in the country. The North Sea, in particular, has become a focal point for offshore wind projects, with several initiatives aimed at harnessing clean energy. This context sets the stage for the recent $16 billion investment by RWE and KKR in UK offshore wind projects, which is likely to be one of the largest renewable energy investments in Britain&\#x27;s history.
 
-**「Impact」** The briefing could lead to a realignment of international relations and economic policies, potentially affecting global financial markets and trade relations.
+**「Impact」** The $16 billion investment in offshore wind projects by RWE and KKR is likely to boost the renewable energy sector in the UK, potentially leading to increased production of clean energy and impacting the country&\#x27;s energy landscape.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.axios.com/2026/11/09/trump-qatar-prime-minister-iran-war-mediation">Trump to meet Qatari prime minister about mediation efforts with Iran</a></li>
-<li><a href="https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm">After meeting Qatar PM, Trump calls Iran war ‘effectively... | Al Jazeera</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2llMExPcUVoR1dNdy1zX2F2aEFTZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">Google News - News about Donald Trump • Iran - Overview</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_offshore_wind_farms_in_the_United_Kingdom">List of offshore wind farms in the United Kingdom - Wikipedia</a></li>
+<li><a href="https://www.fuseenergy.com/news/north-sea-offshore-wind-projects">North Sea offshore wind projects : powering the UK &#x27;s green energy ...</a></li>
+<li><a href="https://www.linkedin.com/posts/outer-dowsing-offshore-wind_jobs-skills-and-supply-chain-activity-7461061551517593601-5WNn">UK Offshore Wind Power Surpasses Expectations with... | LinkedIn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Political Event`, `#Global Finance`, `#International Relations`, `#Economic Policy`
+**Tags**: `#Renewable Energy`, `#Investment`, `#UK Energy Market`, `#Offshore Wind`, `#Commodities`
 
 ---
 
 <a id="item-global-market-18"></a>
-### [Indonesian Vice President&\#x27;s Fate in Jeopardy as Lawmakers Consider Probe](https://reut.rs/3VgXKKr) ⭐️ 7.0/10
+### [Middle East Oil Flows Return to Pre-War Levels Amidst High Costs](https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html) ⭐️ 7.0/10
 
-Indonesia&\#x27;s vice president faces a precarious situation as lawmakers are contemplating initiating an investigation. This development, which could lead to significant political and economic shifts, is causing concern in the country&\#x27;s financial markets.
+Crude oil flows through the Middle East, particularly through the Strait of Hormuz, have recovered to nearly pre-war levels, indicating a potential oil glut. However, costs for refiners and consumers remain elevated due to ongoing conflicts, high insurance premiums, and record tanker rates.
 
-rss · 路透社 Reuters · Nov 10, 08:18
+rss · OilPrice · Nov 11, 01:00
 
-**「Background on Political Events and Financial Markets」** Political events, such as the consideration of a probe into a country&\#x27;s vice president, can have significant implications for the country&\#x27;s financial markets. Historical events, like the 1997 Asian financial crisis, demonstrate how political instability can lead to widespread economic turmoil. Studies have shown that political events can have a pronounced effect on financial markets, particularly for government-controlled firms. These events often lead to immediate reactions as market participants attempt to decipher the implications of government policies, elections, and international relations on economic stability and growth.
+**「Middle East Oil Market Dynamics」** The Middle East has been a pivotal region in global oil markets, with crude oil flows through the Strait of Hormuz and the entire region recovering to nearly pre-war levels. This recovery, indicated by vessel-tracking services over a month ago, suggests a potential oil glut as Persian Gulf exports rebound and global demand is eroded by high prices. Despite this, costs for refiners and consumers have not decreased, primarily due to ongoing conflicts, elevated insurance premiums, and record-high tanker rates.
 
-**「Impact」** The potential investigation into the Indonesian vice president could have a concrete impact on the country&\#x27;s financial markets, potentially leading to market volatility and uncertainty.
+**「Impact」** The recovery of Middle Eastern oil flows to pre-war levels could lead to increased supply in the global market, potentially affecting oil prices. However, the high costs associated with the region&\#x27;s operations may offset this effect, impacting both refiners and consumers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/1997_Asian_financial_crisis">1997 Asian financial crisis - Wikipedia</a></li>
-<li><a href="https://www.academia.edu/169815852/Is_the_effect_of_a_political_event_more_pronounced_for_government_controlled_firms">(PDF) Is the effect of a political event more pronounced for...</a></li>
-<li><a href="https://thehouseoncliff.com/how-political-scenarios-influence-financial-markets/">How Political Scenarios Influence Financial Markets</a></li>
+<li><a href="https://www.defconlevel.com/oil-prices">Crude Oil Prices Today - Brent, WTI &amp; Global... | Defcon Level</a></li>
+<li><a href="https://tradingeconomics.com/commodity/brent-crude-oil">Brent oil - Price - Chart - Historical Data - News</a></li>
+<li><a href="https://oilprice.com/">Crude Oil Prices Today | OilPrice.com</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Political Event`, `#Indonesia`, `#Financial Markets`, `#Geopolitical`, `#Economic Shifts`
+**Tags**: `#Oil Market`, `#Middle East`, `#Crude Oil`, `#Global Supply`, `#Energy Prices`
 
 ---
 
 <a id="item-global-market-19"></a>
-### [Middle East Oil Flows Return to Pre-War Levels Amidst High Costs](https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html) ⭐️ 7.0/10
+### [Houthi Attacks on Saudi Oil Infrastructure](https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html) ⭐️ 7.0/10
 
-Crude oil flows through the Middle East, particularly through the Strait of Hormuz, have recovered to nearly pre-war levels, indicating a potential oil glut. However, costs remain elevated due to ongoing conflicts, increased insurance premiums, and record-high tanker rates.
+Houthi rebels have launched a series of attacks on Saudi Arabian oil infrastructure, including pumping stations along the East-West pipeline and an Aramco facility in Abqaiq. While the extent of the damage and its impact on global oil supply are yet to be assessed, these attacks have the potential to disrupt oil supply and affect global markets.
 
-rss · OilPrice · Nov 11, 01:00
+rss · OilPrice · Nov 10, 21:00
 
-**「Middle East Oil Market Context」** The Middle East has historically been a major player in the global oil market, with significant crude oil flows through the Strait of Hormuz. The region&\#x27;s oil and gas market has been subject to various geopolitical and economic factors, including wars, sanctions, and changes in global demand. The IEA&\#x27;s Oil Market Reports provide comprehensive analysis and forecasts on the global oil market, including detailed statistics and commentary on oil supply, demand, inventories, prices, and refining activity. Reports from BlackRidge Research offer insights into the specific trends and outlooks within the Middle East oil and gas market, providing a detailed analysis of market size, share, growth, and industry trends.
+**「Background on Houthi Attacks and Saudi Arabian Oil Infrastructure」** The Houthi rebels, a Zaydi Shia Islamist political and paramilitary organization backed by Iran, have been engaged in an ongoing conflict with Saudi Arabia. This conflict has resulted in numerous attacks on Saudi Arabian oil infrastructure, including the targeting of King Khalid International Airport and multiple pumping stations along the kingdom&\#x27;s East-West pipeline. The Houthi movement has been a significant actor in the Yemeni Civil War since 2014 and is considered a close ally of Iran in the region. The attacks on Saudi oil facilities are of particular concern due to the potential disruption of global oil supply.
 
-**「Impact」** The potential oil glut in the Middle East could lead to downward pressure on global oil prices, affecting both producers and consumers. However, the high costs associated with the region&\#x27;s oil production may mitigate this effect, as refiners and consumers face increased expenses due to the ongoing conflicts and high tanker rates.
+**「Market Impact」** The attacks on Saudi Arabian oil infrastructure, including pumping stations and facilities, could lead to a disruption in global oil supply. This could potentially drive up oil prices, affecting global markets and consumers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.iea.org/reports/oil-market-report-april-2026">Oil Market Report - April 2026 - IEA</a></li>
-<li><a href="https://www.iea.org/reports/oil-market-report-october-2026">Oil Market Report - October 2026 - IEA</a></li>
-<li><a href="https://www.blackridgeresearch.com/reports/middle-east-oil-and-gas-market/">Middle East Oil and Gas Market Report (Q1 2026)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Houthis">Houthis - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Houthi%E2%80%93Saudi_conflict">Houthi–Saudi conflict - Wikipedia</a></li>
+<li><a href="https://www.britannica.com/topic/Houthi-movement">Houthi movement (Ansar Allah) | Yemen, Religion, History, Red ...</a></li>
+<li><a href="https://www.riyadh-airport.com/">Riyadh Airport (RUH)</a></li>
+<li><a href="https://www.airportia.com/saudi-arabia/king-khaled-international-airport/">Riyadh King Khalid International Airport RUH: Live... | Airportia</a></li>
+<li><a href="https://www.kkia.sa/">King Khalid International Airport (KKIA) – Riyadh’s Premier Global...</a></li>
+<li><a href="https://www.energypolicy.columbia.edu/publications/energy-and-geopolitical-impacts-saudi-oil-attacks/">Energy and Geopolitical Impacts of the Saudi Oil Attacks - Center on...</a></li>
+<li><a href="https://www.nytimes.com/2026/09/16/business/saudi-pipeline-houthi-attacks.html">Global Oil Prices Could Hit Highest Levels in Months After Saudi ...</a></li>
+<li><a href="https://www.fool.com/investing/2019/09/16/what-the-attack-on-saudi-arabias-oil-infrastructur.aspx">What the Attack on Saudi Arabia &#x27;s Oil Infrastructure Means for the...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Market`, `#Middle East`, `#Crude Oil`, `#Global Financial Markets`, `#Energy Policy`
+**Tags**: `#Houthi Attacks`, `#Saudi Arabia`, `#Oil Supply`, `#Global Markets`
 
 ---
 
 <a id="item-global-market-20"></a>
-### [Midterm Elections Threaten Trump&\#x27;s Energy Independence Plans](https://oilprice.com/Energy/Energy-General/Midterm-Results-Could-Trip-Trumps-Energy-Independence-Plans.html) ⭐️ 7.0/10
+### [FCC Approves SpaceX&\#x27;s Acquisition of 800 MHz Spectrum](https://wap.cj.sina.cn/7x24/5206981) ⭐️ 7.0/10
 
-The Democratic Party&\#x27;s victory in the U.S. midterm elections poses a threat to President Trump&\#x27;s energy independence plans, potentially disrupting legislation and market dynamics. The Bipartisan American Affordability and Jobs Act, which aimed to speed up permitting for new energy projects, may face obstacles due to the shift in political landscape.
+The US Federal Communications Commission \(FCC\) has approved SpaceX&\#x27;s application to acquire 800 MHz spectrum, covering nearly the entire US population. This decision, which involves SpaceX&\#x27;s acquisition of 546 paired licenses through a transaction with Grain Management, could impact the telecommunications industry as SpaceX faces resistance from major carriers like Verizon, AT&amp;T, and T-Mobile, who have refused to allow SpaceX access to their networks.
 
-rss · OilPrice · Nov 10, 23:00
+telegram · zaihuapd · Nov 11, 02:14
 
-**「Background on the Bipartisan American Affordability and Jobs Act」** The Bipartisan American Affordability and Jobs Act of 2026 was a piece of legislation that aimed to speed up permitting for new energy projects. It received broad support from the previous Senate and was integral to ensuring the availability, affordability, and reliability of electric power. The bill focused on federal environmental permitting laws and the planning, permitting, and funding of electric power transmission lines, which is crucial as the nation enters a period of significant electric demand growth. The act was set to be voted on after the midterm elections, and its passage was part of the broader ambitions for energy independence and dominance.
+**「Background on SpaceX&\#x27;s Spectrum Acquisition Approval」** SpaceX, led by billionaire Elon Musk, has been actively involved in the telecommunications sector. The company has previously faced opposition from established telecom operators such as T-Mobile US Inc. regarding spectrum rule changes proposed by the Federal Communications Commission \(FCC\). This opposition stems from concerns about the potential impact of SpaceX&\#x27;s activities on the telecommunications industry. Following these disputes, SpaceX announced its acquisition of a low-band spectrum portfolio, which includes the 800 MHz spectrum. This move is significant as it represents SpaceX&\#x27;s ambition to expand its telecommunications services, potentially challenging existing telcos. The deal with Grain Management, which includes the purchase of 546 paired licenses covering nearly the entire US population, is a testament to SpaceX&\#x27;s commitment to this venture. This acquisition is expected to enhance SpaceX&\#x27;s ability to provide services that require strong signal penetration, such as Starlink, which is designed to be accessible across various environments.
 
-**「Impact」** The potential disruption of the Bipartisan American Affordability and Jobs Act could lead to delays in energy projects, affecting the energy sector and market dynamics, particularly in terms of permitting and project development.
+**「Impact」** The approval of SpaceX&\#x27;s spectrum acquisition may lead to increased competition in the telecommunications sector, potentially affecting market dynamics and the strategies of existing players.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://bipartisanpolicy.org/explainer/explaining-the-senate-permitting-bill-the-bipartisan-american-affordability-and-jobs-act/">Explaining the Senate Permitting Bill, the Bipartisan American ...</a></li>
-<li><a href="https://www.rigzone.com/news/rep_dem_senators_release_bipartisan_permitting_bill-01-oct-2026-184751-article/">Rep, Dem Senators Release Bipartisan Permitting Bill | Rigzone</a></li>
-<li><a href="https://rhg.com/research/baaja-us-energy-system-impacts/">Estimating the US Energy System Impacts of the Bipartisan American ...</a></li>
+<li><a href="https://finance.yahoo.com/technology/articles/spacex-hits-back-t-mobile-203004008.html">SpaceX Hits Back at T-Mobile’s ‘Misplaced Desire’ to Harm Starlink by...</a></li>
+<li><a href="https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1">US telcos shed $60bn in value after SpaceX announces spectrum ...</a></li>
+<li><a href="https://www.cnbc.com/2026/10/25/spacex-cell-sites-wireless-network.html">SpaceX cell sites: What Wall Street sees in its network ambitions</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Midterm Elections`, `#Energy Policy`, `#Commodity Markets`, `#Political Impact`, `#Legislation`
+**Tags**: `#SpaceX`, `#FCC`, `#Telecommunications`, `#Spectrum Acquisition`, `#Industry News`
 
 ---
 
 <a id="item-global-market-21"></a>
-### [Houthi Attack on Saudi Oil Infrastructure](https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html) ⭐️ 7.0/10
+### [Offshore Trust Income Tax Transition Period Ends with Over 160 Billion Yuan in Declarations](https://www.news.cn/20261111/9bcce99c779b4a6197ff45bbbc3e4c50/c.html) ⭐️ 7.0/10
 
-The Houthi rebels have launched a series of attacks on Saudi Arabian oil infrastructure, including pumping stations along the East-West pipeline and King Khalid International Airport. The Saudi authorities have yet to confirm the extent of the damage or their response to the attacks.
+The 90-day transitional period for taxing offshore trust income has concluded, with cumulative declarations exceeding 160 billion yuan, significantly impacting personal income tax collections. The transition period, which began on July 24, 2026, allowed for tax declarations without penalties, but now non-compliance will face penalties and legal action.
 
-rss · OilPrice · Nov 10, 21:00
+telegram · zaihuapd · Nov 11, 10:35
 
-**「Prior Houthi Attacks and Global Oil Market Concerns」** The recent Houthi attack on Saudi Arabian oil infrastructure is not an isolated incident. Previous Houthi strikes have targeted critical infrastructure, including the East-West pipeline in Saudi Arabia, which has led to concerns about the stability of global oil markets. These attacks have the potential to disrupt energy supplies and affect global oil prices. The situation is of particular interest to those tracking commodities and currencies, as it could lead to significant market movements.
+**「Background on Offshore Trust Income Taxation」** The taxation of offshore trust income has been a significant policy issue in China. On July 24, 2026, the Ministry of Finance and the State Administration of Taxation jointly issued a notice regarding the personal income tax on offshore trust income. This notice outlined the regulations for taxing offshore trust income, which was a major policy change affecting the financial market. The implementation of these regulations included a 90-day transitional period during which declarations and tax payments could be made without incurring late fees. The information provided indicates that the transitional period has now ended, with cumulative declarations exceeding 160 billion yuan, significantly impacting personal income tax collections.
 
-**「Impact」** The attacks could potentially disrupt global oil markets, affecting commodities and currencies.
+**「Impact」** The substantial declarations and the resulting increase in personal income tax collections indicate a notable shift in the financial sector, potentially affecting investor behavior and offshore trust management practices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bankingnews.gr/diethni/articles/903338/fading-reserves-and-burning-pipelines-is-the-global-oil-market-reaching-a-breaking-point+title=">Fading reserves and burning pipelines: Is the global oil market ...</a></li>
-<li><a href="https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277">Houthi attacks on Saudi Arabia raise fears of wider war</a></li>
-<li><a href="https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran">Houthis strike Saudi Arabian cities in significant... | The Guardian</a></li>
+<li><a href="https://baike.baidu.com/item/%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E/68631051">离岸信托个人所得税 - 百度百科</a></li>
+<li><a href="https://www.sohu.com/a/1071928898_120942243">黄利军等：离岸信托税收新规深度解读——穿透迷雾，合规先行（附案例解...</a></li>
+<li><a href="https://www.sohu.com/a/1056356860_122642463">离岸信托个人所得税新规解读： 全流程征税、穿透监管与合规应对</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Houthi Attack`, `#Saudi Arabia`, `#Oil Infrastructure`, `#Global Oil Markets`, `#Commodities`
-
----
-
-<a id="item-global-market-22"></a>
-### [U.S. Midterm Elections Impact on Global Oil and Gas Markets](https://oilprice.com/Energy/Energy-General/US-Midterm-Shake-Up-Could-Reshape-Global-Oil-and-Gas-Markets.html) ⭐️ 7.0/10
-
-The 2026 U.S. midterm elections have resulted in a significant political shift, with Democrats gaining control of Congress. This change could constrain the administration&\#x27;s domestic legislative agenda but may still allow considerable presidential discretion over foreign policy, potentially reshaping global oil and gas markets.
-
-rss · OilPrice · Nov 10, 19:00
-
-**「Background on U.S. Midterm Elections and Global Oil and Gas Markets」** The 2026 U.S. midterm elections have resulted in a significant political shift, with Democrats gaining control of Congress. This change could constrain the administration&\#x27;s domestic legislative agenda but may still allow for considerable presidential discretion over foreign policy. The outcome of these elections aligns with a scenario previously outlined, which includes legislative gridlock at home, increased congressional influence over spending and appointments, and potentially greater reliance on certain foreign policy strategies. These political developments have implications for the U.S. energy policy and, consequently, global oil and gas markets.
-
-**「Impact」** The shift in political power may lead to legislative gridlock at home, increased congressional influence over spending and appointments, and potentially a greater reliance on foreign energy sources, impacting global oil and gas market dynamics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://oilprice.com/Geopolitics/Middle-East/After-Midterm-Failure-Trumps-Foreign-Strategy-May-Be-Even-More-Dangerous.html">After Midterm Failure, Trump’s Foreign Strategy May Be... | OilPrice.com</a></li>
-<li><a href="https://cryptobriefing.com/trump-oil-prices-may-stay-high-until-after-us-midterm-elections/">Trump: Oil prices may stay high until after US midterm elections</a></li>
-<li><a href="https://www.realclearpolling.com/">2026 Latest Election Polls and Political Insights | RealClearPolling</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#U.S. Midterm Elections`, `#Global Oil and Gas Markets`, `#Policy Changes`, `#Energy Market Implications`
-
----
-
-<a id="item-global-market-23"></a>
-### [Impact of U.S./Israel-Iran War on Iraq&\#x27;s Oil Industry](https://oilprice.com/Energy/Crude-Oil/The-Truth-Behind-Iraqs-Oil-Rebound-And-The-Secret-Red-Sea-Plan.html) ⭐️ 7.0/10
-
-Iraq&\#x27;s oil industry has been significantly impacted by the U.S./Israel-Iran war, with over 90 percent of its annual budget historically coming from oil, much of which had to pass through the Strait of Hormuz. The closure of the strait due to Iran&\#x27;s actions during &\#x27;Operation Epic Fury&\#x27; has severely affected Iraq&\#x27;s financial lifeline.
-
-rss · OilPrice · Nov 10, 18:00
-
-**「Background on Iraq&\#x27;s Economic Impact of the US/Israel-Iran War」** Iraq has been significantly affected by the ongoing conflict between the U.S./Israel and Iran. Historically, over 90 percent of Iraq&\#x27;s annual budget was derived from oil, with approximately 95 percent of this oil needing to pass through the Strait of Hormuz for monetization. The closure of the Strait of Hormuz by Iran during &\#x27;Operation Epic Fury&\#x27; severely disrupted Iraq&\#x27;s oil exports, which are crucial for its economy. This situation has led to disrupted oil exports, increased import costs, and a weakened Iraqi dinar, highlighting Iraq&\#x27;s economic dependence on oil and foreign goods. The war has also exposed the negative strategic consequences of the conflict for Iraq, including the effective shutdown of its oil exports, which accounted for roughly 95% of its exports before the war. This has had immediate consequences for the government&\#x27;s ability to meet its expenditures, as about 90% of its revenues come from oil.
-
-**「Market Implications」** A potential agreement between Iran and the U.S. could significantly impact energy markets and global economic stability. Such an agreement might lead to a reduction in tensions in the Persian Gulf, potentially easing the flow of oil through the Strait of Hormuz and stabilizing oil prices. This could have a positive effect on global financial markets by reducing inflationary pressures and simplifying central banks&\#x27; policy decisions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise">Iran war squeezes Iraq’s economy as oil revenues fall and ...</a></li>
-<li><a href="https://apnews.com/article/iraq-iran-economy-oil-war-8e7bcec9ba316da1b2513da96823ab70">Iran war deals a heavy blow to Iraq&#x27;s oil-dependent economy ...</a></li>
-<li><a href="https://www.stimson.org/2026/the-negative-strategic-consequences-of-the-us-iran-war-for-iraq/">The Negative Strategic Consequences of the US-Iran War for Iraq</a></li>
-<li><a href="https://www.dallasfed.org/research/economics/2026/0320">What the closure of the Strait of Hormuz means for the global ...</a></li>
-<li><a href="https://www.arab-reform.net/publication/hormuzs-closure-exposes-iraqs-self-inflicted-wounds/">Hormuz’s Closure Exposes Iraq’s Self-Inflicted Wounds</a></li>
-<li><a href="https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz">Iraq looks for oil export alternatives to the troubled Strait ...</a></li>
-<li><a href="https://bitcoinworld.co.in/iran-signals-potential-deal-with-us-proposal-under-review/">Iran Signals Potential Deal With US, Says Proposal Still Under Review</a></li>
-<li><a href="https://economictimes.indiatimes.com/topic/tensions-between-tehran-and-washington">tensions between tehran and washington: Latest News &amp; Videos...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Geopolitical Events`, `#Oil Industry`, `#Global Financial Markets`, `#Strait of Hormuz`, `#Iran-Iraq Relations`
-
----
-
-<a id="item-global-market-24"></a>
-### [Oil Prices Reach Lowest Level Since August](https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html) ⭐️ 7.0/10
-
-Oil prices have dropped to their lowest level since August, with Brent crude briefly falling below $90. This decline is attributed to diplomatic breakthroughs in Iran and Ukraine, despite high freight rates indicating ongoing market uncertainty.
-
-rss · OilPrice · Nov 10, 16:34
-
-**「Prior Market Dynamics and Diplomatic Developments」** The recent fall in oil prices to their lowest level since August can be attributed to a combination of diplomatic breakthroughs in Iran and Ukraine, as well as market speculation. Diplomatic endorsements from the United States and Israel, including the provision of technical and military expertise to counter Iranian drone and missile attacks on Gulf states and US bases, have played a significant role in these developments. However, it is important to note that while there have been hopes of a breakthrough, there are still uncertainties in the market, as indicated by the high freight rates in the Gulf. These high rates suggest that not all segments of the oil market believe the US-Iran war to be &\#x27;effectively over&\#x27;.
-
-**「Market Impact」** The fall in oil prices has led to a selloff in the oil market, with crude oil prices plunging by almost $30 per barrel since the US midterm elections. This movement could have significant implications for global oil markets and related sectors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Ukraine_in_the_2026_Iran_war">Ukraine in the 2026 Iran war - Wikipedia</a></li>
-<li><a href="https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html">Rubio says Iran war breakthrough unlikely amid &#x27;outrageous ...</a></li>
-<li><a href="https://www.globsec.org/sites/default/files/2026-03/The+War+in+Iran+-+Strategic+Implications+for+Ukraine.pdf">The War in Iran: Strategic Implications for Ukraine</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Oil Prices`, `#Commodity Market`, `#Diplomatic News`, `#Global Economy`, `#Market Speculation`
-
----
-
-<a id="item-global-market-25"></a>
-### [FCC Approves SpaceX&\#x27;s Spectrum Acquisition](https://wap.cj.sina.cn/7x24/5206981) ⭐️ 7.0/10
-
-The US Federal Communications Commission \(FCC\) has approved SpaceX&\#x27;s application to acquire 800 MHz spectrum, covering nearly the entire US population. This decision follows the rejection of SpaceX&\#x27;s request by major telecommunications companies such as Verizon, AT&amp;T, and T-Mobile, which did not allow SpaceX to access their networks.
-
-telegram · zaihuapd · Nov 11, 02:14
-
-**「Background on SpaceX&\#x27;s Spectrum Acquisition」** SpaceX, known for its Starlink satellite internet service, has been actively seeking to expand its presence in the telecommunications market. The company announced a deal to purchase a nationwide spectrum portfolio, specifically up to 14 megahertz of paired spectrum in the 800 MHz band, from Grain Management LLC. This move is part of SpaceX&\#x27;s strategy to deepen its telecommunications footprint in the United States. The approval by the US FCC for SpaceX&\#x27;s acquisition of the 800 MHz spectrum is a significant step forward for the company, as it will allow SpaceX to cover nearly the entire US population with its services. This acquisition follows a trend of major telecommunications companies seeking to expand their spectrum holdings to enhance their service offerings and market competitiveness.
-
-**「Impact」** The approval of SpaceX&\#x27;s spectrum acquisition is expected to enhance telecommunications services in the US, particularly in areas where traditional carriers have limited presence.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html">SpaceX spectrum license hammers shares of AT&amp;T, Verizon and...</a></li>
-<li><a href="https://www.analyticsinsight.net/news/spacex-spectrum-deal-sparks-telecom-stock-selloff-as-starlink-expands">SpaceX Spectrum Deal Sparks Telecom Stock Selloff as Starlink...</a></li>
-<li><a href="https://finance.yahoo.com/technology/articles/spacex-acquire-low-band-spectrum-105053610.html">SpaceX to Acquire Low-Band Spectrum Portfolio From Grain...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#SpaceX`, `#FCC`, `#Spectrum Acquisition`, `#Telecommunications`, `#US Market`
+**Tags**: `#Financial Policy`, `#Taxation`, `#Offshore Trusts`, `#Personal Income Tax`, `#Market Impact`
 
 ---
 
 ## AI Frontier
 
 <a id="item-ai-frontier-1"></a>
-### [Google Releases Gemini 4 Carbon Model](https://deepmind.google/models/model-cards/gemini-4-carbon/) ⭐️ 8.0/10
+### [Google SWE Points 48 AI Agents at NASA Lidar, Discovers Unmapped Maya Pyramid](https://pietromiotti.com/latest/maya-site/?maya) ⭐️ 8.0/10
 
-Google has publicly released its latest model, Gemini 4 Carbon, which is designed for cybersecurity and long-term agent workflows. The model has achieved top rankings on multiple benchmarks and offers significant cost advantages compared to other models, with a price point of $2/million input and $10/million output at launch.
+Google&\#x27;s 48 AI agents, utilizing NASA Lidar data, have successfully discovered an unmapped Maya pyramid within 72 hours, highlighting the potential of AI in processing large datasets for archaeological discoveries.
 
-telegram · zaihuapd · Nov 10, 15:48
+hackernews · eyvindn · Nov 11, 12:05 · [Discussion](https://news.ycombinator.com/item?id=50452455)
 
-**「Background on Gemini 4 Carbon」** Gemini 4 Carbon is a state-of-the-art model developed by Google, designed to excel in cybersecurity and long-term agent workflows. This model is a significant advancement in AI research, as it is capable of handling complex knowledge work, software engineering, and scientific reasoning. Gemini 4 Carbon has demonstrated its capabilities by ranking first on multiple benchmarks, including CursorBench 4.0, and offers cost advantages over other models. The model is now available through Gemini API, Google AI Studio, and Gemini for business, with pricing set at $2/million input and $10/million output at launch, doubling to $4/$20 on December 1st.
+**「Background on Lidar Technology in Archaeology」** Lidar, or Light Detection and Ranging, is a remote sensing technology that uses light in the form of a laser to measure distances to objects. In archaeology, lidar has become a powerful tool for mapping landscapes and detecting features that may not be visible to the naked eye. The technology has been increasingly employed in archaeological research to uncover hidden structures, such as ancient ruins or unmarked pyramids. This method has significantly enhanced the capabilities of archaeologists in exploring and documenting cultural landscapes. The use of lidar in archaeology has a history of over two decades, with early applications dating back to the early 2000s.
 
-**「Impact」** The release of Gemini 4 Carbon is expected to have a concrete impact on developers and researchers by providing a powerful tool for cybersecurity applications and long-term agent workflows, potentially leading to advancements in these fields.
+**「Consequence for Developers and Researchers」** The use of AI agents in processing large datasets for archaeological discoveries significantly enhances the capabilities of developers and researchers in the field of archaeology. This development allows for more efficient analysis of vast amounts of data, potentially leading to quicker discoveries and a deeper understanding of historical sites. It also opens new avenues for citizen scientists to contribute to archaeological research, leveraging AI to process and analyze data.
+
+**「Community Discussion」** The community is excited about the progress AI is bringing to various fields, with some emphasizing the need for expert verification in such discoveries. There is also a discussion on the potential for AI to enable a new era of &\#x27;citizen scientists&\#x27;.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Introducing Gemini 4 Carbon - The Keyword</a></li>
-<li><a href="https://aireleasetracker.com/model/google/gemini-4-carbon">Gemini 4 Carbon — Benchmarks, Specs &amp; Release Date</a></li>
-<li><a href="https://deepmind.google/blog/gemini-4-carbon-is-now-available/">Gemini 4 Carbon is now available - deepmind.google</a></li>
+<li><a href="https://ntrs.nasa.gov/citations/20170003271">Reanalyzing Environmental Lidar Data for Archaeology ...</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/arp.1931">LiDAR Applications in Archaeology: A Systematic Review</a></li>
+<li><a href="https://spinoff.nasa.gov/Spinoff2017/it_1.html">Laser Imaging Helps Archaeologists Dig Up History - NASA</a></li>
+<li><a href="https://www.historica.org/blog/the-latest-ai-innovations-in-archaeology">AI Revolutionizes Archaeology: Discoveries &amp; Challenges</a></li>
+<li><a href="https://journal.caa-international.org/articles/10.5334/jcaa.207">Artificial Intelligence in Archaeological Site Conservation ...</a></li>
+<li><a href="https://www.academia.edu/127772747/Managing_Artificial_Intelligence_in_Archeology_An_overview">(PDF) Managing Artificial Intelligence in Archeology. An ... How AI Is Accelerating Archaeological Discoveries Artificial Intelligence and Archaeological Illustration ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Model Release`, `#Cybersecurity`, `#AI Research`, `#AI Infrastructure`
+**Tags**: `#AI in Archaeology`, `#Data Analysis`, `#AI Applications`, `#Maya Pyramids`, `#AI Research`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [Tracking Anthropic-discovered Vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) ⭐️ 7.0/10
+### [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) ⭐️ 7.0/10
 
-Security experts are discussing vulnerabilities discovered by Anthropic, highlighting the impact on security practices. The discussion includes reports of real bugs and the quality of proposed fixes, but lacks specific details on the nature of the vulnerabilities and their impact.
+A guide to modern web development practices, offering best practices and curated resources for developers.
 
-hackernews · panic · Nov 10, 22:17 · [Discussion](https://news.ycombinator.com/item?id=50447074)
+hackernews · paulirish · Nov 10, 18:01 · [Discussion](https://news.ycombinator.com/item?id=50443812)
 
-**「Understanding Anthropic&\#x27;s Vulnerability Discovery Efforts」** Anthropic has been actively involved in discovering and analyzing vulnerabilities in critical software, such as browsers and operating systems. This effort involves the use of advanced AI models, like Claude Mythos Preview, to identify and exploit vulnerabilities. The company has also established a coordinated vulnerability disclosure program, partnering with external security research firms to validate and report vulnerabilities to software maintainers. This initiative reflects the growing role of AI in enhancing security practices and the importance of proactive vulnerability discovery.
-
-**「Community Discussion」** Community members have varying opinions on the value of public datasets of CVEs. Some appreciate the quality of reports and fixes, while others argue that many issues remain in private company codebases and are not publicly disclosed. There is also a discussion on the practical impact of certain vulnerabilities and the effectiveness of using frontier models for discovery.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.anthropic.com/research/discovering-vulnerabilities-with-claude">Discovering and exploiting vulnerabilities in critical, real ...</a></li>
-<li><a href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses">Discovering cryptographic weaknesses with Claude \ Anthropic</a></li>
-<li><a href="https://red.anthropic.com/2026/cvd/">Anthropic&#x27;s coordinated vulnerability disclosure dashboard</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Security`, `#AI in Security`, `#Vulnerability Analysis`, `#Community Engagement`, `#AI Research`
+**Tags**: `#Web Development`, `#Modern Web Technologies`, `#Best Practices`, `#Browser Compatibility`, `#Chrome`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) ⭐️ 7.0/10
+### [vLLM Encoder Disaggregation Advancement](https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd) ⭐️ 7.0/10
 
-Anthropic releases Claude Whiteboards, Sheets, and Data, aiming to integrate with business workflows and potentially disrupt existing tools like Google Workspace.
+The article discusses the advancement of encoder disaggregation in vLLM for scaling multimodal serving, highlighting its impact on model execution and infrastructure. It introduces metadata-only requests, dedicated encoder execution paths, and remote embedding transfer, aiming to improve efficiency and scalability in handling diverse media inputs.
 
-hackernews · Yorothegoat · Nov 10, 17:55 · [Discussion](https://news.ycombinator.com/item?id=50443716)
+rss · vLLM Blog · Nov 11, 00:00
 
-**Tags**: `#Anthropic`, `#AI Infrastructure`, `#AI-Powered Products`, `#Data Ownership`, `#Market Disruption`
+**「Background on Encoder Disaggregation in vLLM」** Encoder Disaggregation in vLLM refers to the technical approach of separating the encoding stage from the language-model execution in large language models \(LLMs\). This technique is crucial for scaling multimodal serving, as it allows for more efficient processing of different media types such as images, video frames, and audio. The concept of Encoder/Prefill/Decode \(EPD\) disaggregation has been expanded in the vLLM community, encompassing various aspects such as model execution, remote embedding transfer, shared caching, multimodal input handling, and request routing. This approach enables operators to adjust instance counts and execution settings independently, optimizing the overall performance and efficiency of the system.
 
----
-
-<a id="item-ai-frontier-4"></a>
-### [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) ⭐️ 7.0/10
-
-AlphaProof Code, an AI tool for code verification, is introduced by DeepMind, generating interest and discussion in the AI community.
-
-hackernews · ilreb · Nov 10, 12:11 · [Discussion](https://news.ycombinator.com/item?id=50439193)
-
-**Tags**: `#AI-assisted verification`, `#DeepMind`, `#Code verification`, `#AI research`, `#AI-powered products`
-
----
-
-<a id="item-ai-frontier-5"></a>
-### [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) ⭐️ 7.0/10
-
-A comprehensive guide to modern web primitives and best practices for web development, offering practical advice and resources for developers.
-
-hackernews · paulirish · Nov 10, 18:01 · [Discussion](https://news.ycombinator.com/item?id=50443812)
-
-**Tags**: `#Web Development`, `#Modern Web Technologies`, `#Best Practices`, `#Developer Resources`
-
----
-
-<a id="item-ai-frontier-6"></a>
-### [AMD&\#x27;s Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast) ⭐️ 7.0/10
-
-AMD&\#x27;s Zen 6 family introduces incremental enhancements in memory controller and instruction level parallelism, benefiting AI research and infrastructure. The new I/O chiplet on a smaller node and improved memory controller are highlighted as key improvements.
-
-hackernews · pixelpoet · Nov 10, 17:02 · [Discussion](https://news.ycombinator.com/item?id=50443090)
-
-**「AMD Zen 6 Architecture Overview」** The AMD Zen 6 family represents an evolution in CPU architecture, focusing on improvements in the memory controller and instruction level parallelism. These enhancements are particularly significant for AI research and infrastructure. The Zen 6 architecture, which includes the EPYC 9006 CPU family codenamed Venice, follows the Zen 5 and Zen 5C architectures. Key changes in Zen 6 include optimizations in the out-of-order execution structures and enhancements in the execution engine, which aim to provide better performance and efficiency.
-
-**「Impact on AI Research and Infrastructure」** The introduction of AMD&\#x27;s Zen 6 family, with its improved memory controller and instruction level parallelism, is expected to significantly enhance AI research and infrastructure. The enhanced memory controller will improve data handling, while the increased instruction level parallelism will allow for more efficient processing of complex AI algorithms, potentially leading to faster development and deployment of AI applications.
-
-**「Community Discussion」** Community members are excited about the improved memory controller in Zen 6, as it addresses previous limitations in the AM5 Zen 4/5 models. The discussion also touches on the benefits of the 2-ahead branch prediction and the balance of improvements in the core architecture, such as the reduction in integer multipliers and the increase in C cores per chiplet.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast">AMD ’s Zen 6 Family : Feeding the Beast - by George Cozma</a></li>
-<li><a href="https://wccftech.com/amd-zen-6-architecture-ipc-cores-memory-performance-epyc-venice/">AMD Zen 6 Architecture Brings A Phenomenal 27% IPC Increase Over...</a></li>
-<li><a href="https://www.techpowerup.com/forums/threads/amd-zen-6-technical-deep-dive.354635/page-2">AMD Zen 6 Technical Deep Dive | Page 2 | TechPowerUp Forums</a></li>
-<li><a href="https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast">AMD ’s Zen 6 Family : Feeding the Beast - by George Cozma</a></li>
-<li><a href="https://blog.imseankim.com/amd-zen-6-architecture-preview-desktop-cpu-2026/">AMD Zen 6 Architecture Preview: 12-Core CCDs, TSMC 2nm, and...</a></li>
-<li><a href="https://wccftech.com/amd-zen-6-architecture-ipc-cores-memory-performance-epyc-venice/">AMD Zen 6 Architecture Brings A Phenomenal 27% IPC Increase Over...</a></li>
-<li><a href="https://newsroom.amd.com/news/6th-gen-epyc-lead-ai-enterprise-computing/">AMD Showcases 6th Gen AMD EPYC Processors - AMD Newsroom</a></li>
-<li><a href="https://www.techspot.com/news/113104-amd-zen-6-epyc-chip-packs-256-cores.html">AMD&#x27;s Zen 6 Epyc chip packs 256 cores, promises up to 1.7x ...</a></li>
-<li><a href="https://kingy.ai/news/amd-zen-6-epyc-venice-ai-server-cpu-launch/">AMD’s Zen 6 Arrives: Why EPYC Venice Could Reshape AI and ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AMD Zen 6`, `#CPU Architecture`, `#Memory Controller`, `#Instruction Level Parallelism`, `#AI Infrastructure`
-
----
-
-<a id="item-ai-frontier-7"></a>
-### [Optimal Model Coordination in AI Workflows](https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/) ⭐️ 7.0/10
-
-A study conducted in WorkflowArena reveals that selecting the strongest model as a coordinator may not always yield optimal results. The experiment compared Opus and Astra, showing that while Astra performed better individually, its coordination workflows were less effective than Opus&\#x27;s in enhancing the performance of other models. This highlights the importance of considering a model&\#x27;s organizational capabilities beyond its individual performance.
-
-reddit · r/MachineLearning · /u/OliviaYii · Nov 11, 05:25
-
-**「Understanding Model Coordination in AI Workflows」** The concept of model coordination in AI workflows involves the organization and delegation of tasks among different AI models. This approach is crucial for optimizing the performance of mixed-model teams. It is based on the idea that the effectiveness of a model as a coordinator is not solely determined by its individual performance but also by its ability to organize and delegate tasks efficiently. This understanding is further reinforced by the development of benchmarks like WorkflowArena, which evaluates the coordination capabilities of models across various tasks and domains.
-
-**「Impact on AI Workflows」** The study reveals that selecting the strongest model as a coordinator may not always yield the best results in AI workflows. This finding is significant for developers and researchers as it emphasizes the importance of considering the organizational capabilities of a model beyond its individual performance. It suggests that the way a model organizes work can be as crucial as its individual task performance, particularly in complex multi-model teams.
+**「Impact on Multimodal Serving」** The implementation of encoder disaggregation in vLLM for scaling multimodal serving has a significant impact on developers and researchers by enabling more efficient and flexible deployment of large language models. This advancement allows for independent scaling of encoding, prefill, and decode stages, which can lead to better resource utilization and improved performance in handling diverse and varying workloads. It also supports metadata-only requests, reducing the need for duplicate preprocessing and enhancing throughput and latency in processing audio inputs.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://einsia.ai/">Einsia ：Where AI Learns How Experts Work</a></li>
-<li><a href="https://github.com/Einsia/Frontier-Engineering">GitHub - Einsia /Frontier-Engineering · GitHub</a></li>
-<li><a href="https://humanbenchmark.com/">Human Benchmark</a></li>
-<li><a href="https://graphite.io/five-percent/research/ai-tells-opus-5-5-update">AI Tells: Opus 5.5 Update | Graphite</a></li>
-<li><a href="https://www.anthropic.com/claude-opus-5-5">Introducing Claude Opus 5.5 \ Anthropic</a></li>
-<li><a href="https://tech.yahoo.com/ai/claude/articles/astra-opus-just-passed-turing-172436308.html">Astra and Opus just passed Turing’s other test</a></li>
-<li><a href="https://theaecassociates.com/blog/ai-in-bim-coordination/">AI In BIM Coordination What It Automates And What It Cannot ...</a></li>
-<li><a href="https://medium.com/@advenser2007/ai-driven-bim-coordination-the-present-and-future-of-clash-detection-f69120124a57">AI-Driven BIM Coordination: The Present and Future of Clash ...</a></li>
-<li><a href="https://www.autodesk.com/autodesk-university/class/Workflow-Upgrade-Transitioning-to-Model-Coordination-2023">Workflow Upgrade: Transitioning to Model Coordination - Autodesk</a></li>
+<li><a href="https://martinuke0.github.io/posts/2025-12-19-vllm-deep-dive-architecture-features-and-production-best-practices/">vLLM Deep Dive — Architecture, Features, and Production Best ...</a></li>
+<li><a href="https://docs.vllm.ai/en/v0.13.0/design/arch_overview/">Architecture Overview - vLLM</a></li>
+<li><a href="https://vllm.ai/blog/2025-12-13-vllm-router-release">vLLM Router: A High-Performance and Prefill/Decode Aware Load ...</a></li>
+<li><a href="https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd">Encoder Disaggregation in vLLM: Scaling Multimodal Serving ...</a></li>
+<li><a href="https://github.com/vllm-project/vllm/issues/52409">EPD (EC connector) Tracker · Issue #52409 · vllm-project/vllm</a></li>
+<li><a href="https://docs.vllm.ai/en/stable/examples/disaggregated/disaggregated_encoder/">Disaggregated Encoder - vLLM</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Research`, `#Machine Learning`, `#Model Coordination`, `#AI Workflows`
+**Tags**: `#AI Research`, `#Large Language Models`, `#Multimodal Serving`, `#Encoder Disaggregation`, `#vLLM`
 
 ---
 
-<a id="item-ai-frontier-8"></a>
-### [稀宇科技开源 MiniMax H3 Image，4K 图像生成进入十秒级](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) ⭐️ 7.0/10
+<a id="item-ai-frontier-4"></a>
+### [Effectiveness of Strongest Model as Coordinator in AI Workflows](https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/) ⭐️ 7.0/10
 
-稀宇科技开源了 MiniMax H3 Image 图像模型，该模型能够在约 10 秒内生成 4096×4096 分辨率的 4K 图像，支持文生图、图像参考与图像编辑，并推出 Highspeed 高速版本，生成速度是主流工具的 3 至 4 倍。模型已上线 Hugging Face 及开放平台 API，并接入 MiniMax Code、海螺等产品。
+A study investigates the use of the strongest model as a coordinator in AI workflows, revealing that the coordinator&\#x27;s own task performance does not always reflect its effectiveness in organizing work for other models. In experiments, Opus 5.5 and GPT-6 Astra were tested with 32 tasks, and their workflows for four execution models were analyzed. Opus&\#x27;s static workflows improved executor performance by an average of 6.41 points, while Astra&\#x27;s workflows decreased the average by 2.53 points, despite Astra&\#x27;s stronger performance in the main benchmark.
 
-telegram · zaihuapd · Nov 10, 15:39
+reddit · r/MachineLearning · /u/OliviaYii · Nov 11, 05:25
 
-**「Background on MiniMax H3 Image Model」** MiniMax H3 Image is an open-weight image generation model that supports text-to-image, image reference, and image editing. It is capable of generating 4K images \(4096×4096 resolution, approximately 16 million pixels\) in under ten seconds. The model enhances complex instruction understanding, multi-image reference, and detailed image rendering. It is designed to be faster than mainstream tools, with standard mode offering speeds up to 1.5 to 2 times faster, and high-speed mode up to 3 to 4 times faster. The model is available on Hugging Face and through an open platform API, and has been integrated into products like MiniMax Code and Haizuo. The standard version of the 4K image generation costs approximately 0.069 USD per image, with a promotional price of about 0.034 USD for the first week.
+**「Understanding AI Workflows and Model Coordination」** The study revolves around the concept of AI workflows and model coordination, which is a crucial aspect of modern AI research. AI workflows involve a series of tasks executed by different models, and the coordination between these models is essential for efficient and effective task completion. This research focuses on the effectiveness of using the strongest model as a coordinator in AI workflows, highlighting the need to evaluate not just the coordinator&\#x27;s own task performance but also its ability to organize work for other models. This understanding is further enhanced by the introduction of WorkflowArena, a new benchmark at Einsia that covers a wide range of tasks across various domains.
 
-**「Impact」** 这一发布为开发者提供了更快速、高效的图像生成工具，有助于加速 AI 图像处理在各个领域的应用。
+**「Impact」** The study highlights the importance of evaluating the coordinator&\#x27;s effectiveness based on its ability to organize work rather than solely on its own task performance. This finding is significant for developers and researchers building mixed-model teams, as it suggests a need for a more nuanced approach to model coordination in AI workflows.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.minimax.io/blog/minimax-h3-image">MiniMax H 3 - Image : Bringing 4K Image Generation into the 10-Second...</a></li>
-<li><a href="https://huggingface.co/MiniMaxAI/MiniMax-H3-Image">MiniMaxAI/ MiniMax - H 3 - Image · Hugging Face</a></li>
-<li><a href="https://fal.ai/minimax-h3">MiniMax H 3 - Open-Weights General-Purpose Multimodal Video Model</a></li>
+<li><a href="https://lab.einsia.ai/">Frontier AI Research &amp; Benchmarks | Navers Lab - Einsia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Image Generation`, `#Model Release`, `#MiniMax H3 Image`, `#4K Image`, `#Highspeed Version`
+**Tags**: `#AI Workflows`, `#Model Coordination`, `#Benchmarking`, `#Technical Analysis`
+
+---
+
+<a id="item-ai-frontier-5"></a>
+### [AMD Introduces AI-Driven Memory Management for Server Cost Reduction](https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953) ⭐️ 7.0/10
+
+AMD has introduced an AI-driven memory management solution that transfers cold memory pages to flash storage, potentially reducing server costs by up to 80%. The technology, developed from AMD&\#x27;s acquisition of Mext, allows for the swapping of memory pages between DRAM and NVMe flash storage, reducing the required memory for servers. AMD claims that replacing half of the DRAM with flash storage can maintain up to 99% of performance, with the potential to lower enterprise server costs by up to 83%. This solution requires the purchase of Mext authorization along with Epyc servers.
+
+telegram · zaihuapd · Nov 11, 11:15
+
+**「Background on AMD&\#x27;s AI-Driven Memory Management Solution」** AMD&\#x27;s AI-driven memory management solution, known as MEXT, is an innovative approach to memory optimization. MEXT was originally developed by a company acquired by AMD and is designed to function as an extension of DRAM by using flash storage. This technology allows for the transfer of cold memory pages to flash storage, potentially reducing server costs by up to 80%. The acquisition of MEXT by AMD in June 2026 marked a significant step in advancing memory optimization technology, with the goal of expanding usable memory capacity while maintaining performance and efficiency.
+
+**「Impact on Developers and Users」** Developers and users can benefit from the AI-driven memory management solution by AMD, as it offers a significant reduction in server costs and improved performance. This technology allows for the efficient use of flash storage, which can lead to more cost-effective server deployments and potentially enhance the overall efficiency of data centers.
+
+**「Community Discussion」** No community comments available.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.amd.com/en/products/software/mext.html">AMD MEXT Predictive Memory Software</a></li>
+<li><a href="https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html">AMD Acquires MEXT to Advance Memory Optimization</a></li>
+<li><a href="https://www.techpowerup.com/review/amd-zen-6-technical-deep-dive/12.html">AMD Zen 6 Technical Deep Dive - AMD MEXT | TechPowerUp</a></li>
+<li><a href="https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html">AMD Acquires MEXT to Advance Memory Optimization</a></li>
+<li><a href="https://wccftech.com/amd-bets-on-mext-predictive-memory-tech-to-slash-data-center-tco/">AMD Bets on MEXT’s Predictive Memory Tech to Slash Data ...</a></li>
+<li><a href="https://thedatacenterengineer.com/news/amd-buys-mext-for-ai-driven-memory-optimization-that-makes-flash-act-like-dram/">AMD buys MEXT for AI-driven memory optimization that makes ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI in Server Technology`, `#Memory Management`, `#Cost Reduction`, `#AMD`, `#Flash Storage`
+
+---
+
+<a id="item-ai-frontier-6"></a>
+### [ByteDance&\#x27;s AI Assistant Development](https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap) ⭐️ 7.0/10
+
+ByteDance is developing an AI assistant akin to Meta&\#x27;s Muse, with the goal of closing the gap with OpenAI by 2030. The company plans to invest up to 70 billion USD in AI video technology to achieve this objective.
+
+telegram · zaihuapd · Nov 11, 12:31
+
+**「Background on ByteDance&\#x27;s AI Assistant Development」** ByteDance&\#x27;s development of an AI assistant similar to Meta Muse is part of the ongoing competition in the AI field. This project aims to enhance ByteDance&\#x27;s position in AI video technology and bridge the gap with leading AI laboratories such as Anthropic and OpenAI. The investment of up to 70 billion USD in the Seedance video AI platform demonstrates a significant commitment to AI research and development.
+
+**「Impact」** This development could significantly impact the AI industry by introducing a new competitor in the AI assistant market, potentially leading to innovation and improved products.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/devday-2026-recap/">DevDay 2026 Recap - OpenAI</a></li>
+<li><a href="https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006">DevDay 2026 announcements and developer resources ...</a></li>
+<li><a href="https://openai.com/news/">OpenAI News</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Development`, `#ByteDance`, `#OpenAI`, `#AI Assistant`, `#Technology Investment`
 
 ---
 
 ## IT &amp; Open Source
 
 <a id="item-it-opensource-1"></a>
+### [CERN Develops Next-Generation Magnets for LHC](https://www.solidot.org/story?sid=85856) ⭐️ 8.0/10
+
+CERN is developing new, high-performance magnets for the Large Hadron Collider \(LHC\) to increase the number of particle collisions and advance particle physics research. The upgrade, known as the High-Luminosity LHC \(HL-LHC\), aims to enhance the collision frequency by using compact and high-performance magnets with a magnetic field strength of up to 12 Tesla.
+
+rss · Solidot · Nov 11, 08:20
+
+**「Background on CERN&\#x27;s LHC Upgrade」** The Large Hadron Collider \(LHC\) at CERN utilizes powerful magnets to accelerate particles close to the speed of light for collisions, breaking them down into smaller components for study. The current LHC can facilitate approximately 60 particle collisions per second, with a collision rate of up to 40 million collisions per second. This capability has led to some of the most significant discoveries in particle physics this century. CERN scientists are continuously working on upgrading the LHC, preparing for experiments to begin after 2030. The new particle collider, known as the High-Luminosity LHC \(HL-LHC\), aims to increase the number of particle collisions. To achieve this, the collider requires highly compact and high-performance magnets. The current LHC uses dipole magnets with coils made of niobium-titanium \(NbTi\) alloys, which can reach a magnetic field strength of 8.3 teslas, about 166,000 times the strength of the Earth&\#x27;s magnetic field. To manufacture the HL-LHC&\#x27;s quadrupole magnets, scientists are developing coils made of niobium-tin \(Nb₃Sn\) compounds, which will have a magnetic field strength approaching 12 teslas.
+
+**「Impact」** This development will significantly increase the capabilities of the LHC, potentially leading to the discovery of rare particles or special physical phenomena, thereby advancing the field of particle physics.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Luminosity_Large_Hadron_Collider">High Luminosity Large Hadron Collider - Wikipedia</a></li>
+<li><a href="https://hilumilhc.web.cern.ch/">High-Luminosity LHC</a></li>
+<li><a href="https://developmentstoday.com/space/cern-lhc-shutdown-high-luminosity-upgrade-2030">CERN shuts LHC for high-luminosity upgrade | Developments Today</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Particle Physics`, `#CERN`, `#LHC Upgrade`, `#High-Performance Computing`, `#Technology Development`
+
+---
+
+<a id="item-it-opensource-2"></a>
 ### [AMD Reveals Zen 6 CPU Details](https://www.solidot.org/story?sid=85852) ⭐️ 8.0/10
 
-AMD has announced details of the Zen 6 CPU family, featuring significant architectural improvements and optimizations for various performance scenarios. Key enhancements include reduced branch prediction error latency, increased decoding cluster usage for single-threaded performance, and architectural differentiation between Zen 6 and Zen 6c for different performance needs.
+AMD has announced details of the Zen 6 CPU family, featuring significant architectural improvements and optimizations for various performance characteristics. The Zen 6 architecture showcases enhancements in branch prediction, decoding clusters, and integer operations, with a focus on optimizing for different performance needs.
 
 rss · Solidot · Nov 11, 06:25
 
-**「AMD Zen 6 CPU Architecture Overview」** The AMD Zen 6 CPU architecture represents a significant evolution in processor design, building upon the previous Zen 5 architecture. Key improvements include enhanced branch prediction, decoding clusters, and integer operations. The Zen 6 architecture introduces optimizations for different performance scenarios, with Zen 6 and Zen 6c versions tailored for high-frequency and high-memory latency environments, respectively. This evolution is part of AMD&\#x27;s ongoing commitment to advancing processor technology and its impact on the open source ecosystem.
+**「AMD Zen 6 CPU Architecture Background」** The AMD Zen 6 CPU architecture represents a significant evolution in processor design, building upon the previous Zen 5 architecture. Key improvements include enhanced branch prediction, decoding clusters, and integer operations. The Zen 6 architecture introduces optimizations for different performance characteristics, such as the differentiation between Zen 6 and Zen 6c. Zen 6c, for instance, features a larger capacity for out-of-order execution structures, designed to handle higher latencies more effectively. These advancements are a result of AMD&\#x27;s continuous efforts to improve CPU performance and efficiency.
 
-**「Impact」** Developers and organizations will benefit from the improved performance and efficiency of the Zen 6 CPU family, which can lead to more efficient processing and potentially better compatibility with various software applications.
+**「Impact」** Developers and organizations will benefit from the improved performance and efficiency of the Zen 6 CPU family, which can lead to more efficient processing and potentially better overall system performance.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://wccftech.com/amd-zen-6-architecture-ipc-cores-memory-performance-epyc-venice/">AMD Zen 6 Architecture Brings A Phenomenal 27% IPC Increase...</a></li>
 <li><a href="https://blog.imseankim.com/amd-zen-6-architecture-preview-desktop-cpu-2026/">AMD Zen 6 Architecture Preview: 12-Core CCDs, TSMC 2nm, and...</a></li>
-<li><a href="https://pixelburn.tech/en/amd-zen-6-architecture-next-gen-ryzen-cpus">AMD Zen 6 : Next-Gen Ryzen CPUs , Architecture , and Performance</a></li>
+<li><a href="https://pingmer.com/thread/bb714c2c/amd-zen-cpu-architectures">AMD Zen CPU Architectures : Latest Updates &amp; Developments...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AMD`, `#CPU`, `#Processor Architecture`, `#Zen 6`, `#Open Source Ecosystem`
-
----
-
-<a id="item-it-opensource-2"></a>
-### [The Decline of Glue Work in the Age of AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/) ⭐️ 7.0/10
-
-The article argues that AI is reducing the need for coordination-based glue work among engineers, making it less important than it was in the 2010s. The author provides four reasons: decreased coordination due to AI agents, reduced need for managing difficult people, fewer junior hires, and automation of write-only reports with LLMs.
-
-rss · Sean Goedecke · Nov 11, 00:00
-
-**「The Evolution of Glue Work in Software Engineering」** Glue work in software engineering refers to the coordination and non-technical tasks that facilitate the development process, such as team communication, documentation, and onboarding. Historically, these tasks were often carried out by engineers who volunteered to take on the role. With the advent of AI and Large Language Models \(LLMs\), there has been a shift in the engineering process. AI is increasingly automating tasks that were traditionally part of glue work, such as writing reports and providing intelligent code suggestions. This shift has implications for the role of engineers, as they may now spend less time on these tasks and more time on coding and driving AI agents. The impact of LLMs on software engineering tools and platforms is evident in the growing trend of LLM-powered Integrated Development Environments \(IDEs\), which offer features like automated refactoring and natural language queries.
-
-**「Impact」** This shift in the engineering process could lead to a more focused approach on coding and AI alignment, as engineers may spend less time on non-technical tasks and more on driving AI agents and aligning them with company values.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2772485925000171">LLMs: A game-changer for software engineers? - ScienceDirect</a></li>
-<li><a href="https://arxiv.org/pdf/2411.00932">LLMs: A Game-Changer for Software Engineers? - arXiv.org</a></li>
-<li><a href="https://www.researchgate.net/publication/391886417_LLMs_A_Game-Changer_for_Software_Engineers">(PDF) LLMs: A Game-Changer for Software Engineers? - ResearchGate</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI in Software Engineering`, `#Engineering Process`, `#Tech Industry Trends`, `#Open Source Ecosystem`, `#Developer Tools`
+**Tags**: `#AMD`, `#CPU`, `#Processor Architecture`, `#Zen 6`, `#CPU Performance`
 
 ---
 
 <a id="item-it-opensource-3"></a>
-### [微软宣布 .NET 11](https://www.solidot.org/story?sid=85851) ⭐️ 7.0/10
+### [The Decline of Glue Work in Software Engineering with AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/) ⭐️ 7.0/10
 
-微软宣布了 .NET 11，这是一个标准支持版本，提供两年支持。.NET 11 对 C\#、ASP.NET Core 和 .NET MAUI 进行了改进，旨在缩短应用构建时间，包括引入 C\# 15 的联合类型和封闭类层次结构，以及 ASP.NET Core 的异步验证和 OpenAPI 3.2 支持。
+The article discusses how AI is reducing the need for coordination and &\#x27;glue work&\#x27; in software engineering, shifting the importance of these tasks in the 2020s. It highlights the decreasing role of coordination-based glue work due to AI&\#x27;s ability to handle more tasks independently and the changing dynamics of team management and onboarding.
 
-rss · Solidot · Nov 10, 16:50
+rss · Sean Goedecke · Nov 11, 00:00
 
-**「Background on .NET 11」** Microsoft&\#x27;s .NET 11 is a significant release in the software engineering domain, building upon the previous LTS version, .NET 10. .NET 11 introduces a Standard Term Support \(STS\) version, offering 18 months of support, compared to the 3 years provided by LTS releases. This version focuses on improving C\#, ASP.NET Core, .NET MAUI, and Windows, aiming to reduce application build times. Key features include the introduction of joint types and sealed class hierarchies in C\# 15, Native AOT CLI, and new functionalities in ASP.NET Core, such as asynchronous validation and OpenAPI 3.2 support for Blazor and SignalR applications.
+**「The Evolution of Software Engineering with AI Integration」** The integration of artificial intelligence \(AI\) into software engineering has significantly transformed traditional development practices. Recent studies and roadmaps have highlighted the deep impact of AI on software engineering, showcasing successful applications of AI in addressing classic and new software development challenges. This transformation has led to innovative solutions for long-standing issues in the field, redefining how software is developed and maintained. The integration of AI has also brought about changes in the roles and responsibilities of software engineers, influencing the way they collaborate, coordinate, and perform their tasks.
 
-**「Impact」** 对于开发者来说，.NET 11 的发布将带来更快的应用构建时间，从而提高开发效率。
+**「Impact」** The reduction in glue work due to AI advancements can lead to a more efficient allocation of engineers&\#x27; time, allowing them to focus more on coding and driving AI agents. This shift may also impact the demand for certain roles that were traditionally involved in glue work, such as onboarding new hires and managing difficult people.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/overview">What&#x27;s new in .NET 11 | Microsoft Learn</a></li>
-<li><a href="https://dotnet.microsoft.com/en-us/download/dotnet/11.0">Download .NET 11.0 (Linux, macOS, and Windows) | .NET</a></li>
-<li><a href="https://versionlog.com/dotnet-core/11.0/">.NET 11.0 - What&#x27;s New, Support Lifecycle &amp; EOL - VersionLog .NET Conf 2026: .NET 11 Launch, November 10–13 Schedule and ... Browse all .NET versions to download | .NET Announcing .NET 11 Release Candidate 2 - .NET Blog What&#x27;s new in .NET 11 runtime | Microsoft Learn</a></li>
+<li><a href="https://dl.acm.org/doi/full/10.1145/3719006">Artificial Intelligence for Software Engineering: The Journey ...</a></li>
+<li><a href="https://www.mdpi.com/2076-3417/15/3/1344">AI-Driven Innovations in Software Engineering: A Review of ...</a></li>
+<li><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/sfw2/5691460">Enhancing Software Engineering With AI: Innovations ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#.NET`, `#Software Engineering`, `#Microsoft`, `#C\#`, `#ASP.NET Core`, `#Open Source`
+**Tags**: `#AI in Software Engineering`, `#Developer Roles`, `#Software Development Practices`, `#Open Source Ecosystem`, `#Programming Language Evolution`
 
 ---
 
 <a id="item-it-opensource-4"></a>
-### [Boston Dynamics Atlas Robot Gets Wheels](https://www.solidot.org/story?sid=85849) ⭐️ 7.0/10
+### [Michael John Harrison Wins Booker Prize as First Science Fiction Author](https://www.solidot.org/story?sid=85853) ⭐️ 7.0/10
 
-Boston Dynamics has introduced a new feature for its Atlas robot, allowing it to move on wheels, enhancing its mobility and versatility. The robot can switch between fast rolling on flat surfaces and jointed leg movements to navigate obstacles or irregular terrain. This capability is achieved through a custom adapter that installs skateboard wheel hubs onto Atlas&\#x27; existing ankle actuators.
+Michael John Harrison, aged 81, has become the first science fiction writer to win the prestigious Booker Prize, marking a significant milestone in the literary world. His winning novel, &\#x27;The End of Everything,&\#x27; is a post-apocalyptic tale set in Kent, England, following the struggles of Phillip Tennent and his elderly aunt Marnie against the mysterious iGhetti. This achievement is particularly notable as Harrison is also the oldest recipient of the Booker Prize, surpassing the previous record held by Margaret Atwood in 2019.
 
-rss · Solidot · Nov 10, 15:58
+rss · Solidot · Nov 11, 07:02
 
-**「Background on Boston Dynamics&\#x27; Atlas Robot」** Boston Dynamics&\#x27; Atlas robot is an advanced humanoid robot designed for real-world industrial work, material handling, and intelligent automation. It features dexterous manipulation, enabling it to perform a wide array of tasks, from material handling to order fulfillment. Atlas is known for its dynamic mobility, intelligent perception, and dexterous manipulation, with 56 degrees of freedom. The robot has been a research platform for bipedal locomotion, dynamic balance, and manipulation, serving as a significant development in robotics and software engineering.
+**「Literary Milestone in Science Fiction」** The achievement of Michael John Harrison becoming the first science fiction writer to win the Booker Prize is significant as it highlights the growing recognition of the science fiction genre in the literary world. Harrison&\#x27;s novel &\#x27;The End of Everything&\#x27; has been recognized for its unique narrative and contribution to the genre, marking a shift in the perception of science fiction within mainstream literature.
 
-**「Impact」** This development enables developers and organizations to leverage a more adaptable and efficient robot for various tasks, potentially improving productivity and efficiency in industries such as logistics and manufacturing.
+**「Impact on Developers and Organizations」** The win of Michael John Harrison, the first science fiction writer to receive the Booker Prize, highlights the growing recognition and respect for the science fiction genre within the literary community. This could potentially lead to increased interest and investment in science fiction literature, potentially influencing developers and organizations to explore and incorporate more science fiction themes in their projects, thereby broadening the creative landscape of storytelling in software and digital media.
+
+**「Community Discussion」** There are no community comments available for this news item.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://bostondynamics.com/products/atlas/">Atlas Humanoid Robot | Boston Dynamics</a></li>
-<li><a href="https://bostondynamics.com/wp-content/uploads/2026/01/atlas-spec-sheet.pdf">Atlas®</a></li>
-<li><a href="https://livium.com/humanoids/atlas">Boston Dynamics Atlas Specs &amp; Specifications | Livium | Livium Boston Dynamics Atlas Specifications 2026 | AIHumanLove Atlas | Robots Atlas Boston Dynamics Atlas: Specs, Price &amp; Buy (2026) | Robot Overflow Atlas Humanoid Robot by Boston Dynamics |… | Robot Overflow</a></li>
+<li><a href="https://en.wikipedia.org/wiki/M._John_Harrison">M. John Harrison - Wikipedia</a></li>
+<li><a href="https://uz.kursiv.media/en/2026-11-10/booker-john-harrison-novel-explainer/">The End of Everything : Spoiler-filled explainer of 2026 Booker winner</a></li>
+<li><a href="https://en.wikipedia.org/wiki/International_Booker_Prize">International Booker Prize - Wikipedia</a></li>
+<li><a href="https://www.youtube.com/watch?v=QDErIRd5P1A">Science Fiction Novel Wins Booker Prize 2026! M John Harrison ...</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/cw0737kv52lko">Booker Prize 2026: M John Harrison &#x27;s &#x27;baffling but brilliant&#x27; nov...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Robotics`, `#Robotics Development`, `#Atlas Robot`, `#Boston Dynamics`, `#Robotics Engineering`
+**Tags**: `#Literature`, `#Science Fiction`, `#Booker Prize`, `#Michael John Harrison`, `#Awards`
 
 ---
 
 <a id="item-it-opensource-5"></a>
-### [Chinese Android Manufacturers Implement Developer Identity Verification](https://www.solidot.org/story?sid=85848) ⭐️ 7.0/10
+### [微软宣布 .NET 11](https://www.solidot.org/story?sid=85851) ⭐️ 7.0/10
 
-Major Chinese Android manufacturers, including OPPO, vivo, Xiaomi, and Honor, have initiated developer identity verification for Android sideload applications, following Google&\#x27;s lead to enhance security in the Android ecosystem.
+微软宣布了 .NET 11，这是一个标准支持版本，提供两年支持。该版本对 C\#、ASP.NET Core 和 .NET MAUI 进行了改进，包括引入了 C\# 15 的联合类型和封闭类层次结构，以及 Native AOT CLI 和 ASP.NET Core 的异步验证和 OpenAPI 3.2 支持。
 
-rss · Solidot · Nov 10, 11:18
+rss · Solidot · Nov 10, 16:50
 
-**「Background on Android Developer Verification」** Google announced in August 2025 that it would start enforcing a developer identity verification policy for all Android app developers from September 2026. This policy was implemented to enhance security, as Google&\#x27;s analysis showed that the number of malicious apps from third-party sources was over 90 times that of Google Play. Following Google&\#x27;s lead, major Chinese Android manufacturers, including OPPO, vivo, Xiaomi, and Honor, have also initiated developer identity verification for Android sideload applications. This verification, known as Android Developer Verification \(ADV\), aims to establish a trusted connection between developers and their applications, helping users identify the source of the application and judge its safety.
+**「Background on .NET 11」** Microsoft&\#x27;s .NET 11 is a standard support version that includes enhancements to C\#, ASP.NET Core, and .NET MAUI. This version, which provides two years of support, follows the long-term support version .NET 10. Key improvements in .NET 11 include the introduction of joint types and closed class hierarchies in C\# 15, Native AOT CLI, asynchronous validation support, and OpenAPI 3.2 in ASP.NET Core, as well as new features for Blazor and SignalR applications. The release also focuses on performance optimizations and the advancement of CoreCLR runtime to replace Mono.
 
-**「Impact」** This move is expected to improve security by establishing a trusted connection between developers and their applications, aiding users in identifying application sources and assessing their safety.
+**「Impact」** 对于开发者来说，.NET 11 的发布意味着他们可以利用新的语言特性和工具改进应用构建效率，尤其是在 C\# 15 的联合类型和封闭类层次结构以及 Native AOT CLI 方面。
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://notonlyshare.pages.dev/posts/1693">在是否保持 Android 开 放上 Google 口惠而实不至 2026 -02-21 18:50 by...</a></li>
-<li><a href="https://www.bestvpntoplist.com/archives/2026-nian-android-kai-fa-zhe-yan-zheng-ji-jiang-sheng-xiao">文章详情 - 2026 年 Android 开 发 者 验 证 即将生效：VPN 官网 APK...</a></li>
+<li><a href="https://learn.microsoft.com/zh-cn/dotnet/core/whats-new/dotnet-11/overview">.NET 11 中的新增功能 | Microsoft Learn</a></li>
+<li><a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/overview">What&#x27;s new in .NET 11 | Microsoft Learn</a></li>
+<li><a href="https://baike.baidu.com/item/.NET+11/67398876">.NET 11_百度百科</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Android Security`, `#Developer Verification`, `#Open Source Ecosystem`, `#Mobile Applications`
+**Tags**: `#.NET`, `#Software Update`, `#Developer Tools`, `#Programming Languages`, `#Open Source`
 
 ---
 
 <a id="item-it-opensource-6"></a>
-### [AI-Generated Images Over美化现实](https://www.solidot.org/story?sid=85847) ⭐️ 7.0/10
+### [Boston Dynamics Introduces Wheel-Based Mobility for Atlas Robot](https://www.solidot.org/story?sid=85849) ⭐️ 7.0/10
 
-A study reveals that AI-generated images, like those from OpenAI&\#x27;s DALL-E 3, may romanticize and misrepresent real-world situations, raising concerns about public perception and the spread of misinformation. The research indicates that the AI model tends to idealize intensive livestock farming, even when prompted for realistic scenes.
+Boston Dynamics has introduced wheel-based mobility for its Atlas robot, marking a significant advancement in robotics technology. The Atlas robot can now switch between rolling and walking modes, with a straightforward integration process that involves a custom adapter to install skateboard wheel hubs onto the robot&\#x27;s existing ankle actuators.
 
-rss · Solidot · Nov 10, 11:04
+rss · Solidot · Nov 10, 15:58
 
-**「Background on AI Image Generation and Bias」** AI-generated images, particularly those created by models like OpenAI&\#x27;s DALL-E 3, have become a significant part of daily life, serving as tools for information retrieval and decision-making assistance. However, these models have raised ethical concerns due to the potential for embedded errors and biases. Previous research has shown that AI can exhibit biases in content involving human characteristics, such as skin color, gender, and cultural background. To address these concerns, companies like OpenAI have introduced prompt revision mechanisms to reduce biases in text-to-image models. These mechanisms involve rewriting user prompts to add more details, such as depicting characters of different genders and skin colors, to promote diversity. However, this process can also introduce other biases without the user&\#x27;s awareness, potentially altering their original intent. A study published in &\#x27;Technology in Society&\#x27; provides evidence that DALL-E 3, when using prompt revision, can romanticize and misrepresent real-world situations, such as intensive livestock farming, by creating idealized images that do not reflect the actual conditions.
+**「Background on Boston Dynamics&\#x27; Atlas Robot with Wheel-Based Mobility」** Boston Dynamics, a leader in robotics, has been developing advanced humanoid robots, one of which is the Atlas robot. The Atlas robot is known for its ability to perform complex tasks and adapt to various environments. The recent integration of wheels into the Atlas robot represents a significant advancement in robot mobility. This modification allows the Atlas to switch between rolling and walking modes, enhancing its versatility and efficiency. The integration process, as demonstrated by the Atlas project control engineer Andy Wu, involves a simple addition of a customized adapter to install skateboard wheel hubs onto the Atlas&\#x27; existing ankle joint actuators. This development is part of Boston Dynamics&\#x27; ongoing research and testing in the field of robotics, aiming to push the limits of robot actuation and control.
 
-**「Impact on Public Perception and Misinformation Spread」** The study indicates that AI-generated images, such as those produced by OpenAI&\#x27;s DALL-E 3, may romanticize and misrepresent real-world situations. This tendency to over美化 reality could lead to the spread of misinformation, as it may reinforce incorrect perceptions of complex issues like intensive livestock farming. Such misrepresentations might hinder meaningful societal discussions and decision-making processes.
-
-**「Community Discussion」** No community comments available.
+**「Impact」** This development allows the Atlas robot to navigate both flat surfaces and uneven terrain more efficiently, potentially leading to improved performance and versatility in various applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lutpub.lut.fi/bitstream/handle/10024/167502/Bachelors_thesis_Leppalampi_Siiri.pdf?sequence=1&amp;isAllowed=y">Stereotyping gender roles in ai generated images</a></li>
-<li><a href="https://www.wired.com/story/dall-e-2-ai-text-image-bias-social-media/">DALL - E 2 Creates Incredible Images —and Biased Ones... | WIRED</a></li>
-<li><a href="https://www.therundown.ai/articles/openai-reveals-dalle3">OpenAI reveals DALL - E 3 magic | The Rundown AI</a></li>
-<li><a href="https://www.libraries.rutgers.edu/news/how-ai-generated-images-are-fueling-misinformation">How AI-Generated Images Are Fueling Misinformation</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s00146-025-02620-3">Generative AI and misinformation: a scoping review of the ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0747563225003231">The illusion of reality: How AI-generated images (AIGIs) are ...</a></li>
+<li><a href="https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/">Boston Dynamics adds wheels to Atlas humanoid to test whole-body...</a></li>
+<li><a href="https://www.youtube.com/watch?v=xi93UrUutVI">Boston Dynamics Puts Wheels on Atlas Robot – Look... - YouTube</a></li>
+<li><a href="https://bostondynamics.com/blog/atlas-on-a-roll/">Atlas On a Roll | Boston Dynamics</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Ethics`, `#AI Bias`, `#AI Misinformation`, `#Technology in Society`, `#OpenAI`
+**Tags**: `#Robotics`, `#Atlas Robot`, `#Boston Dynamics`, `#Robot Mobility`, `#Robotics Engineering`
 
 ---
 
 <a id="item-it-opensource-7"></a>
-### [Epic Games Expands Linux Distribution Support](https://www.solidot.org/story?sid=85846) ⭐️ 7.0/10
+### [ElevenLabs Scribe v3 Update](https://www.producthunt.com/products/elevenlabs) ⭐️ 7.0/10
 
-Epic Games has announced plans to support a wider range of Linux distributions, including Fedora, SteamOS, CachyOS, and Omarchy. The company is currently testing various packaging formats and aims to restore support for AppImage this month.
+ElevenLabs has released Scribe v3, an updated version of their speech-to-text tool, which now offers enhanced accuracy with 27% fewer errors across over 90 languages.
 
-rss · Solidot · Nov 10, 09:09
+rss · Product Hunt · Nov 10, 18:18
 
-**「Epic Games Linux 发行版支持背景」** Epic Games Store 是一个数字分发平台，提供各种类型的 PC 游戏、模组、DLC 和免费游戏。它最初是为 Windows 和 macOS 用户设计的，但随着 Linux 系统在游戏开发领域的增长，Epic Games 开始关注 Linux 用户的需求。Linux 发行版如 Fedora、SteamOS、CachyOS 和 Omarchy 等是开源生态系统的重要组成部分，它们为用户提供了一个多样化的选择。Epic Games 通过支持这些发行版，旨在扩大其用户基础，并为 Linux 开发者和用户提供更好的游戏体验。
+**「Background on Scribe v3 by ElevenLabs」** ElevenLabs, a company specializing in AI-driven voice technology, has been at the forefront of speech-to-text and text-to-speech solutions. Their Scribe tool has been a key product in this domain, offering accurate transcription services. With the release of Scribe v3, ElevenLabs continues to build upon its previous iterations, focusing on enhancing the accuracy of speech-to-text recognition across a wide range of languages. This update is significant as it aims to reduce errors by 27% in over 90 languages, making it a more reliable tool for developers and users in the fields of natural language processing and accessibility.
 
-**「Impact」** This expansion of support will benefit Linux developers and users by providing a more diverse and accessible platform for Epic Games applications.
+**「Impact」** This update is expected to significantly improve the efficiency and accessibility of natural language processing for developers and users, particularly in applications requiring multilingual support.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://store.epicgames.com/">Epic Games Store | Download &amp; Play PC Games , Mods, DLC &amp; More...</a></li>
+<li><a href="https://www.youtube.com/watch?v=cw_NRHMOPtw">Introducing Scribe v 3 - YouTube</a></li>
+<li><a href="https://elevenlabs.io/">Free AI Voice Generator &amp; Voice Agents Platform | ElevenLabs</a></li>
+<li><a href="https://openrouter.ai/elevenlabs">Elevenlabs API and Models | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Epic Games`, `#Linux 发行版`, `#开发者工具`, `#开源生态系统`, `#软件工程`
+**Tags**: `#Speech-to-Text`, `#Natural Language Processing`, `#ElevenLabs`, `#Software Update`, `#Accessibility`
+
+---
+
+<a id="item-it-opensource-8"></a>
+### [Earlybird Introduces 29M-param Speech-to-Text Model](https://www.producthunt.com/products/earlybird-5) ⭐️ 7.0/10
+
+Earlybird has launched a 29M-param speech-to-text model capable of predicting words before they end, offering a potentially innovative approach to speech recognition.
+
+rss · Product Hunt · Nov 10, 23:11
+
+**「Background on Speech-to-Text Models」** Speech-to-text models are AI tools designed to convert spoken language into written text. These models have evolved significantly over time, with advancements in the number of parameters and the quality of transcription. Earlybird&\#x27;s 29M-param speech-to-text model represents a substantial increase in parameter count compared to existing models like Google&\#x27;s Gemini 3.5 Transcribe, which supports up to eight speakers and offers features like word-level timestamps and speaker diarization. This evolution in technology suggests a potential for more accurate and efficient speech-to-text processing.
+
+**「Impact」** This advanced speech-to-text technology could significantly enhance developer tools and AI applications, potentially improving efficiency and accuracy in processing spoken language.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openrouter.ai/models">Compare AI Models : Pricing, Context &amp; Benchmarks | OpenRouter</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/models">Models | Gemini API | Google AI for Developers</a></li>
+<li><a href="https://huggingface.co/spaces/bofenghuang/speech-to-text">Speech - to - Text in French - a Hugging Face Space by bofenghuang</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Speech-to-Text`, `#Developer Tools`, `#Open Source`
 
 ---
