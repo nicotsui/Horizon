@@ -5,85 +5,57 @@ date: 2026-11-13
 lang: zh
 ---
 
-> 从 292 条内容中筛选出 40 条重要资讯。
+> 从 267 条内容中筛选出 40 条重要资讯。
 
 ---
-
-**A 股与宏观**
-1. [央行加强资本市场货币政策支持](#item-cn-macro-1) ⭐️ 7.0/10
 
 **全球市场**
 1. [How the Jensen Huang affair changes the outlook for U.S.-China relations](#item-global-market-1) ⭐️ 7.0/10
 2. [特朗普称无需伊朗协议，油价上涨](#item-global-market-2) ⭐️ 7.0/10
 3. [债券收益率自 2022 年以来最大涨幅，市场预期美联储将进一步加息](#item-global-market-3) ⭐️ 7.0/10
-4. [股市从英伟达股价剧烈波动中反弹，美元随美国国债收益率上涨](#item-global-market-4) ⭐️ 7.0/10
-5. [美国 2027 财年预算赤字创新高](#item-global-market-5) ⭐️ 7.0/10
-6. [也门胡塞武装袭击沙特输油管道](#item-global-market-6) ⭐️ 7.0/10
-7. [朝鲜黑客利用视频图像盗取 4 亿美元](#item-global-market-7) ⭐️ 7.0/10
-8. [白宫准备延长《琼斯法案》豁免期限](#item-global-market-8) ⭐️ 7.0/10
-9. [美联储巴尔警告：美国需为 AI 引发的就业冲击和加剧不平等做好准备](#item-global-market-9) ⭐️ 7.0/10
-10. [芬兰称在波罗的海探测到针对一艘俄罗斯军舰的袭击](#item-global-market-10) ⭐️ 7.0/10
-11. [欧几里得任务发布超过 9 亿个星系数据](#item-global-market-11) ⭐️ 7.0/10
-12. [新一届美国国会能否结束伊朗战争解读](#item-global-market-12) ⭐️ 7.0/10
-13. [美国 FDA 搁置加速药物审查的代金券计划](#item-global-market-13) ⭐️ 7.0/10
-14. [欧盟法院顾问支持对谷歌处以 17 亿美元反垄断罚款，谷歌遭遇挫折](#item-global-market-14) ⭐️ 7.0/10
-15. [美国前将军对中国稀土军事杠杆发出警告](#item-global-market-15) ⭐️ 7.0/10
-16. [欧洲冬季天然气库存降至 2020 年代最低](#item-global-market-16) ⭐️ 7.0/10
-17. [阿根廷或于 2035 年成为南美最大锂生产商](#item-global-market-17) ⭐️ 7.0/10
-18. [英国重新思考绿色议程，优先考虑降低能源成本](#item-global-market-18) ⭐️ 7.0/10
-19. [苏姿丰获评雅虎财经“年度最佳 CEO”](#item-global-market-19) ⭐️ 7.0/10
+4. [伊朗革命卫队袭击巴林美国雷达站](#item-global-market-4) ⭐️ 7.0/10
+5. [独家报道：日本军火供应商订单将大幅削减](#item-global-market-5) ⭐️ 7.0/10
+6. [也门胡塞武装袭击沙特输油管道，影响全球油市](#item-global-market-6) ⭐️ 7.0/10
+7. [美国代为处理委内瑞拉 120 亿美元石油收入](#item-global-market-7) ⭐️ 7.0/10
+8. [英伟达 CEO 辞职后，对向中国销售 AI 芯片的限制可能进一步收紧](#item-global-market-8) ⭐️ 7.0/10
+9. [英国对俄罗斯斯拉夫石油公司实施制裁](#item-global-market-9) ⭐️ 7.0/10
+10. [白宫准备延长《琼斯法案》豁免期限](#item-global-market-10) ⭐️ 7.0/10
+11. [美联储官员巴尔警告：美国应为人工智能引发的严重就业冲击及日益加剧的不平等做好准备](#item-global-market-11) ⭐️ 7.0/10
+12. [芬兰探测到针对俄罗斯军舰的袭击](#item-global-market-12) ⭐️ 7.0/10
+13. [欧几里得任务发布超过 9 亿个星系数据](#item-global-market-13) ⭐️ 7.0/10
+14. [美国 FDA 搁置加速药物审查的代金券计划](#item-global-market-14) ⭐️ 7.0/10
+15. [圣彼得堡附近汽车炸弹袭击致俄罗斯士兵遇害](#item-global-market-15) ⭐️ 7.0/10
+16. [欧盟法院顾问支持对谷歌处以 17 亿美元反垄断罚款，谷歌遭遇挫折](#item-global-market-16) ⭐️ 7.0/10
+17. [印度将禁止私募股权公司控股多家非银行贷款机构](#item-global-market-17) ⭐️ 7.0/10
 
 **AI 前沿**
 1. [UMAP 0.6：新的初始化方法、优化器和更快的性能](#item-ai-frontier-1) ⭐️ 8.0/10
 2. [谷歌发布 Gemini 4 Hydrogen 模型](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [I&\#x27;m making LLMs work on small and old devices](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [Foundation Models framework](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [PostgreSQL 安全漏洞分析](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [Anthropic IPO 动态](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [中国前沿 AI 模型受出口管制 GPU 的影响](#item-ai-frontier-7) ⭐️ 7.0/10
-8. [Rust 1.100 发布：AI 应用中的编程语言新进展](#item-ai-frontier-8) ⭐️ 7.0/10
-9. [tamserve：实时视频跟踪成本降低 2 倍](#item-ai-frontier-9) ⭐️ 7.0/10
-10. [AI 有望 10 年内攻克癌症等疑难病症](#item-ai-frontier-10) ⭐️ 7.0/10
-11. [苹果详解新安全架构：防止录音指示灯被遮挡，强化音视频隐私保护](#item-ai-frontier-11) ⭐️ 7.0/10
-12. [六款中国 AI 模型留下 Blackwell 芯片指纹](#item-ai-frontier-12) ⭐️ 7.0/10
+3. [黄仁勋辞职事件](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [开源项目让大型语言模型在小型旧设备上运行](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [Edge0-145B：在您的电脑上实现前沿 AI 能力](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [Rust 1.100 发布](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [苹果推出 Foundation Models 框架](#item-ai-frontier-7) ⭐️ 7.0/10
+8. [AMD Zen 6 架构深度分析](#item-ai-frontier-8) ⭐️ 7.0/10
+9. [Anthropic IPO](#item-ai-frontier-9) ⭐️ 7.0/10
+10. [中国 AI 在复杂肺癌诊疗中取得突破](#item-ai-frontier-10) ⭐️ 7.0/10
+11. [清华腾讯研究提升 Agent 长程任务信用分配准确率](#item-ai-frontier-11) ⭐️ 7.0/10
+12. [使用 NLI 和编码器模型创建 Legora 风格的合法冲突检测工具指南](#item-ai-frontier-12) ⭐️ 7.0/10
+13. [tamserve：实时视频跟踪效率提升，成本降低](#item-ai-frontier-13) ⭐️ 7.0/10
+14. [苹果详解新安全架构：防止录音指示灯被遮挡，强化音视频隐私保护](#item-ai-frontier-14) ⭐️ 7.0/10
+15. [六款中国 AI 模型留下 Blackwell 芯片指纹研究](#item-ai-frontier-15) ⭐️ 7.0/10
 
 **IT 与开源**
-1. [黄仁勋辞职](#item-it-opensource-1) ⭐️ 7.0/10
-2. [BMI 误判数百万人肥胖](#item-it-opensource-2) ⭐️ 7.0/10
-3. [天文学家发现独特双星系统发射射电信号](#item-it-opensource-3) ⭐️ 7.0/10
-4. [M87 星系黑洞存在甜甜圈结构](#item-it-opensource-4) ⭐️ 7.0/10
-5. [《Python 之禅》作者 Tim Peters 去世](#item-it-opensource-5) ⭐️ 7.0/10
-6. [腾讯战略转型 AI 原生业务](#item-it-opensource-6) ⭐️ 7.0/10
+1. [《Python 之禅》作者 Tim Peters 去世](#item-it-opensource-1) ⭐️ 9.0/10
+2. [美国扣押了从币安盗走的逾 12 亿美元加密货币](#item-it-opensource-2) ⭐️ 7.0/10
+3. [微软云服务全球宕机](#item-it-opensource-3) ⭐️ 7.0/10
+4. [黄仁勋辞职](#item-it-opensource-4) ⭐️ 7.0/10
+5. [BMI 误判数百万人肥胖](#item-it-opensource-5) ⭐️ 7.0/10
+6. [天文学家发现独特双星系统每八分钟发射射电信号](#item-it-opensource-6) ⭐️ 7.0/10
+7. [M87 星系黑洞存在甜甜圈结构](#item-it-opensource-7) ⭐️ 7.0/10
 
 **效率工具**
 1. [任天堂《塞尔达传说：时之笛》PC 版原生移植](#item-tools-windows-1) ⭐️ 7.0/10
-2. [CherryTree v1.7.3](#item-tools-windows-2) ⭐️ 7.0/10
-
----
-
-## A 股与宏观
-
-<a id="item-cn-macro-1"></a>
-### [央行加强资本市场货币政策支持](https://news.google.com/rss/articles/CBMia0FVX3lxTFA1TnVWaUxwaXZHalctN3lhOFVVQTJMSk0yWmV6ekJSMnBYbXZKc090RjJ4ZVZTTDB1clZMUmplMFpKNUpjcGRIeUdlNno4SmliMmhETElNZWpDdG12VzNKT25nZnRsa0pLZUhN?oc=5) ⭐️ 7.0/10
-
-央行宣布加强支持资本市场的货币政策工具，旨在为资本市场提供更多支持。
-
-google\_news · 华龙网 · 11月12日 22:24
-
-**「背景信息」** 中国人民银行是中华人民共和国的中央银行，负责制定和执行货币政策、汇率政策，并承担最后贷款人的责任。中国人民银行成立于 1948 年，是负责实施国家金融政策的重要机构。在过去的几年中，中国人民银行已经采取了一系列措施来支持资本市场的发展，包括降低存款准备金率、提供流动性支持等。这些措施旨在稳定金融市场，促进经济增长。
-
-**「影响分析」** 这一政策可能对资本市场产生积极影响，尤其是对那些依赖资本市场融资的公司和投资者来说，可能会增加投资机会。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/People&#x27;s_Bank_of_China">People&#x27;s Bank of China - Wikipedia</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C">中国人民银行 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C">中国人民银行 - 维基百科，自由的百科全书</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Central Bank Policy`, `#Capital Market`, `#Monetary Policy`, `#Chinese Economy`, `#Stock Market`
 
 ---
 
@@ -92,428 +64,396 @@ google\_news · 华龙网 · 11月12日 22:24
 <a id="item-global-market-1"></a>
 ### [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) ⭐️ 7.0/10
 
-The resignation of former Nvidia CEO Jensen Huang and the allegations of his affair with a Chinese spy raise concerns about deteriorating U.S.-China relations and potential implications for technology exports.
+The resignation of former Nvidia CEO Jensen Huang and the subsequent espionage allegations have raised tensions between the U.S. and China, potentially affecting technology exports and bilateral relations.
 
 rss · CNBC Finance · 11月13日 02:56
 
-**标签**: `#U.S.-China Relations`, `#Technology Policy`, `#Geopolitical Events`, `#Nvidia`, `#Jensen Huang`
+**标签**: `#Geopolitical Events`, `#Tech Industry`, `#U.S.-China Relations`, `#Espionage`, `#Financial Markets`
 
 ---
 
 <a id="item-global-market-2"></a>
 ### [特朗普称无需伊朗协议，油价上涨](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) ⭐️ 7.0/10
 
-美国总统特朗普表示无需与伊朗达成协议，引发市场对美伊关系的担忧，导致油价上涨。布伦特原油价格收盘上涨 3.3%，至每桶 95.82 美元；西德克萨斯中质原油期货价格上涨 2.6%，至每桶 88.74 美元。
+美国总统特朗普表示无需与伊朗达成协议，引发市场对美伊冲突结束无望的担忧，导致油价上涨。布伦特原油价格收盘上涨 3.3%，至每桶 95.82 美元；西德克萨斯中质原油期货价格上涨 2.6%，至每桶 88.74 美元。
 
 rss · CNBC Finance · 11月13日 00:01
 
-**「背景信息」** 自 2026 年 2 月 28 日起，美国和以色列与伊朗及其区域盟友处于战争状态。这场战争继 2025 年 6 月的十二天战争和由 2023 年加沙战争引发的中东危机中的零星战斗之后爆发。伊朗是一个拥有超过 9200 万人口的国家，在全球地理大小和人口排名中位列第 17 位。它分为五个地区，31 个省。德黑兰是国家的首都和最大城市，也是其主要的经济中心。
+**「背景信息」** 霍尔木兹海峡是连接波斯湾和阿拉伯海的重要水道，是全球最繁忙的石油运输通道之一。伊朗控制着海峡北部的航道，而阿曼控制南部。霍尔木兹海峡的深度（200 至 330 英尺\[60 至 100 米\]）在其大部分宽度上使得任何国家，包括伊朗，都难以长时间干扰航运。此外，联合国规则允许各国在其海岸线 12 海里（13.8 英里）内的领海内行使控制权。霍尔木兹海峡的战略重要性在于其对于全球石油供应的潜在影响，尤其是在中东地区。
 
-**「市场影响」** 美国总统特朗普关于伊朗问题的评论导致油价上涨，引发了对美伊关系和石油供应前景的担忧。这一评论可能导致投资者对石油价格的长期走势持谨慎态度，进而影响石油市场。
+**「市场影响」** 特朗普总统关于伊朗的评论导致油价上涨，引发了对美国-伊朗冲突结束无望的担忧。布伦特原油价格收盘上涨 3.3%，至每桶 95.82 美元，而西德克萨斯中质原油期货价格上涨 2.6%，至每桶 88.74 美元。这些评论可能导致投资者对油价的长期走势感到不安，进而影响相关股票和投资策略。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.m.wikipedia.org/wiki/2026_Iran_war">2026 Iran war - Wikipedia</a></li>
-<li><a href="https://hackneynews.com/article/us-iran-talks-global-oil-impact">Impact of U . S .- Iran Talks on Oil Markets | Hackney News</a></li>
-<li><a href="https://ici.radio-canada.ca/rci/en/news/2245896/oil-prices-rise-above-100-north-american-stock-market-holds-steady-as-u-s--iran-tensions-continue">Oil prices rise above $100, North American stock market holds steady...</a></li>
-<li><a href="https://english.patrikatimes.in/oil-prices-fall-over-5/">Oil Prices Fall Over 5% as U . S .- Iran Pause Attacks, Brent and WTI...</a></li>
+<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure, Control , Oil...</a></li>
+<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
+<li><a href="https://www.strausscenter.org/strait-of-hormuz-geography/">Strait of Hormuz - Geography - Strauss Center</a></li>
+<li><a href="https://www.dallasfed.org/research/economics/2026/0320">What the closure of the Strait of Hormuz means for the global ...</a></li>
+<li><a href="https://www.everycrsreport.com/files/2026-08-07_R45281_3d6151e227c61c7faf43873a9e30be6b8c9a6f08.pdf">The Strait of Hormuz: Security Developments and Impacts on ...</a></li>
+<li><a href="https://www.everycrsreport.com/files/2026-08-07_R45281_f0a6d43cfd16b2461049a1c77774974a288dadbf.html">The Strait of Hormuz: Security Developments and Impacts on ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Oil Prices`, `#Iran Deal`, `#US-Iran Relations`, `#Market Movement`, `#Political Commentary`
+**标签**: `#Oil Prices`, `#Geopolitical Tensions`, `#Market Movement`, `#Iran`, `#U.S. Policy`
 
 ---
 
 <a id="item-global-market-3"></a>
 ### [债券收益率自 2022 年以来最大涨幅，市场预期美联储将进一步加息](https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-债券收益率自 2022 年以来首次出现大幅上涨，这反映了市场对美联储进一步加息的预期。近期科技股的暴跌使得国债变得更具吸引力，但市场对美联储加息的担忧现在正推动收益率上升。
+债券收益率近日出现显著上涨，为 2022 年以来的最大涨幅，这反映出市场对美联储进一步加息的预期增加。
 
 rss · MarketWatch Top Stories · 11月12日 22:16
 
-**「背景信息」** 在最近的债券市场波动中，美联储的利率政策起到了关键作用。根据联邦储备委员会的数据，美联储在 2026 年 10 月 29 日发布的《H.15 - 选定的利率（每日）》报告中显示，联邦基金利率在 2026 年 10 月 29 日保持在 3.75%至 4.00%之间，这是在 9 月份上调 25 个基点后的首次加息。此外，根据 Trading Economics 的数据，交易者密切关注利率变化，因为短期利率是货币估值的主要因素。在最近的联邦公开市场委员会会议上，美联储维持了利率不变，这表明市场对进一步加息的预期正在增加。
+**「背景信息」** 2022 年，美国联邦储备系统（美联储）的利率政策经历了显著的变化。一年的时间存款利率和五年、五年期国债远期利率在 2022 年的表现不同，这取决于是看名义利率还是实际利率。美联储在 2022 年的政策笔记中探讨了政策利率上调与美联储资产负债表规模缩减之间的替代性，以移除政策宽松。此外，2022 年至 2026 年间，美联储的利率上调和下调及其原因也被详细讨论，这反映了美联储在控制通货膨胀、维持就业最大水平的同时，避免经济衰退的努力。
 
-**「市场影响」** 这一收益率上涨可能会对债券市场产生显著影响，可能导致债券价格下跌，从而对投资者构成压力。
+**「市场影响」** 这一趋势可能导致市场波动性增加，并对债券市场产生负面影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.federalreserve.gov/releases/h15/">Federal Reserve Board - H.15 - Selected Interest Rates (Daily)...</a></li>
-<li><a href="https://tradingeconomics.com/united-states/interest-rate">United States Fed Funds Interest Rate</a></li>
-<li><a href="https://www.investing.com/economic-calendar/interest-rate-decision-168">United States Federal Reserve Interest Rate Decision</a></li>
+<li><a href="https://www.stlouisfed.org/on-the-economy/2023/jan/many-interest-rates-2022">The Many Interest Rates in 2022 | St. Louis Fed</a></li>
+<li><a href="https://www.federalreserve.gov/econres/notes/feds-notes/2022-index.htm">The Fed - FEDS Notes - 2022 - Federal Reserve Board</a></li>
+<li><a href="https://www.thestreet.com/fed/fed-rate-hikes-2022-2023-timeline-discussion">The Fed&#x27;s &#x27;22–&#x27;26 rate hikes &amp; cuts (&amp; what caused them ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Bond Market`, `#Federal Reserve`, `#Interest Rates`, `#Market Volatility`, `#Economic Policy`
+**标签**: `#Bond Yields`, `#Federal Reserve`, `#Rate Hikes`, `#Market Volatility`, `#Central Bank Policy`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [股市从英伟达股价剧烈波动中反弹，美元随美国国债收益率上涨](https://reut.rs/48bmh6F) ⭐️ 7.0/10
+### [伊朗革命卫队袭击巴林美国雷达站](https://reut.rs/4sVjc3U) ⭐️ 7.0/10
 
-股市在英伟达股价剧烈波动后反弹，同时美元因美国国债收益率上涨而走强。
+伊朗革命卫队宣称袭击了巴林境内的一座美国早期预警雷达站。
 
-rss · 路透社 Reuters · 11月13日 02:31
+rss · 路透社 Reuters · 11月13日 05:57
 
-**「背景信息」** 近期，全球股市经历了显著的波动，特别是英伟达（NVIDIA）股价的剧烈波动。这一事件引起了市场对科技股和整体市场走势的关注。在此背景下，美国国债收益率上升，导致美元走强。这些市场动态对于投资者和分析师来说至关重要，因为他们需要了解这些变化对市场的影响。英伟达股价的波动可能与其对中国人工智能芯片销售的限制有关，这可能是导致市场波动的一个因素。
+**「背景信息」** 伊朗革命卫队声称袭击了巴林境内的一座美国早期预警雷达站。这一事件发生在 2026 年 11 月 13 日，是伊朗与美国之间军事行动的一部分。根据伊朗伊斯兰革命卫队的声明，这次袭击是对伊朗西里克岛上通信塔被攻击的回应。早期预警雷达是一种用于监测和预警敌方飞机和其他飞行器的军事设备。此类事件通常会引起地区和全球安全方面的关注，并可能对金融市场产生重大影响。
 
-**「市场影响」** 这一市场动态可能导致投资者对科技股和美元资产的看法发生变化。
+**「影响」** 此次军事行动可能加剧地区和全球安全紧张局势，对敏感于地缘政治紧张局势的金融市场产生影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tradingview.com/symbols/NASDAQ-NVDA/">Nvidia Stock Price Chart — NASDAQ:NVDA — TradingView</a></li>
-<li><a href="https://www.investing.com/equities/nvidia-corp">Nvidia Stock Price Today | NASDAQ: NVDA Live - Investing.com</a></li>
-<li><a href="https://finance.yahoo.com/quote/NVDA/">NVIDIA Corporation (NVDA) Stock Price, News... - Yahoo Finance</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Early-warning_radar">Early - warning radar - Wikipedia</a></li>
+<li><a href="https://www.presstv.co.uk/Detail/2026/11/13/780609/irgc-destroys-us-early-warning-radar-in-bahrain-after-attack-on-sirik-telecom-tower">IRGC destroys US early - warning radar in Bahrain after attack on...</a></li>
+<li><a href="https://english.almayadeen.net/news/politics/irgc-says-it-destroyed-us-early-warning-radar-in-bahrain">IRGC says it destroyed US early - warning radar in Bahrain</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Stock Market`, `#Nvidia`, `#US Dollar`, `#Bond Yields`, `#Market Movement`
+**标签**: `#Geopolitical Tensions`, `#Military Action`, `#Iran`, `#US`, `#Bahrain`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [美国 2027 财年预算赤字创新高](https://reut.rs/4AtTYwj) ⭐️ 7.0/10
+### [独家报道：日本军火供应商订单将大幅削减](https://reut.rs/4iDeQLx) ⭐️ 7.0/10
 
-美国 2027 财年伊始，10 月预算赤字达到 4040 亿美元，创下历史新高。
+日本因预算紧缩影响，已警告军火供应商将大幅削减订单，这一决定将对国防工业产生重大影响。
 
-rss · 路透社 Reuters · 11月12日 23:35
+rss · 路透社 Reuters · 11月13日 03:50
 
-**「背景信息」** 美国联邦政府财政赤字是指政府在一定时期内支出超过收入的情况。这一指标受到金融市场和中央银行的密切关注，因为它反映了政府的财政健康状况。在过去的几年中，美国政府的财政赤字一直在增加，这主要是由于经济增长放缓、税收政策变化以及社会福利支出增加等因素的影响。
+**「背景信息」** 根据日本防卫省的官方数据，日本在 2026 年的国防预算有所增加，预计达到国内生产总值的 1.5%。这一增长是在二战后日本最大的一次军事扩张。然而，尽管预算有所增加，但日本政府已经警告军火供应商将大幅削减订单，这表明预算紧缩对军备建设产生了影响。这种预算紧缩可能是由于政府在其他领域的支出增加，或者是对未来经济不确定性的反应。此外，日本军事预算的分配和优先级可能也发生了变化，影响了订单的规模和类型。
 
-**「影响」** 这一赤字水平可能对美国的金融市场和中央银行政策产生重大影响，可能导致利率上升或货币贬值。
+**「影响」** 此举可能导致国防相关股票价格下跌，对日本国防工业产生负面影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/United_States">United States - Wikipedia</a></li>
+<li><a href="https://www.mod.go.jp/en/d_act/d_budget/index.html">Defense Budget | Japan Ministry of Defense</a></li>
+<li><a href="https://blog.modeldiplomat.com/japan-military-spending-2026-budget-strategy">Japan Military Budget 2026: What&#x27;s Changed and Why</a></li>
+<li><a href="https://www.defensebudget.org/en/country/japan">Japan Military Spending 2026: 1.5% of GDP (estimate)</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Budget Deficit`, `#Economic Indicators`, `#US Fiscal Policy`, `#Financial Markets`, `#Central Banks`
+**标签**: `#Japan`, `#Military Spending`, `#Budget Constraints`, `#Defense Industry`, `#Equities`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [也门胡塞武装袭击沙特输油管道](https://reut.rs/4iVgjeZ) ⭐️ 7.0/10
+### [也门胡塞武装袭击沙特输油管道，影响全球油市](https://reut.rs/4iVgjeZ) ⭐️ 7.0/10
 
 也门胡塞武装声称袭击了沙特阿拉伯东西向输油管道上的一个泵站，这可能会影响全球石油供应。
 
 rss · 路透社 Reuters · 11月12日 23:18
 
-**「背景信息」** 也门胡塞武装袭击沙特阿拉伯东西向输油管道上的泵站事件，涉及到沙特阿拉伯的东-西输油管道，这条管道建于 1981 年，全长约 1200 公里，从沙特东部油田穿过阿拉伯半岛至红海的延布港，绕过了霍尔木兹海峡。这条管道对于全球石油供应具有重要意义，因为它为亚洲的石油供应提供了一条重要的路线。
+**「背景信息」** 也门胡塞武装近期袭击了沙特阿拉伯东西向输油管道上的一个泵站，这一事件引起了全球油市的关注。此前，由于中东地区局势的缓和以及俄罗斯与乌克兰战争的进展，油价曾从 10 月底的每桶 118 美元下跌约 20%。然而，尽管美国斡旋的乌克兰与俄罗斯谈判正在进行中，但欧洲冲突和美国与伊朗的对峙均没有出现突破的迹象。此外，尽管通过卡塔尔传递了信息，但中东地区的局势依然紧张。
 
-**「影响」** 此次袭击可能会对全球石油市场产生具体影响，尤其是对沙特阿拉伯的石油出口造成影响。
+**「影响」** 此次袭击可能导致全球石油供应紧张，进而推高石油价格。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://1-e8259.azureedge.net/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil">Why Saudi Arabia ’s East - West pipeline matters for global oil</a></li>
-<li><a href="https://www.tiktok.com/discover/saudi-arabia-east-west-pipeline">Saudi Arabia East West Pipeline | TikTok</a></li>
-<li><a href="https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html">Saudi Arabia ’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.</a></li>
+<li><a href="https://www.cbsnews.com/news/iran-war-oil-prices-houthis-yemen-saudi-arabia-east-west-pipeline/">How Iran&#x27;s regional allies&#x27; attacks in Yemen are... - CBS News</a></li>
+<li><a href="https://sputnikglobe.com/20261113/houthis-say-attacked-east-west-oil-pipeline-in-saudi-arabia-1125065188.html">Houthis Say Attacked East - West Oil Pipeline in Saudi Arabia</a></li>
+<li><a href="https://www.youtube.com/watch?v=QyAxGOwJnK0">Saudi Arabia SHUTS Oil Pipeline as Houthis Tighten Grip... - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Oil Pipeline Attack`, `#Saudi Arabia`, `#Yemen Houthis`, `#Global Oil Markets`, `#Geopolitical Tensions`
+**标签**: `#Oil Pipeline Attack`, `#Yemen Houthi`, `#Saudi Arabia`, `#Commodity Market`, `#Global Oil Supply`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [朝鲜黑客利用视频图像盗取 4 亿美元](https://reut.rs/4iV7eD7) ⭐️ 7.0/10
+### [美国代为处理委内瑞拉 120 亿美元石油收入](https://reut.rs/4eyK1oL) ⭐️ 7.0/10
 
-美国联邦调查局（FBI）指控朝鲜黑客通过视频图像操纵盗取了超过 4 亿美元。这一事件对全球网络安全和金融安全构成重大威胁。
+据报告，美国已代为处理了委内瑞拉价值 120 亿美元的石油收入。这一财务交易涉及委内瑞拉石油收入的处理，对全球金融市场可能产生潜在影响。
 
-rss · 路透社 Reuters · 11月12日 21:58
+rss · 路透社 Reuters · 11月12日 22:46
 
-**「背景信息」** 根据 FBI 的报告，朝鲜黑客通过视频图像操纵盗取了超过 4 亿美元。这一事件表明，网络安全威胁正日益严重，尤其是在金融领域。朝鲜黑客长期以来一直被怀疑参与网络攻击，而这次攻击的规模之大，再次凸显了网络安全问题的严重性。
+**「背景信息」** 根据报告，美国在 2026 年前九个月管理了委内瑞拉超过 120 亿美元的石油收入。这一安排引起了外界对未公开的石油购买者的关注。在此之前，委内瑞拉的石油收入通常由其政府自行管理。这一变化可能对全球金融市场产生潜在影响，尤其是在石油出口国和进口国之间。
 
-**「影响」** 此次黑客攻击可能导致全球金融系统对朝鲜黑客的警惕性提高，进而影响相关金融交易和投资决策。
+**「影响」** 此次交易可能对委内瑞拉货币和全球石油市场产生直接影响，可能导致市场对委内瑞拉石油出口的信心变化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/North">North - Wikipedia</a></li>
+<li><a href="https://coinpaper.com/38769/us-collected-12-billion-from-venezuela-s-oil-sales-here-s-where-it-went">US Collected $12 Billion From Venezuela’s Oil Sales — Here’s ...</a></li>
+<li><a href="https://www.reuters.com/business/energy/us-handled-12-billion-venezuelas-oil-revenues-report-says-2026-11-12/">US handled $12 billion of Venezuela&#x27;s oil revenues, report ...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html">U.S. Received $12 Billion From Venezuela’s Oil, Report Shows</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#North Korea`, `#hackers`, `#financial cyber attack`, `#FBI`
+**标签**: `#Economic News`, `#Oil Market`, `#Venezuela`, `#US Financial Policy`, `#Global Markets`
 
 ---
 
 <a id="item-global-market-8"></a>
+### [英伟达 CEO 辞职后，对向中国销售 AI 芯片的限制可能进一步收紧](https://reut.rs/4BQM41o) ⭐️ 7.0/10
+
+英伟达 CEO 辞职后，预计将对中国 AI 芯片销售实施更严格的限制，这可能对全球金融市场产生影响。
+
+rss · 路透社 Reuters · 11月12日 19:18
+
+**「背景信息」** 英伟达（NVIDIA）首席执行官黄仁勋（Jensen Huang）的辞职引发了全球芯片行业的震动。这一事件凸显了人工智能（AI）芯片供应链的潜在影响，同时也引起了对外媒报道的关注，这些报道暗示了可能对向中国销售 AI 芯片的限制进一步收紧。黄仁勋的辞职对 AI 基础设施和私募股权公司可能产生重大影响。
+
+**「市场影响」** 英伟达 CEO 的辞职可能导致对中国 AI 芯片销售的进一步限制，这可能会对全球金融市场产生重大影响。特别是在美国政府对高性能 AI 芯片实施严格出口控制以防止其可能增强中国军事能力的背景下，这种限制可能会对英伟达和整个芯片行业产生长期影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.kucoin.com/news/flash/nvidia-ceo-jensen-huang-resigns-impact-on-ai-infrastructure-and-private-equity-firms">NVIDIA CEO Jensen Huang Resigns , Impact on AI... | KuCoin</a></li>
+<li><a href="https://www.globaltimes.cn/page/202611/1374224.shtml">Analysis: Nvidia CEO ’s exit highlights mounting... - Global Times</a></li>
+<li><a href="https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation">Nvidia CEO Resignation Sees Bitcoin Price Fall toward $71,000</a></li>
+<li><a href="https://coinography.com/trump-mulls-tighter-nvidia-ai-chip-sales-restrictions-to-china/">Trump Mulls Tighter Nvidia AI Chip Sales Restrictions to China</a></li>
+<li><a href="https://www.habertusba.com/the-long-term-implications-of-washingtons-tightened-grip-on-ai-chip-sales-to-china-for-nvidia-and-chipmakers/">The Long-Term Implications of Washington&#x27;s Tightened Grip on AI ...</a></li>
+<li><a href="https://opentools.ai/news/senate-democrats-slam-trump-admin-for-ai-chip-sales-to-china">Senate Democrats Slam Trump Admin for AI Chip Sales to China</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Technology`, `#Market Regulations`, `#AI Chips`, `#Nvidia`, `#China`
+
+---
+
+<a id="item-global-market-9"></a>
+### [英国对俄罗斯斯拉夫石油公司实施制裁](https://reut.rs/4zlHIwF) ⭐️ 7.0/10
+
+英国近日对俄罗斯的斯拉夫石油公司实施了制裁，这是英国针对石油生产商采取的最新举措。这一行动可能对全球石油市场和中央银行政策产生影响。
+
+rss · 路透社 Reuters · 11月12日 17:43
+
+**「背景信息」** 斯拉夫石油公司（Slavneft）是一家俄罗斯国有石油公司，成立于 1994 年，由俄罗斯和白俄罗斯政府共同创立。该公司最初是由俄罗斯和白俄罗斯的国有资产管理机构共同出资成立的合资企业。2002 年，斯拉夫石油公司进行了私有化，估值约为 18.6 亿美元。斯拉夫石油公司是一家垂直整合的石油和天然气公司，总部位于莫斯科，主要从事石油和天然气的勘探、生产、精炼和营销。
+
+**「影响」** 此次制裁可能对全球石油市场产生具体影响，可能导致石油价格波动，进而影响相关行业和货币的走势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Slavneft">Slavneft - Wikipedia</a></li>
+<li><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B0%D0%B2%D0%BD%D0%B5%D1%84%D1%82%D1%8C">Славнефть — Википедия</a></li>
+<li><a href="https://grokipedia.com/page/slavneft">Slavneft — Grokipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Sanctions`, `#Oil Markets`, `#Russia`, `#UK`, `#Global Finance`
+
+---
+
+<a id="item-global-market-10"></a>
 ### [白宫准备延长《琼斯法案》豁免期限](https://reut.rs/3WIFs58) ⭐️ 7.0/10
 
 据消息人士透露，白宫计划延长《琼斯法案》的豁免期限，这一决定将影响航运和贸易行业。
 
 rss · 路透社 Reuters · 11月12日 17:12
 
-**「琼斯法案背景」** 琼斯法案是美国的一项重要法律，旨在保护美国国内航运业。该法案要求所有在美国水域航行的船只必须在美国注册、由美国公民操作，并对外国船只进入美国市场施加限制。琼斯法案的豁免通常在特定情况下授予，以应对紧急情况或特殊情况。此次白宫准备延长琼斯法案豁免期限，表明美国政府可能正在应对与航运和贸易相关的特定挑战。
+**「背景信息」** 琼斯法案是美国的一项法律，要求所有在美国水域之间运输货物的船只必须是美国船只，并且在美国注册。这项法案对美国的航运和贸易产生了重大影响。近年来，由于各种原因，包括对波多里哥的援助，美国政府已经多次延长琼斯法案的豁免期限。这些豁免通常是为了应对特定的市场状况或紧急情况。
 
-**「影响」** 此举可能导致航运成本上升，对国际贸易产生不利影响。
+**「影响」** 此举可能导致航运成本上升，进而影响相关商品的价格，对国际贸易产生一定影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://offshoreinjurytrialattorney.com/jones-act-lawyer/">Jones Act Lawyer | Offshore Injury Lawyers | Doyle Dennis Avery LLP</a></li>
-<li><a href="https://www.barneslawfirm.com/what-a-maritime-lawyer-know-jones-act/">What a Maritime Lawyer Should Know About the Jones Act</a></li>
-<li><a href="https://www.youtube.com/watch?v=T6vt3Tdz5d8">What Washington Isn&#x27;t Telling You About the Jones Act ... - YouTube</a></li>
+<li><a href="https://www.nytimes.com/2017/10/24/us/jones-act-puerto-rico.html">Would Repealing the Jones Act Help Puerto Rico? (Published 2017)</a></li>
 
 </ul>
 </details>
 
-**标签**: `#White House`, `#Jones Act`, `#Shipping`, `#Trade`, `#Policy`
-
----
-
-<a id="item-global-market-9"></a>
-### [美联储巴尔警告：美国需为 AI 引发的就业冲击和加剧不平等做好准备](https://reut.rs/4kMrHfJ) ⭐️ 7.0/10
-
-美联储官员巴尔警告，美国应准备好应对人工智能可能引发的严重就业冲击和日益加剧的不平等问题。
-
-rss · 路透社 Reuters · 11月12日 16:07
-
-**「背景信息」** 人工智能的快速发展对就业和经济不平等产生了深远的影响。近年来，许多学者和专家开始关注人工智能对就业市场的潜在影响，特别是对少数族裔的影响。有报告指出，人工智能可能会取代相当于 3 亿个全职工作，这将导致美国和欧洲四分之一的工作任务被取代。然而，这也可能带来新的工作和生产力的提升。此外，人工智能的推广引发了从经济低效到分配问题等一系列治理挑战。
-
-**「影响」** 这一警告可能引发市场对人工智能技术对就业市场影响的担忧，进而影响相关行业和货币的表现。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.emeraldgrouppublishing.com/calls-for-papers/artificial-intelligence-employment-inequality-and-future-inclusive-work">Artificial Intelligence , Employment Inequality , and the Future of...</a></li>
-<li><a href="https://www.nexford.edu/insights/how-will-ai-affect-jobs">How will Artificial Intelligence Affect Jobs... | Nexford University</a></li>
-<li><a href="https://aithor.com/essay-examples/the-negative-effects-of-ai-on-employment-and-economic-inequality">The Negative Effects of AI on Employment and Economic Inequality</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Artificial Intelligence`, `#Employment`, `#Inequality`, `#US Economy`, `#Central Banks`
-
----
-
-<a id="item-global-market-10"></a>
-### [芬兰称在波罗的海探测到针对一艘俄罗斯军舰的袭击](https://reut.rs/4eqYkvG) ⭐️ 7.0/10
-
-Finland reports detecting an attack on a Russian warship in the Baltic Sea, potentially affecting global financial markets.
-
-rss · 路透社 Reuters · 11月12日 13:59
-
-**标签**: `#Geopolitical Events`, `#Military Confrontation`, `#Global Financial Markets`, `#Russia`, `#Finland`
+**标签**: `#White House`, `#Jones Act`, `#Trade Policy`, `#Shipping`, `#Market Implications`
 
 ---
 
 <a id="item-global-market-11"></a>
-### [欧几里得任务发布超过 9 亿个星系数据](https://reut.rs/4kGpHWk) ⭐️ 7.0/10
+### [美联储官员巴尔警告：美国应为人工智能引发的严重就业冲击及日益加剧的不平等做好准备](https://reut.rs/4kMrHfJ) ⭐️ 7.0/10
 
-欧几里得任务发布了覆盖超过 9 亿个星系的数据，这一数据发布对于天文学和科学发展的追踪者具有重要意义，尽管它可能不会立即对金融市场产生广泛影响。
+美联储官员巴尔警告，美国应为人工智能引发的严重就业冲击及日益加剧的不平等做好准备。
 
-rss · 路透社 Reuters · 11月12日 13:27
+rss · 路透社 Reuters · 11月12日 16:07
 
-**「背景信息」** 欧几里得任务（Euclid mission）是一项旨在研究宇宙结构和演化的太空任务。该任务由欧洲空间局（ESA）和加拿大航天局（CSA）共同发起，旨在通过观测超过 9000 万个星系来揭示宇宙的奥秘。欧几里得任务的数据发布为天文学和宇宙学领域提供了新的观测数据，有助于科学家们更好地理解宇宙的起源和演化过程。
+**「背景信息」** 人工智能（AI）的快速发展正在对全球就业市场和经济不平等产生重大影响。近年来，关于 AI 对就业和收入分配的潜在影响的讨论日益增多。一些研究表明，AI 可能会取代某些工作岗位，同时创造新的就业机会。然而，这些变化可能会加剧现有的不平等，因为某些群体可能更容易受到自动化和 AI 的影响。此外，中央银行和政策制定者正在密切关注这些趋势，以评估其对经济稳定和货币政策的影响。
 
-**「影响」** 此次数据发布为天文学领域提供了新的宇宙洞察，但对其在金融市场上的具体影响尚不明确。
+**「影响」** 这一警告可能对劳动力市场和政策制定产生影响，特别是在人工智能技术快速发展的背景下。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Euclid">Euclid - Wikipedia</a></li>
+<li><a href="https://cris.maastrichtuniversity.nl/en/publications/is-this-time-different-impact-of-ai-in-output-employment-and-ineq/">Is this time different? Impact of AI in output, employment and ...</a></li>
+<li><a href="https://www.linkedin.com/posts/romanzomko_ai-companys-ceo-issues-warning-about-mass-activity-7335959043305304064-YHvi">A thought-provoking interview with Dario Amodei, CEO of Anthropic, on...</a></li>
+<li><a href="https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/">No One Actually Knows How AI Will Affect Jobs | WIRED</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Astronomy`, `#Space Exploration`, `#Scientific Research`, `#Euclid Mission`, `#Galaxies`
+**标签**: `#AI Job Disruption`, `#Economic Inequality`, `#Central Bank Policy`, `#US Economy`
 
 ---
 
 <a id="item-global-market-12"></a>
-### [新一届美国国会能否结束伊朗战争解读](https://reut.rs/4BYpSm0) ⭐️ 7.0/10
+### [芬兰探测到针对俄罗斯军舰的袭击](https://reut.rs/4eqYkvG) ⭐️ 7.0/10
 
-新一届美国国会的组成可能对伊朗战争产生重大影响。分析指出，如果新一届国会能够推动政策变化，可能会结束伊朗战争。这一变化将对全球金融市场产生重要影响。
+芬兰报告称在波罗的海探测到对一艘俄罗斯军舰的袭击，这一事件可能加剧地缘政治紧张局势。
 
-rss · 路透社 Reuters · 11月12日 11:51
+rss · 路透社 Reuters · 11月12日 13:59
 
-**「背景信息」** 美国国会对于伊朗战争的影响是一个复杂的地缘政治问题。在过去的几年中，美国与伊朗之间的关系紧张，导致了一系列的军事和经济冲突。美国国会作为立法机构，其决策和政策对于美国的外交政策和军事行动具有重大影响。在新的美国国会成立之前，国会对于伊朗政策的立场和决策可能已经对战争产生了影响。例如，国会可能通过立法增加对伊朗的制裁，或者批准军事行动。因此，新一届美国国会的组成和立场可能会对伊朗战争产生重大影响，包括可能的政策变化、军事行动的调整以及与美国盟友的合作关系。
+**「背景信息」** 2025 年至 2026 年期间，波罗的海地区的局势发生了显著变化，从相对低紧张度的海上环境转变为受到俄罗斯-乌克兰战争直接溢出效应影响的环境。这一变化包括海底电缆破坏事件、俄罗斯对 GPS 的干扰操作、北约在波罗的海的巡逻，以及芬兰和瑞典加入北约对区域安全的影响。
 
-**「影响」** 如果新一届美国国会能够结束伊朗战争，这将显著降低中东地区的紧张局势，从而可能促进全球金融市场的稳定。
+**「影响」** 此次袭击可能对俄罗斯和芬兰之间的外交关系产生负面影响，并可能对波罗的海地区的安全局势产生长远影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://claude.ai/">Claude</a></li>
-<li><a href="https://www.douyin.com/shipin/7621399978572859446">美 国 国 会 批准2000亿对 伊 朗 战 争 吗-抖音</a></li>
-<li><a href="https://www.workercn.cn/papers/grrb/2026/08/26/8/grrb202608268.pdf">grrb0820260826C</a></li>
+<li><a href="https://www.riskintelligence.eu/analyst-briefings/the-russia-ukraine-war-and-the-spillover-into-the-baltic">The Russia-Ukraine war and the spillover into the Baltic</a></li>
+<li><a href="https://www.defconlevel.com/baltic-sea-tensions">Baltic Sea Tensions: Cable Sabotage, GPS Jamming &amp; NATO ...</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/21599165.2026.2669224">The geopoliticisation of domestic issues in the Baltic Sea ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitical Events`, `#US Congress`, `#Iran War`, `#Global Financial Markets`
+**标签**: `#Geopolitical Tensions`, `#Military Conflict`, `#Baltic Sea`, `#Russia`, `#Finland`
 
 ---
 
 <a id="item-global-market-13"></a>
+### [欧几里得任务发布超过 9 亿个星系数据](https://reut.rs/4kGpHWk) ⭐️ 7.0/10
+
+欧几里得任务发布了涵盖超过 9 亿个星系的数据，这对天文学研究具有重要意义。
+
+rss · 路透社 Reuters · 11月12日 13:27
+
+**「背景信息」** 欧几里得任务是由欧洲航天局（ESA）发起的一项重要天文观测任务，旨在通过其暗宇宙望远镜对宇宙的几何结构进行高精度的测绘。这项任务对于解决现代宇宙学中的重大谜团——暗物质和暗能量对宇宙膨胀的影响——具有重要意义。欧几里得望远镜配备了视觉和近红外光谱仪（VIS 和 NISP）等有效载荷，能够观测到超过 9 亿个星系，为天文学研究提供了宝贵的数据。这些数据有助于科学家们更深入地理解宇宙的结构和演化过程。
+
+**「影响」** 这些数据有助于科学家更好地理解宇宙的结构和演化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://anantamias.com/euclid-mission/">Euclid Mission : ESA&#x27;s Dark Universe Telescope... - Anantam IAS</a></li>
+<li><a href="https://sentinelmission.org/blog/why-is-the-euclid-mission-important/">Why Is the Euclid Mission Important? Exploring... - Sentinel Mission</a></li>
+<li><a href="https://euclid.caltech.edu/">Home Page | Euclid</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Astronomy`, `#Space Exploration`, `#Data Release`, `#Euclid Mission`, `#Galaxies`
+
+---
+
+<a id="item-global-market-14"></a>
 ### [美国 FDA 搁置加速药物审查的代金券计划](https://reut.rs/4jbGjE6) ⭐️ 7.0/10
 
 美国食品药品监督管理局（FDA）已搁置了局长提出的用于加快药物审查的代金券计划。
 
 rss · 路透社 Reuters · 11月12日 11:51
 
-**「背景信息」** 美国食品药品监督管理局（FDA）的药物审查过程是一个复杂且严格的流程，旨在确保新药的安全性和有效性。这一过程包括对药物研发数据的全面审查，以及决定是否批准药物上市。在过去，FDA 已经采取了一些措施来加快药物审查的速度，例如通过简化审查流程或使用先进的科技手段。此次搁置的代金券计划，原本旨在进一步加速药物审查过程。
+**「背景信息」** 美国食品药品监督管理局（FDA）曾于 2025 年 7 月 22 日启动了名为‘Commissioner&\#x27;s National Priority Voucher \(CNPV\) Pilot Program’的试点项目，旨在加速符合美国国家健康优先事项的某些药物和生物制品的开发和审查。该项目于 2025 年 6 月启动，旨在将针对国家优先事项的治疗方案（如罕见病药物）的药物审查时间缩短至仅一至两个月。然而，据 2026 年 11 月 12 日的报道，FDA 已搁置了由局长提出的加速药物审查的代金券计划。
 
-**「影响」** 这一决定可能对制药行业和药物审批流程产生影响，进而影响全球金融市场。
+**「影响」** 此决定可能对制药行业和市场动态产生重大影响，尤其是对于那些跟踪中央银行和股票市场的人来说。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.fda.gov/patients/drug-development-process/step-4-fda-drug-review">Step 4: FDA Drug Review | FDA</a></li>
-<li><a href="https://www.drugs.com/fda-approval-process.html">How the FDA Drug Approval Process Works: Steps and Timeline</a></li>
-<li><a href="https://actascientific.com/ASPS/pdf/ASPS-08-1114.pdf">US - FDA Drug Approval Process : A Glimpse Through Regulatory...</a></li>
+<li><a href="https://www.fda.gov/industry/commissioners-national-priority-voucher-cnpv-pilot-program">Commissioner&#x27;s National Priority Voucher (CNPV) Pilot Program</a></li>
+<li><a href="https://www.fda.gov/industry/commissioners-national-priority-voucher-cnpv-pilot-program/commissioners-national-priority-voucher-cnpv-pilot-program-submission">Commissioner&#x27;s National Priority Voucher (CNPV) Pilot Program ...</a></li>
+<li><a href="https://www.usnews.com/news/top-news/articles/2026-11-12/exclusive-us-fda-shelves-commissioners-voucher-program-for-speedy-drug-reviews-sources-say">Exclusive-US FDA Shelves Commissioner&#x27;s Voucher Program for ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#FDA`, `#Drug Review`, `#Pharmaceutical Industry`, `#Market Impact`
+**标签**: `#FDA`, `#Drug Review`, `#Pharmaceutical Industry`, `#Market Dynamics`, `#Regulatory Policy`
 
 ---
 
-<a id="item-global-market-14"></a>
+<a id="item-global-market-15"></a>
+### [圣彼得堡附近汽车炸弹袭击致俄罗斯士兵遇害](https://reut.rs/4kchCse) ⭐️ 7.0/10
+
+圣彼得堡附近发生汽车炸弹袭击，导致一名俄罗斯士兵死亡，这是近期发生的一起针对性暗杀事件。
+
+rss · 路透社 Reuters · 11月12日 10:47
+
+**「背景信息」** 近期，俄罗斯圣彼得堡附近发生了一起汽车炸弹袭击，导致一名俄罗斯士兵死亡。这起事件被视为一起有针对性的暗杀。此类事件通常会对地缘政治稳定和安全产生重大影响。对于追踪全球金融市场的读者来说，特别是那些与中央银行和地缘政治事件相关的市场，这一事件具有重要意义。
+
+**「影响分析」** 这起暗杀事件可能对俄罗斯国内安全形势产生负面影响，进而对全球金融市场产生不确定性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://nypost.com/2026/11/12/world-news/russian-soldier-killed-by-car-bomb-near-st-petersburg-in-latest-targeted-assassination/">Russian soldier killed by car bomb near St Petersburg in latest...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Geopolitical Events`, `#Security`, `#Targeted Assassination`, `#Russia`, `#Financial Markets`
+
+---
+
+<a id="item-global-market-16"></a>
 ### [欧盟法院顾问支持对谷歌处以 17 亿美元反垄断罚款，谷歌遭遇挫折](https://reut.rs/4BPEeoK) ⭐️ 7.0/10
 
 欧盟法院顾问支持对谷歌处以 17 亿美元的反垄断罚款，这对谷歌来说是一次重大挫折。
 
 rss · 路透社 Reuters · 11月12日 09:59
 
-**「背景信息」** 谷歌作为全球最大的搜索引擎和广告技术公司，长期以来一直受到欧盟反垄断调查。此前，欧盟对谷歌提出了多项反垄断指控，包括在广告市场中的垄断行为。此次欧盟法院顾问支持对谷歌处以 17 亿美元的反垄断罚款，表明欧盟对谷歌的反垄断调查取得了重要进展。这一事件对全球科技行业和金融市场产生了重大影响，引发了市场对科技巨头垄断行为的关注。
+**「背景信息」** 谷歌此前因滥用安卓操作系统的市场主导地位，被欧盟委员会指控并处以 43 亿欧元的罚款。这一指控涉及谷歌强制手机制造商预装谷歌搜索和 Chrome 浏览器，从而限制竞争。此次欧盟法院顾问支持对谷歌处以 17 亿美元的反垄断罚款，是对谷歌之前败诉的进一步确认。
 
-**「市场影响」** 欧盟法院顾问支持对谷歌处以 17 亿美元反垄断罚款的决定，可能导致谷歌股价下跌，并对整个科技行业产生负面影响，尤其是对那些与谷歌有直接竞争关系的公司。
+**「影响」** 这一反垄断罚款可能会对谷歌的市场地位和财务状况产生负面影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.aol.com/">AOL.com - News, Sports, Weather, Entertainment, Local &amp; Lifestyle</a></li>
-<li><a href="https://www.aol.com/?_">News, Politics, Sports, Mail &amp; Latest Headlines - AOL.com</a></li>
-<li><a href="https://mail.aol.com/">AOL Mail</a></li>
-<li><a href="https://www.tmtpost.com/7254623.html">tmtpost.com/7254623.html</a></li>
-<li><a href="https://www.guandian.cn/article/20240919/437293.html">欧 盟 第二高等 法 院 撤销 对 谷 歌 17 亿 美 元 广告 反 垄 断 罚 款 - 观点网</a></li>
-<li><a href="https://news.qq.com/rain/a/20250620A01W2D00">news.qq.com/rain/a/20250620A01W2D00</a></li>
+<li><a href="https://news.qq.com/rain/a/20260702A070PK00">谷 歌 在 欧 盟 41亿 欧 元 反 垄 断 罚 款 的诉讼中败诉_腾讯新闻</a></li>
+<li><a href="https://www.msn.com/zh-cn/news/other/%E8%B0%B7%E6%AD%8C%E5%9C%A8%E6%AC%A7%E7%9B%9F41%E4%BA%BF%E6%AC%A7%E5%85%83%E5%8F%8D%E5%9E%84%E6%96%AD%E7%BD%9A%E6%AC%BE%E7%9A%84%E8%AF%89%E8%AE%BC%E4%B8%AD%E8%B4%A5%E8%AF%89/ar-AA272vhE">谷 歌 在 欧 盟 41亿 欧 元 反 垄 断 罚 款 的诉讼中败诉</a></li>
+<li><a href="https://www.iheima.com/article-399225.html">谷 歌 在 欧 盟 41亿 欧 元 反 垄 断 罚 款 诉讼中败诉_快讯_i黑马</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Antitrust`, `#Google`, `#EU Court`, `#Financial Market`, `#Tech Industry`
-
----
-
-<a id="item-global-market-15"></a>
-### [美国前将军对中国稀土军事杠杆发出警告](https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html) ⭐️ 7.0/10
-
-美国前四星将军杰克·基恩警告称，由于美国对中国稀土的依赖，中国对美国拥有军事杠杆。他强调，这一问题对全球金融市场至关重要。
-
-rss · OilPrice · 11月13日 01:00
-
-**「背景信息」** 近期，美国前四星上将杰克·基恩警告称，由于美国对中国稀土的依赖，中国对美国拥有军事杠杆。基恩将军作为 REalloys 公司的董事，该公司被美国陆军选中进行独家谈判，在军事基地上建设处理镝和铽的工厂。此前，中国已经利用其对稀土的控制对西方工厂和美国国防公司施加影响。此外，中国曾暗示利用其对稀土供应的控制——以及由此产生的定价——进行地缘政治施压，这促使美国寻求减轻这种脆弱性的方法。美国和澳大利亚签署了一项新协议，加强在稀土和关键矿产方面的合作，旨在减少对中国的依赖。
-
-**「影响」** 这一警告可能导致全球市场对稀土供应链的担忧加剧，进而影响相关行业和货币的表现。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://finance.yahoo.com/energy/articles/rare-earth-wars-u-general-010000866.html">Rare Earth Wars: U . S . General Sounds Alarm Over China &#x27; s Military ...</a></li>
-<li><a href="https://www.acreativeattitude.com/blog/donald-trumps-quest-to-obtain-rare-earth-elements-explained-newsweek.htm">Donald Trump&#x27; s Quest To Obtain Rare Earth Elements Explained...</a></li>
-<li><a href="https://www.linkedin.com/posts/jerryenoe_rare-earth-metals-chinas-trump-card-in-activity-7335804714963423233-JS98">Deep-sea mining: a strategic quest for rare earths | LinkedIn</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Risk`, `#Commodity Markets`, `#Supply Chain`, `#Military Leverage`, `#Rare Earths`
-
----
-
-<a id="item-global-market-16"></a>
-### [欧洲冬季天然气库存降至 2020 年代最低](https://oilprice.com/Energy/Natural-Gas/Europe-Enters-Winter-With-Its-Lowest-Gas-Inventory-of-the-2020s.html) ⭐️ 7.0/10
-
-欧洲进入冬季，天然气库存降至 2020 年代最低，引发对能源价格和市场动态的担忧。据 Gas Infrastructure Europe 11 月 11 日更新，欧盟储存站点仅 71.6%满载，德国为 58%，远低于五年平均水平。
-
-rss · OilPrice · 11月12日 21:00
-
-**「背景信息」** 欧洲大陆位于北半球，大部分位于东半球，北临北极洋，西临大西洋，南临地中海，东临亚洲。欧洲是继亚洲、非洲、北美洲、南美洲和大洋洲之后的第六大洲，面积约为 3,930,000 平方英里（10,180,000 平方公里）。欧洲的能源市场一直是一个重要的全球焦点，尤其是在天然气和石油领域。随着冬季的到来，欧洲的天然气库存处于 2020 年代以来的最低水平，这引发了对其能源价格和市场动态的担忧。
-
-**「影响」** 欧洲天然气库存的低水平可能导致能源价格上涨，对依赖天然气的行业和消费者产生负面影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Europe">Europe - Wikipedia</a></li>
-<li><a href="https://ontheworldmap.com/europe/">Map of Europe | List of Countries of Europe Alphabetically</a></li>
-<li><a href="https://www.britannica.com/place/Europe">Europe | History, Countries, Map, &amp; Facts | Britannica</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Energy Market`, `#Gas Inventory`, `#Europe`, `#Energy Prices`, `#Market Dynamics`
+**标签**: `#Antitrust`, `#Google`, `#EU Court`, `#Tech Industry`, `#Financial Market`
 
 ---
 
 <a id="item-global-market-17"></a>
-### [阿根廷或于 2035 年成为南美最大锂生产商](https://oilprice.com/Metals/Commodities/Argentina-Could-Overtake-Chile-as-South-Americas-Top-Lithium-Producer-by-2035.html) ⭐️ 7.0/10
+### [印度将禁止私募股权公司控股多家非银行贷款机构](https://reut.rs/4C5iS79) ⭐️ 7.0/10
 
-据 GEM Mining Consulting 预测，阿根廷预计将在 2035 年成为南美洲最大的锂生产商，产量将达到 481,000 吨锂碳酸盐当量，超过智利的 426,000 吨。这一变化主要受电池金属需求的增长驱动。
+据消息人士透露，印度计划禁止私募股权公司控制多家非银行贷款机构。
 
-rss · OilPrice · 11月12日 18:00
+rss · 路透社 Reuters · 11月12日 08:40
 
-**「背景信息」** 阿根廷预计将在 2035 年成为南美洲最大的锂生产商，超越智利。这一变化是由于对电池金属的需求不断增长。目前，阿根廷是全球第四大锂生产商，仅次于澳大利亚、中国和智利。阿根廷是所谓的锂三角的一部分，该三角还包括玻利维亚，位于安第斯山脉，以其丰富的锂储备而闻名。此外，据 GEM Mining Consulting 预测，阿根廷的锂产量在 2025 年至 2035 年之间可能从 11.5 万吨增长到 40.7 万吨锂碳酸盐当量，累计增长 254%，绝对增长 29.2 万吨。
+**「背景信息」** 印度计划禁止私募股权公司控制多家非银行贷款机构，这一消息反映了印度金融市场监管的重大变化。在此之前，印度金融市场已经经历了一系列的政策调整。例如，印度储备银行在 2026 年 1 月 13 日发布了《外汇管理（出口和进口货物及服务）条例》2026，并在 2026 年 9 月 22 日进行了修订，该条例于 2026 年 10 月 1 日开始生效。此外，2026 年 NDTV Profit Ignite 活动中，Edelweiss 的 Radhika Gupta 指出，印度市场中的资产管理公司（AMC）的风向正在改变，需要改变对小盘股的叙述。
 
-**「影响」** 这一预测将对锂市场产生重大影响，可能改变全球锂资源的供应格局，进而影响相关行业和货币的走势。
+**「影响」** 这一政策变化可能对私募股权公司和非银行贷款机构产生重大影响，进而影响印度的金融市场。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.panorama-minero.com/en/news/nadav-rajzman-argentina-could-more-than-double-its-lithium-production-by-2035">Nadav Rajzman: &quot; Argentina Could More Than Double Its Lithium ...&quot;</a></li>
-<li><a href="https://mining.com.au/copper-could-be-the-energy-transitions-biggest-bottleneck-gem-mining/">Copper could be the energy transition’ s biggest bottleneck: GEM Mining</a></li>
-<li><a href="https://discoveryalert.com/uk-lithium-mining-operations-2026-energy-security/">UK Lithium Mining : Cornwall Operations &amp; 2035 Targets</a></li>
+<li><a href="https://www.ndtvprofit.com/business/ndtv-profit-ignite-2026-live-updates-key-highlights-speakers-and-more-12247665">NDTV Profit Ignite 2026 Highlights: &#x27;Sur Aur Stocks&#x27; — Vijay Kedia...</a></li>
+<li><a href="https://afleo.com/fema-export-import-regulations-2026-changes/">New FEMA Export Import Regulations 2026 : 4 Key Changes</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Lithium Production`, `#Commodity Market`, `#Argentina`, `#Chile`, `#Battery Metal Demand`
-
----
-
-<a id="item-global-market-18"></a>
-### [英国重新思考绿色议程，优先考虑降低能源成本](https://oilprice.com/Energy/Energy-General/Soaring-Electricity-Costs-Force-Britain-to-Rethink-Its-Green-Agenda.html) ⭐️ 7.0/10
-
-英国政府重新思考其绿色议程，将降低能源成本置于净零目标之上。财政部长约翰·希利在预算演讲中表示，政府的新能源政策是首先降低英国能源成本，同时强调清洁能源的重要性。
-
-rss · OilPrice · 11月12日 17:00
-
-**「英国能源政策背景」** 英国是一个由英格兰、苏格兰、威尔士和北爱尔兰组成的宪法君主立宪制国家。在过去的几年中，英国政府一直致力于实现净零排放的目标，并推动绿色能源的发展。然而，由于多种因素，包括全球能源价格的上涨和俄罗斯天然气供应的不确定性，英国政府现在面临着重新评估其能源政策的挑战。在此背景下，英国政府正在重新考虑其绿色议程，将降低能源成本置于净零目标之上，同时仍然强调清洁能源的重要性。
-
-**「影响」** 这一政策转变可能导致英国能源市场发生重大变化，影响可再生能源和传统能源公司的股价，以及对英国货币的信心。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Countries_of_the_United_Kingdom">Countries of the United Kingdom - Wikipedia</a></li>
-<li><a href="https://simple.wikipedia.org/wiki/United_Kingdom">United Kingdom - Simple English Wikipedia, the free encyclopedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#UK Energy Policy`, `#Green Agenda`, `#Electricity Costs`, `#Market Shift`, `#Government Policy`
-
----
-
-<a id="item-global-market-19"></a>
-### [苏姿丰获评雅虎财经“年度最佳 CEO”](https://x.com/AMD/status/2120936758669906296) ⭐️ 7.0/10
-
-AMD 董事长兼 CEO 苏姿丰荣获雅虎财经‘年度最佳 CEO’称号，AMD 官方发文表示祝贺。雅虎财经称赞苏姿丰在 2026 年的表现，指出 AMD 股价今年至今上涨 158%，表现优于竞争对手如英伟达。
-
-telegram · zaihuapd · 11月13日 03:17
-
-**「背景信息」** 苏姿丰，出生于 1969 年 11 月 7 日，是一位美籍华裔半导体芯片专家。她现任超威半导体公司（AMD）的董事长和首席执行官，同时也是美国半导体行业协会的董事和电机电子工程师学会的会员。苏姿丰在半导体行业拥有丰富的经验，并在 AMD 任职期间推动了公司业绩的显著增长。她的领导才能和对技术的深刻理解，使她在业界获得了广泛的认可。
-
-**「影响」** 苏姿丰获得这一荣誉可能提升 AMD 的市场声誉，并对其股价产生积极影响，尤其是在与竞争对手的竞争中表现突出。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/%E8%98%87%E5%A7%BF%E4%B8%B0">苏 姿丰 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://zh.wikipedia.org/zh-hans/%E8%98%87%E5%A7%BF%E4%B8%B0">苏姿丰 - 维基百科，自由的百科全书 - zh.wikipedia.org</a></li>
-<li><a href="https://baike.baidu.com/item/%E8%8B%8F%E5%A7%BF%E4%B8%B0/16323545">苏姿丰 （美国国家工程院院士、AMD董事长兼首席执行官）_百度百科</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AMD`, `#CEO`, `#Yahoo Finance`, `#Annual Best CEO`, `#Technology`
+**标签**: `#India`, `#Financial Regulation`, `#Private Equity`, `#Non-Bank Lenders`, `#Market Dynamics`
 
 ---
 
@@ -522,22 +462,19 @@ telegram · zaihuapd · 11月13日 03:17
 <a id="item-ai-frontier-1"></a>
 ### [UMAP 0.6：新的初始化方法、优化器和更快的性能](https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/) ⭐️ 8.0/10
 
-UMAP 0.6 版本引入了新的初始化方法、优化器和更快的最近邻搜索，显著提高了在大规模数据集上的性能。新版本在处理 300 万篇 arXiv 论文时，仅需不到 5 分钟，而 UMAP 0.5 版本则需要更长的时间。
+UMAP 0.6 版本推出了新的初始化方法、优化器和更快的最近邻搜索，显著提高了性能和可扩展性，特别是在处理大规模数据集时。新版本在 3 百万篇 arXiv 论文上的处理时间缩短至 5 分钟以内，比 UMAP 0.5 版本快得多。
 
 reddit · r/MachineLearning · /u/lmcinnes · 11月12日 13:51
 
-**「UMAP 简介」** UMAP（Uniform Manifold Approximation and Projection）是一种用于降维的机器学习技术，旨在减少数据的维度同时保留其拓扑结构。它类似于 t-SNE，但也可以用于一般的非线性降维。UMAP 特别适用于在低维空间（通常是两维或三维）中可视化高维数据集。
+**「UMAP 0.6 版本背景」** UMAP（Uniform Manifold Approximation and Projection）是一种用于降维和可视化的机器学习算法，常用于高维数据的可视化。在 UMAP 0.6 版本中，引入了新的初始化方法、优化器以及更快的最近邻搜索，这些改进显著提高了算法的性能和可扩展性，特别是在处理大规模数据集时。新版本通过优化算法细节，如使用 PyNNDescent 进行更有效的最近邻搜索，以及引入新的初始化方案，使得 UMAP 在保证结果质量的同时，大幅提升了处理速度。
 
-**「影响」** UMAP 0.6 的更新为开发者提供了显著的性能提升，特别是在处理大规模数据集时。新的初始化方法和优化器使得 UMAP 在保持结果质量的同时，速度提高了约 4 倍，这对于需要快速处理和分析大量数据的机器学习应用来说是一个巨大的进步。
-
-**「社区讨论」** 目前没有可用的社区评论。
+**「影响」** 对于研究人员和开发者来说，UMAP 0.6 的性能提升意味着他们可以更快地处理和分析大规模数据集，从而加速机器学习项目的迭代和开发过程。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://umap-learn.readthedocs.io/en/latest/">UMAP : Uniform Manifold Approximation and Projection for ...</a></li>
-<li><a href="https://www.geeksforgeeks.org/machine-learning/umap-uniform-manifold-approximation-and-projection/">UMAP : Uniform Manifold Approximation and Projection</a></li>
-<li><a href="https://umap-learn.readthedocs.io/en/latest/">UMAP : Uniform Manifold Approximation and Projection for ...</a></li>
-<li><a href="https://www.geeksforgeeks.org/machine-learning/umap-uniform-manifold-approximation-and-projection/">UMAP : Uniform Manifold Approximation and Projection</a></li>
+<li><a href="https://umap-learn.readthedocs.io/en/latest/release_notes.html">Release Notes — umap 0.6.0 documentation - Read the Docs</a></li>
+<li><a href="https://umap-learn.readthedocs.io/en/latest/benchmarking.html">Performance Comparison of Dimension Reduction Implementations</a></li>
+<li><a href="https://agihunt.info/en/p/1a1cac8bdb8dff1d5f6f469dff6">UMAP 0.6 released: million-scale speedups… · AGI Hunt</a></li>
 
 </ul>
 </details>
@@ -549,371 +486,512 @@ reddit · r/MachineLearning · /u/lmcinnes · 11月12日 13:51
 <a id="item-ai-frontier-2"></a>
 ### [谷歌发布 Gemini 4 Hydrogen 模型](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) ⭐️ 8.0/10
 
-谷歌发布了 Gemini 4 Hydrogen 模型，该模型针对日常编程和智能体工作流进行了优化，速度提升了 2.5 倍，并已向开发者、企业和普通用户开放，价格为每百万输入 token 1.5 美元、输出 7.5 美元。
+谷歌发布了 Gemini 4 Hydrogen 模型，该模型专注于日常编程和智能体工作流的快速执行，相比前代模型，速度提升了 2.5 倍，Terminal-Bench 4.1 得分从 18.2%提升至 57%。该模型已向开发者、企业和普通用户开放，价格为每百万输入 token 1.5 美元，输出 7.5 美元。
 
 telegram · zaihuapd · 11月13日 02:02
 
-**「背景信息」** 谷歌的 Gemini 模型系列是大型语言模型，旨在提供高效的编程和智能体工作流支持。在 Gemini 4 Hydrogen 模型之前，该系列已经推出了多个版本，如 Gemini 3.8 Flash。这些模型在性能和速度上不断改进，以满足不同用户的需求。Gemini 4 Hydrogen 模型的发布，标志着该系列在速度和性能上的又一次提升，为开发者、企业和普通用户提供了更强大的工具。
+**「背景信息」** Gemini 4 Hydrogen 模型是 Google DeepMind 开发的一种大型语言模型，它是基于 Gemini 4 Carbon 模型进行优化的。该模型旨在提高日常编程和智能体工作流的执行速度，并具有更高的性能。Gemini 4 Hydrogen 模型的推出，标志着 Google 在 AI 研究和大型语言模型领域的又一重要进展。
 
-**「影响」** 对于开发者而言，Gemini 4 Hydrogen 模型的发布意味着他们可以更快地完成编程任务，提高工作效率，尤其是在需要处理大量数据的情况下。
+**「影响」** Gemini 4 Hydrogen 模型的发布为开发者、研究人员和用户提供了一种更快速、更高效的工具，特别是在日常编程和智能体工作流方面，这将显著提高工作效率和生产力。
 
 <details><summary>参考链接</summary>
 <ul>
+<li><a href="https://deepmind.google/models/model-cards/gemini-4-hydrogen/">Gemini 4 Hydrogen - Model Card — Google DeepMind</a></li>
 <li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Introducing Gemini 4 Hydrogen for Agentic Workflows</a></li>
-<li><a href="https://artificialanalysis.ai/models/gemini-4-hydrogen">Gemini 4 Hydrogen (xhigh) - Intelligence... | Artificial Analysis</a></li>
+<li><a href="https://artificialanalysis.ai/models/releases/gemini-4-hydrogen">Gemini 4 Hydrogen Models - Intelligence... | Artificial Analysis</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`, `#Large Language Models`
+**标签**: `#AI Research`, `#Large Language Models`, `#AI Infrastructure`, `#AI-Powered Products`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [I&\#x27;m making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) ⭐️ 7.0/10
+### [黄仁勋辞职事件](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) ⭐️ 7.0/10
 
-An open-source project makes large language models work on small and old devices, showcasing the progress in AI optimization.
+NVIDIA 首席执行官黄仁勋的辞职是 AI 行业的重要事件，引发了社区的兴趣和讨论。
 
-hackernews · mrashad74 · 11月12日 15:23 · [社区讨论](https://news.ycombinator.com/item?id=50468888)
+hackernews · lldb · 11月12日 13:52 · [社区讨论](https://news.ycombinator.com/item?id=50467087)
 
-**标签**: `#AI Optimization`, `#LLM Accessibility`, `#Open Source`, `#Small Device AI`, `#Tech Progress`
+**「背景信息」** Jensen Huang 作为 NVIDIA 的创始人和首席执行官，在该公司的发展中扮演了重要角色。他的辞职引发了业界的广泛关注和讨论。Jensen Huang 的辞职与个人行为和国家安全问题有关，这些问题可能对 NVIDIA 的业务和声誉产生了影响。
+
+**「社区讨论」** 社区讨论主要集中在黄仁勋辞职的原因上，有人认为这是由于他与与政府有密切联系的人的私情，也有人认为可能与 NVIDIA 违反出口禁令有关。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress">Why did Nvidia CEO Jensen Huang resign , and who is... | Al Jazeera</a></li>
+<li><a href="https://edition.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns">CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen ...</a></li>
+<li><a href="https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns">Jensen Huang Resigns as Nvidia CEO After Affairs: Live Updates</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Industry`, `#NVIDIA`, `#CEO Resignation`, `#AI Research`, `#AI-Powered Products`
 
 ---
 
 <a id="item-ai-frontier-4"></a>
-### [Foundation Models framework](https://developer.apple.com/foundation-models-framework/) ⭐️ 7.0/10
+### [开源项目让大型语言模型在小型旧设备上运行](https://github.com/hyperionaidev/smolmaxxing/) ⭐️ 7.0/10
 
-Apple&\#x27;s Foundation Models framework gains community interest and practical applications among developers.
+一个开源项目使得大型语言模型能够在小型和旧设备上运行，从而提高了 AI 技术的可访问性。该项目已达到在第一代 iPad Air 和小米电视盒子上运行 16 亿个模型，这些设备可用内存均少于 1GB，并且在这些硬件上达到了可观的运行速度。
 
-hackernews · kermatt · 11月12日 21:13 · [社区讨论](https://news.ycombinator.com/item?id=50474361)
+hackernews · mrashad74 · 11月12日 15:23 · [社区讨论](https://news.ycombinator.com/item?id=50468888)
 
-**标签**: `#Apple`, `#AI Framework`, `#Developer Tools`, `#Community Feedback`, `#AI Research`
+**「背景」** 大型语言模型（LLM）通常需要强大的计算资源来运行，这限制了它们在小型和旧设备上的应用。然而，随着 AI 优化技术的发展，例如 PagedAttention 和低功耗优化框架 MNN-AECS，现在有可能在资源有限的设备上运行 LLM。这些优化技术通过减少内存碎片、提高缓存效率以及降低计算复杂性和内存使用，使得 LLM 在小型设备上的运行成为可能。
+
+**「影响」** 这一项目对于开发者、研究人员和用户来说，一个具体的、有证据支持的后果是，它使得 AI 技术更加普及，特别是在资源有限的环境中，如小型和旧设备上。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.analyticsvidhya.com/blog/2026/10/llm-inference-explained-optimization-techniques/">LLM Inference Explained: Performance and Optimization Guide</a></li>
+<li><a href="https://www.devrakib.com/blog/optimizing-llm-inference-for-low-latency-edge-devices">Optimizing LLM Inference for Low-Latency Edge Devices</a></li>
+<li><a href="https://arxiv.org/html/2506.19884">MNN-AECS: Energy Optimization for LLM Decoding on Mobile...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Optimization`, `#Open Source`, `#LLM Accessibility`, `#Small Device AI`, `#Community Contribution`
 
 ---
 
 <a id="item-ai-frontier-5"></a>
-### [PostgreSQL 安全漏洞分析](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/) ⭐️ 7.0/10
+### [Edge0-145B：在您的电脑上实现前沿 AI 能力](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) ⭐️ 7.0/10
 
-本文详细分析了 PostgreSQL 的一个安全漏洞，揭示了其技术细节和影响。该漏洞可能允许攻击者通过类型混淆实现远程代码执行（RCE），对数据库管理构成了威胁。
+Edge0-145B AI 模型展示了令人印象深刻的内存效率，并在社区中引发了技术讨论。该模型能够在兼容的个人笔记本电脑上运行，如 MacBook Pro，具有 145 亿参数，但峰值内存使用量仅为 29GB，这在技术上是一个显著的进步。
 
-hackernews · ozirus · 11月12日 18:22 · [社区讨论](https://news.ycombinator.com/item?id=50471761)
+hackernews · sroussey · 11月12日 23:06 · [社区讨论](https://news.ycombinator.com/item?id=50475713)
 
-**「背景信息」** PostgreSQL 是一个广泛使用的开源对象-关系型数据库系统。它以其稳定性和可靠性而闻名，被广泛应用于各种规模的组织中。在数据库管理中，安全漏洞的发现和分析对于保护数据安全至关重要。CVE（通用漏洞和暴露）系统是一个提供公开已知信息安全漏洞和暴露的参考方法的系统，它有助于跟踪和记录这些漏洞。在本文中，作者详细分析了 PostgreSQL 中的一个安全漏洞，该漏洞可能导致远程代码执行（RCE），这是一个严重的安全问题，因为它允许攻击者执行任意代码。
+**「背景」** Edge0-145B AI 模型是一种在个人电脑上运行的新模型，它通过共享矩阵的方式显著降低了内存使用量，同时保持了大量参数。这种技术进步使得大型 AI 模型能够在普通个人电脑上运行，从而引发了社区内的技术讨论。这种模型的出现得益于近年来在 AI 模型压缩和优化方面的研究进展，特别是针对内存效率的改进。
 
-**「社区讨论」** 社区成员对这一漏洞的性质进行了讨论。一些成员认为这更像是权限提升攻击，而不是远程代码执行。他们指出，攻击者需要通过数据库账户访问来获得对整个服务器的完全访问权限，这主要影响多租户数据库。
+**「影响」** Edge0-145B AI 模型的推出为开发者提供了在个人电脑上运行大型 AI 模型的能力，这对于那些希望在不依赖云端资源的情况下进行 AI 研究和开发的人来说是一个重大进步。这一技术进步使得高性能 AI 模型更加易于访问，从而可能加速 AI 技术的普及和应用。
+
+**「社区讨论」** 社区中有人对普通用户是否拥有能够运行这种模型的电脑表示好奇。一位用户提到，大多数普通 PC 用户可能只有游戏电脑或低端笔记本电脑，内存容量通常为 16GB。同时，也有用户对模型在 Blender 等工具中的应用表示赞赏，但也有人对其工作效果持怀疑态度，认为由 AI 生成的设计可能需要大量手动清理。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures">Common Vulnerabilities and Exposures - Wikipedia</a></li>
-<li><a href="https://www.cve.org/">CVE : Common Vulnerabilities and Exposures</a></li>
-<li><a href="https://www.cve.org/CVERecord/SearchResults">CVE : Common Vulnerabilities and Exposures</a></li>
+<li><a href="https://www.youtube.com/watch?v=nnGFEUeL-P0">I Ranked Every AI Model So You Don&#x27;t Have To - YouTube</a></li>
+<li><a href="https://www.trellis3.com/ai-models/luma-genie">Luma Genie 3d — Text to 3D Model Generator</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight">AI models chatting in ‘surreal’ dialect mixing poetic language and tech ...</a></li>
+<li><a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">Edge0-145B: Open-Source On-Device AI with 145B Parameters</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Security`, `#Database`, `#PostgreSQL`, `#Vulnerability`, `#AI Infrastructure`
+**标签**: `#AI Research`, `#AI Infrastructure`, `#AI Model`, `#Technical Advancement`, `#Community Interest`
 
 ---
 
 <a id="item-ai-frontier-6"></a>
-### [Anthropic IPO 动态](https://ipo.anthropic.com/us/) ⭐️ 7.0/10
+### [Rust 1.100 发布](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 7.0/10
 
-Anthropic 公司即将进行首次公开募股（IPO），预计股价在 70 至 78 美元之间，总交易规模达到 850 亿美元。这反映了市场对 Anthropic 及其大型语言模型（LLM）技术的认可，尽管有观点认为公司可能过早地进行了 IPO，以换取短期资金而非长期市场主导地位。
+Rust 1.100 版本发布，包括多个重要更新和改进，如稳定 never 类型、自定义分配器以及引入最小发布年龄配置。这些变化对使用 Rust 的开发者来说非常有价值，有助于语言的增长和稳定性。
 
-hackernews · josephljohnston · 11月12日 11:46 · [社区讨论](https://news.ycombinator.com/item?id=50465829)
+hackernews · mbStavola · 11月12日 18:39 · [社区讨论](https://news.ycombinator.com/item?id=50472038)
 
-**「背景信息」** Anthropic 是一家总部位于旧金山的美国人工智能（AI）公益公司，致力于构建可靠、可解释和可操控的 AI 系统。其旗舰产品是 Claude，这是一系列专有的大型语言模型（LLMs）。Anthropic 的成立和发展，以及其在 AI 领域的贡献，为理解其 IPO 的市场影响提供了重要的背景信息。
+**「Rust 1.100 版本背景」** Rust 1.100 版本是 Rust 编程语言的最新版本，它引入了多个重要的更新和改进。这些改进包括稳定了 never 类型、自定义分配器以及引入了最小发布年龄配置。这些变化对于使用 Rust 的开发者来说非常有价值，有助于提高语言的增长和稳定性。
 
-**「影响」** Anthropic 的 IPO 对 AI 行业产生了显著影响，尤其是对投资者和 AI 基础设施的潜在需求。其高市值和快速增长的收入表明市场对 AI 技术的信心增强，可能促使更多资金流入 AI 领域，从而加速技术创新和产品开发。
+**「影响」** 这一版本更新为开发者提供了更稳定和高效的开发环境，有助于提高开发效率和代码质量。
 
-**「社区讨论」** 社区讨论中，有人指出，如果 Anthropic 的模型足够强大以实现递归自我改进，那么风险投资公司可能会推动推迟 IPO 以等待市场主导地位的确立。同时，也有观点认为，尽管大型语言模型（LLM）具有很大价值，但用户可以轻松切换到更便宜的模型，因此前端模型的需求可能并不像某些人预期的那样高。
+**「社区讨论」** 社区成员对 Rust 1.100 的发布表示欢迎，特别是对稳定 never 类型、自定义分配器和最小发布年龄配置的引入表示赞赏。一些用户也提到了编译速度和临时文件清理的问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
-<li><a href="https://www.anthropic.com/">Home \ Anthropic</a></li>
-<li><a href="https://claude.com/">Claude by Anthropic | The AI for problem solvers</a></li>
-<li><a href="https://www.gate.com/blog/gate-anthropic-ipo-valuation-subscription-and-outlook">Gate Anthropic IPO : Valuation, Subscription and Outlook | Gate Blog</a></li>
-<li><a href="https://www.businessinsider.com/big-short-michael-burry-anthropic-ipo-filing-ai-claude-tokens-2026-10">Burry: Anthropic IPO Filing Shows AI Is... - Business Insider</a></li>
-<li><a href="https://www.bnnbloomberg.ca/investing/investor-outlook/2026/06/03/investor-outlook-anthropic-ipo-filing-heats-up-ai-industry-race/">Anthropic filing puts spotlight on AI valuations</a></li>
+<li><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">Announcing Rust 1 . 100 .0 | Rust Blog</a></li>
+<li><a href="https://releases.rs/docs/1.100.0/">1.100.0 | Rust Changelogs - releases.rs</a></li>
+<li><a href="https://lwn.net/Articles/1107188/">Rust 1.100.0 [LWN.net]</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Industry`, `#IPO`, `#Anthropic`, `#Financials`, `#AI Infrastructure`
+**标签**: `#Rust`, `#Programming Language`, `#Software Development`, `#Update`, `#Community Interest`
 
 ---
 
 <a id="item-ai-frontier-7"></a>
-### [中国前沿 AI 模型受出口管制 GPU 的影响](https://unemploymentlabs.com/checkpoint-forensics) ⭐️ 7.0/10
+### [苹果推出 Foundation Models 框架](https://developer.apple.com/foundation-models-framework/) ⭐️ 7.0/10
 
-分析指出，由于出口管制 GPU 的影响，中国的 AI 模型可能存在技术上的痕迹。这引发了关于 AI 研究和基础设施的潜在影响和政策考量。
+苹果公司推出了 Foundation Models 框架，该框架旨在为 iOS 应用提供社区兴趣和潜在的应用能力。该框架允许开发者使用 Private Cloud Compute，无需支付云 API 费用，并在 App Store 上分发应用时使用 PCC 功能。
 
-hackernews · firloop · 11月12日 21:56 · [社区讨论](https://news.ycombinator.com/item?id=50474883)
+hackernews · kermatt · 11月12日 21:13 · [社区讨论](https://news.ycombinator.com/item?id=50474361)
 
-**「背景」** 随着美国对中国实施的出口管制，中国的人工智能模型受到了影响。这些管制限制了高性能 GPU 的出口，而高性能 GPU 是训练复杂 AI 模型的关键硬件。尽管如此，一些中国的人工智能公司，如 DeepSeek、Moonshot AI、MiniMax 和 Ant Group，被发现使用了 NVIDIA 的 Blackwell GPU 来训练他们的 AI 模型，尽管这些芯片的出口受到限制。这表明中国的人工智能研究可能正在寻找替代方案或绕过这些限制。
+**「背景信息」** 苹果公司推出了 Foundation Models 框架，这是一个原生 Swift API，用于将任何大型语言模型集成到应用程序中。该框架提供了对设备上和私有云计算中的 Apple Foundation Models 的直接访问，包括引导生成、工具调用、图像理解和动态配置文件等强大功能。这些模型有助于执行特定于用例的智能任务。
 
-**「影响」** 对于开发者、研究人员和用户来说，出口控制的 GPU 对中国 AI 模型的影响可能导致 AI 研究和基础设施的供应链中断，迫使研究人员寻找替代方案，如使用云服务或本地芯片，这可能会增加成本并延长开发周期。
-
-**「社区讨论」** 社区讨论中，有人指出中国 AI 公司可以远程使用位于新加坡或马来西亚的 Nvidia GPU，这符合当前的美国出口控制法规。同时，也有人对文章的合法性表示怀疑，并提到即使美国停止所有 GPU 出口，中国租用西方服务器的 GPU 也将非常困难，这可能导致一个黑市的出现。
+**「影响」** 对于开发者来说，Foundation Models 框架的推出意味着他们可以更轻松地将 AI 功能集成到 iOS 应用中，从而提高应用的智能化水平。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://unemploymentlabs.com/checkpoint-forensics">Top Chinese Frontier AI Models Carry the Fingerprint of...</a></li>
-<li><a href="https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/">Jensen Huang’s affair with alleged Chinese spy highlights... | PC Gamer</a></li>
-<li><a href="https://www.wired.com/story/deepseek-china-model-ai/">How Chinese AI Startup DeepSeek Made a Model that... | WIRED</a></li>
-<li><a href="https://www.linkedin.com/pulse/shutdown-hands-frontier-china-ameen-alam-xzksf">The Shutdown That Hands the Frontier to China</a></li>
-<li><a href="https://www.mindfront.solutions/the-ai-revolution-unveiled-openais-startup-ecosystem-and-the-infrastructure-imperative/">A Deep Dive into the Infrastructure Challenges and Geopolitical...</a></li>
-<li><a href="https://vast.ai/">Rent GPUs | Vast. ai</a></li>
+<li><a href="https://developer.apple.com/foundation-models-framework/">Foundation Models framework - Apple Developer</a></li>
+<li><a href="https://developer.apple.com/documentation/foundationmodels">Foundation Models | Apple Developer Documentation</a></li>
+<li><a href="https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models">Introducing the Third Generation of Apple’s Foundation Models</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Export Controls`, `#GPU Technology`, `#AI Infrastructure`, `#AI Models`
+**标签**: `#Apple`, `#AI Framework`, `#iOS Development`, `#AI Research`, `#Community Interest`
 
 ---
 
 <a id="item-ai-frontier-8"></a>
-### [Rust 1.100 发布：AI 应用中的编程语言新进展](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 7.0/10
+### [AMD Zen 6 架构深度分析](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at) ⭐️ 7.0/10
 
-Rust 1.100 版本发布，该版本在 AI 应用中表现出色，特别受到社区关注。新版本引入了多种稳定特性，如自定义分配器、最小发布年龄配置等，这些特性有助于提高 AI 项目的性能和安全性。
+AMD Zen 6 架构的深入分析揭示了其设计选择和优化，其中最引人注目的是密集型的 Zen 6c 现在成为 IPC（每时钟周期指令数）最高的核心（每个核心拥有完整的 4MB L3 缓存），而传统的经典设计则转向高频。AMD 还努力确保软件无法察觉到两者之间的差距，因此相同的优化也适用于两者。
 
-hackernews · mbStavola · 11月12日 18:39 · [社区讨论](https://news.ycombinator.com/item?id=50472038)
+hackernews · dverlaeckt80 · 11月12日 14:12 · [社区讨论](https://news.ycombinator.com/item?id=50467460)
 
-**「Rust 编程语言背景」** Rust 是一种注重性能和安全的系统编程语言，其设计目标是防止内存安全问题，同时提供高性能。Rust 的这些特性使其在人工智能领域特别受欢迎，因为它允许开发者编写既安全又高效的代码。Rust 的编译器会进行严格的类型检查，从而减少错误，同时其内存安全模型有助于提高程序的性能。这种语言在机器学习领域的应用得益于其高性能和内存安全特性，例如 Tch-rs 库允许开发者使用 Rust 编写与 PyTorch 兼容的性能关键组件。
+**「背景」** Zen 6 是 AMD 即将推出的 CPU 微架构，继 Zen 5 之后，预计将采用 TSMC 的 6nm 和 2nm 工艺。Zen 架构是 AMD 的混合多芯片架构，允许 AMD 解耦创新路径，提供持续的创新、高性能产品。Zen 架构的设计创新，使得 AMD 能够在桌面、服务器和移动处理器等多个领域提供领导性能、可扩展性和效率。
 
-**「影响」** Rust 1.100 的发布为开发者提供了更强大的工具和功能，特别是在 AI 领域。这一版本引入了新的稳定特性和 API，如自定义分配器、最小发布年龄配置等，这些特性将有助于提高 AI 应用程序的性能和安全性。
+**「影响」** 对于开发者和研究人员来说，这种架构的深入分析有助于他们更好地理解 CPU 设计和优化，从而在开发 AI 应用时做出更明智的决策。
 
-**「社区讨论」** 社区成员对 Rust 在 AI 领域的应用表示出浓厚兴趣。有人提到 Rust 在编写安全且高效的代码方面的优势，使得他们已经将所有项目迁移到 Rust。同时，也有人对新版本中未提及的一些新特性表示关注。
+**「社区讨论」** 社区成员 minfazhai 指出，Zen 6c 的设计反转是出乎意料的，而 koutakun 认为这篇文章非常有趣，很少看到 CPU 设计师如此深入地探讨。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.c-sharpcorner.com/article/machine-learning-using-rust-programming">Machine Learning Using Rust</a></li>
-<li><a href="https://blog.logrocket.com/comparing-rust-vs-zig-performance-safety-more/">Comparing Rust vs. Zig: Performance , safety , and... - LogRocket Blog</a></li>
-<li><a href="https://www.simplilearn.com/rust-vs-python-article">Rust vs Python: Which Programming Language Leads?</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29">Rust (programming language ) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zen_6">Zen 6 - Wikipedia</a></li>
+<li><a href="https://www.amd.com/en/technologies/zen-core.html">AMD &quot;Zen&quot; Core Architecture</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Rust`, `#AI`, `#Programming Language`, `#Software Development`, `#Release`
+**标签**: `#CPU Architecture`, `#AMD Zen 6`, `#AI Infrastructure`, `#CPU Design`, `#Technical Analysis`
 
 ---
 
 <a id="item-ai-frontier-9"></a>
-### [tamserve：实时视频跟踪成本降低 2 倍](https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/) ⭐️ 7.0/10
+### [Anthropic IPO](https://ipo.anthropic.com/us/) ⭐️ 7.0/10
 
-tamserve 是一款成本效益高的实时视频跟踪工具，通过优化内存使用和速度，与现有解决方案相比，提供了更优的性能和更低的成本。它可以在不牺牲准确性的情况下，将每台摄像头的每日成本降低至 Meta 代码的 1/2 至 1/3，同时运行速度提高 3.8 倍。
+Anthropic 公司宣布了其首次公开募股（IPO），股票代码为 ANT，预计发行价在 70 至 78 美元之间，总交易规模达到 853 亿美元，包括 IPO 和 26 亿美元的私募。这反映了市场对 Anthropic 及其大型语言模型（LLM）的认可，尽管有观点认为公司可能过早地进行了 IPO。
 
-reddit · r/MachineLearning · /u/Chunkymunkey642069 · 11月13日 02:23
+hackernews · josephljohnston · 11月12日 11:46 · [社区讨论](https://news.ycombinator.com/item?id=50465829)
 
-**「背景信息」** SAM 2 风格的跟踪器（如 SAM 2.1、EdgeTAM）相比框跟踪器具有更高的准确性和灵活性，只需一次指向，即可在每一帧中获取其精确轮廓。然而，在实时摄像头中，这些跟踪器成本较高，并且 Meta 的代码会保留它所看到的每一帧，因此很快就会耗尽 GPU 内存。tamserve 通过在所有摄像头之间共享模型的一个副本并保持内存平稳，从而实现了无限运行，其速度比 Meta 的代码快 3.8 倍，同时保持相同的准确性。在 RTX 4090 上，每台摄像头的每日成本（根据每台 GPU 可以容纳多少台摄像头计算）：30 fps 时，tamserve 为 1.07 美元，而 Meta 的代码为 2.40 美元；10 fps 时，tamserve 为 0.36 美元，而 Meta 的代码为 0.74 美元；5 fps 时，tamserve 为 0.18 美元，而 Meta 的代码为 0.44 美元。可以在任何帧上添加或删除对象，摄像头会自动重新连接，并且它可以跨 GPU 扩展。tamserve 是免费和开源的。
+**「背景信息」** Anthropic 的 IPO 标志着人工智能行业的一个重要里程碑。IPO 的财务细节和市场影响对于理解这一事件至关重要。Anthropic 是一家专注于人工智能研究和开发的公司，其 IPO 涉及了大量的资金和市场份额。在 IPO 之前，Anthropic 已经通过其产品和服务在市场上建立了显著的地位，这为投资者和行业观察者提供了重要的参考信息。
 
-**「影响」** tamserve 的推出为资源有限的开发者、研究人员和用户提供了一种更经济高效的实时视频分析解决方案，有助于降低 AI 视频分析领域的成本，并提高效率。
+**「社区讨论」** 社区中有人认为，如果 Anthropic 的模型足够强大，他们可能会推迟 IPO 以获得更大的市场主导地位。也有人指出，尽管大型语言模型（LLM）具有很高的价值，但用户可以轻松切换到更便宜的模型，因此前端模型的需求可能并不像一些人预期的那样高。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://sam.gov/">SAM .gov | Home</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/637971092">一篇文章搞懂Segment Anything ( SAM ) - 知乎</a></li>
-<li><a href="https://blog.csdn.net/sinat_37574187/article/details/145898023">万字长文从零解读 SAM (Segment Anything Model)大模型！万物皆可分割...</a></li>
+<li><a href="https://www.zacks.com/featured-articles/761/anthropic-ipo">Anthropic IPO 2026 Guide: Price Predictions, Dates, and ...</a></li>
+<li><a href="https://tech-insider.org/anthropic-ipo-s-1-filing-ant-nasdaq-16-3b-revenue-2026/">Anthropic IPO Filing: $80.7B Loss, $16.3B Revenue</a></li>
+<li><a href="https://www.forbes.com/sites/danrunkevicius/2026/10/01/anthropics-ipo-math-in-perspective/">Anthropic’s IPO Math In Perspective - Forbes</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Video Analysis`, `#Real-Time Tracking`, `#Cost Optimization`, `#Machine Learning Tools`
+**标签**: `#AI Infrastructure`, `#IPO`, `#Anthropic`, `#AI Industry`, `#Financial News`
 
 ---
 
 <a id="item-ai-frontier-10"></a>
-### [AI 有望 10 年内攻克癌症等疑难病症](https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniyniex1127662.shtml) ⭐️ 7.0/10
+### [中国 AI 在复杂肺癌诊疗中取得突破](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247943733&amp;idx=1&amp;sn=6349b3258182996ecb696f0e716cdf72) ⭐️ 7.0/10
 
-Anthropic CEO Dario Amodei 预测，AI 的进步有望在 10 年内让癌症、阿尔茨海默病、心脏病和精神类疾病成为历史遗迹。Anthropic 近期收购多家生物技术初创企业，并启动内部新药研发，同时设立实验室研究 AI 如何支撑基础生物学研究。
+中国 AI 医疗公司“未来医生”与国内顶级三甲医院胸外科团队联合开展的研究显示，其医疗大模型 MedGPT 在复杂肺癌病例的诊断和治疗中取得了显著突破，其辅助下医生的整体得分提升了 24.1%，在多路径策略生成方面优于国际主流通用大模型。
 
-telegram · zaihuapd · 11月12日 07:26
+rss · 量子位 · 11月13日 02:54
 
-**「背景」** Anthropic 公司 CEO Dario Amodei 预测，AI 的进步有望在 10 年内攻克癌症、阿尔茨海默病、心脏病和精神类疾病。这一预测基于 Anthropic 近期对生物技术初创企业的收购，以及公司内部新药研发的启动。此外，Anthropic 在旧金山设立了实验室，专注于研究 AI 如何支持基础生物学研究。Dario Amodei 曾表示，Anthropic 正在迅速增加在生物学和医学方面的努力。
+**「背景」** 近年来，人工智能在医疗领域的应用逐渐深入，特别是在癌症诊断和治疗方面。AI 技术能够通过分析大量的医疗数据，帮助医生更准确地诊断疾病，并提供个性化的治疗方案。在肺癌诊断和治疗方面，AI 的应用已经取得了一些进展，例如通过分析影像数据来检测早期肺癌。然而，由于肺癌病情复杂，治疗方案多样，AI 在复杂肺癌诊断和治疗中的应用仍然面临挑战。
 
-**「影响」** 这一预测对医疗行业具有重大意义，如果 AI 真的能在 10 年内攻克这些疑难病症，将极大地改善人类健康，并为医疗领域带来革命性的变化。
+**「影响」** 这项研究显著提升了医生在复杂肺癌诊疗中的决策能力，通过未来医生 MedGPT 辅助，医生的整体得分从 53.40 提升至 66.27，相对增幅达到 24.1%。这一突破对于提高肺癌诊疗的准确性和效率具有重要意义。
+
+**「社区讨论」** 目前没有社区讨论可用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/">Anthropic Says It Will Revolutionize Biology—Some Day | WIRED</a></li>
-<li><a href="https://darioamodei.com/">Dario Amodei</a></li>
-<li><a href="https://www.etvbharat.com/en/technology/anthropic-biology-lab-dario-amodei-eric-kauderer-abrams-enn26091902754">Anthropic Sets Up Secret Biology Lab To Push AI Into Drug Discovery</a></li>
+<li><a href="https://www.tfcaijing.com/article/page/4c52787875775669627056506646536d4d34566a77413d3d">DeepSeek把“赛博 医 生 ”卷疯了</a></li>
+<li><a href="https://36kr.com/p/1387816816280450">上市潮背后， AI 医 疗 影像何以战至终章？ -36氪</a></li>
+<li><a href="https://www.163.com/dy/article/L1F6J5R805568W0A.html">163.com/dy/article/L1F6J5R805568W0A.html</a></li>
+<li><a href="https://news.qq.com/rain/a/20260122A022F100">国产 大 模 型 MedGPT ...</a></li>
+<li><a href="https://www.163.com/dy/article/KJS9171O05564T5T.html">国产 大 模 型 MedGPT 获国际顶刊认证，&quot; 未 来 医 生 &quot;走进严肃 医 疗 深水区</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Healthcare Innovation`, `#AI in Medicine`, `#Predictive Analytics`, `#Biotechnology`
+**标签**: `#AI in Medicine`, `#Lung Cancer Diagnosis`, `#AI Research`, `#Medical Breakthrough`
 
 ---
 
 <a id="item-ai-frontier-11"></a>
-### [苹果详解新安全架构：防止录音指示灯被遮挡，强化音视频隐私保护](https://security.apple.com/blog/secure-exclaves/) ⭐️ 7.0/10
+### [清华腾讯研究提升 Agent 长程任务信用分配准确率](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247943628&amp;idx=3&amp;sn=6ec759519a3e8c7abff10b79041a286d) ⭐️ 7.0/10
 
-苹果公司推出了名为 Secure Exclaves 的新安全架构，该架构能够在独立的安全环境中处理音视频数据，从而保护主系统和应用在环境感知模式下仅获取必要的识别结果，避免接触原始数据。这项技术已应用于 HomeView 人脸与声音识别，以及 iPhone 18 Pro 的隐私指示器。
+清华大学季向阳教授团队与腾讯研究者合作，通过 TreeOPSD 技术改进长程任务的强化学习训练，使 Agent 的信用分配准确率提升 4.97 个百分点。该研究在 Qwen3-30B-A3B-Thinking-2507 模型上进行了测试，平均 Exact Match 达到 21.20%，较之前的方法有显著提升。
 
-telegram · zaihuapd · 11月12日 09:13
+rss · 量子位 · 11月12日 13:28
 
-**「背景信息」** 苹果公司是一家总部位于加利福尼亚州库比蒂诺的美国跨国科技公司，以其消费电子产品、软件和在线服务而闻名。苹果公司推出的 Secure Exclaves（安全隔离区）架构是一种新的安全架构，可以在独立的安全环境中处理音视频数据，从而增强主系统和应用程序的隐私保护。这一技术已应用于 HomeView 人脸与声音识别，以及 iPhone 18 Pro 的隐私指示器。在 iPhone 18 Pro 上，专用硬件会验证麦克风指示点的颜色、亮度及可见性，确保符合要求后才允许音频进入主系统。此外，苹果还要求在 Siri 音频会话期间持续显示指示点，且总显示时间至少三秒，以防止指示点被遮挡或伪装。
+**「背景」** 长程任务的强化学习训练中，信用分配是一个关键问题。由于长程任务中中间决策众多，整条轨迹共用一份优势信号难以体现不同操作的贡献。此外，由于时间差的问题，Rollout 来自采样时的行为策略，但同一批数据会被用于连续多个 mini-batch 更新，模型参数已经改变，后续更新却还沿用采样时计算好的信用，可能导致推得太远。为了解决这些问题，清华大学季向阳教授团队与腾讯研究者提出了 TreeOPSD 方法。
 
-**「影响」** 这一新安全架构的推出，为开发者、研究人员和用户提供了更强大的音视频隐私保护，有助于提升 AI 研究和 AI 产品在隐私保护方面的安全性。
+**「影响」** 这项研究通过改进长程任务的强化学习训练，使得 Agent 在深度研究中的信用分配准确率提升了 4.97 个百分点，这对于提高 Agent 在复杂任务中的表现具有重要意义。
+
+**「社区讨论」** 目前没有社区讨论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Apple_Inc.">Apple Inc. - Wikipedia</a></li>
-<li><a href="https://www.apple.com/">Apple</a></li>
-<li><a href="https://www.apple.com/store">Apple Store Online</a></li>
+<li><a href="https://cctest.ai/en/articles/treeopsd-brings-tree-aware-posterior-distillation-to-long-horizon-agent-rl">TreeOPSD: Tree-Aware Distillation for Agent Reinforcement ...</a></li>
+<li><a href="https://daiwk.github.io/auto-research/post-training/2610.23181-treeopsd/README-en/">TreeOPSD: Building finite posterior distillation targets from ...</a></li>
+<li><a href="https://alabia.com.br/insights/ia/treeospd-tree-aware-posterior-distillation-long-horizon-agents/">TreeOPSD: Tree-Aware Posterior Distillation for Long-Horizon ...</a></li>
+<li><a href="https://notebook.google/">Gemini Notebook | AI Research Tool &amp; Thinking Partner</a></li>
+<li><a href="https://www.youtube.com/watch?v=N8dZ6ADCPyc">Manus AI - The Calm Before the Hypestorm … (vs Deep Research ...)</a></li>
+<li><a href="https://pair.withgoogle.com/">People + AI Research</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#AI Security`, `#Privacy Protection`, `#Technology`, `#AI Research`
+**标签**: `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`, `#Model Updates`
 
 ---
 
 <a id="item-ai-frontier-12"></a>
-### [六款中国 AI 模型留下 Blackwell 芯片指纹](https://unemploymentlabs.com/checkpoint-forensics) ⭐️ 7.0/10
+### [使用 NLI 和编码器模型创建 Legora 风格的合法冲突检测工具指南](https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/) ⭐️ 7.0/10
 
-研究发现，DeepSeek、月之暗面、MiniMax 和蚂蚁集团的六款 AI 模型权重与英伟达 Blackwell 芯片的计算布局相符，表明这些模型可能在 Blackwell 硬件上初始化，并可能参与了训练。
+作者分享了一个使用 NLI 和编码器模型创建合法冲突检测工具的指南，旨在提高法律文件审查的效率。该工具通过将 NLI 和推理任务转移到更快速、更准确的编码器模型上，实现了对法律文件对偶比较的全面分析，从而在 20 秒内完成最长文档对的处理。
 
-telegram · zaihuapd · 11月13日 02:42
+reddit · r/MachineLearning · /u/ladyofcode · 11月13日 05:48
 
-**「背景信息」** Blackwell 是英伟达开发的一款图形处理单元（GPU）微架构，作为 Hopper 和 Ada Lovelace 微架构的继任者。这一微架构的引入，为深度学习领域带来了新的硬件支持。在 AI 模型初始化和硬件兼容性方面，Blackwell 芯片具有独特的计算布局，这为研究者提供了新的分析工具。在本次研究中，研究者通过分析 DeepSeek、月之暗面、MiniMax 和蚂蚁集团的六款模型权重，发现这些模型的初始参数与 Blackwell 芯片的计算布局相符，从而推测这些模型可能是在 Blackwell 硬件上初始化，甚至可能参与了训练过程。
+**「背景」** 自然语言推理（NLI）和编码器模型在机器学习领域被广泛应用于文本分析和处理。NLI 模型能够理解和推断文本之间的语义关系，而编码器模型则擅长将文本转换为固定长度的向量表示。这些技术在法律文档审查中的应用尚处于起步阶段，但已显示出巨大的潜力。例如，TypeSafe AI 的 Jev 模型是一个专门用于法律文档处理的判别性模型，它能够识别文档中的不一致和冲突。此外，GPT-6 Astra 和 Claude Opus 5 等大型语言模型也被用于法律文档的生成和分析。这些技术的发展为构建高效的冲突检测工具提供了技术基础。
 
-**「影响」** 这一发现对 AI 研究人员和开发者具有重要意义，因为它揭示了 AI 模型初始化和硬件兼容性的技术细节，有助于推动 AI 基础设施的发展，并可能促进针对特定硬件优化的模型开发。
-
-**「社区讨论」** 目前没有可用的社区评论。
+**「影响」** 该工具为法律工程师提供了更高效的法律文件审查方法，减少了人工审查的时间和成本，并提高了审查的准确性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Blackwell_%28microarchitecture%29">Blackwell (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://chat.qwen.ai/">Qwen</a></li>
-<li><a href="http://tongyi.aliyun.com/">通义实验室</a></li>
-<li><a href="https://www.youtube.com/watch?v=TI0mVVUcQEQ">AI是怎么思考 的 ：Anthropic 研 究 员打开黑箱 | Claude - YouTube</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jev_%28AI_model%29">Jev (AI model) - Wikipedia</a></li>
+<li><a href="https://docs.typesafe.ai/models">Models - TypeSafe</a></li>
+<li><a href="https://codelabs.developers.google.com/codelabs/discriminative-models">Getting started with Discriminative (Jev/DiffusionGemma) models</a></li>
+<li><a href="https://computingforgeeks.com/gpt-6-astra-vs-claude-opus-5/">GPT-6 Astra vs Claude Opus 5: Tested | ComputingForGeeks</a></li>
+<li><a href="https://regolo.ai/best-ai-coding-models-2026/">Best AI Coding Models 2026: Opus 5.5 vs GPT-6 Astra</a></li>
+<li><a href="https://www.datacamp.com/blog/gpt-6-astra-vs-claude-opus-5-5">GPT-6 Astra vs. Claude Opus 5.5: Which Model to Use - DataCamp</a></li>
+<li><a href="https://claude.ai/login?returnTo=/?via=static_email">Sign in or create an account | Claude .ai</a></li>
+<li><a href="https://claude.com/">Claude by Anthropic | The AI for problem solvers</a></li>
+<li><a href="https://chatai.org/gemini">Gemini AI - Free Google AI Chat | СhatGPT.org</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#AI Infrastructure`, `#AI Model Initialization`, `#Blackwell Chip`, `#Deep Learning`
+**标签**: `#Machine Learning`, `#Legal Technology`, `#Natural Language Inference`, `#Encoder Models`, `#Legal Document Review`
+
+---
+
+<a id="item-ai-frontier-13"></a>
+### [tamserve：实时视频跟踪效率提升，成本降低](https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/) ⭐️ 7.0/10
+
+tamserve 是一款提升实时视频跟踪效率和成本效益的工具，其性能比 Meta 的代码快 3.8 倍，且成本仅为 Meta 代码的 1/2。该工具共享模型副本，节省 GPU 内存，支持无限运行，并免费开源。
+
+reddit · r/MachineLearning · /u/Chunkymunkey642069 · 11月13日 02:23
+
+**「背景信息」** tamserve 是一款用于提升实时视频跟踪效率和成本效益的工具。它通过共享模型副本并在所有摄像头之间保持内存平衡，从而避免了 GPU 内存的快速耗尽。与 Meta 的代码相比，tamserve 在保持相同精度的同时，提供了高达 3.8 倍的性能提升。此外，tamserve 还具有灵活性和准确性，类似于 SAM 2-style trackers（如 SAM 2.1 和 EdgeTAM），但成本更低。
+
+**「影响」** tamserve 的推出为开发者提供了更高效、成本更低的实时视频跟踪解决方案，有助于降低 AI 应用的成本，加速 AI 技术的普及和应用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://sam2.metademolab.com/">SAM 2 Demo | By Meta FAIR</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Infrastructure`, `#Real-time Video Tracking`, `#Machine Learning Tools`, `#Cost Efficiency`
+
+---
+
+<a id="item-ai-frontier-14"></a>
+### [苹果详解新安全架构：防止录音指示灯被遮挡，强化音视频隐私保护](https://security.apple.com/blog/secure-exclaves/) ⭐️ 7.0/10
+
+苹果公司推出了名为 Secure Exclaves 的新安全架构，旨在提升其设备上音视频的隐私保护。该架构能够在独立的安全环境中处理音视频数据，确保主系统和应用在环境感知模式下仅获取必要的识别结果，避免接触原始数据。这项技术已应用于 HomeView 人脸与声音识别，以及 iPhone 18 Pro 的隐私指示器。
+
+telegram · zaihuapd · 11月12日 09:13
+
+**「背景信息」** Secure Exclaves（安全隔离区）是苹果公司推出的一种新型安全架构，旨在提高其设备上音视频的隐私保护。该架构能够在独立的安全环境中处理音视频数据，确保主系统和应用程序在环境感知模式下只能获取必要的识别结果，从而避免接触原始数据。这种技术已经应用于 HomeView 人脸与声音识别以及 iPhone 18 Pro 的隐私指示器。Secure Exclaves 通过在硅芯片的核心组件中添加隔离特性，与许多核心组件协同工作，以保护 Secure Exclaves 并使其与系统其他部分隔离开来。
+
+**「影响」** Secure Exclaves 架构的应用将增强用户对音视频隐私的信心，为开发者提供了更安全的隐私保护解决方案，有助于推动 AI 技术在保护用户隐私方面的进一步发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://security.apple.com/blog/secure-exclaves">Secure Exclaves and Ambient Sensing - Apple Security Research</a></li>
+<li><a href="https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared">A detailed explanation of Apple&#x27;s Secure Exclaves has been ...</a></li>
+<li><a href="https://support.apple.com/guide/security/the-secure-enclave-sec59b0b31ff/web">The Secure Enclave - Apple Support</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#AI Infrastructure`, `#Privacy Protection`, `#Security Architecture`, `#AI Research`
+
+---
+
+<a id="item-ai-frontier-15"></a>
+### [六款中国 AI 模型留下 Blackwell 芯片指纹研究](https://unemploymentlabs.com/checkpoint-forensics) ⭐️ 7.0/10
+
+研究发现，DeepSeek、月之暗面、MiniMax 和蚂蚁集团的六款 AI 模型权重与英伟达 Blackwell 芯片的计算布局相符，表明这些模型可能在 Blackwell 硬件上初始化，并可能参与了相关芯片的训练过程。
+
+telegram · zaihuapd · 11月13日 02:42
+
+**「背景信息」** Blackwell 芯片是英伟达于 2024 年 3 月 18 日发布的 AI 芯片，该芯片于 2024 年 6 月 2 日正式投产，同年 11 月交付 13000 个样品。Blackwell 芯片的设计旨在为人工智能推理和加速计算提供强大的支持，其性能在数据中心领域具有显著优势。这一芯片的发布标志着英伟达在 AI 硬件领域的进一步发展，为后续的 AI 模型提供了强大的硬件支持。
+
+**「影响」** 这一发现对 AI 研究者和开发者具有重要意义，因为它揭示了 AI 模型与特定硬件之间的兼容性和潜在的训练过程，有助于进一步优化 AI 模型的性能和硬件配置。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/Blackwell/64177746">Blackwell（2024年3月18日英伟达发布的AI芯片）_百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/1965526978590376102">万字详解英伟达Blackwell架构 | 附英文白皮书 - 知乎</a></li>
+<li><a href="https://developer.nvidia.cn/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era/">揭秘 NVIDIA Blackwell Ultra：推动 AI 工厂时代的芯片动力 - NVIDIA ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Research`, `#Hardware Compatibility`, `#AI Infrastructure`, `#Model Analysis`
 
 ---
 
 ## IT 与开源
 
 <a id="item-it-opensource-1"></a>
-### [黄仁勋辞职](https://www.solidot.org/story?sid=85872) ⭐️ 7.0/10
+### [《Python 之禅》作者 Tim Peters 去世](https://www.solidot.org/story?sid=85867) ⭐️ 9.0/10
 
-Nvidia&\#x27;s President and CEO, Jensen Huang, has resigned, with Colette Kress stepping in as interim CEO while a successor is being sought.
+Python 编程语言的重要贡献者 Tim Peters 去世，享年 74 岁。他的作品《Python 之禅》和排序算法 Timsort 对 Python 语言及其生态系统产生了深远影响。
 
-rss · Solidot · 11月12日 14:03
+rss · Solidot · 11月12日 08:30
 
-**标签**: `#Technology News`, `#Nvidia`, `#Leadership Change`, `#Open Source`, `#Industry Impact`
+**「背景信息」** Tim Peters 是一位软件工程师，因创造 Timsort 混合排序算法和对 Python 编程语言及其原始 CPython 实现的重大贡献而闻名。他自 2000 年代初以来一直是 Python 的核心开发者。Peters 设计并实现了 Timsort，这是一种由归并排序和插入排序衍生而来的高效混合排序算法，自 2002 年以来一直是 Python 的默认排序方法，也被 Java 和 Android 等语言采用。他的贡献还包括撰写了《Python 之禅》（PEP 20），这是 Python 编程语言的哲学宣言。
+
+**「影响」** Tim Peters 的去世对软件开发和开源社区是一个巨大的损失。他的贡献，特别是对 Python 语言的设计和发展，对开发者产生了深远的影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Tim_Peters_%28software_engineer%29">Tim Peters (software engineer) - Wikipedia</a></li>
+<li><a href="https://lwn.net/Articles/1106901/">In Memoriam: Tim Peters 1952–2026 - lwn.net</a></li>
+<li><a href="https://grokipedia.com/page/Tim_Peters_%28software_engineer%29">Tim Peters (software engineer) — Grokipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Python`, `#Open Source`, `#Software Engineering`, `#Programming Language`, `#Tim Peters`
 
 ---
 
 <a id="item-it-opensource-2"></a>
+### [美国扣押了从币安盗走的逾 12 亿美元加密货币](https://www.solidot.org/story?sid=85876) ⭐️ 7.0/10
+
+美国联邦调查局（FBI）宣布扣押了价值逾 12 亿美元的加密货币，这些货币是黑客组织 TraderTraitor 从全球最大加密货币交易所币安盗走的。
+
+rss · Solidot · 11月13日 06:36
+
+**「背景」** 加密货币作为一种数字资产，其安全性一直是市场关注的焦点。币安作为全球最大的加密货币交易所之一，其遭受黑客攻击并导致大量加密货币被盗的事件，凸显了在数字资产安全领域所面临的挑战。此次事件中，黑客组织 TraderTraitor 盗走了价值 63 亿美元的加密货币，其中约半数是稳定币，而另一半则是难以被冻结的比特币、以太币和 XRP。美国政府通过法庭授权扣押或冻结了逾 12 亿美元的加密货币，但没有透露更多细节。
+
+**「影响」** 这一事件凸显了在数字资产安全方面所面临的持续挑战，可能对加密货币市场的信心和安全性产生重大影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.sky.com/story/fbi-seizes-1-2bn-stolen-in-binance-cryptocurrency-hack-13611753">FBI seizes $1.2bn stolen in Binance cryptocurrency hack | Sky News</a></li>
+<li><a href="https://www.independent.co.uk/tech/fbi-north-korea-binance-crypto-heist-b3076990.html">FBI confirms North Korea behind stolen billions from Binance in...</a></li>
+<li><a href="https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist">CZ warns of more AI-driven hacks following Binance ’s historic...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Cryptocurrency`, `#Theft`, `#Law Enforcement`, `#Binance`, `#Security`
+
+---
+
+<a id="item-it-opensource-3"></a>
+### [微软云服务全球宕机](https://www.solidot.org/story?sid=85875) ⭐️ 7.0/10
+
+微软云服务遭遇全球性宕机，影响包括 Outlook、Teams、OneDrive 和 Copilot 等服务。此次宕机无迹象表明是网络攻击所致，而是由于部分服务器意外不可用。
+
+rss · Solidot · 11月13日 05:30
+
+**「背景」** 微软云服务是全球广泛使用的云办公服务，包括 Outlook、Teams、OneDrive 等办公工具以及 AI 工具 Copilot。这些服务对于个人和企业用户来说至关重要。在 2026 年 11 月，微软云服务发生了全球性的宕机事件，影响了大量用户。此次宕机涉及的服务范围广泛，包括电子邮件、即时通讯、文件共享和人工智能辅助办公等功能。这起事件引发了外界对大型科技平台基础设施稳定性的关注。
+
+**「影响」** 此次宕机导致受影响用户无法查看部分文件或日历应用中的详细信息，以及 Copilot 无法正常运行，对用户的工作效率造成了一定影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cj.sina.com.cn/articles/view/8330648469/1f08b9b9507201dazo">微软全球宕机好几个小时，大概会造成多少经济损失？</a></li>
+<li><a href="https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_13_908181.shtml">微软全球大规模宕机 - 观察者网</a></li>
+<li><a href="https://www.36kr.com/p/3531540276976777">大半个互联网又崩了，全球第二大云突然宕机，只因微软的一次错误配置-...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Cloud Services`, `#Outage`, `#Microsoft`, `#Security`, `#Infrastructure`
+
+---
+
+<a id="item-it-opensource-4"></a>
+### [黄仁勋辞职](https://www.solidot.org/story?sid=85872) ⭐️ 7.0/10
+
+Nvidia&\#x27;s President and CEO, Jensen Huang, has resigned, with Colette Kress stepping in as interim CEO while the board searches for a permanent successor.
+
+rss · Solidot · 11月12日 14:03
+
+**标签**: `#Technology News`, `#Nvidia`, `#Leadership Change`, `#Industry Impact`, `#Open Source`
+
+---
+
+<a id="item-it-opensource-5"></a>
 ### [BMI 误判数百万人肥胖](https://www.solidot.org/story?sid=85871) ⭐️ 7.0/10
 
-一项基于中国、英国、美国、西班牙四国超过 84 万人的研究显示，单纯依靠 BMI（体重除以身高的平方）来诊断肥胖是不准确的。研究发现，约 5.2%至 8.6%的参与者被低估肥胖程度，1.2%至 3.1%被高估。此外，研究还发现，处于‘临床前肥胖’阶段的人全因死亡风险增加 19%，而一旦恶化为‘临床肥胖’，死亡风险将增至 69%。
+一项基于 84 万人的跨国研究显示，BMI（体重指数）作为肥胖诊断的指标存在缺陷，导致约 5.2%至 8.6%的参与者肥胖程度被低估，1.2%至 3.1%被高估。研究指出，仅 22.7%至 31.3%的体脂过多者出现器官功能受损，而 77%至 91%的“临床前肥胖”者未进展为“临床肥胖”，强调早期干预的重要性。
 
 rss · Solidot · 11月12日 14:01
 
-**「肥胖诊断与 BMI 的关系」** 长期以来，全球普遍以 BMI（体重除以身高的平方）作为筛查和判定肥胖的核心指标。然而，最新的研究表明，仅凭 BMI 无法准确诊断肥胖。这是因为 BMI 只能反映体重与身高的关系，却无法区分增加的体重是肌肉还是脂肪，更无法判断脂肪是否已伤害到内脏器官。这项研究强调了在肥胖诊断中考虑其他因素的重要性，以及及时进行科学干预和生活方式重塑的必要性。
+**「肥胖诊断的背景」** 长期以来，全球普遍以身体质量指数（BMI）作为筛查和判定肥胖的核心指标。BMI 是通过体重除以身高的平方来计算的。然而，最新的研究表明，BMI 并不能准确地区分增加的体重是肌肉还是脂肪，也无法判断脂肪是否已经伤害到内脏器官。这些研究强调了在肥胖诊断中考虑其他因素的重要性，以及误诊可能带来的健康风险。
 
-**「影响」** 这项研究对公共卫生政策和个体健康决策产生了重要影响，表明在评估肥胖时需要考虑更多因素，而不仅仅是 BMI。这可能会促使医疗保健提供者和政策制定者重新评估肥胖的诊断标准，并采取更全面的健康干预措施。
+**「影响」** 这项研究对公共卫生和健康风险评估产生了重要影响，表明仅依赖 BMI 来诊断肥胖可能导致健康风险和治疗方案的不准确，强调了需要考虑更多因素进行综合评估。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13266248/">Screening, Diagnosis , Evaluation, and Staging of Obesity in Adults...</a></li>
 <li><a href="https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index">BMI alternative for identifying obesity ‘could prevent... | The Guardian</a></li>
-<li><a href="https://www.everydayhealth.com/obesity/guide/">Obesity : BMI Ranges, Causes, Treatment, Prevention, and Statistics</a></li>
+<li><a href="https://www.adameetingnews.org/debate-weighs-whether-bmi-should-remain-central-to-obesity-diagnosis/">Debate weighs whether BMI should remain central to obesity diagnosis</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Public Health`, `#Obesity`, `#BMI`, `#Research`, `#Health Policy`
-
----
-
-<a id="item-it-opensource-3"></a>
-### [天文学家发现独特双星系统发射射电信号](https://www.solidot.org/story?sid=85870) ⭐️ 7.0/10
-
-天文学家发现了一个名为 GPM J071507−114153 的独特双星系统，该系统由一颗白矮星和一颗类太阳 G 型恒星组成。白矮星每八分钟自转一次并发射一次射电信号，这是首次在绕类太阳恒星运行的白矮星中探测到射电脉冲。这一发现为理解恒星过程提供了新的视角。
-
-rss · Solidot · 11月12日 13:55
-
-**「背景信息」** 在恒星研究中，白矮星是一种由恒星死亡后留下的致密核心形成的恒星。这类恒星的自转速度非常快，有时可以达到每分钟数圈。而射电信号是恒星活动的一种表现形式，通常与恒星耀斑等事件相关。长周期瞬变天体（LPT）是一类具有特定周期性变化的天体，这类天体的研究有助于我们更好地理解恒星演化过程。
-
-**「影响」** 这一发现对天文学家来说具有重要意义，因为它提供了关于恒星过程的新见解，特别是关于类太阳恒星上的恒星耀斑的研究。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Long">Long - Wikipedia</a></li>
-<li><a href="https://www.merriam-webster.com/dictionary/long">LONG Definition &amp; Meaning - Merriam-Webster</a></li>
-<li><a href="https://symbolsdb.com/long-dash-symbol">Long Dash Symbol (—) - Copy and Paste Text Symbol - Symbolsdb.com</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Astronomy`, `#Binary Star System`, `#Radio Signals`, `#Stellar Processes`, `#Astronomical Discovery`
-
----
-
-<a id="item-it-opensource-4"></a>
-### [M87 星系黑洞存在甜甜圈结构](https://www.solidot.org/story?sid=85868) ⭐️ 7.0/10
-
-A study independently verifies the ring structure of the M87\* black hole, confirming the &\#x27;doughnut&\#x27; image released years ago.
-
-rss · Solidot · 11月12日 08:43
-
-**标签**: `#Astronomy`, `#Black Hole`, `#Science`, `#Imaging Technology`, `#Astrophysics`
-
----
-
-<a id="item-it-opensource-5"></a>
-### [《Python 之禅》作者 Tim Peters 去世](https://www.solidot.org/story?sid=85867) ⭐️ 7.0/10
-
-Python 编程语言的共同设计者之一，著名作品《Python 之禅》的作者 Tim Peters 于 2026 年去世，享年 74 岁。他的贡献包括 Timsort 算法的开发和对 Python 语言设计的重大影响。
-
-rss · Solidot · 11月12日 08:30
-
-**「背景」** Tim Peters 是 Python 编程语言的共同设计者之一，他对 Python 语言的发展做出了重要贡献。他最为人熟知的贡献是撰写了《Python 之禅》，这份原则集在 1999 年被发布在 Python 邮件列表上。Peters 还在 Python 的设计中发挥了重要作用，例如他推动了 Python 对整数和浮点数混合运算的支持，并在邮件列表上活跃地回答用户问题，因此获得了 Timbot 的绰号。他在 2002 年引入了 Timsort 排序算法，该算法后来被 Java 和 Android 采用。这些贡献对 Python 语言及其社区产生了深远的影响。
-
-**「影响」** Tim Peters 的去世对 Python 社区产生了深远的影响，他的工作对 Python 语言的发展起到了关键作用，尤其是在 Timsort 算法的引入上，这一算法对 Python 的性能和效率产生了积极影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Zen_of_Python">Zen of Python - Wikipedia</a></li>
-<li><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">In Memoriam: Tim Peters 1952–2026 - Core Development...</a></li>
-<li><a href="https://lunduke.locals.com/post/5985667/python-bans-prominent-dev-for-enjoying-the-wrong-old-snl-sketch">Python Bans Prominent Dev for Enjoying the Wrong Old SNL Sketch</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Python`, `#Programming Language`, `#Tim Peters`, `#Timsort`, `#Open Source`
+**标签**: `#Health Research`, `#Obesity`, `#BMI`, `#Public Health`, `#Nutrition`
 
 ---
 
 <a id="item-it-opensource-6"></a>
-### [腾讯战略转型 AI 原生业务](https://www.solidot.org/story?sid=85865) ⭐️ 7.0/10
+### [天文学家发现独特双星系统每八分钟发射射电信号](https://www.solidot.org/story?sid=85870) ⭐️ 7.0/10
 
-腾讯计划将半数员工投入到 AI 原生业务，这是公司战略的重大转变，旨在应对技术未来的挑战。马化腾将腾讯的核心业务比作陆军，新的 AI 业务比作海军，强调了对 AI 技术的重视和投入。
+天文学家发现了一个名为 GPM J071507−114153 的独特双星系统，该系统由一颗白矮星和一颗类太阳 G 型恒星组成。白矮星每八分钟自转一次并发射一次射电信号，这是首次在绕类太阳恒星运行的白矮星中探测到射电脉冲。这一发现为理解恒星过程提供了新的见解。
 
-rss · Solidot · 11月12日 06:49
+rss · Solidot · 11月12日 13:55
 
-**「背景」** 腾讯公司正经历一次战略转型，将重点转向 AI 原生业务。这一转型计划由腾讯创始人马化腾提出，他计划将公司一半的员工投入到 AI 原生业务中。马化腾将腾讯的核心业务比喻为陆军，而新的 AI 业务则被比作海军，强调了对 AI 技术的重视和探索。这一战略调整反映了公司对 AI 技术未来潜力的信心，以及对现有业务和新兴 AI 业务的平衡发展。
+**「背景」** 长周期瞬变天体（Long Period Transients，LPT）是一类最近被发现的银河系射电源，它们以周期性、高度极化的、连续的射电爆发为特征，这些爆发以几分钟到几小时的时间间隔重复出现。这类天体的射电爆发持续时间从几秒到几分钟不等，其通量密度可能达到几十 Jy。这些射电爆发以从几分钟到几小时的不等周期重复出现，并表现出强烈的极化和瞬态活动期。截至目前，已经发现了大约 12 个这样的源。
 
-**「影响」** 这一战略调整将对腾讯的员工结构和工作重点产生显著影响，要求员工在现有核心业务和新兴 AI 业务之间进行平衡，以适应技术发展的新趋势。
+**「影响」** 这一发现对天文学家来说具有重要意义，因为它提供了关于恒星过程的新见解，特别是关于双星系统和白矮星行为的理解，可能有助于揭示恒星及其相互作用的本质。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://57duanju.net/">每日更新高清 AI 成人短剧 | 激 情 爆款合集-57吃瓜网</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Long_period_radio_transient">Long period radio transient - Wikipedia</a></li>
+<li><a href="https://arxiv.org/pdf/2601.10393">Long Period Transients (LPTs): a comprehensive review</a></li>
+<li><a href="https://www.emergentmind.com/topics/long-period-transient-lpt">Long Period Transients (LPT) - emergentmind.com</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Tencent`, `#AI Technology`, `#Business Strategy`, `#Tech Industry`, `#Open Source`
+**标签**: `#Astronomy`, `#Astrophysics`, `#Binary Star Systems`, `#White Dwarfs`, `#Radio Signals`
+
+---
+
+<a id="item-it-opensource-7"></a>
+### [M87 星系黑洞存在甜甜圈结构](https://www.solidot.org/story?sid=85868) ⭐️ 7.0/10
+
+一项新的研究通过使用一种新型的成像算法，独立验证了 M87\*黑洞的环状结构，确认了之前发布的‘甜甜圈’图像的正确性。这项研究利用了一种新的成像算法，该算法将望远镜按闭合三站而不是两两配对进行划分，从而提高了图像重建的准确性。
+
+rss · Solidot · 11月12日 08:43
+
+**「背景」** M87 星系黑洞是首张黑洞照片的焦点，这张照片展示了距离地球约 5500 万光年、质量超太阳 60 亿倍的 M87 星系中心超大质量黑洞（M87\*黑洞）的图像，该图像因其独特的环状结构被称为‘甜甜圈’。这一结构的存在一直存在争议。最近，一项新的研究通过使用一种新型的成像算法独立验证了 M87\*黑洞的环状结构，确认了之前发布的‘甜甜圈’图像的正确性。这项研究利用了一种新的成像算法，该算法将望远镜按照闭合三站而不是两两配对进行划分，从而能够计算校准误差，并最终得到了一组符合这些标准的重建图像。
+
+**「影响」** 这项研究对于天体物理学家和黑洞研究者来说是一个重要的进展，因为它提供了对 M87\*黑洞环状结构的独立验证，有助于加深对黑洞结构和特性的理解。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arxiv.org/html/2409.00540v2">Imaging a ring-like structure and the extended jet of M87 at ...</a></li>
+<li><a href="https://arxiv.org/pdf/2409.00540">Imaging a ring-like structure and the extended jet of M87 at ...</a></li>
+<li><a href="https://www.nature.com/articles/s41586-026-11241-9">Independent interferometric observable confirms black hole ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Astronomy`, `#Black Hole`, `#Imaging Algorithm`, `#M87\* Black Hole`, `#Scientific Research`
 
 ---
 
@@ -922,47 +1000,23 @@ rss · Solidot · 11月12日 06:49
 <a id="item-tools-windows-1"></a>
 ### [任天堂《塞尔达传说：时之笛》PC 版原生移植](https://www.iplaysoft.com/zelda-ocarina-of-time.html) ⭐️ 7.0/10
 
-任天堂经典游戏《塞尔达传说：时之笛》的 PC 电脑版已原生移植，无需模拟器即可运行，为 PC 玩家提供了极大的便利。该版本支持 4K 分辨率，为玩家带来更优质的视觉体验。
+任天堂经典游戏《塞尔达传说：时之笛》的 PC 电脑版已成功原生移植，无需模拟器即可运行，并支持 4K 分辨率。此版本为 PC 玩家带来了前所未有的游戏体验，无需依赖模拟器即可享受高质量的游戏画面。
 
 rss · 异次元软件世界 · 11月12日 21:17
 
-**「背景」** 《塞尔达传说：时之笛》作为任天堂的经典游戏，一直是 PC 玩家的期待之作。由于技术限制，过去 PC 玩家需要通过模拟器来体验这款游戏。然而，随着技术的发展，现在《塞尔达传说：时之笛》已经实现了原生移植到 PC 电脑版，无需模拟器即可运行，为 PC 玩家带来了极大的便利。
+**「背景」** 《塞尔达传说：时之笛》作为任天堂的经典游戏，一直是 PC 玩家的期待之作。由于技术限制，过去 PC 玩家只能通过模拟器来体验这款游戏。然而，随着技术的进步，现在《塞尔达传说：时之笛 重制版》已经成功移植到 PC 平台，无需模拟器即可运行，并且支持 4K 分辨率，为玩家带来了更加流畅和沉浸式的游戏体验。
 
-**「影响」** 对 PC 游戏爱好者来说，这一移植意味着他们可以无需使用模拟器就能享受到这款经典游戏。不过，由于是免费移植，可能存在一些技术支持和服务上的限制。
+**「影响」** 此移植版本适用于所有 PC 玩家，特别是那些希望在没有模拟器限制的情况下体验《塞尔达传说：时之笛》的玩家。对于希望体验经典游戏但受限于平台或模拟器性能的玩家来说，这是一个重要的选择。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Legend_%282015_film%29">Legend (2015 film) - Wikipedia</a></li>
-<li><a href="https://en.m.wikipedia.org/wiki/Legend">Legend - Wikipedia</a></li>
-<li><a href="https://lhs.dcsdk12.org/">Home - Legend High School</a></li>
+<li><a href="https://www.gamersky.com/news/202611/2242841.shtml">《塞尔达时之笛RE》原生PC版太强!240帧/4K/超宽屏</a></li>
+<li><a href="https://www.ali213.net/news/html/2026-11/1053301.html">《塞尔达时之笛RE》PC版可4K/60帧 多人MOD也有了</a></li>
+<li><a href="https://www.gamersky.com/news/202611/2242430.shtml">《塞尔达传说：时之笛 重制版》原生PC民间移植！RTX 5090跑51帧 _ 游...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gaming`, `#PC Gaming`, `#Software Port`, `#Nintendo`
-
----
-
-<a id="item-tools-windows-2"></a>
-### [CherryTree v1.7.3](https://www.52pojie.cn/thread-2137118-1-1.html) ⭐️ 7.0/10
-
-CherryTree v1.7.3 是一款实用的知识管理工具，提供层次结构和支持自托管平台。它使用 Python 编写，能够存储多层目录、文本、图片和链接，非常适合用于知识库、笔记和文档管理。
-
-rss · 吾爱精品软件区 · 11月12日 06:07
-
-**「背景」** CherryTree 是一款基于 Python 开发的开源知识管理工具，它提供了一个层次化的结构，适合用于存储和管理各种知识、笔记和文档。该工具支持丰富的文本格式、图片、语法高亮、列表、基本表格等功能，并支持将内容保存为 PDF 或导出为 HTML 和文本格式。CherryTree 的最新版本 v1.7.3 增强了自我托管平台的支持，这对于寻求自建知识管理系统的用户来说是一个重要的更新。
-
-**「影响」** 适合寻求自托管平台解决方案的用户采用。它提供了层次结构，有助于用户组织和管理大量信息。需要注意的是，这是一个开源工具，因此可能需要一些技术知识来设置和维护。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/giuspen/cherrytree/releases">Releases · giuspen/ cherrytree</a></li>
-<li><a href="https://portableapps.com/apps/office/cherrytree-portable">Cherrytree Portable | PortableApps.com</a></li>
-<li><a href="https://windows.apkpure.com/cherrytree">CherryTree for PC Windows 1 . 7 .0.0 Download</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Knowledge Management`, `#Self-hosted`, `#Python`, `#Update`, `#Software`
+**标签**: `#Game Porting`, `#PC Gaming`, `#Nintendo`, `#Technology News`
 
 ---
