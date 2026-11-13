@@ -5,57 +5,390 @@ date: 2026-11-13
 lang: en
 ---
 
-> From 267 items, 40 important content pieces were selected
+> From 327 items, 40 important content pieces were selected
 
 ---
+
+**China Macro &amp; A-Share**
+1. [Belgium&\#x27;s Debt Crisis Risks Rising, Eurozone Faces New Fiscal Pressure](#item-cn-macro-1) ⭐️ 7.0/10
+2. [Amazon&\#x27;s Global Product Database Strategy](#item-cn-macro-2) ⭐️ 7.0/10
+3. [High Storage Costs Challenge Large Language Model Companies](#item-cn-macro-3) ⭐️ 7.0/10
+4. [IEA Downgrades Oil Demand Forecast, Raises Biofuel Supply](#item-cn-macro-4) ⭐️ 7.0/10
+5. [Market Dynamics Shifts in Large IPOs](#item-cn-macro-5) ⭐️ 7.0/10
+6. [NVIDIA&\#x27;s Market Revaluation and Credit Implications Post-Jensen Huang&\#x27;s Departure](#item-cn-macro-6) ⭐️ 7.0/10
+7. [China&\#x27;s Social Financing Scale Increases to 28.61 Trillion RMB in January-October](#item-cn-macro-7) ⭐️ 7.0/10
+8. [Huawei&\#x27;s Computing Power Integration into Industries](#item-cn-macro-8) ⭐️ 7.0/10
+9. [Impact of NVIDIA&\#x27;s Management Change on Chinese Tech Assets](#item-cn-macro-9) ⭐️ 7.0/10
+10. [US Fiscal Deficit Hits Record High in October](#item-cn-macro-10) ⭐️ 7.0/10
+11. [Changan Automobile to Sell 10% Stake in AITO for Global Expansion](#item-cn-macro-11) ⭐️ 7.0/10
+12. [Chinese Stock Market News Update](#item-cn-macro-12) ⭐️ 7.0/10
+13. [Long-term Funds Net Buy A-share Stocks Exceeding 600 Billion Yuan](#item-cn-macro-13) ⭐️ 7.0/10
 
 **Global Market**
 1. [How the Jensen Huang affair changes the outlook for U.S.-China relations](#item-global-market-1) ⭐️ 7.0/10
 2. [Oil Prices Rise Following Trump&\#x27;s Iran Deal Comments](#item-global-market-2) ⭐️ 7.0/10
-3. [Bond Yields Surge Amid Expectations of Further Fed Rate Hikes](#item-global-market-3) ⭐️ 7.0/10
-4. [Iran&\#x27;s Revolutionary Guards Target US Radar Station in Bahrain](#item-global-market-4) ⭐️ 7.0/10
-5. [Exclusive: Japan Warns Arms Suppliers of Deep Order Cuts](#item-global-market-5) ⭐️ 7.0/10
-6. [Yemen Houthi Attack on Saudi Oil Pipeline](#item-global-market-6) ⭐️ 7.0/10
-7. [US Handles 12B USD of Venezuela&\#x27;s Oil Revenues](#item-global-market-7) ⭐️ 7.0/10
-8. [Nvidia CEO Resignation and Potential Stricter AI Chip Sales Restrictions to China](#item-global-market-8) ⭐️ 7.0/10
-9. [UK Sanctions Russia&\#x27;s Slavneft](#item-global-market-9) ⭐️ 7.0/10
-10. [White House to Extend Jones Act Waiver](#item-global-market-10) ⭐️ 7.0/10
-11. [Fed&\#x27;s Barr Warns on AI Job Disruption and Widening Inequality](#item-global-market-11) ⭐️ 7.0/10
-12. [Finland Reports Attack on Russian Warship in Baltic Sea](#item-global-market-12) ⭐️ 7.0/10
-13. [Euclid Mission Data Release on Galaxies](#item-global-market-13) ⭐️ 7.0/10
-14. [US FDA Shelves Drug Review Acceleration Program](#item-global-market-14) ⭐️ 7.0/10
-15. [Car Bomb Attack on Russian Soldier Near St. Petersburg](#item-global-market-15) ⭐️ 7.0/10
-16. [EU Court Adviser Supports 1.7 Billion Antitrust Fine Against Google](#item-global-market-16) ⭐️ 7.0/10
-17. [India&\#x27;s Financial Regulation Update](#item-global-market-17) ⭐️ 7.0/10
+3. [Federal Reserve&\#x27;s Warsh to Assess AI Revolution Amid Public Wary](#item-global-market-3) ⭐️ 7.0/10
+4. [IAEA Concerns Over Iran&\#x27;s Uranium Enrichment Plant](#item-global-market-4) ⭐️ 7.0/10
+5. [Iran Tanker Explosion in Hormuz Strait](#item-global-market-5) ⭐️ 7.0/10
+6. [Iran&\#x27;s Guards Target US Early-Warning Radar Station in Bahrain](#item-global-market-6) ⭐️ 7.0/10
+7. [Yemeni Houthis Attack Saudi Oil Pipeline](#item-global-market-7) ⭐️ 7.0/10
 
 **AI Frontier**
-1. [UMAP 0.6: Performance and Feature Enhancements](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [Google Releases Gemini 4 Hydrogen Model](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [NVIDIA CEO Jensen Huang Resigns](#item-ai-frontier-3) ⭐️ 7.0/10
+1. [UMAP 0.6: Performance Enhancements and Improved Initialization](#item-ai-frontier-1) ⭐️ 8.0/10
+2. [ParaTrace v8 \(RAID-tuned\) Achieves Strong Performance on RAID Leaderboard](#item-ai-frontier-2) ⭐️ 8.0/10
+3. [Google Releases Gemini 4 Hydrogen Model](#item-ai-frontier-3) ⭐️ 8.0/10
 4. [Open-Source Project Enables LLMs on Small Devices](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [Edge0-145B: Frontier AI Capabilities on Your Own Computer](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [Rust 1.100 Release Highlights](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [Apple Introduces Foundation Models Framework](#item-ai-frontier-7) ⭐️ 7.0/10
-8. [In-Depth Analysis of AMD Zen 6 Architecture](#item-ai-frontier-8) ⭐️ 7.0/10
-9. [Anthropic&\#x27;s IPO Details](#item-ai-frontier-9) ⭐️ 7.0/10
+5. [In-Depth Analysis of Zen 6 Architecture](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [Foundation Models framework](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [Rust 1.100 Release Overview](#item-ai-frontier-7) ⭐️ 7.0/10
+8. [Edge0-145B: Frontier AI Capabilities on Your Own Computer](#item-ai-frontier-8) ⭐️ 7.0/10
+9. [Jensen Huang resigns](#item-ai-frontier-9) ⭐️ 7.0/10
 10. [中国AI在复杂肺癌诊疗中取得突破](#item-ai-frontier-10) ⭐️ 7.0/10
-11. [Tsinghua and Tencent Improve Agent&\#x27;s Credit Allocation](#item-ai-frontier-11) ⭐️ 7.0/10
-12. [Creating a Legal Conflict Detector with NLI and Encoder Models](#item-ai-frontier-12) ⭐️ 7.0/10
-13. [Tamserve Enhances Real-Time Video Tracking Efficiency](#item-ai-frontier-13) ⭐️ 7.0/10
-14. [Apple Introduces Secure Exclaves for Enhanced Privacy Protection](#item-ai-frontier-14) ⭐️ 7.0/10
-15. [Chinese AI Models Show Blackwell Chip Fingerprints](#item-ai-frontier-15) ⭐️ 7.0/10
+11. [Creating a Legal Conflict Detector with NLI and Encoder Models](#item-ai-frontier-11) ⭐️ 7.0/10
+12. [Tamserve: Cost-Effective Real-Time Video Tracking Tool](#item-ai-frontier-12) ⭐️ 7.0/10
+13. [Chinese AI Models Show Blackwell Chip Fingerprints](#item-ai-frontier-13) ⭐️ 7.0/10
 
 **IT &amp; Open Source**
-1. [Python&\#x27;s Zen Author Tim Peters Passes Away](#item-it-opensource-1) ⭐️ 9.0/10
-2. [FBI Seizes Over $1.2 Billion in Stolen Cryptocurrency from Binance](#item-it-opensource-2) ⭐️ 7.0/10
-3. [Global Microsoft Cloud Outage](#item-it-opensource-3) ⭐️ 7.0/10
-4. [黄仁勋辞职](#item-it-opensource-4) ⭐️ 7.0/10
-5. [BMI Misclassification Implications in Obesity Diagnoses](#item-it-opensource-5) ⭐️ 7.0/10
-6. [Astronomers Discover Unique Binary Star System Emitting Radio Signals](#item-it-opensource-6) ⭐️ 7.0/10
-7. [M87 星系黑洞甜甜圈结构验证](#item-it-opensource-7) ⭐️ 7.0/10
+1. [TSMC Employee Data Breach](#item-it-opensource-1) ⭐️ 7.0/10
+2. [Cryosphere Exceeds Safe Operating Space](#item-it-opensource-2) ⭐️ 7.0/10
+3. [FBI Seizes Over $1.2B in Stolen Binance Cryptocurrency](#item-it-opensource-3) ⭐️ 7.0/10
+4. [Microsoft Cloud Services Global Outage](#item-it-opensource-4) ⭐️ 7.0/10
+5. [黄仁勋辞职](#item-it-opensource-5) ⭐️ 7.0/10
+6. [BMI Misdiagnosis Affects Millions](#item-it-opensource-6) ⭐️ 7.0/10
+7. [Astronomers Detect Radio Signals from a White Dwarf Star](#item-it-opensource-7) ⭐️ 7.0/10
 
-**Tools &amp; Efficiency**
-1. [Nintendo&\#x27;s Defense Breached\! The Legend of Zelda: Ocarina of Time Native Ported to PC with 4K Graphics](#item-tools-windows-1) ⭐️ 7.0/10
+---
+
+## China Macro &amp; A-Share
+
+<a id="item-cn-macro-1"></a>
+### [Belgium&\#x27;s Debt Crisis Risks Rising, Eurozone Faces New Fiscal Pressure](https://wallstreetcn.com/articles/3785904) ⭐️ 7.0/10
+
+Belgium&\#x27;s budget deficit is expected to reach 5.2% of GDP this year, far exceeding the EU&\#x27;s 3% limit, and public debt has exceeded 110% of GDP. The government&\#x27;s fiscal consolidation plan has been hindered by internal disagreements, and the Prime Minister has resigned. Belgium&\#x27;s ten-year bond yields have risen from about 3.5% to 4.25% in recent months, reflecting growing investor concerns about its fiscal outlook.
+
+rss · 华尔街见闻 · Nov 13, 13:30
+
+**「Background on Belgium&\#x27;s Economic Challenges」** Belgium has been facing significant economic challenges, including high budget deficits and public debt. The country&\#x27;s budget deficit is expected to reach 5.2% of GDP in 2026, exceeding the 3% limit set by the EU&\#x27;s Maastricht Treaty. The public debt has also surpassed 110% of GDP. The situation is further complicated by the country&\#x27;s complex federal political structure, with fiscal powers分散 among different regions. This has made it difficult to agree on national austerity measures. Belgium&\#x27;s fiscal困境 is not only due to its high deficit and debt levels but also stems from its complex federal political architecture, with fiscal powers分散 among different regions. This has made it difficult to agree on national austerity measures. The country&\#x27;s fiscal challenges are also influenced by its large public spending and welfare system, which are among the most burdensome in the OECD. Belgium&\#x27;s economic situation is closely linked to that of France, another major Eurozone economy facing similar fiscal pressures. This has raised concerns about the potential impact on the Eurozone and global financial markets.
+
+**「Impact on Investors and Financial Markets」** The escalating debt crisis in Belgium poses a significant risk to investors and financial markets. The high budget deficits and public debt, coupled with the government&\#x27;s inability to implement fiscal consolidation measures, have led to a rise in bond yields, increasing the cost of government financing. This situation could lead to a vicious cycle of rising debt and interest rates, potentially affecting other high-debt Eurozone countries. Investors should be cautious and consider the potential for increased risk premiums in the Eurozone bond market.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://link.fobshanghai.com/download/world_intro/bilishi.pdf">比 利 时</a></li>
+<li><a href="https://www.163.com/dy/article/KV2T4NPN0556DZEX.html">163.com/dy/article/KV2T4NPN0556DZEX.html</a></li>
+<li><a href="https://news.qq.com/rain/a/20261113A0E9M900">法国之后，比利时债务危机风险升温，欧元区或面临新一轮财政压力</a></li>
+<li><a href="https://news.sig.ai/cn/article/cmwf331vg0005quufr5m2d565">比利时债务危机风险升温 | 信鸽中文</a></li>
+<li><a href="https://www.fx678.com/C/20261113/202611131956452289.html">【比利时或成欧洲下一债务引爆点，财政分歧与市场压力交织】 ⑴ 在法国...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Economic Challenges`, `#Eurozone`, `#Public Debt`, `#Budget Deficits`, `#Financial Markets`
+
+---
+
+<a id="item-cn-macro-2"></a>
+### [Amazon&\#x27;s Global Product Database Strategy](https://wallstreetcn.com/articles/3785901) ⭐️ 7.0/10
+
+Amazon is developing a global product database, codenamed &\#x27;World Product Graph&\#x27;, aiming to include data on almost all available products worldwide, regardless of whether they are sold on its platform. This initiative, set to be announced on October 1, 2027, is a response to the rise of AI shopping agents and aims to maintain Amazon&\#x27;s advertising revenue and compete with platforms like Google in the shopping research phase.
+
+rss · 华尔街见闻 · Nov 13, 11:59
+
+**「Amazon&\#x27;s Strategic Move to Expand Global Product Database」** Amazon is in the process of developing a global product database known as &\#x27;World Product Graph&\#x27;. This initiative aims to compile data on almost all products available worldwide, regardless of whether they are sold on Amazon&\#x27;s platform. The project is part of Amazon&\#x27;s strategy to compete with AI shopping agents and maintain its advertising revenue. It involves gathering data from brands and retailers, both through direct contributions and by Amazon&\#x27;s own web scraping. This move is in response to the rising threat of AI shopping agents like Meta&\#x27;s Muse, which has already gained over 10 million users in the US and Canada. Amazon&\#x27;s goal is to create a comprehensive product knowledge graph that will allow users to complete their entire shopping journey, from research to purchase, without leaving the platform. This project is under the purview of Amazon&\#x27;s Selection &amp; Catalog Systems department and is being积极推进。
+
+**「Impact on E-commerce and Advertising Sectors」** Amazon&\#x27;s initiative to create a global product database, known as &\#x27;World Product Graph&\#x27;, aims to compete with AI shopping agents and maintain its advertising revenue. This move could lead to a significant shift in the e-commerce and advertising sectors, as Amazon seeks to become a one-stop platform for consumers&\#x27; shopping needs. By providing comprehensive product information, Amazon aims to retain its position as a preferred destination for shopping research and purchase decisions, potentially reducing the threat posed by AI shopping agents like Meta&\#x27;s Muse. This could also impact the advertising landscape, as Amazon looks to maintain its control over ad revenue by keeping consumers within its platform.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://theins.ru/news/299553">Проект Amazon соберет данные почти обо всех... — The Insider</a></li>
+<li><a href="https://www.helium10.com/blog/">The Best Blog for Amazon FBA Sellers | Helium 10</a></li>
+<li><a href="https://www.statista.com/markets/413/e-commerce/">E - Commerce | Statista</a></li>
+<li><a href="https://www.quartile.com/">The World ’ s Largest Retail Media Optimization Platform</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Amazon`, `#E-commerce`, `#AI Shopping Agents`, `#Market Strategy`, `#Advertising`
+
+---
+
+<a id="item-cn-macro-3"></a>
+### [High Storage Costs Challenge Large Language Model Companies](https://wallstreetcn.com/articles/3785900) ⭐️ 7.0/10
+
+The article discusses the challenges of high storage costs in the context of large language models, particularly for companies expanding overseas. Despite the popularity of Chinese models in the US, the actual expenditure on open-source models is low, and the rising storage costs are putting pressure on companies&\#x27; profitability.
+
+rss · 华尔街见闻 · Nov 13, 11:36
+
+**「Previous Trends in AI Model Expenditure and Storage Costs」** Prior to the current situation, there has been a significant trend of increasing expenditure on AI models, particularly in the United States. Reports indicate that 89% of the expenditure on open-source models in the U.S. is allocated to Chinese models, with Kimi, DeepSeek, and GLM being the top three. This shift has been attributed to the performance and pricing advantages of these Chinese models. However, the cost structure of these models has also evolved, with a growing emphasis on storage costs due to the increasing demand for large language models. This has led to a shift in the focus from traditional token-based pricing models to more efficient asset management and cost optimization.
+
+**「Impact on Large Language Model Companies」** The rising storage costs for large language models are significantly impacting the profitability of companies, particularly those expanding overseas. As the cost of storage increases, it is eroding the margins of these companies, as the revenue from token usage does not keep pace with the rising storage expenses. This is leading to a shift in the competitive landscape, with companies needing to focus more on efficient asset management and cost optimization rather than just on the scale of token usage and model capabilities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ithome.com/1/023/885.htm">Menlo Ventures 报 告 ：中国 AI 模型占全球开源模型 企 业 支出 89...</a></li>
+<li><a href="https://wenfeixiang.com/2024/11/the-state-of-generative-ai-in-the-enterprise-in-2024-by-menlo-ventures/">Menlo Ventures 年 度 报 告 ：生成式 AI ...</a></li>
+<li><a href="https://gaper.io/large-language-models-impact-on-businesses">Impact of Large Language Models on Business (2026) · Gaper</a></li>
+<li><a href="https://www.cloudzero.com/blog/ai-costs/">AI Costs In 2026: Pricing, Implementation, And How To Save</a></li>
+<li><a href="https://www.ibm.com/think/insights/ai-economics-compute-cost">The hidden costs of AI: How generative models are reshaping ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Large Language Models`, `#Cost Structure`, `#Storage Costs`, `#Overseas Expansion`, `#Asset Management`
+
+---
+
+<a id="item-cn-macro-4"></a>
+### [IEA Downgrades Oil Demand Forecast, Raises Biofuel Supply](https://wallstreetcn.com/articles/3785897) ⭐️ 7.0/10
+
+The International Energy Agency \(IEA\) has downgraded its global oil demand forecast for 2026 and 2027, while increasing the supply of biofuels, indicating ongoing supply pressure in the oil market. The IEA lowered its 2026 global oil demand forecast to 10.229 million barrels per day, a decrease of 90,000 barrels per day from the previous forecast. For 2027, the demand forecast was reduced to 10.430 million barrels per day, a decrease of 80,000 barrels per day. At the same time, the IEA raised its forecast for global biofuel supply, predicting an increase of 130,000 barrels per day from 2025 to 2027, further intensifying market supply pressure.
+
+rss · 华尔街见闻 · Nov 13, 10:53
+
+**「IEA&\#x27;s Previous Reports and Global Oil Market Trends」** The International Energy Agency \(IEA\) has a history of providing detailed assessments of global energy trends, including oil markets. In previous reports, the IEA has highlighted the impact of various factors on global oil demand and supply, such as economic growth, geopolitical events, and technological advancements. These reports have often served as a reference for market participants to understand the current state of the oil market and to anticipate future trends. The recent downward revision in the global oil demand forecast for 2026 and 2027, along with the increase in biofuel supply, is in line with the IEA&\#x27;s ongoing analysis of global energy markets.
+
+**「Impact on Oil Market」** The downward revision in global oil demand forecast and the increase in biofuel supply by the IEA indicate a continued supply pressure in the oil market. This could lead to a surplus of 170,000 barrels per day in the fourth quarter of 2026, further exacerbating the supply pressure. Investors should be cautious as this could impact oil prices and related sectors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1074930380_122066679">IEA再度下调2026年全球石油需求预期：日均减量扩至250万桶，库存创纪...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261113A0CGRW00">IEA月报：下修未来两年石油需求、上调生物燃料供应，油市供给压力加剧...</a></li>
+<li><a href="https://www.iea.org/reports/global-energy-review-2026/oil">Oil - Global Energy Review 2026 - IEA</a></li>
+<li><a href="https://view.inews.qq.com/a/20261113A0CGRW00">IEA月报：下修未来两年石油需求、上调生物燃料供应，油市供给压力加剧...</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2026-02-13/doc-inhmrtip3238662.shtml">【分析】综述：2026全球生物燃料市场预测|美国_新浪财经_新浪网</a></li>
+<li><a href="https://finance.sina.com.cn/wm/2026-07-09/doc-inihfyet5230529.shtml">全球生物燃料投资热情重燃 - 新浪财经</a></li>
+<li><a href="https://www3.xinhuanet.com/20260911/e475f0e8156a46349cd230070d53aed2/c.html">国际能源署再次下调2026年全球石油需求预期-新华网</a></li>
+<li><a href="https://www2.xinhuanet.com/20260812/45df61cf35f0423fbb70a0a3dcf97d58/c.html">国际能源署下调2026年全球石油需求预期-新华网</a></li>
+<li><a href="https://jingkangchem.com/iea-cuts-2026-oil-demand-growth-forecast/">国际能源署下调2026年石油需求增长预期，原油市场关注供需再平衡</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Oil Market`, `#Economic Forecast`, `#Biofuel Supply`, `#IEA Report`
+
+---
+
+<a id="item-cn-macro-5"></a>
+### [Market Dynamics Shifts in Large IPOs](https://wallstreetcn.com/articles/3785894) ⭐️ 7.0/10
+
+Market dynamics for large IPOs are evolving, with index inclusion and passive fund inflows significantly impacting the initial stock price performance of companies like Anthropic. Anthropic, valued at up to $1.4 trillion, is expected to be included in major indices within 5 to 15 trading days post-IPO, leading to a surge in passive fund purchases.
+
+rss · 华尔街见闻 · Nov 13, 10:27
+
+**「Market Dynamics of Large IPOs」** The market dynamics for large initial public offerings \(IPOs\) have been evolving, particularly with the role of index inclusion and passive fund inflows becoming more significant in the initial stock price performance of companies like Anthropic. This shift is a result of changes in the rules by major index providers, such as Nasdaq, which now allow qualifying ultra-large IPOs to be included in major benchmark indexes within 15 days of listing, rather than the weeks or months required in the past. This change has led to an early release of passive fund demand, influencing the initial pricing and trading trends of these companies. The impact of this new dynamic was evident in the case of SpaceX, where its stock price saw a significant increase in the first few trading days after listing, driven by index-driven factors and the anticipation of passive fund inflows.
+
+**「Impact」** This shift creates opportunities for index arbitrage funds, as seen with SpaceX&\#x27;s IPO, where the stock price surged 50% in three trading days. Investors may anticipate similar pre-IPO buying ahead of index inclusion, affecting the initial pricing and trading dynamics of Anthropic&\#x27;s stock.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://8figures.com/blog/stocks/how-to-profit-from-index-inclusion-navigating-the-risks-and-opportunities-of-mega-ipos">Index Inclusion Profits: Risks &amp; Opportunities of Mega- IPOs</a></li>
+<li><a href="https://rallies.ai/news/spacex-ipo-at-135-valuation-of-18t-could-trigger-27b-passive-fund-buying">SpaceX IPO at $135 Valuation of $1.8T Could Trigger $27B Passive ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Market Dynamics`, `#IPOs`, `#Index Inclusion`, `#Passive Fund Inflows`, `#Stock Market`
+
+---
+
+<a id="item-cn-macro-6"></a>
+### [NVIDIA&\#x27;s Market Revaluation and Credit Implications Post-Jensen Huang&\#x27;s Departure](https://wallstreetcn.com/articles/3785889) ⭐️ 7.0/10
+
+On November 12, NVIDIA&\#x27;s stock opened down 13.1% but recovered to close with a 4.34% decline. This follows a 30% retracement from its October 6 high. Analysts have downgraded ratings and cut target prices, signaling a shift in valuation. Jensen Huang&\#x27;s departure has raised concerns about the company&\#x27;s creditworthiness and the impact on its business operations.
+
+rss · 华尔街见闻 · Nov 13, 09:03
+
+**「Market Revaluation and Credit Implications Following Jensen Huang&\#x27;s Departure from NVIDIA」** Prior to Jensen Huang&\#x27;s departure from NVIDIA, the company had been experiencing significant growth with expectations of a 92% increase in revenue and a 89% increase in net profit. Huang&\#x27;s leadership was closely tied to the company&\#x27;s high valuation and creditworthiness. His departure, following a controversy, led to a revaluation of the company&\#x27;s market position and credit implications. Analysts have adjusted their ratings and target prices, reflecting a shift in the valuation framework and the potential impact on the company&\#x27;s future performance.
+
+**「Impact」** The departure of Jensen Huang has led to a revaluation of NVIDIA&\#x27;s stock, with analysts downgrading ratings and cutting target prices. This could lead to increased financing costs for new cloud providers and a potential slowdown in expansion. Investors should be cautious and monitor the company&\#x27;s upcoming earnings report for further insights into its future direction.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html">Nvidia stock drops for 6th week, shedding $1.6 trillion in market cap</a></li>
+<li><a href="https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1">Nvidia live: Jensen Huang resigns as chief executive after affair...</a></li>
+<li><a href="https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest?page=with:block-6af53b548f08bed8cbc53c06">Nvidia turmoil continues as Jensen Huang resigns... | The Guardian</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NVIDIA`, `#Market Revaluation`, `#Credit Implications`, `#Jensen Huang`, `#Stock Market Analysis`
+
+---
+
+<a id="item-cn-macro-7"></a>
+### [China&\#x27;s Social Financing Scale Increases to 28.61 Trillion RMB in January-October](https://wallstreetcn.com/articles/3785892) ⭐️ 7.0/10
+
+China&\#x27;s social financing scale reached 28.61 trillion RMB from January to October, a significant increase from the previous value of 27.46 trillion RMB. This data indicates a notable change in the country&\#x27;s social financing landscape.
+
+rss · 华尔街见闻 · Nov 13, 09:01
+
+**「Previous Economic Data and Policy Stance」** In the past, China has seen significant growth in social financing scale. For instance, during the first three quarters of 2026, the social financing scale in Beijing alone increased by 11062.5 billion RMB. This trend indicates a growing diversity in financing options for enterprises. Additionally, in the first seven months of 2026, the social financing scale in China reached 22.25 trillion RMB, reflecting a deep transformation in the financing structure. The central bank has also reported that the social financing scale increased to over 14 trillion RMB in the first quarter of 2026, a historically high level. These figures suggest that the Chinese economy has been experiencing active corporate operations and a warming personal investment and consumption demand.
+
+**「Impact」** The increase in social financing scale could lead to higher investment in key sectors, potentially benefiting companies in industries such as infrastructure and real estate. Investors should monitor the flow of funds to these sectors for potential investment opportunities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwvmzh6267805.shtml">前三季度北京 社 会 融 资 规 模 增 量 11062.5亿元_新浪财经_新浪网</a></li>
+<li><a href="https://news.10jqka.com.cn/20260815/c678981906.shtml">今年前7个 月 我 国 直接 融 资 占比上升 融 资 结构深刻转变 | 同花顺财经</a></li>
+<li><a href="https://h5.ifeng.com/c/vivoArticle/v002AF-_MpfIFina0WTxeh81rqRLbRp9v1qXLW357Mux1qJ0__?vivoBusiness=hiboardnews">一季度 社 融 规 模 增 量 超14万亿元，央行，最新发布</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Economic Data`, `#Social Financing`, `#China Economy`, `#Market Trends`, `#Financial Statistics`
+
+---
+
+<a id="item-cn-macro-8"></a>
+### [Huawei&\#x27;s Computing Power Integration into Industries](https://wallstreetcn.com/articles/3785891) ⭐️ 7.0/10
+
+Huawei is integrating computing power into various industries, such as healthcare and industrial automation, facing challenges in system interoperability and diverse client needs. The company&\#x27;s computing power is being applied in scenarios like autonomous delivery and AI-assisted medical diagnosis, showcasing the evolving demand for computing power in different industry settings.
+
+rss · 华尔街见闻 · Nov 13, 08:59
+
+**「Prior Developments in Huawei&\#x27;s Computing Power Integration」** Huawei has been actively integrating computing power into various industries, particularly in healthcare and industrial automation. This integration is driven by the increasing demand for computing power in these sectors and the challenges faced in integrating different systems. Huawei&\#x27;s efforts include collaborations with various enterprises, such as the deployment of Huawei Cloud in projects like the intelligent distribution of goods in Hangzhou Tongwu Village and the development of AI applications in Zhejiang Provincial People&\#x27;s Hospital. These projects highlight the evolving needs of the industry for computing power and the technical requirements for system integration.
+
+**「Impact on Industry and Healthcare」** Huawei&\#x27;s integration of computing power into various industries, such as healthcare and industrial automation, is driving significant changes. In healthcare, AI applications are enhancing doctor&\#x27;s workflows by generating medical texts and assisting in patient care. In industrial automation, the use of Huawei&\#x27;s computing power is enabling more efficient and automated processes, particularly in areas like smart transportation and water management. The demand for diverse and stable computing power supply is growing, pushing Huawei to adapt its offerings to meet these evolving needs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://e.huawei.com/cn/news/2026/industries/healthcare/general-artificial-intelligence-platform-hospitals">全球首发！南方医院联合华为及多家医疗机构发布医院通用人工智能平台...</a></li>
+<li><a href="https://www.toutiao.com/article/7631101952097288767/">华为昇腾HAIP医院平台重磅发布！100%自主AIDC算力AI提升30%以上</a></li>
+<li><a href="https://e.huawei.com/cn/industries/manufacturing">智能制造-智慧制造数字化解决方案-华为企业业务</a></li>
+<li><a href="https://www.huawei.com/-/media/corporate/pdf/annual-report/annual_report_2019_cn.pdf">华 为 2019年年度报告</a></li>
+<li><a href="https://manus.im/app">Manus</a></li>
+<li><a href="https://www.itei.cn/UpLoadFiles/%E7%AE%80%E6%9E%90%E6%8E%A0%E5%BD%B1.pdf">Dialogue on &quot;Intelligent Manufacturing with High quality, Efficiency</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Huawei`, `#computing power`, `#industry automation`, `#healthcare technology`, `#regulatory changes`
+
+---
+
+<a id="item-cn-macro-9"></a>
+### [Impact of NVIDIA&\#x27;s Management Change on Chinese Tech Assets](https://wallstreetcn.com/articles/3785887) ⭐️ 7.0/10
+
+NVIDIA&\#x27;s CEO, Jensen Huang, has resigned, leading to concerns about the company&\#x27;s strategy and supply chain. This has caused a 22% decline in NVIDIA&\#x27;s stock price since November 5th. The new export control rules by the US Department of Commerce may further complicate the situation, potentially affecting the Chinese semiconductor and AI sectors in the short term. However, in the long term, domestic CSPs are expected to increase their procurement of domestic computing power, supporting the growth of the domestic AI market.
+
+rss · 华尔街见闻 · Nov 13, 08:55
+
+**「Background on NVIDIA&\#x27;s Management Change and Its Implications」** NVIDIA, a leading tech company, recently announced the resignation of its CEO and President, Jensen Huang, effective immediately. This significant management change has raised concerns about potential shifts in the company&\#x27;s strategy and its impact on the Chinese technology and stock market. The resignation comes amidst a backdrop of evolving regulatory landscapes, particularly in the areas of AI chip exports and semiconductor manufacturing. These changes have the potential to affect the Chinese semiconductor and AI sectors, as well as the broader stock market. The situation is further complicated by the ongoing development of new AI chip export control rules by the U.S. Department of Commerce, which may include stricter export licensing for Southeast Asian countries, thereby increasing the difficulty of NV series cards entering the domestic market.
+
+**「Impact on Chinese Technology and Stock Market」** The resignation of NVIDIA&\#x27;s CEO, Jensen Huang, and the subsequent appointment of CFO Colette Kress as interim CEO may lead to changes in the company&\#x27;s strategy and supply chain. This could potentially impact the Chinese semiconductor and AI sectors. The stricter export control rules for AI chips being considered by the US Department of Commerce may further complicate the situation, making it harder for Chinese companies to obtain advanced computing power. However, in the long term, this could drive the domestic demand for国产算力 \(domestic computing power\) and support the growth of domestic AI-related Capex, potentially leading to a significant increase in market share for domestic chip manufacturers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bbc.com/zhongwen/articles/c6eq4ng2xrvyo/simp">黄仁勋辞职：这位AI远见者，如何栽在自己的错误决定上 - BBC News 中...</a></li>
+<li><a href="https://news.qq.com/rain/a/20261112A0F0M500">黄仁勋辞职，对英伟达和AI行业意味着什么？_腾讯新闻</a></li>
+<li><a href="https://www.zhihu.com/question/2104341582379837144">黄仁勋辞职，会对全球 AI 芯片竞争格局产生哪些影响？英伟达的技术优...</a></li>
+<li><a href="https://www.cls.cn/detail/2533121">英 伟 达 宣布 CEO 黄仁勋辞职 CFO 科 莱 特 · 克 雷 斯 出任临时 CEO</a></li>
+<li><a href="https://www.voachinese.com/a/trump-warns-of-wake-up-call-as-low-cost-chinese-ai-jolts-silicon-valley-20250128/7952751.html">特朗普警告：低成本 中 国 AI 为硅谷敲 响 警钟 | 美 国 之音</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Technology`, `#Stock Market`, `#Management Change`, `#Regulatory Impact`, `#Chinese Economy`
+
+---
+
+<a id="item-cn-macro-10"></a>
+### [US Fiscal Deficit Hits Record High in October](https://wallstreetcn.com/articles/3785882) ⭐️ 7.0/10
+
+In October 2027, the US fiscal deficit reached a historic high for the same month, with the deficit expanding significantly to $404 billion, up from $284 billion in the same month last year. The increase was driven by abnormal growth in defense spending and rising debt interest payments. Over the past 12 months, federal government interest payments accounted for 28.2% of tax revenue, a record high.
+
+rss · 华尔街见闻 · Nov 13, 08:32
+
+**「US Fiscal Situation in October」** The US fiscal situation in October 2027 was marked by a significant increase in the fiscal deficit, with the October deficit reaching a historic high for the month. This was driven by a surge in defense spending and the continued rise in debt interest payments. The government&\#x27;s income decreased by 8.8% compared to the same period last year, further widening the fiscal gap. Over the past 12 months, the federal government&\#x27;s interest expenditure accounted for 28.2% of tax revenue, a historic high, indicating that over 28 cents of every dollar in tax revenue was used to pay debt interest. This situation reflects a deeper imbalance in the US fiscal position, with tax revenue growth slowing down and spending, particularly on defense and debt interest, increasing.
+
+**「Impact」** The rising debt interest burden is squeezing more fiscal resources, with interest payments expected to reach $1.6 trillion in the 2027 fiscal year. This could further compress the government&\#x27;s fiscal flexibility, as interest payments are on track to match social security spending, becoming one of the largest single expenditures of the federal government.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.zerohedge.com/markets/us-budget-deficit-explodes-worst-october-record-us-treasury-historic-surge-defense-spending">US Budget Deficit Explodes: Worst October On Record... | ZeroHedge</a></li>
+<li><a href="https://www.forexfactory.com/news/1436074-us-starts-2027-fiscal-year-with-record-october">US starts 2027 fiscal year with record October budget deficit of $404...</a></li>
+<li><a href="https://bipartisanpolicy.org/report/deficit-tracker/">Deficit Tracker</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#US Economy`, `#Fiscal Deficit`, `#Debt Interest`, `#Economic Policy`
+
+---
+
+<a id="item-cn-macro-11"></a>
+### [Changan Automobile to Sell 10% Stake in AITO for Global Expansion](https://wallstreetcn.com/articles/3785886) ⭐️ 7.0/10
+
+Changan Automobile plans to sell 10% of its shares in AITO, aiming to secure investors for its international expansion. The move, which involves a significant shareholder change in the Chinese automotive industry, could impact AITO&\#x27;s future direction and market positioning.
+
+rss · 华尔街见闻 · Nov 13, 08:31
+
+**「Background on AITO and its Transition」** AITO, a Chinese electric vehicle brand, has undergone significant changes in its corporate structure and strategic direction. In September 2026, AITO announced a partnership with HIMA, taking over the development, design, brand marketing, sales channel, and service system from Huawei, with Huawei still participating in part of the development work. This shift marked a strategic move for AITO to establish its independent identity in the market. Additionally, AITO has been actively expanding into the European market, with plans to enter in the autumn of 2027. This expansion is supported by a partnership model with Bosch, which aims to integrate Bosch&\#x27;s technology and expertise into AITO&\#x27;s overseas lineup.
+
+**「Impact」** The sale of shares in AITO could potentially alter the competitive landscape for AITO, affecting its market positioning and strategic partnerships. Investors in the A-share market may also be impacted as this transaction could influence the overall sentiment towards the Chinese automotive sector.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AITO_%28marque%29">AITO (marque) - Wikipedia</a></li>
+<li><a href="https://carnewschina.com/2026/10/20/aito-shifts-from-huawei-to-bosch-for-european-expansion/">Aito shifts from Huawei to Bosch for European expansion</a></li>
+<li><a href="https://www.topgear.com/car-news/advertisement-feature/china-europe-how-aito-redefining-luxury-global-stage">From China to Europe: How AITO is redefining luxury on the ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese Automotive Industry`, `#Shareholder Change`, `#AITO`, `#Investment`, `#A-share Market`
+
+---
+
+<a id="item-cn-macro-12"></a>
+### [Chinese Stock Market News Update](https://www.cls.cn/detail/2534215) ⭐️ 7.0/10
+
+The People&\#x27;s Bank of China announced a 2000 billion yuan 6-month reverse repurchase operation on November 16. The &\#x27;15th Five-Year Plan&\#x27; for new energy storage targets a national installed capacity of 300 million kilowatts by 2030, with an average storage duration of around 3 hours. October financial data showed that corporate bond net financing reached 3.1 trillion yuan, a 1.7 times increase from the same period last year. The Shanghai Stock Exchange is closely monitoring funds with high premiums, such as the Global Chip LOF fund. In corporate news, several companies provided updates on their operations and investments.
+
+rss · 财联社电报 · Nov 13, 13:29
+
+**「Previous Economic and Policy Context」** The Chinese economy has been experiencing a period of transition, with a focus on sustainable development and technological innovation. The government has been implementing various policies to support emerging industries such as new energy and high-tech sectors. The Central Bank has been actively managing monetary policy to maintain financial stability and support economic growth. Additionally, the country has been working on long-term development plans, such as the &\#x27;15th Five-Year Plan&\#x27;, which includes goals for new energy storage and other strategic industries.
+
+**「Impact」** The PBOC&\#x27;s reverse repurchase operation is expected to provide liquidity support to the market. The new energy storage targets could stimulate investment in the sector. The surge in corporate bond financing indicates strong demand for credit in the economy. The monitoring of high-premium funds by the SSE may lead to regulatory actions affecting fund prices.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://m.10jqka.com.cn/20260522/c676895439.shtml">“ 十 五 五 ” 新 型 储 能 发展 实 施 方 案 已编制完成等待发布_手机同花顺财经</a></li>
+<li><a href="https://t.me/FinanceNewsDaily/496592">【华尔街见闻】- 财经时讯 | AI 实 时互动 – Telegram</a></li>
+<li><a href="http://www.solarpwr.cn/bencandy-52-82832.html">solarpwr.cn/bencandy-52-82832.html</a></li>
+<li><a href="https://www.cqnews.net/web/content_1567801512735379456.html">央 行 将开展3000亿元 买 断 式 逆 回 购 操 作 | 华龙网</a></li>
+<li><a href="https://news.hangzhou.com.cn/jjxw/content/2024-11/30/content_8819988.htm">11 月 央 行 开展8000亿元 买 断 式 逆 回 购 操 作 _杭州网</a></li>
+<li><a href="https://news.fjsen.com/2026-11/05/content_32278560.htm">央 行 将开展3000亿元 买 断 式 逆 回 购 操 作 - 即时新闻 - 东南网</a></li>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqsmz1213390.shtml">高盛2027年经济展望来了_新浪财经_新浪网</a></li>
+<li><a href="https://finance.eastmoney.com/a/202611133930675998.html">高盛2027年经济展望：AI投资仍是主引擎 通胀与利率构成下行风险高盛20...</a></li>
+<li><a href="https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml">高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese Economy`, `#A-share Market`, `#Central Bank Policy`, `#Corporate News`, `#Financial Data`
+
+---
+
+<a id="item-cn-macro-13"></a>
+### [Long-term Funds Net Buy A-share Stocks Exceeding 600 Billion Yuan](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvOC02RjY1dDU5WVVvV3dic2JMeE9ENU9UWGdmVDBFZjk3RU51ckUxZ0tCYkpvYlJObElOdnFmVDJYSHc4X0VTbjAyeVlBcVdOY05odld5ZDV6QlJ1M0N4RA?oc=5) ⭐️ 7.0/10
+
+Long-term funds have net bought more than 600 billion yuan of A-share stocks since the beginning of the year, reflecting strong interest in the Chinese stock market.
+
+google\_news · 证券之星 · Nov 13, 13:15
+
+**「Background on Long-Term Funds in the A-share Market」** Long-term funds have historically played a significant role in the Chinese stock market, acting as a stable source of investment. These funds, often including insurance and social security funds, are known for their stability and long-term investment horizon. They have been instrumental in supporting the capital market&\#x27;s growth and stability. The recent inflow of over 600 billion yuan in long-term funds into the A-share market is a continuation of this trend, reflecting a growing confidence in the market&\#x27;s potential for growth and stability. This trend is also aligned with the broader policy goals of promoting high-quality development of the capital market and ensuring the保值增值 of these funds.
+
+**「Impact」** This significant inflow of long-term funds into the A-share market suggests increased investor confidence and could potentially lead to a boost in market performance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.21jingji.com/article/20250123/herald/9e3aeeceda638f6d0229fa306cc4f3ea.html">21jingji.com/article/20250123/herald/9e3aeeceda638f6d0229fa306cc...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#A-share market`, `#long-term funds`, `#Chinese economy`, `#market trends`, `#regulatory news`
 
 ---
 
@@ -64,443 +397,236 @@ lang: en
 <a id="item-global-market-1"></a>
 ### [How the Jensen Huang affair changes the outlook for U.S.-China relations](https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html) ⭐️ 7.0/10
 
-The resignation of former Nvidia CEO Jensen Huang and the subsequent espionage allegations have raised tensions between the U.S. and China, potentially affecting technology exports and bilateral relations.
+The resignation of Nvidia CEO Jensen Huang amid allegations of an affair with a Chinese spy raises concerns about deteriorating U.S.-China relations and potential implications for technology exports.
 
 rss · CNBC Finance · Nov 13, 02:56
 
-**Tags**: `#Geopolitical Events`, `#Tech Industry`, `#U.S.-China Relations`, `#Espionage`, `#Financial Markets`
+**Tags**: `#Geopolitical Events`, `#Tech Industry`, `#U.S.-China Relations`, `#Export Controls`, `#Financial Markets`
 
 ---
 
 <a id="item-global-market-2"></a>
 ### [Oil Prices Rise Following Trump&\#x27;s Iran Deal Comments](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) ⭐️ 7.0/10
 
-U.S. oil prices surged on Thursday following comments from President Donald Trump indicating that no deal with Iran is needed, raising concerns about the ongoing U.S.-Iran conflict. Brent crude settled 3.3% higher at $95.82 per barrel, while West Texas Intermediate futures rose 2.6% to $88.74 per barrel.
+U.S. oil prices surged on Thursday following President Donald Trump&\#x27;s statement that no Iran deal is needed, leading to concerns about the stability of Middle East oil supplies. Brent crude settled 3.3% higher at $95.82 per barrel, while West Texas Intermediate futures rose 2.6% to $88.74 per barrel.
 
 rss · CNBC Finance · Nov 13, 00:01
 
-**「Background on the Strait of Hormuz and its Importance in Oil Shipping」** The Strait of Hormuz, a narrow channel between the Omani Musandam Peninsula and Iran, is a crucial route for global oil shipping. Iran controls the northern part of the strait, north of the shipping lanes, while Oman controls the southern part. The strait&\#x27;s depth, ranging from 200 to 330 feet \(60 to 100 meters\) throughout much of its width, makes it challenging for any country, including Iran, to disrupt shipping for an extended period. The strait is one of the world&\#x27;s busiest oil shipping channels, and any disruption could significantly impact global oil prices and supply.
+**「Background on Strait of Hormuz and Middle East Oil Supplies」** The Strait of Hormuz is a vital waterway for global oil trade, with a significant portion of the world&\#x27;s oil supply passing through it. Iran has historically claimed control over shipping in the Strait of Hormuz, leading to tensions with other nations, including the United States. These tensions have been a recurring issue in the region, with Iran threatening to shut down the Strait in times of conflict. The recent statements from President Trump regarding the Strait of Hormuz and the Iran deal reflect ongoing concerns about the stability of Middle East oil supplies and the potential impact on global oil prices.
 
-**「Market Reaction」** The rise in oil prices following President Trump&\#x27;s comments on the U.S.-Iran conflict has led to increased volatility in the market. Brent crude settled 3.3% higher, while West Texas Intermediate futures were up 2.6%. This movement suggests that investor sentiment is being influenced by geopolitical tensions and the potential for prolonged supply disruptions.
+**「Impact」** The rise in oil prices is expected to increase the security premium in the market, as investors price in renewed doubts about a deal and the potential for increased attacks on shipping, which could lead to prolonged supply disruptions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure, Control , Oil...</a></li>
-<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
-<li><a href="https://www.strausscenter.org/strait-of-hormuz-geography/">Strait of Hormuz - Geography - Strauss Center</a></li>
-<li><a href="https://www.dallasfed.org/research/economics/2026/0320">What the closure of the Strait of Hormuz means for the global ...</a></li>
-<li><a href="https://www.everycrsreport.com/files/2026-08-07_R45281_3d6151e227c61c7faf43873a9e30be6b8c9a6f08.pdf">The Strait of Hormuz: Security Developments and Impacts on ...</a></li>
-<li><a href="https://www.everycrsreport.com/files/2026-08-07_R45281_f0a6d43cfd16b2461049a1c77774974a288dadbf.html">The Strait of Hormuz: Security Developments and Impacts on ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
+<li><a href="https://www.history.com/articles/7-historical-fights-over-strait-of-hormuz">The Strait of Hormuz: A Timeline of Tensions - HISTORY</a></li>
+<li><a href="https://www.arabamerica.com/history-of-the-strait-of-hormuz/">History of the Strait of Hormuz - Arab America</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Prices`, `#Geopolitical Tensions`, `#Market Movement`, `#Iran`, `#U.S. Policy`
+**Tags**: `#Oil Prices`, `#Iran Deal`, `#Trump Administration`, `#Middle East`, `#Market Analysis`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [Bond Yields Surge Amid Expectations of Further Fed Rate Hikes](https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories) ⭐️ 7.0/10
+### [Federal Reserve&\#x27;s Warsh to Assess AI Revolution Amid Public Wary](https://reut.rs/4zFkL8R) ⭐️ 7.0/10
 
-Bond yields have experienced their largest surge since 2022, reflecting growing expectations of additional Federal Reserve rate hikes. This movement indicates a shift in market sentiment and central bank policy expectations.
+Federal Reserve official Warsh is set to assess the impact of the AI revolution, as public concern in the US grows. This evaluation comes amidst a rising wariness among the American public regarding the advancements in artificial intelligence.
 
-rss · MarketWatch Top Stories · Nov 12, 22:16
+rss · 路透社 Reuters · Nov 13, 12:03
 
-**「Historical Context of Bond Yields and Federal Reserve Rate Hikes」** The recent surge in bond yields follows a period of stability and low interest rates. In 2022, the Federal Reserve implemented a series of rate hikes to combat inflation, which led to increased volatility in bond markets. This trend has continued into 2023, with the Federal Reserve maintaining a cautious stance on interest rates. The current analysis builds upon this historical context, highlighting the relationship between bond yields and the Federal Reserve&\#x27;s monetary policy decisions.
+**「Background on AI Revolution Assessment by Federal Reserve&\#x27;s Warsh」** The Federal Reserve has recognized the potential impact of artificial intelligence on the US economy, a topic that has gained significant attention both in Silicon Valley and among the general public. This recognition is reflected in the upcoming assessment by Federal Reserve official Kevin Warsh, who is expected to delve into the risks and benefits associated with the AI revolution. This assessment comes amidst growing wariness among the US public about the implications of AI, prompting a closer look at how these technological advancements might affect job markets, economic growth, and pricing.
 
-**「Impact」** The surge in bond yields suggests increased market volatility and could potentially lead to a reevaluation of investment strategies, particularly in fixed-income sectors.
+**「Impact」** The assessment by Warsh could influence investor sentiment and market dynamics, particularly in sectors heavily reliant on AI technology, such as finance and technology.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.stlouisfed.org/on-the-economy/2023/jan/many-interest-rates-2022">The Many Interest Rates in 2022 | St. Louis Fed</a></li>
-<li><a href="https://www.federalreserve.gov/econres/notes/feds-notes/2022-index.htm">The Fed - FEDS Notes - 2022 - Federal Reserve Board</a></li>
-<li><a href="https://www.thestreet.com/fed/fed-rate-hikes-2022-2023-timeline-discussion">The Fed&#x27;s &#x27;22–&#x27;26 rate hikes &amp; cuts (&amp; what caused them ...</a></li>
+<li><a href="https://www.reuters.com/business/finance/feds-warsh-take-stock-ai-revolution-us-public-grows-wary-2026-11-13/">Fed&#x27;s Warsh to take stock of AI revolution as US public grows ...</a></li>
+<li><a href="https://www.chicagofed.org/publications/chicago-fed-letter/2026/528">The AI Revolution and Monetary Policy - Federal Reserve Bank ...</a></li>
+<li><a href="https://www.cnbctv18.com/world/feds-warsh-to-take-stock-of-ai-revolution-as-us-public-grows-wary-20033647.htm">Fed&#x27;s Warsh to take stock of AI revolution as US public grows ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Bond Yields`, `#Federal Reserve`, `#Rate Hikes`, `#Market Volatility`, `#Central Bank Policy`
+**Tags**: `#Federal Reserve`, `#AI Revolution`, `#Market Impact`, `#Public Perception`, `#Financial News`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [Iran&\#x27;s Revolutionary Guards Target US Radar Station in Bahrain](https://reut.rs/4sVjc3U) ⭐️ 7.0/10
+### [IAEA Concerns Over Iran&\#x27;s Uranium Enrichment Plant](https://reut.rs/3XoVtNR) ⭐️ 7.0/10
 
-Iran&\#x27;s Revolutionary Guards have claimed an attack on a US early-warning radar station located in Bahrain. This action, reported by Reuters, marks a significant escalation in military tensions between Iran and the United States in the region.
+The International Atomic Energy Agency \(IAEA\) has expressed growing concerns over Iran&\#x27;s uranium enrichment plant, which could impact global nuclear non-proliferation efforts and market stability.
 
-rss · 路透社 Reuters · Nov 13, 05:57
+rss · 路透社 Reuters · Nov 13, 10:12
 
-**「Background on Early-Warning Radar and IRGC&\#x27;s Actions」** Early-warning radar systems are crucial for military defense, providing advanced detection and tracking of incoming threats. The Islamic Revolution Guard Corps \(IRGC\) of Iran has claimed that it targeted a US early-warning radar station in Bahrain. This action follows a series of military tensions in the region, including the destruction of a communications tower on Iran&\#x27;s Sirik Island. The IRGC&\#x27;s operation is seen as a direct response to the earlier incident, indicating a heightened level of military confrontation in the region.
+**「Background on Iran&\#x27;s Uranium Enrichment Plant」** The International Atomic Energy Agency \(IAEA\) has expressed growing concerns over Iran&\#x27;s uranium enrichment plant, specifically the Fordow Uranium Enrichment Plant. This facility is a key site for Iran&\#x27;s nuclear program and has been a point of contention in global nuclear non-proliferation efforts. The plant is known for its advanced centrifuges used in uranium enrichment, which raises concerns about Iran&\#x27;s compliance with international nuclear agreements. Iran&\#x27;s nuclear facilities, including Fordow, have been under scrutiny due to their potential impact on global market stability, particularly in the context of oil prices and regional security.
 
-**「Impact」** The attack could lead to increased geopolitical tensions in the Middle East, potentially affecting energy markets and global oil supply, which in turn could impact financial markets sensitive to geopolitical risks.
+**「Impact」** The increased concerns by the IAEA may lead to market speculation and potential disruptions in global nuclear energy markets, affecting energy prices and geopolitical relations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Early-warning_radar">Early - warning radar - Wikipedia</a></li>
-<li><a href="https://www.presstv.co.uk/Detail/2026/11/13/780609/irgc-destroys-us-early-warning-radar-in-bahrain-after-attack-on-sirik-telecom-tower">IRGC destroys US early - warning radar in Bahrain after attack on...</a></li>
-<li><a href="https://english.almayadeen.net/news/politics/irgc-says-it-destroyed-us-early-warning-radar-in-bahrain">IRGC says it destroyed US early - warning radar in Bahrain</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fordow_Uranium_Enrichment_Plant">Fordow Uranium Enrichment Plant - Wikipedia</a></li>
+<li><a href="https://www.agenzianova.com/en/news/iran-here-are-the-nuclear-plants-under-fire-from-israel/">Iran : Here Are the Nuclear Facilities Under Fire from... - Agenzia Nova</a></li>
+<li><a href="https://www.nbcnews.com/id/wbna33130972">Iran agrees to send enriched uranium to Russia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Tensions`, `#Military Action`, `#Iran`, `#US`, `#Bahrain`
+**Tags**: `#Nuclear Non-Proliferation`, `#Iran`, `#Uranium Enrichment`, `#IAEA`, `#Global Market Stability`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [Exclusive: Japan Warns Arms Suppliers of Deep Order Cuts](https://reut.rs/4iDeQLx) ⭐️ 7.0/10
+### [Iran Tanker Explosion in Hormuz Strait](https://reut.rs/4iBOGJ4) ⭐️ 7.0/10
 
-Japan has warned its arms suppliers about significant cuts in military orders due to budget constraints. This decision affects the defense industry and has implications for related equities.
+Iran reports an explosion on a tanker carrying liquefied natural gas in the Hormuz Strait, impacting global energy markets. The incident involved a tanker using an unauthorized route, leading to concerns about the stability of energy supply routes in the region.
 
-rss · 路透社 Reuters · Nov 13, 03:50
+rss · 路透社 Reuters · Nov 13, 08:05
 
-**「Background on Japan&\#x27;s Military Spending and Budget Constraints」** Japan has historically been a significant spender in the defense sector, with its military budget reflecting a commitment to national security. In recent years, there has been a trend of increasing military expenditures, with the government aiming to modernize its armed forces and enhance its defense capabilities. The decision to cut military orders is a departure from this trend and is attributed to budget constraints. These constraints may be due to various factors, including economic pressures and the need to prioritize spending in other areas. The impact of these budget cuts on Japan&\#x27;s defense industry and its global suppliers is significant, as it indicates a shift in the country&\#x27;s defense spending strategy.
+**「Historical Context of Strait of Hormuz Disruptions」** The Strait of Hormuz has been a focal point for geopolitical tensions and disruptions in global energy markets. In 2026, there was a significant disruption in the Strait of Hormuz, which led to supply shocks, price volatility in oil and LNG markets, and long-term energy investment opportunities. This disruption also had implications for global energy markets, inflation, and portfolio positioning. The impact of the Strait of Hormuz on global energy markets has been substantial, creating vulnerabilities and triggering global energy crises, reshaping investment flows.
 
-**「Impact」** The deep order cuts in the military buildup are expected to have a negative impact on the defense industry, potentially affecting the financial performance of companies in the sector.
+**「Impact」** The explosion of the tanker in the Hormuz Strait is expected to disrupt global energy markets, potentially leading to increased prices and volatility in the supply of liquefied natural gas.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mod.go.jp/en/d_act/d_budget/index.html">Defense Budget | Japan Ministry of Defense</a></li>
-<li><a href="https://blog.modeldiplomat.com/japan-military-spending-2026-budget-strategy">Japan Military Budget 2026: What&#x27;s Changed and Why</a></li>
-<li><a href="https://www.defensebudget.org/en/country/japan">Japan Military Spending 2026: 1.5% of GDP (estimate)</a></li>
+<li><a href="https://zynergy.com/insights/zynergy-insights-perspectives/2026-strait-of-hormuz-disruptionimpact-on-global-oil-and-lng-markets/">2026 Strait Of Hormuz Disruption - Impact On Global Oil And ...</a></li>
+<li><a href="https://www.primebuchholz.com/2026/03/20/strait-of-hormuz-energy-market-impact/">Strait of Hormuz Disruption: Energy Market Impact and ...</a></li>
+<li><a href="https://discoveryalert.com/strait-hormuz-economic-impact-2026-energy-markets/">Strait of Hormuz Impact on Global Energy Markets</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Japan`, `#Military Spending`, `#Budget Constraints`, `#Defense Industry`, `#Equities`
+**Tags**: `#Iran`, `#Hormuz Strait`, `#Tanker Explosion`, `#Energy Markets`, `#Geopolitical Events`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [Yemen Houthi Attack on Saudi Oil Pipeline](https://reut.rs/4iVgjeZ) ⭐️ 7.0/10
+### [Iran&\#x27;s Guards Target US Early-Warning Radar Station in Bahrain](https://reut.rs/4sVjc3U) ⭐️ 7.0/10
 
-Yemen&\#x27;s Houthi rebels have claimed responsibility for an attack on a pumping station on Saudi Arabia&\#x27;s East-West oil pipeline, which could significantly impact global oil supply and prices.
+Iran&\#x27;s Guards have claimed responsibility for an attack on a US early-warning radar station located in Bahrain. This action marks a significant military confrontation between Iran and the United States in the region.
 
-rss · 路透社 Reuters · Nov 12, 23:18
+rss · 路透社 Reuters · Nov 13, 05:57
 
-**「Background on Yemen Houthi Attack on Saudi Oil Pipeline」** The Yemeni Houthi rebels have a history of targeting Saudi Arabian infrastructure, including oil facilities. This recent attack on the East-West oil pipeline follows a pattern of such incidents, which have been a concern for global oil markets. In the past, similar attacks have led to disruptions in oil supply and subsequent increases in oil prices. The situation is further complicated by the broader geopolitical tensions in the region, including the relationship between Saudi Arabia and Iran, which can influence oil prices and regional stability.
+**「Background on Early-Warning Radar and Iran&\#x27;s Actions」** An early-warning radar is a system designed to detect and track the trajectory of objects, such as missiles, in order to provide advance notice of their approach. The North Warning System is a joint United States and Canadian early-warning radar system, while the PAVE PAWS system is a US-based early-warning radar. The Islamic Revolution Guard Corps \(IRGC\) of Iran announced that it had destroyed a US early-warning radar in Bahrain, which it described as a response to an attack on a communications tower on Iran&\#x27;s Sirik Island. This action by the IRGC is significant due to its direct military involvement with the United States in the region.
 
-**「Impact」** The attack could lead to a disruption in global oil supply, potentially causing oil prices to rise further.
+**「Impact」** The attack could lead to increased tensions in the Middle East, potentially affecting regional stability and impacting global oil markets, which are already under strain due to supply concerns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cbsnews.com/news/iran-war-oil-prices-houthis-yemen-saudi-arabia-east-west-pipeline/">How Iran&#x27;s regional allies&#x27; attacks in Yemen are... - CBS News</a></li>
-<li><a href="https://sputnikglobe.com/20261113/houthis-say-attacked-east-west-oil-pipeline-in-saudi-arabia-1125065188.html">Houthis Say Attacked East - West Oil Pipeline in Saudi Arabia</a></li>
-<li><a href="https://www.youtube.com/watch?v=QyAxGOwJnK0">Saudi Arabia SHUTS Oil Pipeline as Houthis Tighten Grip... - YouTube</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Early-warning_radar">Early - warning radar - Wikipedia</a></li>
+<li><a href="https://english.almayadeen.net/news/politics/irgc-says-it-destroyed-us-early-warning-radar-in-bahrain">IRGC says it destroyed US early - warning radar in Bahrain</a></li>
+<li><a href="https://www.presstv.co.uk/Detail/2026/11/13/780609/irgc-destroys-us-early-warning-radar-in-bahrain-after-attack-on-sirik-telecom-tower">IRGC destroys US early - warning radar in Bahrain after attack on...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Pipeline Attack`, `#Yemen Houthi`, `#Saudi Arabia`, `#Commodity Market`, `#Global Oil Supply`
+**Tags**: `#Geopolitical Event`, `#Military Action`, `#Iran`, `#US`, `#Bahrain`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [US Handles 12B USD of Venezuela&\#x27;s Oil Revenues](https://reut.rs/4eyK1oL) ⭐️ 7.0/10
+### [Yemeni Houthis Attack Saudi Oil Pipeline](https://reut.rs/4iVgjeZ) ⭐️ 7.0/10
 
-The United States has reportedly handled 12 billion dollars of Venezuela&\#x27;s oil revenues, according to a recent report. This financial transaction involves a significant portion of Venezuela&\#x27;s oil income and could have implications for global financial markets.
+The Yemeni Houthi rebels have claimed responsibility for an attack on a pumping station on Saudi Arabia&\#x27;s East-West oil pipeline, potentially impacting global oil supply.
 
-rss · 路透社 Reuters · Nov 12, 22:46
+rss · 路透社 Reuters · Nov 12, 23:18
 
-**「Background on the Handling of Venezuela&\#x27;s Oil Revenues by the United States」** The handling of Venezuela&\#x27;s oil revenues by the United States has been a subject of economic interest. Over the first nine months of 2026, the U.S. managed more than $12 billion in Venezuelan oil and natural resource sales. This arrangement, which involved distributing approximately $12.11 billion to Venezuela, faced scrutiny due to the undisclosed nature of the oil buyers. The details of this financial transaction and its implications for global financial markets are significant and worth noting.
+**「Background on Saudi Oil Pipeline Attack」** The attack on Saudi Arabia&\#x27;s East-West oil pipeline by the Yemeni Houthis is part of a broader escalation in tensions. Iran-allied militants, including the Houthis, had increased their attacks on Saudi Arabia in the lead-up to the September strikes, targeting energy facilities and civilian sites, resulting in over 70 injuries. This recent attack follows a pattern of Houthi attacks on Saudi infrastructure, highlighting the ongoing geopolitical tensions in the region.
 
-**「Impact」** The handling of Venezuela&\#x27;s oil revenues by the United States may lead to increased market speculation and potential shifts in global oil market dynamics.
+**「Impact」** The attack on the Saudi oil pipeline could lead to disruptions in global oil markets, affecting prices and supply stability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://coinpaper.com/38769/us-collected-12-billion-from-venezuela-s-oil-sales-here-s-where-it-went">US Collected $12 Billion From Venezuela’s Oil Sales — Here’s ...</a></li>
-<li><a href="https://www.reuters.com/business/energy/us-handled-12-billion-venezuelas-oil-revenues-report-says-2026-11-12/">US handled $12 billion of Venezuela&#x27;s oil revenues, report ...</a></li>
-<li><a href="https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html">U.S. Received $12 Billion From Venezuela’s Oil, Report Shows</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_East%E2%80%93West_Crude_Oil_Pipeline_attack">2026 East–West Crude Oil Pipeline attack - Wikipedia</a></li>
+<li><a href="https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-pumping-station-saudi-arabias-east-west-oil-2026-11-12/">Yemen&#x27;s Houthis say they attacked pumping station on Saudi ...</a></li>
+<li><a href="https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39?syn-25a6b1a6=1">Saudi Arabia’s vital East-West pipeline struck in attack</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Economic News`, `#Oil Market`, `#Venezuela`, `#US Financial Policy`, `#Global Markets`
-
----
-
-<a id="item-global-market-8"></a>
-### [Nvidia CEO Resignation and Potential Stricter AI Chip Sales Restrictions to China](https://reut.rs/4BQM41o) ⭐️ 7.0/10
-
-The resignation of Nvidia&\#x27;s CEO may result in stricter restrictions on the sale of AI chips to China, which could have a significant impact on global financial markets.
-
-rss · 路透社 Reuters · Nov 12, 19:18
-
-**「Background on Nvidia CEO Resignation and AI Chip Sales to China」** Nvidia, a leading company in the AI chip industry, recently announced the resignation of its CEO, Jensen Huang. This event has sparked discussions about the potential impact on the AI chip supply chain and the possibility of stricter regulations on AI chip sales to China. Huang&\#x27;s resignation comes at a time when the global chip industry is already facing challenges, including supply chain disruptions and increasing regulatory scrutiny. The resignation of such a key figure in the technology sector could lead to significant changes in the company&\#x27;s strategic direction and its relationship with key markets, including China.
-
-**「Market Impact」** The resignation of Nvidia&\#x27;s CEO may lead to stricter restrictions on AI chip sales to China, potentially impacting global financial markets. This development could lead to increased tensions in the technology sector and affect the supply chain for AI chips, influencing the prices and availability of these chips in various markets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.kucoin.com/news/flash/nvidia-ceo-jensen-huang-resigns-impact-on-ai-infrastructure-and-private-equity-firms">NVIDIA CEO Jensen Huang Resigns , Impact on AI... | KuCoin</a></li>
-<li><a href="https://www.globaltimes.cn/page/202611/1374224.shtml">Analysis: Nvidia CEO ’s exit highlights mounting... - Global Times</a></li>
-<li><a href="https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation">Nvidia CEO Resignation Sees Bitcoin Price Fall toward $71,000</a></li>
-<li><a href="https://coinography.com/trump-mulls-tighter-nvidia-ai-chip-sales-restrictions-to-china/">Trump Mulls Tighter Nvidia AI Chip Sales Restrictions to China</a></li>
-<li><a href="https://www.habertusba.com/the-long-term-implications-of-washingtons-tightened-grip-on-ai-chip-sales-to-china-for-nvidia-and-chipmakers/">The Long-Term Implications of Washington&#x27;s Tightened Grip on AI ...</a></li>
-<li><a href="https://opentools.ai/news/senate-democrats-slam-trump-admin-for-ai-chip-sales-to-china">Senate Democrats Slam Trump Admin for AI Chip Sales to China</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Technology`, `#Market Regulations`, `#AI Chips`, `#Nvidia`, `#China`
-
----
-
-<a id="item-global-market-9"></a>
-### [UK Sanctions Russia&\#x27;s Slavneft](https://reut.rs/4zlHIwF) ⭐️ 7.0/10
-
-The UK has imposed sanctions on Russia&\#x27;s Slavneft, a targeted move against oil producers that could impact global oil markets and central bank policies.
-
-rss · 路透社 Reuters · Nov 12, 17:43
-
-**「Background on Slavneft」** Slavneft, a vertically integrated Russian oil and gas company, was established in 1994 as a joint venture between the Russian and Belarusian governments. Initially, the company&\#x27;s assets included an oil refinery. In 2002, Slavneft was privatized, valued at US$1.86 billion. The company is headquartered in Moscow and is involved in the exploration, production, refining, and marketing of hydrocarbons and petroleum products.
-
-**「Impact」** The sanctions on Slavneft may lead to increased volatility in global oil markets and potentially influence central bank policies regarding energy security.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Slavneft">Slavneft - Wikipedia</a></li>
-<li><a href="https://grokipedia.com/page/slavneft">Slavneft — Grokipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Sanctions`, `#Oil Markets`, `#Russia`, `#UK`, `#Global Finance`
-
----
-
-<a id="item-global-market-10"></a>
-### [White House to Extend Jones Act Waiver](https://reut.rs/3WIFs58) ⭐️ 7.0/10
-
-The White House is reportedly preparing to extend the Jones Act waiver, which is expected to impact shipping and trade sectors.
-
-rss · 路透社 Reuters · Nov 12, 17:12
-
-**「Background on the Jones Act」** The Jones Act, also known as the Merchant Marine Act of 1920, requires that goods transported by water between U.S. ports be carried on vessels constructed, owned, and operated by Americans. This act has been a subject of debate and has implications for shipping and trade. The act was initially enacted to protect the American merchant marine industry, but it has also been criticized for increasing shipping costs and affecting trade with territories like Puerto Rico. The potential extension of the Jones Act waiver by the White House would be a significant policy decision with potential market-moving implications.
-
-**「Impact」** The extension of the Jones Act waiver could lead to increased shipping costs and potentially disrupt trade routes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://offshoreinjurytrialattorney.com/jones-act-lawyer/">Jones Act Lawyer | Offshore Injury Lawyers | Doyle Dennis Avery LLP</a></li>
-<li><a href="https://www.barneslawfirm.com/what-a-maritime-lawyer-know-jones-act/">What a Maritime Lawyer Should Know About the Jones Act</a></li>
-<li><a href="https://www.nytimes.com/2017/10/24/us/jones-act-puerto-rico.html">Would Repealing the Jones Act Help Puerto Rico? (Published 2017)</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#White House`, `#Jones Act`, `#Trade Policy`, `#Shipping`, `#Market Implications`
-
----
-
-<a id="item-global-market-11"></a>
-### [Fed&\#x27;s Barr Warns on AI Job Disruption and Widening Inequality](https://reut.rs/4kMrHfJ) ⭐️ 7.0/10
-
-Federal Reserve official, John Barr, has warned that the United States should prepare for &\#x27;serious&\#x27; job disruption caused by artificial intelligence and the increasing inequality in the country.
-
-rss · 路透社 Reuters · Nov 12, 16:07
-
-**「Background on AI Job Disruption and Economic Inequality」** The discussion around AI&\#x27;s impact on employment and economic inequality has been a growing concern in recent years. Studies have shown that AI can lead to significant changes in the job market, potentially disrupting certain sectors and creating new opportunities. This has raised questions about the potential for increased income inequality as AI continues to evolve. The concerns are further compounded by the rapid pace of technological advancement and the need for workforce adaptation. Experts have been analyzing the potential effects of AI on GDP, employment, and income inequality across different income levels and countries, providing insights into how these changes might unfold.
-
-**「Impact」** This warning could lead to increased scrutiny on AI policies and potentially influence central bank policies to address the economic implications of AI on employment and inequality.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cris.maastrichtuniversity.nl/en/publications/is-this-time-different-impact-of-ai-in-output-employment-and-ineq/">Is this time different? Impact of AI in output, employment and ...</a></li>
-<li><a href="https://www.linkedin.com/posts/romanzomko_ai-companys-ceo-issues-warning-about-mass-activity-7335959043305304064-YHvi">A thought-provoking interview with Dario Amodei, CEO of Anthropic, on...</a></li>
-<li><a href="https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/">No One Actually Knows How AI Will Affect Jobs | WIRED</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Job Disruption`, `#Economic Inequality`, `#Central Bank Policy`, `#US Economy`
-
----
-
-<a id="item-global-market-12"></a>
-### [Finland Reports Attack on Russian Warship in Baltic Sea](https://reut.rs/4eqYkvG) ⭐️ 7.0/10
-
-Finland has reported detecting an attack on a Russian warship in the Baltic Sea, an event that has raised concerns about escalating geopolitical tensions in the region.
-
-rss · 路透社 Reuters · Nov 12, 13:59
-
-**「Background on Baltic Sea Tensions」** The Baltic Sea region has experienced a significant shift in maritime dynamics over the past year. This transformation has been marked by the direct spillover of the Russia-Ukraine war, leading to increased tensions in the area. The situation has been further complicated by incidents such as undersea cable sabotage, Russian GPS jamming operations, and the enhanced NATO presence in the region. Finland and Sweden&\#x27;s recent accession to NATO has also contributed to the geopolitical landscape, altering the security dynamics in the Baltic Sea. These developments have raised concerns about the potential for military conflict and its impact on global financial markets.
-
-**「Impact」** The incident could lead to increased market volatility, particularly in sectors sensitive to geopolitical tensions, such as energy and defense.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.riskintelligence.eu/analyst-briefings/the-russia-ukraine-war-and-the-spillover-into-the-baltic">The Russia-Ukraine war and the spillover into the Baltic</a></li>
-<li><a href="https://www.defconlevel.com/baltic-sea-tensions">Baltic Sea Tensions: Cable Sabotage, GPS Jamming &amp; NATO ...</a></li>
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/21599165.2026.2669224">The geopoliticisation of domestic issues in the Baltic Sea ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Geopolitical Tensions`, `#Military Conflict`, `#Baltic Sea`, `#Russia`, `#Finland`
-
----
-
-<a id="item-global-market-13"></a>
-### [Euclid Mission Data Release on Galaxies](https://reut.rs/4kGpHWk) ⭐️ 7.0/10
-
-The Euclid mission has released data covering over 900 million galaxies, marking a significant contribution to astronomical research. This extensive data set is expected to provide valuable insights into the structure and evolution of the universe.
-
-rss · 路透社 Reuters · Nov 12, 13:27
-
-**「Euclid Mission Background」** The Euclid mission, a significant project in astronomical research, is a European Space Agency observatory designed to map the geometry of the Universe with high precision. This mission is crucial for understanding the mysteries of dark matter and dark energy, which are fundamental to cosmic expansion. The Euclid telescope, positioned at the L2 point in space, is equipped with VIS and NISP payloads to conduct its surveys. It is a collaborative effort involving NASA and the European Space Agency, with support from institutions like Caltech, which provides expert insight into the surveys, data processes, calibration, and products associated with the mission.
-
-**「Impact」** The release of this data is likely to have a profound impact on the field of astronomy, potentially leading to new discoveries about galaxy formation and the large-scale structure of the cosmos.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://anantamias.com/euclid-mission/">Euclid Mission : ESA&#x27;s Dark Universe Telescope... - Anantam IAS</a></li>
-<li><a href="https://sentinelmission.org/blog/why-is-the-euclid-mission-important/">Why Is the Euclid Mission Important? Exploring... - Sentinel Mission</a></li>
-<li><a href="https://euclid.caltech.edu/">Home Page | Euclid</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Astronomy`, `#Space Exploration`, `#Data Release`, `#Euclid Mission`, `#Galaxies`
-
----
-
-<a id="item-global-market-14"></a>
-### [US FDA Shelves Drug Review Acceleration Program](https://reut.rs/4jbGjE6) ⭐️ 7.0/10
-
-The US Food and Drug Administration \(FDA\) has put on hold a voucher program proposed by its commissioner to expedite drug reviews, as reported by sources. This decision affects the pharmaceutical industry and market dynamics.
-
-rss · 路透社 Reuters · Nov 12, 11:51
-
-**「Background on FDA&\#x27;s Voucher Program」** The U.S. FDA had initiated the Commissioner&\#x27;s National Priority Voucher \(CNPV\) Pilot Program in October 2026, which aimed to reduce drug and biologic review times from 10-12 months to just one to two months for therapies addressing national health priorities. This program was part of an effort to accelerate the development and review of certain drugs and biological products. The program was launched in June 2025 and was designed to enhance the health and economic impact of the pharmaceutical industry by expediting the drug review process.
-
-**「Impact」** The shelving of the voucher program may lead to delays in drug approvals, potentially impacting the pharmaceutical industry&\#x27;s growth and investment dynamics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.fda.gov/industry/commissioners-national-priority-voucher-cnpv-pilot-program">Commissioner&#x27;s National Priority Voucher (CNPV) Pilot Program</a></li>
-<li><a href="https://www.fda.gov/industry/commissioners-national-priority-voucher-cnpv-pilot-program/commissioners-national-priority-voucher-cnpv-pilot-program-submission">Commissioner&#x27;s National Priority Voucher (CNPV) Pilot Program ...</a></li>
-<li><a href="https://www.usnews.com/news/top-news/articles/2026-11-12/exclusive-us-fda-shelves-commissioners-voucher-program-for-speedy-drug-reviews-sources-say">Exclusive-US FDA Shelves Commissioner&#x27;s Voucher Program for ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#FDA`, `#Drug Review`, `#Pharmaceutical Industry`, `#Market Dynamics`, `#Regulatory Policy`
-
----
-
-<a id="item-global-market-15"></a>
-### [Car Bomb Attack on Russian Soldier Near St. Petersburg](https://reut.rs/4kchCse) ⭐️ 7.0/10
-
-A Russian soldier has been killed in a car bomb attack near St. Petersburg, marking a targeted assassination. This incident is the latest in a series of such events and could have significant implications for geopolitical stability and security.
-
-rss · 路透社 Reuters · Nov 12, 10:47
-
-**「Background on the Car Bomb Attack Near St Petersburg」** The recent car bomb attack near St Petersburg, which resulted in the death of a Russian soldier, is the latest in a series of targeted assassinations. Such incidents have the potential to escalate tensions and affect geopolitical stability. In the past, similar attacks have had significant geopolitical implications, highlighting the complex nature of security challenges in the region.
-
-**「Impact」** The targeted assassination of a Russian soldier near St. Petersburg may lead to increased tensions and security concerns, potentially affecting global financial markets and geopolitical relations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://nypost.com/2026/11/12/world-news/russian-soldier-killed-by-car-bomb-near-st-petersburg-in-latest-targeted-assassination/">Russian soldier killed by car bomb near St Petersburg in latest...</a></li>
-<li><a href="https://www.freedomgpt.com/wiki/geopolitical-implications">Geopolitical implications | WikiFreedom</a></li>
-<li><a href="https://firenexttime.net/the-geopolitical-implications-of-ismail-haniyehs-assassination/">The Geopolitical Implications of Ismail Haniyeh’s Assassination</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Geopolitical Events`, `#Security`, `#Targeted Assassination`, `#Russia`, `#Financial Markets`
-
----
-
-<a id="item-global-market-16"></a>
-### [EU Court Adviser Supports 1.7 Billion Antitrust Fine Against Google](https://reut.rs/4BPEeoK) ⭐️ 7.0/10
-
-The EU Court adviser has recommended a 1.7 billion antitrust fine against Google, marking a significant setback for the company.
-
-rss · 路透社 Reuters · Nov 12, 09:59
-
-**「Background on Google&\#x27;s Antitrust Fine in the EU」** Google has been facing antitrust issues in the European Union for several years. In 2018, the European Commission accused Google of abusing its dominant position in the Android operating system market, compelling manufacturers to pre-install Google Search and Chrome browser, thereby restricting competition. As a result, the European Commission decided to impose a fine of 4.3 billion euros on Google. This case has been a significant topic in the tech industry, with the European Court of Justice confirming the fine in a previous ruling. The current situation involves an EU Court adviser supporting a 1.7 billion euro antitrust fine against Google, which marks a significant setback for the company.
-
-**「Impact」** This fine could potentially lead to increased scrutiny of Google&\#x27;s business practices and affect the company&\#x27;s market position.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.qq.com/rain/a/20260702A070PK00">谷 歌 在 欧 盟 41亿 欧 元 反 垄 断 罚 款 的诉讼中败诉_腾讯新闻</a></li>
-<li><a href="https://www.msn.com/zh-cn/news/other/%E8%B0%B7%E6%AD%8C%E5%9C%A8%E6%AC%A7%E7%9B%9F41%E4%BA%BF%E6%AC%A7%E5%85%83%E5%8F%8D%E5%9E%84%E6%96%AD%E7%BD%9A%E6%AC%BE%E7%9A%84%E8%AF%89%E8%AE%BC%E4%B8%AD%E8%B4%A5%E8%AF%89/ar-AA272vhE">谷 歌 在 欧 盟 41亿 欧 元 反 垄 断 罚 款 的诉讼中败诉</a></li>
-<li><a href="https://www.iheima.com/article-399225.html">谷 歌 在 欧 盟 41亿 欧 元 反 垄 断 罚 款 诉讼中败诉_快讯_i黑马</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Antitrust`, `#Google`, `#EU Court`, `#Tech Industry`, `#Financial Market`
-
----
-
-<a id="item-global-market-17"></a>
-### [India&\#x27;s Financial Regulation Update](https://reut.rs/4C5iS79) ⭐️ 7.0/10
-
-India is set to impose a ban on private equity firms from controlling more than one non-bank lender. This regulatory change is expected to affect both private equity firms and non-bank lenders significantly.
-
-rss · 路透社 Reuters · Nov 12, 08:40
-
-**「Background on India&\#x27;s Financial Regulation Changes」** The decision by India to ban private equity firms from controlling multiple non-bank lenders is part of a broader regulatory shift in the country&\#x27;s financial market. This move follows the Reserve Bank of India&\#x27;s notification of the Foreign Exchange Management \(Export and Import of Goods and Services\) Regulations, 2026, which were amended and took effect on October 1, 2026. These regulations are aimed at enhancing financial stability and oversight in the sector. The announcement comes in the context of ongoing discussions and changes in the financial landscape, as evidenced by the NDTV Profit Ignite 2026 event where key industry figures discussed the evolving narrative around asset management companies \(AMCs\) and smallcaps in the Indian market.
-
-**「Impact」** The ban is likely to impact the broader financial landscape in India, particularly in the context of central bank policies and market dynamics, as it may alter the funding and investment strategies of private equity firms and non-bank lenders.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://afleo.com/fema-export-import-regulations-2026-changes/">New FEMA Export Import Regulations 2026 : 4 Key Changes</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#India`, `#Financial Regulation`, `#Private Equity`, `#Non-Bank Lenders`, `#Market Dynamics`
+**Tags**: `#Oil Pipeline Attack`, `#Yemen Houthis`, `#Saudi Arabia`, `#Global Oil Markets`, `#Geopolitical Tensions`
 
 ---
 
 ## AI Frontier
 
 <a id="item-ai-frontier-1"></a>
-### [UMAP 0.6: Performance and Feature Enhancements](https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/) ⭐️ 8.0/10
+### [UMAP 0.6: Performance Enhancements and Improved Initialization](https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/) ⭐️ 8.0/10
 
-UMAP 0.6 introduces significant performance improvements with new initialization methods, optimizers, and faster nearest neighbor search, making it significantly faster and more scalable for large datasets, such as processing 3 million arXiv papers in under 5 minutes.
+UMAP 0.6 introduces significant performance enhancements, including faster nearest neighbor search, improved initialization, and new optimizers, making it more efficient for large-scale data analysis.
 
 reddit · r/MachineLearning · /u/lmcinnes · Nov 12, 13:51
 
-**「UMAP 0.6 Background」** UMAP \(Uniform Manifold Approximation and Projection\) is a dimension reduction technique used for data visualization and machine learning. The release of UMAP 0.6 introduces significant enhancements, including new initialization methods, optimizers, and a faster nearest neighbor search algorithm. These improvements aim to enhance the scalability and performance of UMAP, particularly for large datasets. The new initialization scheme uses UMAP itself to lay out a coarse version of the graph structure, refining it recursively, which results in a faster and more accurate starting point. The new optimizers introduce an efficient form of hard-negative mining, improving negative sampling on large datasets and allowing UMAP to perform well at higher repulsion strengths.
+**「Understanding UMAP and its Evolution」** UMAP \(Uniform Manifold Approximation and Projection\) is a dimension reduction technique designed for both visualization and general non-linear dimension reduction. It operates under the assumption that the manifold is locally connected. UMAP has evolved over time, with previous versions focusing on providing a visualization tool similar to t-SNE. The latest version, UMAP 0.6, introduces significant enhancements, including a new initialization method, new optimizers, and faster nearest neighbor search, making it more efficient for large-scale data analysis. This evolution is a result of the continuous improvement in the algorithm&\#x27;s capabilities, aiming to provide better results in less time.
 
-**「Impact」** The enhanced performance and scalability of UMAP 0.6 will enable developers and researchers to efficiently handle large-scale datasets, potentially leading to more accurate and detailed data visualizations and analyses.
+**「Impact on Data Analysis」** The release of UMAP 0.6 significantly enhances the efficiency and quality of large-scale data analysis. With its new initialization method and optimizers, UMAP 0.6 can process million-scale datasets more effectively, resolving finer cluster structures in fewer epochs. This improvement in performance and accuracy is particularly beneficial for developers and researchers working with large datasets in machine learning and data visualization.
+
+**「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://umap-learn.readthedocs.io/en/latest/">UMAP: Uniform Manifold Approximation and Projection for ...</a></li>
+<li><a href="https://umap-learn.readthedocs.io/en/latest/api.html">UMAP API Guide — umap 0.6.0 documentation - Read the Docs</a></li>
+<li><a href="https://agihunt.info/en/p/1a1cac7f932ae0c0067dd9c8002">UMAP 0.6 recursive init converges to within 3%… · AGI Hunt</a></li>
+<li><a href="https://umap-learn.readthedocs.io/en/latest/optimizers.html">Choosing a UMAP Layout Optimizer — umap 0.6.0 documentation</a></li>
 <li><a href="https://umap-learn.readthedocs.io/en/latest/release_notes.html">Release Notes — umap 0.6.0 documentation - Read the Docs</a></li>
-<li><a href="https://umap-learn.readthedocs.io/en/latest/benchmarking.html">Performance Comparison of Dimension Reduction Implementations</a></li>
-<li><a href="https://agihunt.info/en/p/1a1cac8bdb8dff1d5f6f469dff6">UMAP 0.6 released: million-scale speedups… · AGI Hunt</a></li>
+<li><a href="https://agihunt.info/en/p/1a1a425e94de35edb51da44f954">UMAP 0.6 adds Adam and momentum layout… · AGI Hunt</a></li>
+<li><a href="https://umap-learn.readthedocs.io/en/latest/index.html">UMAP : Uniform Manifold Approximation and Projection for Dimension...</a></li>
+<li><a href="https://www.baeldung.com/cs/uniform-manifold-approximation-projection">How Does UMAP Dimensionality... | Baeldung on Computer Science</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Machine Learning`, `#UMAP`, `#Performance Improvement`, `#Data Visualization`, `#Algorithm Update`
+**Tags**: `#Machine Learning`, `#Data Visualization`, `#Algorithm Update`, `#Performance Improvement`, `#UMAP`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [Google Releases Gemini 4 Hydrogen Model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) ⭐️ 8.0/10
+### [ParaTrace v8 \(RAID-tuned\) Achieves Strong Performance on RAID Leaderboard](https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/) ⭐️ 8.0/10
 
-Google has launched the Gemini 4 Hydrogen model, designed for fast execution of daily programming and intelligent agent workflows. The model offers significant performance improvements over its predecessor, Gemini 3.8 Flash, with a 2.5x speed increase and a Terminal-Bench 4.1 score boost from 18.2% to 57%.
+ParaTrace v8 \(RAID-tuned\), a model based on the Ettin-1B encoder and ModernBERT architecture, has achieved a top position on the RAID leaderboard with a TPR of 99.20% at a 1% FPR. It is fine-tuned on RAID&\#x27;s training split and is designed for research purposes.
 
-telegram · zaihuapd · Nov 13, 02:02
+reddit · r/MachineLearning · /u/AltruisticCouple3491 · Nov 13, 10:39
 
-**「Background on Gemini 4 Hydrogen Model」** The Gemini 4 Hydrogen model is a development in the field of large language models, specifically designed for fast execution of daily programming tasks and intelligent agent workflows. This model is an evolution from its predecessor, Gemini 3.8 Flash, showcasing significant improvements in speed and performance. The model&\#x27;s architecture and optimizations are tailored to enhance efficiency in code-related tasks, bug fixing, and data processing, making it a valuable tool for developers and researchers working with AI and large language models.
+**「Background on ParaTrace v8 \(RAID-tuned\)」** ParaTrace v8 \(RAID-tuned\) is a research model designed for AI text detection, utilizing the Ettin-1B encoder based on the ModernBERT architecture. This model is specifically fine-tuned on the RAID&\#x27;s training split, a process that involves adjusting the model&\#x27;s parameters to improve its performance on a particular task. The model has demonstrated strong performance on the RAID leaderboard, achieving a Top Performance Rate \(TPR\) of 99.20% at a False Positive Rate \(FPR\) of 1% on the hidden test set. This fine-tuning process, along with the model&\#x27;s architecture, contributes to its high accuracy in detecting AI-generated text.
 
-**「Impact」** The release of Gemini 4 Hydrogen is expected to enhance developer productivity and efficiency, as it can handle tasks such as code writing, bug fixing, and data analysis much faster than previous models.
+**「Consequence for Developers and Researchers」** The release of ParaTrace v8 \(RAID-tuned\) with its high True Positive Rate \(TPR\) at low False Positive Rate \(FPR\) provides developers and researchers with a robust AI detection tool. This can lead to more accurate identification of AI-generated text, which is particularly valuable for applications requiring human-like text quality assessment.
+
+**「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://deepmind.google/models/model-cards/gemini-4-hydrogen/">Gemini 4 Hydrogen - Model Card — Google DeepMind</a></li>
+<li><a href="https://huggingface.co/empirischtech/paratrace-v8-raid">empirischtech/paratrace-v8-raid · Hugging Face</a></li>
+<li><a href="https://agihunt.info/en/p/1a1d4852e159fda8b8257f25113">Open-weights AI text detector ParaTrace v8 hits… · AGI Hunt</a></li>
+<li><a href="https://paratrace.net/benchmarks">AI detector accuracy benchmark · ParaTrace</a></li>
+<li><a href="https://theaileaderboard.org/posts/raid-ai-detector-leaderboard">RAID AI Detector Leaderboard (2026): Latest Rankings ...</a></li>
+<li><a href="https://aisecbench.com/posts/raid-benchmark-ai-detector/">RAID Benchmark AI Detector Results: What the Scores Mean</a></li>
+<li><a href="https://raid-bench.xyz/">RAID Benchmark</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NLP`, `#AIDetection`, `#HuggingFace`, `#AIResearch`, `#ModelRelease`
+
+---
+
+<a id="item-ai-frontier-3"></a>
+### [Google Releases Gemini 4 Hydrogen Model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) ⭐️ 8.0/10
+
+Google has launched the Gemini 4 Hydrogen model, a lightweight version designed for daily programming and intelligent agent workflows. It offers a 2.5x speed improvement over its predecessor, Gemini 3.8 Flash, and is priced at $1.5 per million input tokens and $7.5 per million output tokens.
+
+telegram · zaihuapd · Nov 13, 02:02
+
+**「Background on Gemini 4 Hydrogen」** The Gemini 4 Hydrogen model is a part of Google&\#x27;s Gemini 4 family, designed to enhance daily programming and intelligent agent workflows. It is a fast, low-cost model that was released on November 12, 2026, replacing the Gemini 3.8 Flash as Google&\#x27;s everyday model. This model is built for reliable agentic workflows and everyday tasks, offering significant performance improvements over its predecessor.
+
+**「Impact」** The release of Gemini 4 Hydrogen is expected to enhance developer productivity and streamline AI-powered workflows, particularly in tasks requiring rapid execution and code-related operations.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://kie.ai/gemini-4-hydrogen">Gemini 4 Hydrogen</a></li>
+<li><a href="https://www.vals.ai/models/google_gemini-4-hydrogen">Gemini 4 Hydrogen Benchmarks, Cost and Capabilities | Vals AI</a></li>
 <li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Introducing Gemini 4 Hydrogen for Agentic Workflows</a></li>
-<li><a href="https://artificialanalysis.ai/models/releases/gemini-4-hydrogen">Gemini 4 Hydrogen Models - Intelligence... | Artificial Analysis</a></li>
 
 </ul>
 </details>
@@ -509,256 +635,179 @@ telegram · zaihuapd · Nov 13, 02:02
 
 ---
 
-<a id="item-ai-frontier-3"></a>
-### [NVIDIA CEO Jensen Huang Resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) ⭐️ 7.0/10
-
-Jensen Huang, CEO of NVIDIA, resigned, marking a significant event in the AI industry. This development has sparked considerable community interest and discussion.
-
-hackernews · lldb · Nov 12, 13:52 · [Discussion](https://news.ycombinator.com/item?id=50467087)
-
-**「NVIDIA CEO Resignation Background」** Jensen Huang&\#x27;s resignation as CEO of NVIDIA is a pivotal event in the AI industry, as Huang has been a central figure in the company&\#x27;s growth and influence in the AI sector. His departure follows allegations of inappropriate conduct, which have raised concerns about the company&\#x27;s leadership and its alignment with national security interests. Huang&\#x27;s resignation marks the end of a 33-year tenure, during which he played a crucial role in shaping NVIDIA&\#x27;s trajectory in the AI and technology markets.
-
-**「Community Discussion」** Community discussions focus on the implications of Huang&\#x27;s resignation, with some questioning the timing and motivations behind the event, while others discuss the importance of CEO perception in the tech industry.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress">Why did Nvidia CEO Jensen Huang resign , and who is... | Al Jazeera</a></li>
-<li><a href="https://edition.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns">CFO Colette Kress to serve as interim leader after Nvidia CEO Jensen ...</a></li>
-<li><a href="https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns">Jensen Huang Resigns as Nvidia CEO After Affairs: Live Updates</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Industry`, `#NVIDIA`, `#CEO Resignation`, `#AI Research`, `#AI-Powered Products`
-
----
-
 <a id="item-ai-frontier-4"></a>
 ### [Open-Source Project Enables LLMs on Small Devices](https://github.com/hyperionaidev/smolmaxxing/) ⭐️ 7.0/10
 
-An open-source project has been developed to enable large language models \(LLMs\) to run on small and old devices, enhancing the accessibility of AI technology. The project, named &\#x27;smolmaxxing&\#x27;, has successfully run 16B models on devices like the iPad Air 1st gen and Xiaomi TV Box, both with less than 1GB of usable memory, achieving decent speeds given the hardware constraints.
+An open-source project has been developed to enable large language models \(LLMs\) to run on small and old devices, demonstrating advancements in AI optimization. The project has successfully run 16B models on devices like the iPad Air 1st gen and Xiaomi TV Box, both with less than 1GB of usable memory, achieving decent speeds given the hardware constraints.
 
 hackernews · mrashad74 · Nov 12, 15:23 · [Discussion](https://news.ycombinator.com/item?id=50468888)
 
-**「Background on AI Optimization for Small Devices」** The development of large language models \(LLMs\) has been hindered by the computational requirements, which often necessitate powerful hardware. However, recent advancements in AI optimization techniques have allowed for the adaptation of these models to run on smaller and older devices. This shift is made possible through optimizations such as PagedAttention, which reduces memory fragmentation and improves cache efficiency, and low-power optimization strategies like MNN-AECS, which focus on energy-efficient execution. These techniques have paved the way for the open-source project &\#x27;smolmaxxing&\#x27;, which aims to make LLMs accessible on devices with limited computational resources.
+**「AI Optimization Techniques for Running LLMs on Small Devices」** The ability to run large language models \(LLMs\) on small and old devices is a significant development in AI optimization. This is achieved through various techniques such as quantization, pruning, and knowledge distillation, which reduce memory and computational requirements. Efficient memory management is crucial for deploying LLMs on edge devices with limited resources. These techniques have been instrumental in enabling LLMs to run on devices like the iPad Air 1st gen and Xiaomi TV box, which have less than 1GB of usable memory.
 
-**「Impact」** This development allows developers and researchers to utilize LLMs on a wider range of devices, potentially leading to innovative applications and greater accessibility to AI technology, especially in resource-constrained environments.
+**「Impact」** This project has a concrete impact on developers and researchers by providing a practical solution for running LLMs on resource-constrained devices, which can lead to broader accessibility and innovation in AI applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.analyticsvidhya.com/blog/2026/10/llm-inference-explained-optimization-techniques/">LLM Inference Explained: Performance and Optimization Guide</a></li>
-<li><a href="https://www.devrakib.com/blog/optimizing-llm-inference-for-low-latency-edge-devices">Optimizing LLM Inference for Low-Latency Edge Devices</a></li>
-<li><a href="https://arxiv.org/html/2506.19884">MNN-AECS: Energy Optimization for LLM Decoding on Mobile...</a></li>
+<li><a href="https://splendificent.com/pushing-llms-to-edge-devices-tinyml-meets-text">Pushing LLMs to Edge Devices : TinyML Meets Text</a></li>
+<li><a href="https://tomoguides.com/knowledge/what_are_the_definitive_edge_ai_model_optimization_techniques_for_2026.php">What are the definitive edge AI model optimization techniques for ...</a></li>
+<li><a href="https://www.youtube.com/watch?v=uxE8FFiu_UQ">Run AI Models Locally with Ollama: Fast &amp; Simple... - YouTube</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Optimization`, `#Open Source`, `#LLM Accessibility`, `#Small Device AI`, `#Community Contribution`
+**Tags**: `#AI Optimization`, `#LLM on Small Devices`, `#Open Source`, `#AI Research`
 
 ---
 
 <a id="item-ai-frontier-5"></a>
-### [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) ⭐️ 7.0/10
+### [In-Depth Analysis of Zen 6 Architecture](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at) ⭐️ 7.0/10
 
-Edge0-145B AI model showcases remarkable memory efficiency, enabling its operation on compatible personal laptops like MacBook Pro. This development has sparked technical discussions among the community, highlighting its significance in AI research and infrastructure.
-
-hackernews · sroussey · Nov 12, 23:06 · [Discussion](https://news.ycombinator.com/item?id=50475713)
-
-**「Prerequisite Concepts for Edge0-145B AI Model」** The Edge0-145B AI model builds upon existing advancements in AI research and infrastructure. It leverages techniques such as matrix sharing and quantization to reduce memory usage while maintaining a large parameter count. These methods are part of the broader field of AI optimization, which aims to make AI models more efficient and accessible. The development of such models is also influenced by the increasing demand for AI applications that can run on a variety of hardware, including personal laptops.
-
-**「Impact on AI Development」** The introduction of the Edge0-145B AI model has significant implications for AI development, as it demonstrates the feasibility of running large-scale AI models on personal computers. This capability could lead to more widespread adoption of AI technologies by developers and researchers, enabling them to experiment with and refine AI models without the need for specialized hardware or cloud services.
-
-**「Community Discussion」** Community members are impressed with the memory efficiency of the Edge0-145B model, with one user noting its ability to run on a MacBook Pro with only peak 29GB memory usage. However, there is skepticism regarding the practicality of the model for tasks requiring manual refinement and texture application, with concerns that agent-made designs can be messy and time-consuming to clean up.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=nnGFEUeL-P0">I Ranked Every AI Model So You Don&#x27;t Have To - YouTube</a></li>
-<li><a href="https://www.trellis3.com/ai-models/luma-genie">Luma Genie 3d — Text to 3D Model Generator</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight">AI models chatting in ‘surreal’ dialect mixing poetic language and tech ...</a></li>
-<li><a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">Edge0-145B: Open-Source On-Device AI with 145B Parameters</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Research`, `#AI Infrastructure`, `#AI Model`, `#Technical Advancement`, `#Community Interest`
-
----
-
-<a id="item-ai-frontier-6"></a>
-### [Rust 1.100 Release Highlights](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 7.0/10
-
-Rust 1.100 introduces significant updates and improvements, including the stabilization of the never type, custom allocators, and the introduction of minimum publish age configurations. These changes aim to enhance the language&\#x27;s growth and stability without groundbreaking new features.
-
-hackernews · mbStavola · Nov 12, 18:39 · [Discussion](https://news.ycombinator.com/item?id=50472038)
-
-**「Rust 1.100 Release Background」** Rust 1.100 is a significant release of the Rust programming language, which focuses on stabilizing various features and improving the language&\#x27;s capabilities. This version includes the stabilization of the &\#x27;never&\#x27; type, which is useful for representing impossible values in Rust, and the introduction of custom allocators, allowing developers more control over memory allocation. Additionally, Rust 1.100 introduces minimum publish age configurations, also known as dependency cooldowns, which help manage dependencies by ignoring newer versions unless they are already locked in the Cargo.lock file. These changes contribute to the language&\#x27;s growth and stability, providing developers with more tools to build reliable and efficient software.
-
-**「Impact」** Developers working with Rust will benefit from these updates, as they contribute to the language&\#x27;s overall stability and efficiency, particularly with the introduction of custom allocators and dependency cooldowns.
-
-**「Community Discussion」** The community is generally positive about the release, with highlights including the stabilization of the never type and custom allocators. Some users have noted the absence of certain stabilized APIs not mentioned in the blog post, and there&\#x27;s a discussion about the compiler&\#x27;s performance and the need for regular &\#x27;cargo clean&\#x27; operations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">Announcing Rust 1 . 100 .0 | Rust Blog</a></li>
-<li><a href="https://releases.rs/docs/1.100.0/">1.100.0 | Rust Changelogs - releases.rs</a></li>
-<li><a href="https://lwn.net/Articles/1107188/">Rust 1.100.0 [LWN.net]</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Rust`, `#Programming Language`, `#Software Development`, `#Update`, `#Community Interest`
-
----
-
-<a id="item-ai-frontier-7"></a>
-### [Apple Introduces Foundation Models Framework](https://developer.apple.com/foundation-models-framework/) ⭐️ 7.0/10
-
-Apple has introduced the Foundation Models framework, designed to facilitate the use of AI in iOS apps. This framework is accessible to developers enrolled in the App Store Small Business Program with fewer than two million first-time App Store downloads, allowing them to run Apple Foundation Models on Private Cloud Compute without incurring cloud API costs. The framework includes support for running AI models natively with Swift and adapting open weight models for native use.
-
-hackernews · kermatt · Nov 12, 21:13 · [Discussion](https://news.ycombinator.com/item?id=50474361)
-
-**「Background on Apple&\#x27;s Foundation Models Framework」** Apple&\#x27;s Foundation Models framework is designed as a native Swift API, enabling developers to integrate large language models into their apps. This framework provides direct access to Apple&\#x27;s Foundation Models on-device and in Private Cloud Compute, offering capabilities such as guided generation, tool calling, image understanding, and Dynamic Profiles. This integration aims to facilitate the creation of unique app experiences and intelligent tasks tailored to specific use cases.
-
-**「Impact」** The introduction of the Foundation Models framework enables developers to integrate advanced AI capabilities into their iOS apps more easily, potentially leading to more sophisticated and intelligent applications.
-
-**「Community Discussion」** Community discussions highlight the framework&\#x27;s potential for use in various applications, with some users noting its capability for error correction and command suggestion, while others express surprise at the lack of promotion of certain features.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.apple.com/foundation-models-framework/">Foundation Models framework - Apple Developer</a></li>
-<li><a href="https://developer.apple.com/documentation/foundationmodels">Foundation Models | Apple Developer Documentation</a></li>
-<li><a href="https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models">Introducing the Third Generation of Apple’s Foundation Models</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#AI Framework`, `#iOS Development`, `#AI Research`, `#Community Interest`
-
----
-
-<a id="item-ai-frontier-8"></a>
-### [In-Depth Analysis of AMD Zen 6 Architecture](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at) ⭐️ 7.0/10
-
-AMD&\#x27;s Zen 6 architecture has been in-depth analyzed, revealing design choices and optimizations. The dense Zen 6c core has become the top IPC core with a full 4MB L3 per core, while the classic design has shifted to a high-frequency focus. Efforts have been made to ensure that the same optimizations apply to both, maintaining software compatibility.
+AMD&\#x27;s Zen 6 architecture has been in-depth analyzed by CPU designers, revealing technical insights and optimizations crucial for AI infrastructure. The analysis focuses on the dense Zen 6c core, which now serves as the top IPC core with a full 4MB L3 per core, and aims to maintain software compatibility with the high-frequency classic design.
 
 hackernews · dverlaeckt80 · Nov 12, 14:12 · [Discussion](https://news.ycombinator.com/item?id=50467460)
 
-**「AMD Zen 6 Architecture Overview」** The AMD Zen 6 architecture, codenamed &\#x27;Morpheus&\#x27;, is a significant advancement in CPU microarchitecture, succeeding the Zen 5. It is designed to leverage TSMC&\#x27;s 6 nm and 2 nm processes, offering improved performance and efficiency. The Zen architecture is a hybrid, multi-chip design that allows AMD to innovate across various processor types, including desktop, server, and mobile processors. This architecture is pivotal for AI research and AI infrastructure, as it integrates innovative AI architecture ideas that can revolutionize the way modern computing is approached.
+**「AMD Zen 6 Architecture Overview」** The AMD &\#x27;Zen&\#x27; core architecture has been a cornerstone of AMD&\#x27;s processor lineup, powering a range of products from consumer desktop and mobile processors to servers and workstations. The Zen 6 architecture, a significant evolution in the series, promises up to 24% higher per-clock performance compared to its predecessor, Zen 5. This performance boost is attributed to architectural improvements and optimizations, making it particularly relevant for AI infrastructure and large language models. The Zen 6 architecture incorporates innovative AI-centric design ideas, which are expected to enhance the capabilities of modern processors in handling AI workloads.
 
-**「Impact」** The design choices in Zen 6 are expected to have a significant impact on developers and researchers, particularly in the field of AI infrastructure, by providing a more efficient and powerful CPU architecture for AI-related tasks.
-
-**「Community Discussion」** Community members have expressed interest in the in-depth analysis, with one noting the unexpected inversion in core design and another highlighting the rarity of such detailed CPU design discussions.
+**「Impact」** The detailed analysis of the Zen 6 architecture provides developers and researchers with valuable insights for optimizing AI infrastructure, potentially leading to improved performance and efficiency in large language models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Zen_6">Zen 6 - Wikipedia</a></li>
-<li><a href="https://www.amd.com/en/technologies/zen-core.html">AMD &quot;Zen&quot; Core Architecture</a></li>
+<li><a href="https://www.amd.com/en/technologies/zen-core.html">AMD &quot; Zen &quot; Core Architecture</a></li>
+<li><a href="https://wccftech.com/amd-zen-6-higher-per-clock-performance-than-zen-5-promising-big-leap-for-ryzen-upgraders/">AMD Zen 6 Shows Up To 24% Higher Per-Clock Performance Than...</a></li>
 <li><a href="https://www.tiktok.com/discover/zen-6-architecture-review">Zen 6 Architecture Review | TikTok</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#CPU Architecture`, `#AMD Zen 6`, `#AI Infrastructure`, `#CPU Design`, `#Technical Analysis`
+**Tags**: `#CPU Architecture`, `#Zen 6`, `#AMD`, `#AI Infrastructure`, `#Technical Analysis`
 
 ---
 
-<a id="item-ai-frontier-9"></a>
-### [Anthropic&\#x27;s IPO Details](https://ipo.anthropic.com/us/) ⭐️ 7.0/10
+<a id="item-ai-frontier-6"></a>
+### [Foundation Models framework](https://developer.apple.com/foundation-models-framework/) ⭐️ 7.0/10
 
-Anthropic has announced its initial public offering \(IPO\), with a price range set between $70 and $78 per share, aiming for a midpoint of around $74. The gross deal size includes an IPO and a $26 billion private placement, valuing the company at approximately $968 billion. Anthropic reported $17 billion in revenue for Q3 2026, with a run-rate revenue of about $81 billion as of October 2026.
+Apple&\#x27;s Foundation Models framework is discussed, with community feedback indicating its practical applications and interest among developers.
 
-hackernews · josephljohnston · Nov 12, 11:46 · [Discussion](https://news.ycombinator.com/item?id=50465829)
+hackernews · kermatt · Nov 12, 21:13 · [Discussion](https://news.ycombinator.com/item?id=50474361)
 
-**「Background on Anthropic&\#x27;s IPO」** Anthropic, an AI research and development company, is planning to go public with an Initial Public Offering \(IPO\). This event marks a significant milestone for the company and the AI industry as a whole. The IPO is expected to provide insights into the financial health and market potential of AI companies. It is important to note that Anthropic&\#x27;s IPO is not the first in the AI sector, but it is one of the most anticipated due to the company&\#x27;s focus on large language models and its potential impact on the AI landscape.
+**Tags**: `#Apple AI`, `#Foundation Models`, `#AI Framework`, `#Developer Tools`, `#AI Research`
 
-**「Community Discussion」** Community discussions highlight concerns about the timing of the IPO, with some suggesting that Anthropic might be rushing the IPO for immediate financial gains rather than waiting for clearer market dominance. There is also a debate on the necessity of high-end LLMs for most applications, with some arguing that local models are sufficient for most use cases.
+---
+
+<a id="item-ai-frontier-7"></a>
+### [Rust 1.100 Release Overview](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 7.0/10
+
+Rust 1.100 introduces various stabilizations and improvements, including the stabilization of the &\#x27;never&\#x27; type, custom allocators, and the introduction of minimum publish age configurations for dependencies. The release also includes enhancements to cargo-install and improved dependency management.
+
+hackernews · mbStavola · Nov 12, 18:39 · [Discussion](https://news.ycombinator.com/item?id=50472038)
+
+**「Rust 1.100 Release Background」** Rust 1.100 is a significant release of the Rust programming language, which focuses on stabilizing features and introducing new configurations. This version of Rust includes the stabilization of the &\#x27;never&\#x27; type, custom allocators, and the introduction of minimum publish age configurations, also known as dependency cooldowns. These changes aim to enhance the reliability and efficiency of software development in Rust. The release also includes improvements in Cargo, Rust&\#x27;s package manager, such as reporting unused dependencies and enhancements to the cargo-install command. The Rust community has been actively involved in the development and stabilization of these features, contributing to the language&\#x27;s continuous improvement.
+
+**「Community Discussion」** The community has expressed excitement about the release, highlighting features like the stabilization of the &\#x27;never&\#x27; type and custom allocators. However, some users have requested more detailed technical analysis and information on performance improvements, such as compiler speed and temp file management.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.zacks.com/featured-articles/761/anthropic-ipo">Anthropic IPO 2026 Guide: Price Predictions, Dates, and ...</a></li>
-<li><a href="https://tech-insider.org/anthropic-ipo-s-1-filing-ant-nasdaq-16-3b-revenue-2026/">Anthropic IPO Filing: $80.7B Loss, $16.3B Revenue</a></li>
-<li><a href="https://www.forbes.com/sites/danrunkevicius/2026/10/01/anthropics-ipo-math-in-perspective/">Anthropic’s IPO Math In Perspective - Forbes</a></li>
+<li><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">Announcing Rust 1 . 100 .0 | Rust Blog</a></li>
+<li><a href="https://www.phoronix.com/news/Rust-1.100-Released">Rust 1 . 100 Released With The &quot;Never&quot; Type Finally Stable - Phoronix</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Infrastructure`, `#IPO`, `#Anthropic`, `#AI Industry`, `#Financial News`
+**Tags**: `#Rust`, `#Programming Language`, `#Software Development`, `#Update`, `#Community`
+
+---
+
+<a id="item-ai-frontier-8"></a>
+### [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) ⭐️ 7.0/10
+
+Edge0-145B is a new AI model introduced with impressive capabilities, including low memory usage for a large parameter count. It features a unique approach to matrix sharing, reducing the weights that must be stored and moved while maintaining the expert count. The model is capable of running on a decent spec MacBook Pro with a peak memory usage of 29GB for its 145B parameters.
+
+hackernews · sroussey · Nov 12, 23:06 · [Discussion](https://news.ycombinator.com/item?id=50475713)
+
+**「Prerequisite Concepts for Edge0-145B AI Model」** The introduction of the Edge0-145B AI model builds upon the advancements in AI model compression and efficient computing. This is a continuation of the trend towards creating AI models that are not only large in scale but also optimized for lower memory usage and faster inference. The development of efficient neural network architectures and quantization techniques has been crucial in making such large models feasible for deployment on consumer-grade hardware. Additionally, the use of shared matrices and parameter optimization strategies has been pivotal in reducing the memory footprint of these models, allowing them to run on devices with limited resources.
+
+**「Impact on Developers and Users」** The introduction of Edge0-145B, with its 145 billion parameters and low memory usage, significantly impacts developers and users by enabling the deployment of powerful AI capabilities on personal computers. This opens up new possibilities for real-time applications and on-device processing, reducing dependency on cloud infrastructure and potentially lowering costs.
+
+**「Community Discussion」** Community members are impressed with the model&\#x27;s low memory usage and its ability to run on consumer-grade hardware. One user notes the impressive memory efficiency, while another expresses skepticism about the practicality of the model for tasks requiring manual refinement. There is also discussion about the model&\#x27;s compatibility and potential for wider adoption.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=nnGFEUeL-P0">I Ranked Every AI Model So You Don&#x27;t Have To - YouTube</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight">AI models chatting in ‘surreal’ dialect mixing poetic language and tech ...</a></li>
+<li><a href="https://www.trellis3.com/ai-models/luma-genie">Luma Genie 3d — Text to 3D Model Generator</a></li>
+<li><a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">Edge0-145B: Open-Source On-Device AI with 145B Parameters</a></li>
+<li><a href="https://www.activepieces.com/blog/what-is-edge0-145b-local-ai-model-guide-for-2026">What Is Edge0-145B? Local AI Model Guide for 2026</a></li>
+<li><a href="https://github.com/Edge0-AI/Edge0">GitHub - Edge0-AI/Edge0: Device-native foundation models ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Model Release`, `#Technical Analysis`, `#Benchmarking`, `#AI Research`
+
+---
+
+<a id="item-ai-frontier-9"></a>
+### [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) ⭐️ 7.0/10
+
+Jensen Huang&\#x27;s resignation as CEO of NVIDIA is discussed, with potential implications for the AI industry.
+
+hackernews · lldb · Nov 12, 13:52 · [Discussion](https://news.ycombinator.com/item?id=50467087)
+
+**Tags**: `#NVIDIA`, `#Jensen Huang`, `#CEO Resignation`, `#AI Industry`, `#NVIDIA Leadership`
 
 ---
 
 <a id="item-ai-frontier-10"></a>
 ### [中国AI在复杂肺癌诊疗中取得突破](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247943733&amp;idx=1&amp;sn=6349b3258182996ecb696f0e716cdf72) ⭐️ 7.0/10
 
-中国AI医疗公司“未来医生”与国内顶级三甲医院胸外科团队联合开展的研究显示，其医疗大模型MedGPT在复杂肺癌病例的诊断和治疗中取得了显著突破，其辅助下医生的整体得分提升了24.1%。该研究由250名国内顶尖三甲医院医生参与，结果显示AI在复杂肺癌诊疗中的能力值得进一步探讨。
+中国AI医疗公司“未来医生”开发的MedGPT模型在复杂肺癌诊断和治疗方面取得了重大突破，在一项大规模研究中，该模型在40例复杂肺癌病例中，以88比12的成绩战胜了250名医生。MedGPT模型不仅优于当前国际主流通用大模型，还显著提升了医生的整体得分。
 
 rss · 量子位 · Nov 13, 02:54
 
-**「Background on AI in Lung Cancer Diagnosis and Treatment」** The integration of artificial intelligence \(AI\) into medical fields, particularly in lung cancer diagnosis and treatment, has been a significant area of research and development. AI has the potential to assist doctors in analyzing complex medical data, predicting outcomes, and suggesting treatment plans. This development is based on advancements in machine learning algorithms and the availability of large datasets containing medical information. The use of AI in healthcare aims to improve diagnostic accuracy, personalize treatment plans, and enhance patient outcomes.
+**「Background on AI in Lung Cancer Diagnosis and Treatment」** The field of AI-assisted lung cancer diagnosis and treatment has been evolving, with significant advancements in recent years. AI has been increasingly integrated into medical practices, particularly in complex areas such as lung cancer, where the diagnosis and treatment can be challenging due to the variability in patient conditions and treatment options. The development of specialized AI models, like the MedGPT used by the &\#x27;Future Doctor&\#x27; medical AI company, represents a step forward in this field. These models are designed to assist doctors in making more informed decisions by analyzing complex data and providing multiple treatment options, thus potentially improving patient outcomes.
 
-**「Impact on Developers and Researchers」** The breakthrough in complex lung cancer diagnosis and treatment using AI represents a significant advancement in the field of medical AI. This development is particularly valuable for developers and researchers as it showcases the potential of AI in assisting with complex medical decisions. The successful application of the MedGPT model in this context could lead to further innovation and development in AI-assisted medical diagnostics and treatment, potentially opening new avenues for research and clinical applications.
+**「Impact on Healthcare」** The breakthrough in AI-assisted lung cancer diagnosis and treatment, as demonstrated by the Future Doctor medical large model MedGPT, has significant implications for healthcare professionals. This AI system outperformed 250 doctors in a large-scale study, leading to a 24.1% increase in the overall score of doctors when assisted by MedGPT. This development suggests that AI could play a crucial role in enhancing the accuracy and efficiency of complex medical decision-making, potentially improving patient outcomes in lung cancer treatment.
 
 **「Community Discussion」** 目前没有社区讨论可用。
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tfcaijing.com/article/page/4c52787875775669627056506646536d4d34566a77413d3d">DeepSeek把“赛博 医 生 ”卷疯了</a></li>
-<li><a href="https://36kr.com/p/1387816816280450">上市潮背后， AI 医 疗 影像何以战至终章？ -36氪</a></li>
-<li><a href="https://www.163.com/dy/article/L1F6J5R805568W0A.html">163.com/dy/article/L1F6J5R805568W0A.html</a></li>
-<li><a href="https://news.qq.com/rain/a/20260122A022F100">国产 大 模 型 MedGPT ...</a></li>
-<li><a href="https://www.163.com/dy/article/KJS9171O05564T5T.html">国产 大 模 型 MedGPT 获国际顶刊认证，&quot; 未 来 医 生 &quot;走进严肃 医 疗 深水区</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%9C%AA%E6%9D%A5%E5%8C%BB%E7%94%9F/58102436">未来医生（医联集团旗下品牌）_百度百科 未来医生—北京智医方程科技有限公司 - Medlinker 关于我们-发展历程 未来医生品牌简介 未来医生连获两项行业奖项，医疗AGI实践获权威认可 未来医生产品服务介绍 - 知乎专栏</a></li>
+<li><a href="https://medlinker.com/index">未来医生—北京智医方程科技有限公司 - Medlinker</a></li>
+<li><a href="https://www.medlinker.com/index/xinwenzhongxin/1262.html">未来医生品牌简介</a></li>
+<li><a href="http://www3.xinhuanet.com/health/20261112/de8ed97237eb4078b67444c20666c381/c.html">未来医生MedGPT复杂肺癌临床决策研究结果公布-新华网</a></li>
+<li><a href="https://news.qq.com/rain/a/20261113A03WVZ00">未来医生MedGPT复杂肺癌临床决策研究结果公布_腾讯新闻</a></li>
+<li><a href="https://www.sohu.com/a/1100438379_133140">中美顶尖专家集体点赞，直面最难病例，AI 88比12战胜医生_实验_临床_M...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI in Medicine`, `#Lung Cancer Diagnosis`, `#AI Research`, `#Medical Breakthrough`
+**Tags**: `#AI Research`, `#Lung Cancer Treatment`, `#AI in Medicine`, `#Healthcare Innovation`
 
 ---
 
 <a id="item-ai-frontier-11"></a>
-### [Tsinghua and Tencent Improve Agent&\#x27;s Credit Allocation](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247943628&amp;idx=3&amp;sn=6ec759519a3e8c7abff10b79041a286d) ⭐️ 7.0/10
-
-Tsinghua University and Tencent have developed TreeOPSD, a method that improves Agent&\#x27;s credit allocation for long-range tasks by 4.97 percentage points, achieving an average Exact Match of 21.20% on the Qwen3-30B-A3B-Thinking-2507 model.
-
-rss · 量子位 · Nov 12, 13:28
-
-**「Background on TreeOPSD and Long-Horizon Agent Reinforcement Learning」** Long-horizon agent reinforcement learning involves complex tasks where agents must make decisions over extended periods, often requiring repeated searches and information processing. This approach can lead to inefficiencies, as agents may spend considerable time on irrelevant information while searching for the correct answer. To address this, the Tsinghua and Tencent research team developed TreeOPSD, a method that improves the credit allocation for long-range tasks in agent reinforcement learning. TreeOPSD uses recursive tree credit assignment and a bounded posterior teacher to tackle issues like sparse rewards and policy staleness, which are common challenges in long-horizon reinforcement learning. This method is designed to enhance the efficiency and effectiveness of agents in complex, multi-step decision-making processes.
-
-**「Impact on Developers and Researchers」** The improvement in Agent&\#x27;s credit allocation for long-range tasks by 4.97 percentage points is significant for developers and researchers as it enhances the efficiency and accuracy of AI agents in handling complex, long-term tasks. This advancement allows for better resource allocation and decision-making processes, potentially leading to more effective AI applications in various domains.
-
-**「Community Discussion」** No community comments available.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cctest.ai/en/articles/treeopsd-brings-tree-aware-posterior-distillation-to-long-horizon-agent-rl">TreeOPSD: Tree-Aware Distillation for Agent Reinforcement ...</a></li>
-<li><a href="https://daiwk.github.io/auto-research/post-training/2610.23181-treeopsd/README-en/">TreeOPSD: Building finite posterior distillation targets from ...</a></li>
-<li><a href="https://alabia.com.br/insights/ia/treeospd-tree-aware-posterior-distillation-long-horizon-agents/">TreeOPSD: Tree-Aware Posterior Distillation for Long-Horizon ...</a></li>
-<li><a href="https://notebook.google/">Gemini Notebook | AI Research Tool &amp; Thinking Partner</a></li>
-<li><a href="https://www.youtube.com/watch?v=N8dZ6ADCPyc">Manus AI - The Calm Before the Hypestorm … (vs Deep Research ...)</a></li>
-<li><a href="https://pair.withgoogle.com/">People + AI Research</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`, `#Model Updates`
-
----
-
-<a id="item-ai-frontier-12"></a>
 ### [Creating a Legal Conflict Detector with NLI and Encoder Models](https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/) ⭐️ 7.0/10
 
-The author of this post has developed an open-source legal conflict detector using encoder models and natural language inference \(NLI\) to identify deviations and gaps in legal documents. This tool aims to enhance efficiency in legal document review by leveraging smaller, non-generative models for pairwise comparison, which is faster and more accurate than traditional approaches.
+The author of the post has developed an open-source legal conflict detector using encoder models and natural language inference \(NLI\) to identify deviations and gaps in legal documents. This tool aims to enhance efficiency in legal document review by leveraging smaller, non-generative models for pairwise comparison, which is faster and more accurate than traditional approaches.
 
 reddit · r/MachineLearning · /u/ladyofcode · Nov 13, 05:48
 
-**「Prerequisite Concepts for Legal Conflict Detection with NLI and Encoder Models」** Natural Language Inference \(NLI\) and encoder models are key components in the field of machine learning, particularly in natural language processing. NLI involves the ability of a model to understand the relationship between two sentences, determining if one sentence entails, contradicts, or is neutral to the other. Encoder models, on the other hand, are designed to convert input data into a fixed-size vector representation that captures the essential features of the data. These models are crucial for tasks like text classification, sentiment analysis, and, as demonstrated in this case, legal document review. The application of NLI and encoder models in legal conflict detection is a relatively new area, leveraging these models&\#x27; strengths in understanding and comparing legal documents to identify discrepancies and conflicts efficiently.
+**「Prerequisite Concepts in Legal Document Review and Machine Learning」** Legal document review is a critical process in law firms and legal departments, involving the analysis of contracts, agreements, and other legal documents for accuracy, consistency, and compliance. This process has traditionally been time-consuming and prone to errors. Machine learning, particularly natural language inference \(NLI\) and encoder models, has emerged as a potential solution to automate parts of this process. NLI models are designed to understand the relationships between sentences and determine if one sentence logically follows from another. Encoder models, on the other hand, convert text into numerical vectors that can be used for various tasks, including text classification and sentiment analysis. These models have been increasingly applied in legal document review to identify discrepancies, inconsistencies, and potential conflicts between documents. The use of these models in legal document review is a relatively new application of machine learning, and it is still evolving.
 
-**「Impact」** This tool offers developers and legal professionals a more efficient and scalable solution for legal document review, potentially reducing the time and cost associated with manual review processes.
+**「Impact」** This tool offers a practical solution for legal professionals to streamline document review processes, potentially reducing the time and cost associated with manual review. By using encoder models and NLI, the tool can perform comprehensive pairwise comparisons and identify conflicts without introducing hallucinations, thus improving the reliability of the results.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Jev_%28AI_model%29">Jev (AI model) - Wikipedia</a></li>
-<li><a href="https://docs.typesafe.ai/models">Models - TypeSafe</a></li>
-<li><a href="https://codelabs.developers.google.com/codelabs/discriminative-models">Getting started with Discriminative (Jev/DiffusionGemma) models</a></li>
+<li><a href="https://typesafe.ai/">Home - TypeSafe AI</a></li>
+<li><a href="https://jevtypesafeai.com/">Jev by TypeSafe AI — Try the System One model &amp; API</a></li>
+<li><a href="https://www.jevdirectory.org/resources/jev-typesafe-ai-2">Jev TypeSafe AI Tutorial · JevDirectory.org</a></li>
+<li><a href="https://www.youtube.com/watch?v=uDsTqya5A7E">Opus 5.5 vs GPT-6 Astra : 7 Real Use Cases (Not Even...) - YouTube</a></li>
+<li><a href="https://kingy.ai/blog/frontier-ai-models-gemini-4-argon-gpt-6-astra-sol-claude/">Frontier AI Models Compared: Gemini 4 Argon... - Kingy AI</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/">Kimi K3.1 Pro Review: Near- Opus Quality at 1/5th... - Analytics Vidhya</a></li>
+<li><a href="https://dextralabs.com/blog/claude-ai-agents-architecture-deployment-guide/">Claude AI Agents | Architecture &amp; Deployment Guide 2026</a></li>
+<li><a href="https://claude.com/resources/articles/introduction-to-agentic-coding">Introduction to agentic coding | Claude by Anthropic</a></li>
+<li><a href="https://deepwiki.com/anthropics/claude-code/1.1-system-architecture">System Architecture | anthropics/claude-code | DeepWiki</a></li>
 
 </ul>
 </details>
@@ -767,255 +816,229 @@ reddit · r/MachineLearning · /u/ladyofcode · Nov 13, 05:48
 
 ---
 
-<a id="item-ai-frontier-13"></a>
-### [Tamserve Enhances Real-Time Video Tracking Efficiency](https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/) ⭐️ 7.0/10
+<a id="item-ai-frontier-12"></a>
+### [Tamserve: Cost-Effective Real-Time Video Tracking Tool](https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/) ⭐️ 7.0/10
 
-Tamserve, a tool for real-time video tracking, offers up to 3.8x faster performance than Meta&\#x27;s code with the same accuracy. It achieves this by sharing one model copy across all cameras, keeping memory usage flat and reducing costs significantly compared to Meta&\#x27;s code.
+Tamserve is a new, cost-effective tool for real-time video tracking, offering improved performance and reduced costs compared to existing methods like SAM 2-style trackers. It achieves this by optimizing memory usage and improving speed, running up to 3.8x faster than Meta&\#x27;s code with the same accuracy, and significantly lowering the cost per camera per day.
 
 reddit · r/MachineLearning · /u/Chunkymunkey642069 · Nov 13, 02:23
 
-**「Background on Real-time Video Tracking Tools」** Real-time video tracking tools, such as SAM 2-style trackers \(SAM 2.1, EdgeTAM\), are known for their accuracy and flexibility in detecting and tracking objects in video streams. These trackers can outline objects with precision on each frame, offering a more detailed tracking experience compared to simpler box trackers. However, they have traditionally been expensive to run on live cameras due to their memory-intensive processing requirements. Tools like Meta&\#x27;s code, which keep every frame processed, can quickly耗尽GPU内存，limiting their practicality for real-time applications.
+**「Background on Real-time Video Tracking and AI Infrastructure」** Real-time video tracking has become a crucial component in various AI applications, particularly in areas such as surveillance, autonomous vehicles, and augmented reality. The development of efficient and cost-effective tracking tools is essential for the widespread adoption of these technologies. SAM 2-style trackers, such as SAM 2.1 and EdgeTAM, have gained popularity due to their accuracy and flexibility. However, these trackers can be resource-intensive, leading to high costs and limited scalability. To address this, researchers and developers have been exploring ways to optimize memory usage and improve speed in real-time video tracking systems.
 
-**「Impact」** Tamserve&\#x27;s cost-effectiveness and performance improvements make it a valuable tool for developers and researchers working on AI-powered video tracking systems, potentially leading to wider adoption and more efficient AI infrastructure.
+**「Impact」** Tamserve&\#x27;s cost-effectiveness and performance improvements could significantly benefit developers and researchers in AI infrastructure and AI-powered products, particularly in the context of large language models and AI research.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://sam2.metademolab.com/">SAM 2 Demo | By Meta FAIR</a></li>
+<li><a href="https://arxiv.org/pdf/2512.09633">Benchmarking SAM2-based Trackers on FMOX - arXiv.org</a></li>
+<li><a href="https://arxiv.org/abs/2510.18822">[2510.18822] SAM 2++: Tracking Anything at Any Granularity Benchmarking SAM2-based Trackers on FMOX - Semantic Scholar Benchmarking SAM2-based Trackers on FMOX - catalyzex.com SAM 2 vs SAM: Conveyor Object Tracking Compared (PDF) From SAM to SAM 2: Exploring Improvements in Meta&#x27;s ... Benchmarking SAM2-based Trackers on FMOX | AI Research Paper ...</a></li>
+<li><a href="https://www.semanticscholar.org/paper/Benchmarking-SAM2-based-Trackers-on-FMOX-Akta%C5%9F-Markham/b92850aa46f9ca8ed2d48bac5b3e5f15f5571040">Benchmarking SAM2-based Trackers on FMOX - Semantic Scholar</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Infrastructure`, `#Real-time Video Tracking`, `#Machine Learning Tools`, `#Cost Efficiency`
+**Tags**: `#AI Infrastructure`, `#Real-time Video Tracking`, `#Machine Learning Tools`, `#Cost Optimization`
 
 ---
 
-<a id="item-ai-frontier-14"></a>
-### [Apple Introduces Secure Exclaves for Enhanced Privacy Protection](https://security.apple.com/blog/secure-exclaves/) ⭐️ 7.0/10
-
-Apple has introduced a new security architecture called Secure Exclaves, designed to enhance privacy protection for audio and video on its devices. This architecture operates in an independent secure environment, allowing the main system and apps to only access necessary identification results without contacting raw data. It is already implemented in HomeView face and voice recognition and the privacy indicator of iPhone 18 Pro.
-
-telegram · zaihuapd · Nov 12, 09:13
-
-**「Background on Apple&\#x27;s Secure Exclaves」** Apple&\#x27;s Secure Exclaves is a new security architecture designed to enhance privacy protection for audio and video on its devices. This architecture allows for the processing of camera and microphone data in a separate, secure environment, isolating it from the rest of the system. This isolation is achieved by adding isolation features across many core components of the silicon, ensuring that data processed and analyzed in a Secure Exclave cannot be accessed by other parts of the system. The Secure Enclave, a dedicated secure subsystem, has been a part of Apple&\#x27;s devices for several years, providing a foundation for the new Secure Exclaves architecture.
-
-**「Impact」** The introduction of Secure Exclaves provides a concrete consequence for users by improving the privacy protection of their audio and video data, ensuring that sensitive information is better safeguarded against unauthorized access.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://security.apple.com/blog/secure-exclaves">Secure Exclaves and Ambient Sensing - Apple Security Research</a></li>
-<li><a href="https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared">A detailed explanation of Apple&#x27;s Secure Exclaves has been ...</a></li>
-<li><a href="https://support.apple.com/guide/security/the-secure-enclave-sec59b0b31ff/web">The Secure Enclave - Apple Support</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#AI Infrastructure`, `#Privacy Protection`, `#Security Architecture`, `#AI Research`
-
----
-
-<a id="item-ai-frontier-15"></a>
+<a id="item-ai-frontier-13"></a>
 ### [Chinese AI Models Show Blackwell Chip Fingerprints](https://unemploymentlabs.com/checkpoint-forensics) ⭐️ 7.0/10
 
-Research reveals that six Chinese AI models, including DeepSeek, 月之暗面, MiniMax, and Ant Group&\#x27;s models, exhibit Blackwell chip fingerprints, indicating potential initialization and training on the hardware. The analysis suggests that these models may have been initialized and possibly trained on Blackwell hardware, with an estimated total of around 12,000 Blackwell GPUs potentially used for training five of the models.
+Analysis reveals that six Chinese AI models, including DeepSeek, 月之暗面, MiniMax, and Ant Group&\#x27;s models, exhibit Blackwell chip fingerprints, indicating potential initialization and training on specific hardware. The study, conducted by Unemployment Labs, suggests that these models were initialized on and possibly trained with the Blackwell GPUs, with an estimated total of around 12,000 GPUs used for training five of the models.
 
 telegram · zaihuapd · Nov 13, 02:42
 
-**「Background on Blackwell Chip and AI Model Analysis」** The Blackwell chip, released by NVIDIA in March 2024, is an AI chip designed for high-performance computing. It has been used in various AI models for initialization and training. The analysis of AI model weights, as mentioned in the research, involves examining the compatibility between AI models and hardware, specifically the Blackwell chip. This analysis is significant as it provides insights into the hardware compatibility and infrastructure of AI models.
+**「Background on Blackwell Architecture」** The Blackwell architecture, designed by NVIDIA, is tailored for both datacenter compute applications and gaming and workstation applications. It features dedicated dies for each purpose and supports advanced technologies such as GDDR7, HBM 3e, PCIe 5.0, and PCIe 6.0. This architecture is known for its high floating-point operation \(FLOPS\) rate and leverages NVIDIA&\#x27;s extensive developer ecosystem, including CUDA-X™ libraries, over 4 million developers, and more than 3000 applications that can scale across thousands of nodes.
 
-**「Impact」** This finding could have significant implications for AI research and infrastructure, as it highlights the importance of hardware compatibility in AI model development and training processes.
+**「Impact」** This discovery has significant implications for AI research and development, as it highlights the importance of hardware in AI model performance and reproducibility. It may lead to a deeper understanding of how different hardware can affect model initialization and training processes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://baike.baidu.com/item/Blackwell/64177746">Blackwell（2024年3月18日英伟达发布的AI芯片）_百度百科</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blackwell_%28microarchitecture%29">Blackwell (microarchitecture) - Wikipedia</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Blackwell_%28%E5%BE%AE%E6%9E%B6%E6%9E%84%29">Blackwell (微架构) - 维基百科，自由的百科全书</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/1965526978590376102">万字详解英伟达Blackwell架构 | 附英文白皮书 - 知乎</a></li>
-<li><a href="https://developer.nvidia.cn/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era/">揭秘 NVIDIA Blackwell Ultra：推动 AI 工厂时代的芯片动力 - NVIDIA ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Research`, `#Hardware Compatibility`, `#AI Infrastructure`, `#Model Analysis`
+**Tags**: `#AI Infrastructure`, `#AI Model Initialization`, `#Hardware Benchmarking`, `#AI Research`
 
 ---
 
 ## IT &amp; Open Source
 
 <a id="item-it-opensource-1"></a>
-### [Python&\#x27;s Zen Author Tim Peters Passes Away](https://www.solidot.org/story?sid=85867) ⭐️ 9.0/10
+### [TSMC Employee Data Breach](https://www.solidot.org/story?sid=85881) ⭐️ 7.0/10
 
-Python programming language contributor and author of &\#x27;The Zen of Python&\#x27;, Tim Peters, has passed away, leaving a lasting impact on the language and its ecosystem.
+Taiwan Semiconductor Manufacturing Company \(TSMC\) confirms a data breach involving the personal information of current and former employees, with the data appearing on an unauthorized external website. The company is collaborating with a cloud service provider, investigation agencies, and a cybersecurity firm to investigate the incident.
 
-rss · Solidot · Nov 12, 08:30
+rss · Solidot · Nov 13, 10:37
 
-**「Background on Tim Peters and His Contributions to Python」** Tim Peters, a prominent software developer, was known for his significant contributions to the Python programming language. He was instrumental in the development of the Timsort hybrid sorting algorithm, which has been the default sorting method in Python since 2002. Peters also played a crucial role in the original CPython implementation of Python. His work on the Zen of Python, a set of guiding principles for Python, has had a lasting impact on the language&\#x27;s philosophy and design. His contributions have been widely recognized, and he was a respected figure in the software engineering and open source communities.
+**「Background on TSMC Data Breach」** The Taiwan Semiconductor Manufacturing Company \(TSMC\) has recently experienced a significant data breach involving the personal information of current and former employees. This incident highlights the ongoing challenge of data security in the technology industry. In the past, TSMC has faced security concerns, such as an engineer suspected of stealing 2nm process technology secrets, which caused a stir in the global semiconductor industry. These events underscore the importance of robust cybersecurity measures within major technology companies.
 
-**「Impact」** Tim Peters&\#x27; contributions to Python, including the development of Timsort and the writing of &\#x27;The Zen of Python&\#x27;, have significantly influenced the language&\#x27;s design and performance, making it a more robust and efficient tool for developers.
+**「Impact」** The breach has significant consequences for data security in the tech industry, potentially affecting the personal information of thousands of employees.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Tim_Peters_%28software_engineer%29">Tim Peters (software engineer) - Wikipedia</a></li>
-<li><a href="https://lwn.net/Articles/1106901/">In Memoriam: Tim Peters 1952–2026 - lwn.net</a></li>
-<li><a href="https://grokipedia.com/page/Tim_Peters_%28software_engineer%29">Tim Peters (software engineer) — Grokipedia</a></li>
+<li><a href="https://cn-sec.com/archives/4390627.html">台 积 电 2nm... | CN-SEC 中文网</a></li>
+<li><a href="https://www.elecfans.com/d/1186177.html">elecfans.com/d/1186177.html</a></li>
+<li><a href="https://www.tup.com.cn/upload/books/yz/101017-01.pdf">标题</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Python`, `#Open Source`, `#Software Engineering`, `#Programming Language`, `#Tim Peters`
+**Tags**: `#Data Breach`, `#Security`, `#Taiwan Semiconductor`, `#Employee Data`, `#Cybersecurity`
 
 ---
 
 <a id="item-it-opensource-2"></a>
-### [FBI Seizes Over $1.2 Billion in Stolen Cryptocurrency from Binance](https://www.solidot.org/story?sid=85876) ⭐️ 7.0/10
+### [Cryosphere Exceeds Safe Operating Space](https://www.solidot.org/story?sid=85880) ⭐️ 7.0/10
 
-The FBI has announced the seizure of over $1.2 billion in cryptocurrency stolen from Binance, emphasizing the ongoing challenges in securing digital assets.
+A new analysis reveals that the cryosphere, encompassing ice caps, glaciers, sea ice, snow, and permafrost, has surpassed its safe operating space, posing significant long-term challenges for Earth&\#x27;s population.
 
-rss · Solidot · Nov 13, 06:36
+rss · Solidot · Nov 13, 09:52
 
-**「Background on Cryptocurrency Security and Binance Hack」** The ongoing challenges in securing digital assets have been highlighted by the FBI&\#x27;s recent seizure of over $1.2 billion in cryptocurrency stolen from Binance. This significant theft and subsequent seizure by law enforcement involve the hacking group TraderTraitor, which has been responsible for other large-scale cyber thefts. The event underscores the vulnerabilities in the cryptocurrency ecosystem and the need for enhanced security measures.
+**「Understanding the Cryosphere&\#x27;s Safe Operating Space」** The cryosphere, encompassing ice caps, glaciers, sea ice, snow, and permafrost, plays a crucial role in regulating Earth&\#x27;s climate, water resource supply, and carbon cycle within various ecosystems. The Earth&\#x27;s cryosphere is a critical component of the Earth&\#x27;s boundaries, which define the environmental limits for maintaining stability and resilience, allowing both human and ecological systems to thrive. The concept of Safe Operating Space \(SOS\) is part of the Earth&\#x27;s boundaries approach, outlining the environmental limits within which the Earth system remains stable and resilient. Researchers have analyzed key control variables, including land ice volume, sea ice area, snow area, and permafrost temperature, concluding that the integrity of the cryosphere is experiencing &\#x27;accelerated and partly irreversible loss.&\#x27; The condition of these variables has deteriorated or is destined to worsen beyond the levels defined as the safe operating space for the cryosphere.
 
-**「Impact」** This seizure has a significant impact on the market and the perception of security in the cryptocurrency space, highlighting the vulnerabilities of digital assets.
+**「Impact on Developers and Organizations」** Developers and organizations may face increased challenges in planning and implementing infrastructure projects in cryosphere regions due to the accelerated and irreversible loss of the cryosphere. This loss poses long-term risks to Earth&\#x27;s climate, water resources, and carbon cycle, which can directly impact the sustainability and viability of projects in these areas.
+
+**「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.sky.com/story/fbi-seizes-1-2bn-stolen-in-binance-cryptocurrency-hack-13611753">FBI seizes $1.2bn stolen in Binance cryptocurrency hack | Sky News</a></li>
-<li><a href="https://www.independent.co.uk/tech/fbi-north-korea-binance-crypto-heist-b3076990.html">FBI confirms North Korea behind stolen billions from Binance in...</a></li>
-<li><a href="https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist">CZ warns of more AI-driven hacks following Binance ’s historic...</a></li>
+<li><a href="https://sciencesources.eurekalert.org/news-releases/1150959?language=chinese">地球的冰冻圈是否仍处于安全运行空间之内？ | EurekAlert!</a></li>
+<li><a href="https://news.mydrivers.com/1/1165/1165698.htm">研究表明地球冰冻圈已脱离安全运行范围--快科技--科技改变未来</a></li>
+<li><a href="https://www.solidot.org/story?sid=85880">奇客Solidot | 地球冰冻圈不再处于安全运行空间内</a></li>
+<li><a href="https://www.climatechange.cn/article/2020/1673-1719/1673-1719-16-2-143.shtml">全球山地冰冻圈变化、影响与适应 - Climate Change</a></li>
+<li><a href="https://www.climatechange.cn/article/2019/1673-1719/1673-1719-15-4-395.shtml">IPCC《全球1.5℃增暖特别报告》冰冻圈变化及其影响解读</a></li>
+<li><a href="http://bulletin.cas.cn/doi/10.16418/j.issn.1000-3045.20200401002">冰冻圈生态系统：全球变化的前哨与屏障</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cryptocurrency`, `#Theft`, `#Law Enforcement`, `#Binance`, `#Security`
+**Tags**: `#Climate Change`, `#Environmental Science`, `#Sustainability`, `#Cryosphere`, `#Global Warming`
 
 ---
 
 <a id="item-it-opensource-3"></a>
-### [Global Microsoft Cloud Outage](https://www.solidot.org/story?sid=85875) ⭐️ 7.0/10
+### [FBI Seizes Over $1.2B in Stolen Binance Cryptocurrency](https://www.solidot.org/story?sid=85876) ⭐️ 7.0/10
 
-Microsoft cloud services, including Outlook, Teams, OneDrive, and Copilot, experienced a major global outage with no indication of a network attack. The outage affected users&\#x27; ability to access files and calendar details, and Copilot&\#x27;s functionality was compromised.
+The FBI has announced the seizure of over $1.2 billion in cryptocurrency stolen from Binance by the hacker group TraderTraitor. This amount represents a significant portion of the $6.3 billion in cryptocurrency that was stolen from Binance in the incident.
 
-rss · Solidot · Nov 13, 05:30
+rss · Solidot · Nov 13, 06:36
 
-**「Background on Microsoft Cloud Services Global Outage」** Microsoft cloud services experienced a major global outage, impacting widely used services such as Outlook, Teams, OneDrive, and Copilot. This outage did not appear to be caused by a network attack. The issue was attributed to some servers becoming unexpectedly unavailable, which placed a heavy burden on the remaining systems. The outage affected users&\#x27; ability to view certain files and calendar details, and Copilot may not have operated normally. Instant messaging and online meeting functions remained mostly unaffected. The incident highlighted the importance of infrastructure stability in large technology platforms.
+**「Background on Binance and TraderTraitor」** Binance is a private company that operates a global platform for trading and issuing cryptocurrencies, founded in 2017. It has faced regulatory challenges, security breaches, and legal issues in several countries. TraderTraitor is a North Korean hacking group that has been linked to major thefts, including the $6.3 billion Binance heist. The group is also associated with Lazarus, North Korea&\#x27;s cyber warfare program.
 
-**「Impact」** The outage had a significant impact on users, potentially disrupting workflows and communication, as key services were unavailable. This event highlights the reliance on cloud services and the importance of robust infrastructure.
+**「Impact on Developers and Organizations」** The seizure of over $1.2 billion in stolen cryptocurrency from Binance by the FBI has significant implications for developers and organizations in the cryptocurrency space. It underscores the importance of robust security measures and the potential legal consequences of cyberattacks on digital assets.
+
+**「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cj.sina.com.cn/articles/view/8330648469/1f08b9b9507201dazo">微软全球宕机好几个小时，大概会造成多少经济损失？</a></li>
-<li><a href="https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_13_908181.shtml">微软全球大规模宕机 - 观察者网</a></li>
-<li><a href="https://www.36kr.com/p/3531540276976777">大半个互联网又崩了，全球第二大云突然宕机，只因微软的一次错误配置-...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Binance">Binance - Wikipedia</a></li>
+<li><a href="https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist">What is TraderTraitor , the hacking squad behind the $6.3 billion...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html">U.S. seizes $ 1 . 2 billion in stolen Binance crypto</a></li>
+<li><a href="https://news.bitcoin.com/us-government-has-seized-cryptocurrencies-worth-1-2-billion-so-far-this-year.">US Government Has Seized Cryptocurrencies Worth $ 1 . 2 Billion So...</a></li>
+<li><a href="https://www.youtube.com/watch?v=E1UdRdbUzFk">$6 billion cryptocurrency heist puts investors on edge - YouTube</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cloud Services`, `#Outage`, `#Microsoft`, `#Security`, `#Infrastructure`
+**Tags**: `#Cryptocurrency`, `#Hacking`, `#Binance`, `#FBI`, `#Legal Seizure`
 
 ---
 
 <a id="item-it-opensource-4"></a>
-### [黄仁勋辞职](https://www.solidot.org/story?sid=85872) ⭐️ 7.0/10
+### [Microsoft Cloud Services Global Outage](https://www.solidot.org/story?sid=85875) ⭐️ 7.0/10
 
-Nvidia&\#x27;s President and CEO, Jensen Huang, has resigned, with Colette Kress stepping in as interim CEO while the board searches for a permanent successor.
+Microsoft cloud services experienced a global outage affecting Outlook, Teams, OneDrive, and Copilot, with no indication of a network attack. The outage was caused by some servers becoming unexpectedly unavailable, leading to a heavy load on the remaining systems.
 
-rss · Solidot · Nov 12, 14:03
+rss · Solidot · Nov 13, 05:30
 
-**Tags**: `#Technology News`, `#Nvidia`, `#Leadership Change`, `#Industry Impact`, `#Open Source`
+**「Background on Microsoft Cloud Outage」** In November 2026, Microsoft experienced a significant global outage that impacted a variety of services, including Outlook, Teams, OneDrive, and Copilot. This outage was extensive, affecting users across 74 countries and leading to over 140,000 reports on Downdetector. The outage was not attributed to a network attack, and Microsoft attributed the issue to some servers becoming unexpectedly unavailable, which then caused a heavy load on the remaining systems. This event highlighted the reliance on cloud services and the potential impact of such outages on users and businesses.
+
+**「Impact」** The outage has significant impact on users, potentially preventing them from accessing files, viewing calendar details, and using Copilot. However, instant messaging and online meeting functions remained mostly normal.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/answers/questions/6069789/microsoft-outage-november-2026">Microsoft outage November 2026 - Microsoft Q&amp;A</a></li>
+<li><a href="https://www.linkedin.com/pulse/microsoft-365-outage-2026-what-happened-which-services-zht6c/">Microsoft 365 Outage 2026 - What Happened, Which Services ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Microsoft Cloud Outage`, `#Outlook`, `#Teams`, `#OneDrive`, `#Copilot`
 
 ---
 
 <a id="item-it-opensource-5"></a>
-### [BMI Misclassification Implications in Obesity Diagnoses](https://www.solidot.org/story?sid=85871) ⭐️ 7.0/10
+### [黄仁勋辞职](https://www.solidot.org/story?sid=85872) ⭐️ 7.0/10
 
-Research indicates that BMI, traditionally used as a core indicator for diagnosing obesity, is inadequate. The study, involving over 840,000 participants from four countries, reveals that BMI misclassifies 5.2% to 8.6% of participants as under- or overestimated for obesity, highlighting the need for considering other factors and the potential health risks associated with misclassification.
+NVIDIA&\#x27;s President and CEO, Jensen Huang, has resigned, with Colette Kress stepping in as interim CEO while a successor is being sought. The board has initiated a successor selection process considering both internal and external candidates.
 
-rss · Solidot · Nov 12, 14:01
+rss · Solidot · Nov 12, 14:03
 
-**「Understanding BMI and Obesity Diagnosis」** Body Mass Index \(BMI\) has been a widely used metric for screening and diagnosing obesity. However, recent research indicates that BMI is an inadequate measure for diagnosing obesity. This is because BMI only calculates the relationship between weight and height and cannot differentiate between increased muscle and fat, nor can it determine if accumulated fat has damaged internal organs. The research highlights the importance of considering other factors and the potential health risks associated with misclassification.
+**「NVIDIA&\#x27;s Background」** NVIDIA, founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, has grown to become one of the largest companies by market capitalization. Initially focused on GPUs for video games, the company expanded its reach into other markets such as AI, professional visualization, and supercomputing. This diversification has solidified NVIDIA&\#x27;s position as a pivotal player in the technology industry.
 
-**「Impact」** The study suggests that misclassification of obesity using BMI can lead to underestimation of health risks, with &\#x27;clinical obesity&\#x27; leading to a significantly higher mortality risk compared to those in the &\#x27;pre-clinical obesity&\#x27; stage. This has implications for health treatment approaches and the importance of early intervention.
+**「Impact」** The resignation of Jensen Huang, a key figure in the technology industry, may lead to uncertainty in the short term for NVIDIA and its partners, as the company searches for a new CEO.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13266248/">Screening, Diagnosis , Evaluation, and Staging of Obesity in Adults...</a></li>
-<li><a href="https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index">BMI alternative for identifying obesity ‘could prevent... | The Guardian</a></li>
-<li><a href="https://www.adameetingnews.org/debate-weighs-whether-bmi-should-remain-central-to-obesity-diagnosis/">Debate weighs whether BMI should remain central to obesity diagnosis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/">Our History: Innovations Over the Years | NVIDIA</a></li>
+<li><a href="https://www.nvidia.com/en-us/about-nvidia/">About Us: Company Leadership, History, Jobs, News | NVIDIA</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Health Research`, `#Obesity`, `#BMI`, `#Public Health`, `#Nutrition`
+**Tags**: `#NVIDIA`, `#Resignation`, `#Technology Industry`, `#CEO`, `#Colette Kress`
 
 ---
 
 <a id="item-it-opensource-6"></a>
-### [Astronomers Discover Unique Binary Star System Emitting Radio Signals](https://www.solidot.org/story?sid=85870) ⭐️ 7.0/10
+### [BMI Misdiagnosis Affects Millions](https://www.solidot.org/story?sid=85871) ⭐️ 7.0/10
 
-Astronomers have discovered a unique binary star system, GPM J071507−114153, consisting of a white dwarf and a G-type main-sequence star. The white dwarf, which is the dense core of a deceased star, rotates and emits radio signals every eight minutes. This marks the first detection of radio pulsars in white dwarfs orbiting G-type stars, providing new insights into stellar processes.
+Research indicates that BMI is an inadequate measure for diagnosing obesity, affecting millions of people. The study reveals that BMI, traditionally used as a core indicator for obesity, fails to differentiate between muscle and fat, and cannot determine if accumulated fat has damaged internal organs. This has implications for public health policies and individual health decisions.
 
-rss · Solidot · Nov 12, 13:55
+rss · Solidot · Nov 12, 14:01
 
-**「Long-Period Transients and Radio Signals」** Long-period radio transients \(LPTs\) are a class of galactic radio sources known for emitting highly polarized, coherent bursts of radio emission at regular intervals. These bursts can last from a few minutes to several hours. The discovery of GPM J071507−114153, a binary star system with a white dwarf and a G-type star, emitting radio signals every eight minutes, falls under this category. This type of binary star system is part of the LPTs, which have been the subject of study for their periodic radio bursts lasting seconds to minutes, with recurrence times from minutes to hours. The detection of radio pulses from a white dwarf orbiting a G-type star is a significant development in astrophysics, particularly in the study of binary star systems and the behavior of white dwarfs.
+**「Understanding BMI and Obesity Diagnosis」** Body Mass Index \(BMI\), a widely used metric for diagnosing obesity, has been challenged by recent research. BMI is calculated by dividing a person&\#x27;s weight by the square of their height and has been the standard for screening and determining obesity. However, studies have shown that BMI has inherent limitations. It cannot differentiate between increased muscle and fat, nor can it determine if accumulated fat has damaged internal organs. This research emphasizes the importance of considering additional factors beyond BMI for accurate obesity diagnosis and the potential health risks associated with obesity.
 
-**「Impact」** This discovery could lead to new insights into the nature of stars and their interactions, particularly in the study of binary star systems and the behavior of white dwarfs, which has implications for understanding stellar processes.
+**「Impact」** The research highlights the need for considering additional factors in diagnosing obesity, as it shows that a significant number of individuals are either underdiagnosed or overdiagnosed based on BMI. This could lead to more accurate health assessments and interventions, potentially reducing the health risks associated with obesity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Long_period_radio_transient">Long period radio transient - Wikipedia</a></li>
-<li><a href="https://arxiv.org/pdf/2601.10393">Long Period Transients (LPTs): a comprehensive review</a></li>
-<li><a href="https://www.emergentmind.com/topics/long-period-transient-lpt">Long Period Transients (LPT) - emergentmind.com</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s13679-024-00580-1">Strengths and Limitations of BMI in the Diagnosis of Obesity : What is...</a></li>
+<li><a href="https://pure.skku.edu/en/publications/from-old-to-new-a-comprehensive-review-of-obesity-diagnostic-crit/">From Old to New: A Comprehensive Review of Obesity Diagnostic ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13266248/">Screening, Diagnosis , Evaluation, and Staging of Obesity in Adults...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Astronomy`, `#Astrophysics`, `#Binary Star Systems`, `#White Dwarfs`, `#Radio Signals`
+**Tags**: `#Public Health`, `#Obesity`, `#BMI`, `#Research`, `#Health Policy`
 
 ---
 
 <a id="item-it-opensource-7"></a>
-### [M87 星系黑洞甜甜圈结构验证](https://www.solidot.org/story?sid=85868) ⭐️ 7.0/10
+### [Astronomers Detect Radio Signals from a White Dwarf Star](https://www.solidot.org/story?sid=85870) ⭐️ 7.0/10
 
-A new study independently verifies the ring structure of the M87\* black hole using a novel imaging algorithm, confirming the &\#x27;doughnut&\#x27; image released years ago.
+Astronomers have detected radio signals from a white dwarf star in the binary star system GPM J071507−114153, which emits signals every eight minutes. This discovery marks the first detection of radio pulses from a white dwarf orbiting a G-type star and provides insights into binary star systems and stellar processes.
 
-rss · Solidot · Nov 12, 08:43
+rss · Solidot · Nov 12, 13:55
 
-**「Background on M87\* Black Hole Ring Structure Verification」** The M87\* black hole, located at the center of the M87 galaxy, has been a subject of significant scientific interest due to its ring-like structure, which was first imaged years ago. This structure, often referred to as a &\#x27;doughnut,&\#x27; has been a topic of debate within the scientific community. A recent study has independently verified the existence of this ring structure using a novel imaging algorithm, providing further confirmation of the initial &\#x27;doughnut&\#x27; image. The study involved inputting the M87\* black hole dataset into an imaging algorithm that utilized a unique approach to calculate calibration errors, leading to a set of reconstructed images that closely match the original &\#x27;doughnut&\#x27; image.
+**「Long Period Transients \(LPTs\) in Astrophysics」** Long period transients \(LPTs\) are a class of galactic radio sources known for emitting highly polarized, coherent bursts of radio emission at regular intervals. These bursts can last from seconds to minutes and have recurrence intervals ranging from minutes to hours. LPTs are a significant area of study in astrophysics, as they provide insights into the behavior of stars and the processes occurring in binary star systems. The discovery of GPM J071507−114153, a binary star system with a white dwarf emitting radio signals every eight minutes, falls within this category, contributing to our understanding of these transient phenomena.
 
-**「Impact」** The confirmation of the ring structure of the M87\* black hole provides valuable insights for astrophysicists and researchers studying black holes, enhancing our understanding of these celestial phenomena.
+**「Impact」** This discovery allows for a better understanding of the behavior of stars and the processes occurring in binary star systems, potentially leading to advancements in astrophysics research.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2409.00540v2">Imaging a ring-like structure and the extended jet of M87 at ...</a></li>
-<li><a href="https://arxiv.org/pdf/2409.00540">Imaging a ring-like structure and the extended jet of M87 at ...</a></li>
-<li><a href="https://www.nature.com/articles/s41586-026-11241-9">Independent interferometric observable confirms black hole ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Long_period_radio_transient">Long period radio transient - Wikipedia</a></li>
+<li><a href="https://www.emergentmind.com/topics/long-period-transient-lpt">Long Period Transients ( LPT )</a></li>
+<li><a href="https://arxiv.org/html/2601.11950">Pushchino Multibeam Pulsar Search. IX. Detection of a minute- long ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Astronomy`, `#Black Hole`, `#Imaging Algorithm`, `#M87\* Black Hole`, `#Scientific Research`
-
----
-
-## Tools &amp; Efficiency
-
-<a id="item-tools-windows-1"></a>
-### [Nintendo&\#x27;s Defense Breached\! The Legend of Zelda: Ocarina of Time Native Ported to PC with 4K Graphics](https://www.iplaysoft.com/zelda-ocarina-of-time.html) ⭐️ 7.0/10
-
-The popular game &\#x27;The Legend of Zelda: Ocarina of Time&\#x27; has been successfully ported to PC without the need for a simulator, offering enhanced 4K graphics. This marks an interesting development in the gaming industry, allowing PC players to enjoy the beloved game without the limitations of emulation.
-
-rss · 异次元软件世界 · Nov 12, 21:17
-
-**「Background」** The PC version of &\#x27;The Legend of Zelda: Ocarina of Time&\#x27; has been successfully ported to PC without the need for a simulator, offering 4K graphics. This development showcases the advancements in game porting technology, particularly the use of static recompilation, which has made it possible to run console games natively on PC without the need for emulators. This shift in technology has opened up new possibilities for PC gamers to enjoy console exclusives without the performance limitations traditionally associated with emulators.
-
-**「Impact」** Gaming enthusiasts and PC players who have been longing to experience &\#x27;The Legend of Zelda: Ocarina of Time&\#x27; on their computers should adopt this new port. It eliminates the need for complex emulators and provides a high-quality visual experience. However, those who are not interested in PC gaming or who prefer console versions may not find it as appealing.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.gamersky.com/news/202611/2242841.shtml">《塞尔达时之笛RE》原生PC版太强!240帧/4K/超宽屏</a></li>
-<li><a href="https://www.ali213.net/news/html/2026-11/1053301.html">《塞尔达时之笛RE》PC版可4K/60帧 多人MOD也有了</a></li>
-<li><a href="https://www.gamersky.com/news/202611/2242430.shtml">《塞尔达传说：时之笛 重制版》原生PC民间移植！RTX 5090跑51帧 _ 游...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Game Porting`, `#PC Gaming`, `#Nintendo`, `#Technology News`
+**Tags**: `#Astronomy`, `#Astrophysics`, `#Binary Stars`, `#Radio Pulses`, `#White Dwarf`
 
 ---
