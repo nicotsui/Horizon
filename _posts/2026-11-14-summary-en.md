@@ -5,402 +5,520 @@ date: 2026-11-14
 lang: en
 ---
 
-> From 300 items, 40 important content pieces were selected
+> From 278 items, 40 important content pieces were selected
 
 ---
 
 **China Macro &amp; A-Share**
-1. [Goldman Sachs 2027 Global Market Outlook: AI Investment Peak and Growth Challenges](#item-cn-macro-1) ⭐️ 8.0/10
-2. [CAR-T Drug Rijiao A仑赛 Included in National Healthcare Insurance](#item-cn-macro-2) ⭐️ 7.0/10
-3. [US Stock Market&\#x27;s &\#x27;Santa Claus Rally&\#x27; Potential Amid Inflation Concerns](#item-cn-macro-3) ⭐️ 7.0/10
-4. [Anthropic&\#x27;s Conservative IPO Pricing Strategy Compared to SpaceX](#item-cn-macro-4) ⭐️ 7.0/10
-5. [Fed Official Proposes Distinct Accounting for Market Operations](#item-cn-macro-5) ⭐️ 7.0/10
-6. [US Treasury Secretary and Fed Chairman Debate Inflation and Rate Hike Path](#item-cn-macro-6) ⭐️ 7.0/10
-7. [Gold Prices Set to Record Largest Weekly Decline Since June](#item-cn-macro-7) ⭐️ 7.0/10
-8. [OpenAI Restructures Robot Development Team](#item-cn-macro-8) ⭐️ 7.0/10
-9. [Global Protests Over Data Centers Impacting A-share Market and China&\#x27;s Economy](#item-cn-macro-9) ⭐️ 7.0/10
-10. [深圳已成为中国内地首个外贸进出口超5万亿元的城市](#item-cn-macro-10) ⭐️ 7.0/10
-11. [South China&\#x27;s New Energy Vehicle Industry Chain&\#x27;s Impact on Electricity Consumption](#item-cn-macro-11) ⭐️ 7.0/10
-12. [Two Innovative Drugs Added to China&\#x27;s Basic Medical Insurance Directory](#item-cn-macro-12) ⭐️ 7.0/10
-13. [China&\#x27;s Renewable Energy Sector to Cover All New Electricity Demand by 2030](#item-cn-macro-13) ⭐️ 7.0/10
-14. [Corporate Loan Interest Rate in China Hits New Low](#item-cn-macro-14) ⭐️ 7.0/10
-15. [China&\#x27;s Economy Hits Historical High Growth](#item-cn-macro-15) ⭐️ 7.0/10
-16. [October Financial Data and Central Bank Actions in China](#item-cn-macro-16) ⭐️ 7.0/10
+1. [China-US Trade Council Meeting Held for the First Time](#item-cn-macro-1) ⭐️ 7.0/10
+2. [Growth in Profitability Slowing Down as AI Capital Expenditure Peaks](#item-cn-macro-2) ⭐️ 7.0/10
+3. [Investment Alert: &\#x27;Bull Trap&\#x27; Warning in AI Sector by Michael Burry](#item-cn-macro-3) ⭐️ 7.0/10
+4. [Chinas Capital Market Regulation Optimization and Fair Supervision](#item-cn-macro-4) ⭐️ 7.0/10
+5. [CAR-T Drug Rikyeolansai Included in National Medical Insurance](#item-cn-macro-5) ⭐️ 7.0/10
+6. [Anthropic&\#x27;s IPO Strategy Contrasts with SpaceX&\#x27;s](#item-cn-macro-6) ⭐️ 7.0/10
+7. [Fed Official Proposes Distinct Accounting for Market Functional Bond Purchases](#item-cn-macro-7) ⭐️ 7.0/10
+8. [Goldman Sachs 2027 Macroeconomic Outlook](#item-cn-macro-8) ⭐️ 7.0/10
+9. [Policy Debate on Inflation and Interest Rate Hikes in the U.S.](#item-cn-macro-9) ⭐️ 7.0/10
+10. [Gold Prices Set to Record Largest Weekly Decline Since June](#item-cn-macro-10) ⭐️ 7.0/10
+11. [OpenAI&\#x27;s Shift in Robotics Research Strategy](#item-cn-macro-11) ⭐️ 7.0/10
+12. [Discussion on Global Macroeconomic Situation by Martin Wolf](#item-cn-macro-12) ⭐️ 7.0/10
+13. [证监会主席吴清指出新经济领域公司在A股市场占比超过一半](#item-cn-macro-13) ⭐️ 7.0/10
+14. [Jing Wu Emphasizes Deepening AI and Capital Market Synergy](#item-cn-macro-14) ⭐️ 7.0/10
+15. [A-share Market: New Economy Companies Dominate](#item-cn-macro-15) ⭐️ 7.0/10
+16. [A-share Market Policy Enhancement and Loan Acceleration](#item-cn-macro-16) ⭐️ 7.0/10
+17. [October High-frequency Data Indicates Stable and Improving Economic Trend in China](#item-cn-macro-17) ⭐️ 7.0/10
+18. [Chinese Economy Shows Stable and Positive Trend in October](#item-cn-macro-18) ⭐️ 7.0/10
+19. [Corporate Loan Interest Rate in China Hits New Low](#item-cn-macro-19) ⭐️ 7.0/10
 
 **Global Market**
 1. [Chicago Fed&\#x27;s Goolsbee on Inflation Concerns](#item-global-market-1) ⭐️ 7.0/10
-2. [Nvidia&\#x27;s Stock Decline](#item-global-market-2) ⭐️ 7.0/10
-3. [Federal Reserve Identifies AI as Top Concern for Financial System](#item-global-market-3) ⭐️ 7.0/10
-4. [Explosive Device Found Near World Leaders&\#x27; Dining Location](#item-global-market-4) ⭐️ 7.0/10
-5. [FAA Grounds All Departing Flights in the US](#item-global-market-5) ⭐️ 7.0/10
-6. [Iran Tankers Hit by Sea Mines in Hormuz Strait](#item-global-market-6) ⭐️ 7.0/10
-7. [US Extends Shipping Law Waiver for 90 Days](#item-global-market-7) ⭐️ 7.0/10
-8. [US and China&\#x27;s First Trade Committee Meeting](#item-global-market-8) ⭐️ 7.0/10
-9. [Major Economies Announce Climate Finance Initiative](#item-global-market-9) ⭐️ 7.0/10
-10. [South Korean and Chinese Foreign Ministers Discuss Korean Peninsula Issues](#item-global-market-10) ⭐️ 7.0/10
-11. [Turkey and Qatar Sign Mutual Defense Agreement](#item-global-market-11) ⭐️ 7.0/10
-12. [Financial Week in Review: Nvidia, Fed Policy, and Europe&\#x27;s Electric Vehicle Investments](#item-global-market-12) ⭐️ 7.0/10
-13. [Iraq&\#x27;s Oil Production Soars to 2019 High](#item-global-market-13) ⭐️ 7.0/10
+2. [Federal Reserve Identifies AI as Top Concern for Financial System](#item-global-market-2) ⭐️ 7.0/10
+3. [Security Incident at World Leaders&\#x27; Dining Location](#item-global-market-3) ⭐️ 7.0/10
+4. [FAA Suspends All Departing Flights Due to Special Circumstances](#item-global-market-4) ⭐️ 7.0/10
+5. [Foreign Investors Flock to Caracas Amid Venezuelan Political Transition](#item-global-market-5) ⭐️ 7.0/10
+6. [US Extends Shipping Law Waiver for 90 Days](#item-global-market-6) ⭐️ 7.0/10
+7. [First US-China Trade Committee Meeting Held](#item-global-market-7) ⭐️ 7.0/10
+8. [UK, Norway, and Canada Launch Climate Finance Initiative](#item-global-market-8) ⭐️ 7.0/10
+9. [South Korean and Chinese Foreign Ministers Discuss Korean Peninsula Issues](#item-global-market-9) ⭐️ 7.0/10
+10. [Turkey and Qatar Sign Mutual Defense Agreement](#item-global-market-10) ⭐️ 7.0/10
+11. [ICC Afghanistan Investigations Halted Involving US Troops](#item-global-market-11) ⭐️ 7.0/10
 
 **AI Frontier**
-1. [Scaling 1T MoE Model on TorchTitan](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [Frontier Models Achieve High Scores in Materials-Science Research Test](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [清华首发具身智能综述：从端到端策略到自主系统](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [ICML 2027 Submission Process Changes](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [Open-Source Legal Conflict Detector Tool](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [OpenAI Introduces ChatGPT Wallet](#item-ai-frontier-6) ⭐️ 7.0/10
+1. [Frontier Models Achieve High Scores in Materials-Science Test](#item-ai-frontier-1) ⭐️ 9.0/10
+2. [Ggml v1.0.0 Release Enhances AI Infrastructure](#item-ai-frontier-2) ⭐️ 8.0/10
+3. [Scaling 1T MoE Model on TorchTitan](#item-ai-frontier-3) ⭐️ 8.0/10
+4. [Protein Granzyme K Identified as Driver of Aging Without Inflammation](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [清华首发具身智能综述：从端到端策略到自主系统](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [ICML 2027 Submission Process Changes](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [OpenAI Disbands Robotics Team for General Models](#item-ai-frontier-7) ⭐️ 7.0/10
 
 **IT &amp; Open Source**
-1. [Rapid Solar Energy Development in Africa](#item-it-opensource-1) ⭐️ 7.0/10
+1. [Africa&\#x27;s Solar Energy Acceleration](#item-it-opensource-1) ⭐️ 7.0/10
 2. [TSMC Employee Data Breach](#item-it-opensource-2) ⭐️ 7.0/10
-3. [Cryosphere No Longer in Safe Operating Space](#item-it-opensource-3) ⭐️ 7.0/10
-4. [FBI Seizes Over $1.2B in Stolen Cryptocurrency from Binance](#item-it-opensource-4) ⭐️ 7.0/10
-5. [Microsoft Cloud Services Global Outage](#item-it-opensource-5) ⭐️ 7.0/10
+3. [Cryosphere Exceeds Safe Operating Space](#item-it-opensource-3) ⭐️ 7.0/10
 
 ---
 
 ## China Macro &amp; A-Share
 
 <a id="item-cn-macro-1"></a>
-### [Goldman Sachs 2027 Global Market Outlook: AI Investment Peak and Growth Challenges](https://wallstreetcn.com/articles/3785910) ⭐️ 8.0/10
+### [China-US Trade Council Meeting Held for the First Time](https://wallstreetcn.com/livenews/3200113) ⭐️ 7.0/10
 
-Goldman Sachs&\#x27; 2027 global market outlook predicts challenges in AI investments and market trends, warning of a mature market cycle and suggesting a shift to diversified and hedged asset allocation. The report, titled &\#x27;Growing Pains,&\#x27; indicates that while macroeconomic conditions are relatively favorable, market cycles are facing more headwinds, with AI investment momentum peaking as the biggest challenge.
+The first trade council meeting under the China-US economic and trade consultation mechanism took place on November 13, 2026. The meeting focused on implementing previous agreements and discussed trade issues such as tariffs and agricultural trade. Both sides agreed to strengthen communication through the trade council to address economic concerns and build a stable and constructive relationship based on respect, fairness, and equality.
 
-rss · 华尔街见闻 · Nov 13, 16:28
+rss · 华尔街见闻 · Nov 14, 06:54
 
-**「Background on Goldman Sachs&\#x27; 2027 Global Market Outlook」** Goldman Sachs&\#x27; 2027 global market outlook report highlights the challenges in AI investments and market trends. The report, titled &\#x27;Growing Pains,&\#x27; indicates that while the macroeconomic base scenario is relatively favorable with stable global growth, decreasing inflation, and peaking policy rates, the market cycle is facing more headwinds as the economic cycle extends. The report emphasizes that the peak of AI investment momentum is a major test for the market, with its impact far exceeding that on the real economy. The report covers ten investment themes, including stocks, bonds, foreign exchange, commodities, and emerging markets, providing insights into various asset classes and economic indicators.
+**「Prior Context of China-US Economic and Trade Consultation」** The recent meeting between China and the United States is a continuation of the ongoing economic and trade consultations between the two countries. These consultations have been taking place following the eighth round of trade talks in New York, where both sides agreed to extend the Kuala Lumpur Trade Consultation Joint Arrangement to January 10, 2027. The focus of these discussions has been on addressing various trade concerns and promoting cooperation in areas such as agriculture trade. The Chinese government has shown a willingness to facilitate the entry of high-quality American agricultural products into the Chinese market, reflecting a commitment to resolving mutual concerns through the consultation mechanism.
 
-**「Impact on Investors」** Investors should be cautious as AI investment growth is expected to peak in early 2027, which could lead to a significant market correction. The shift from AI infrastructure to AI applications may not be smooth, posing additional risks. This could result in a downturn in technology stocks and a potential increase in credit spreads, affecting various sectors and companies.
+**「Impact」** The meeting is expected to have a positive impact on the agricultural sector, as discussions on agricultural trade could lead to increased market access for Chinese products in the US. Investors in the agricultural sector may benefit from this development, as it could potentially lead to higher demand and prices for agricultural products.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.canadianminingreport.com/blog/goldman-sachs-2027-gold-outlook-could-gold-stocks-still-have-room-to-run">Goldman Sachs Holds $5,400 Gold for 2027 . Do Miners Still Have...</a></li>
-<li><a href="https://www.bullionstar.com/blogs/gold-silver-101/gold-price-forecast-2027/">Gold Price Forecast 2027 | BullionStar Singapore</a></li>
-<li><a href="https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027.html">The creator economy could approach half-a-trillion... | Goldman Sachs</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/goldman-sachs-sees-ai-impulse-122748629.html?fr=sycsrp_catchall">Goldman Sachs sees AI impulse peaking in 2027 - Yahoo Finance</a></li>
-<li><a href="https://www.proactiveinvestors.com/companies/news/1101757/global-markets-face-growing-pains-as-goldman-sachs-sees-ai-peak-1101757.html">Global Markets face growing pains as Goldman Sachs sees AI peak</a></li>
-<li><a href="https://www.investing.com/news/stock-market-news/goldman-sachs-sees-sp-500-rising-to-8700-next-year-despite-slower-earnings-growth-5025856">Goldman Sachs sees S&amp;P 500 rising to 8,700 next year despite...</a></li>
+<li><a href="https://world.huanqiu.com/article/4TOGWMAtNmo">商 务部 美 大司负责人解读第八轮 中 美 经 贸 磋 商 成果 | 环球网</a></li>
+<li><a href="https://stock.10jqka.com.cn/20260928/c680290353.shtml">stock.10jqka.com.cn/20260928/c680290353.shtml</a></li>
+<li><a href="https://www.dutenews.com/n/article/10648640">商 务部 美 大司负责人解读 中 美 经 贸 磋 商 初步成果</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Economic Outlook`, `#Market Analysis`, `#AI Investments`, `#Global Market Trends`, `#Stock Market`
+**Tags**: `#China-US Trade`, `#Economic Negotiations`, `#Tariffs`, `#Trade Relations`
 
 ---
 
 <a id="item-cn-macro-2"></a>
-### [CAR-T Drug Rijiao A仑赛 Included in National Healthcare Insurance](https://wallstreetcn.com/livenews/3200084) ⭐️ 7.0/10
+### [Growth in Profitability Slowing Down as AI Capital Expenditure Peaks](https://wallstreetcn.com/articles/3785935) ⭐️ 7.0/10
 
-The CAR-T drug Rijiao A仑赛, previously priced at 1.29 million yuan per dose, has been included in the national healthcare insurance system, with its price reduced to below 300,000 yuan per dose.
+Global stock market profitability growth is slowing due to the peak of AI capital expenditure. Goldman Sachs predicts that despite a significant slowdown in profit growth, growth stocks, particularly in the US, are becoming attractive for investors. The firm sees cloud companies as defensive assets. It forecasts the S&amp;P 500 index to rise about 14% in the next 12 months, with the highest potential gains in Japan and Asia, and the lowest in Europe, expected to rise by only about 6%.
 
-rss · 华尔街见闻 · Nov 14, 03:04
+rss · 华尔街见闻 · Nov 14, 06:49
 
-**「Background on CAR-T Drug Inclusion in National Healthcare Insurance」** The inclusion of CAR-T drug Rijiao A仑赛 in the national healthcare insurance system is a significant policy shift. Prior to this, CAR-T drugs were priced at a high cost, with Rijiao A仑赛 priced at 1.29 million yuan per dose. The reduction in price to below 300,000 yuan per dose is expected to have a substantial impact on the pharmaceutical market and healthcare costs. This move follows a trend of incorporating high-priced drugs into the national healthcare insurance system, which has been a topic of interest in the pharmaceutical industry and healthcare sector.
+**「Global Stock Market Outlook and AI Capital Expenditure Trends」** The global stock market is currently experiencing a slowdown in profit growth due to the peaking of AI capital expenditure. This trend is particularly evident in the performance of cloud companies, which are being viewed as defensive assets. The analysis by Goldman Sachs highlights the impact of AI capital expenditure on various sectors and the potential changes in market dynamics. This context is crucial for understanding the current market outlook and the implications for investors.
 
-**「Impact」** The inclusion of Rijiao A仑赛 in the national healthcare insurance system is expected to reduce healthcare costs for patients and potentially increase access to high-cost treatments, impacting pharmaceutical companies and insurance providers.
+**「Impact on Investors」** Investors should be cautious as AI capital expenditure is expected to peak, leading to a slowdown in profit growth. This could negatively impact sectors heavily reliant on AI, such as technology and communication services. However, cloud companies are seen as defensive assets due to their lower valuations and stable income sources, which might offer a relative safe haven for investors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.21jingji.com/article/20251212/herald/e6d2ad876aa80ee4c33ffae736f9a238.html">药 明 巨 诺 换帅，新管理层迎战 CAR - T 市场机遇与挑战 - 21经济网</a></li>
-<li><a href="https://news.qq.com/rain/a/20250722A07Q9Q00">13亿美元！ 科弈 药 业 CAR - T 授权出海，市场 影 响 几何？_ 腾讯新闻</a></li>
-<li><a href="https://www.guancha.cn/economy/2025_09_25_791417.shtml?s=zwyxgtjbt">百万抗癌 药 有望进 入 商 保 目录，5款 CAR - T 疗法通过专家评审</a></li>
+<li><a href="https://destiny.to/ubbthreads/topic/259008">試占2026 年 全 球 股 市 之意象。 - DestinyNet 命理網</a></li>
+<li><a href="https://www.zhitongcaijing.com/content/detail/1515771.html">亚马逊(AMZN.US)步谷歌后尘盘后大跌！ 自由现金流转负424...</a></li>
+<li><a href="https://wallstreetcn.com/articles/3731215">跟 高 盛 对着干？ 摩根大通认为美 股 未来十 年 保持强劲，受益于科技和AI...</a></li>
+<li><a href="https://www.36kr.com/p/4052091159352448">AI资本开支见顶？高盛：拐点近了，AI正从“超级主题”变成“常规叙事”-36...</a></li>
+<li><a href="https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-13/doc-iniypvhf1120557.shtml">AI资本开支见顶，全球股市盈利“换挡”! 高盛给出2027年三大主线</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Healthcare Policy`, `#Pharmaceutical Market`, `#Insurance`, `#Market Impact`
+**Tags**: `#Global Stock Market Outlook`, `#AI Capital Expenditure`, `#Cloud Companies`, `#Market Predictions`, `#Economic Analysis`
 
 ---
 
 <a id="item-cn-macro-3"></a>
-### [US Stock Market&\#x27;s &\#x27;Santa Claus Rally&\#x27; Potential Amid Inflation Concerns](https://wallstreetcn.com/articles/3785929) ⭐️ 7.0/10
+### [Investment Alert: &\#x27;Bull Trap&\#x27; Warning in AI Sector by Michael Burry](https://wallstreetcn.com/articles/3785936) ⭐️ 7.0/10
 
-The US stock market is facing potential for a &\#x27;Santa Claus rally&\#x27; following a sharp sell-off, with major institutions like Goldman Sachs signaling an end-of-year rebound. However, this rally is overshadowed by rising inflationary pressures, with the Consumer Price Index \(CPI\) exceeding expectations in September and October. The market is currently digesting多重 negative news, including strong CPI data, Federal Reserve&\#x27;s hawkish stance, rising interest rates, and high oil prices, yet prices have remained relatively stable.
+Following the resignation of NVIDIA CEO Huang Renxun, renowned investor Michael Burry has doubled down on his bearish bets on tech stocks, warning of a potential &\#x27;bull trap&\#x27; in the AI sector. Burry compares the NASDAQ 100 index&\#x27;s peak in October to the internet bubble&\#x27;s peak in 2000, predicting a significant downturn in chip stocks and the tech sector by mid-2027.
 
-rss · 华尔街见闻 · Nov 14, 02:49
+rss · 华尔街见闻 · Nov 14, 04:21
 
-**「Market Conditions Leading to the Potential &\#x27;Santa Claus Rally&\#x27;」** The US stock market has experienced a significant sell-off, leading to technical and positioning repairs. Major Wall Street institutions like Goldman Sachs have signaled an end-of-year rebound. This potential &\#x27;Santa Claus rally&\#x27; is driven by factors such as recent market corrections, lower valuations, reduced market positions, and seasonal factors. However, underlying risks and uncertainties include inflationary pressures, which are accumulating at a rate faster than during the COVID-19 pandemic, and market expectations. The analysis also considers the impact of these factors on the potential rally.
+**「Investment Strategy of Michael Burry」** Michael Burry, a well-known investor, is known for his unique investment strategy. He conducts extensive research to understand a company&\#x27;s value before investing, focusing on free cash flow and enterprise value metrics. His strategy also involves holding a diversified portfolio of 12-18 stocks from depressed industries. This approach has been instrumental in his ability to identify market trends and make informed investment decisions. His recent writings and actions, particularly his bearish bets on tech stocks and his views on the AI sector, reflect this strategy of thorough analysis and strategic investment. 
 
-**「Impact on Investors」** Investors should be cautious as the potential &\#x27;Santa Claus rally&\#x27; in the US stock market is accompanied by rising inflation pressures. The high inflation rates, coupled with the expectation of further price increases in January 2027, pose significant risks. This could lead to a situation where the market&\#x27;s upward momentum is temporarily boosted, only to face a subsequent downturn. Investors should consider diversifying their portfolios and stay vigilant about the potential for increased volatility.
+**「Impact on Tech Stocks and AI Sector」** Michael Burry&\#x27;s doubling down on bearish bets on tech stocks, particularly in the AI sector, suggests a potential for significant market downturn. His move to increase his bearish position on the NASDAQ 100 index and VanEck Semiconductor ETF indicates a belief in a systemic correction within the tech and semiconductor industries. This could lead to a decline in stock prices for companies in these sectors, potentially affecting investors and companies with significant exposure to these markets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://alphio.ai/blog/santa-claus-rally-stock-market-investor-guide-2026">Santa Claus Rally 2026: Year-End Stock Market Guide</a></li>
-<li><a href="https://onestopprop.com/santa-claus-rally-stock-market/">Santa Claus Rally 2026: The Dates, the Data, and How to Trade ...</a></li>
-<li><a href="https://marketshq.net/en/analysis/stock-markets/santa-claus-rally-2026">Santa Claus Rally: 76 Years of S&amp;P 500 Data (2026)</a></li>
-<li><a href="https://wallstreeteconomicists.com/articles/inflation-trends-2026-us">Inflation trends 2026 US: Cooling Pressures</a></li>
-<li><a href="https://www.fool.com/investing/2026/06/29/inflation-surging-how-affect-stock-market-2026/">Inflation Is Surging: Here&#x27;s How That Might Affect the Stock ...</a></li>
-<li><a href="https://wallstreeteconomicists.com/articles/us-inflation-trajectory-2026">US inflation trajectory 2026: Trends and Outlook</a></li>
+<li><a href="https://finmasters.com/michael-burry-investment-strategy/">A Fascinating Look at Dr. Michael Burry&#x27;s Investment Strategy</a></li>
+<li><a href="https://macro-ops.com/how-to-evaluate-stocks-like-michael-burry/">Michael Burry’s Investment Strategy Explained - Macro Ops</a></li>
+<li><a href="https://www.scribd.com/document/603300035/michael-burry-strategy">Michael Burry&#x27;s Investment Strategy | PDF | Stocks | Investing</a></li>
+<li><a href="https://www.gate.com/blog/jensen-huang-nvidia-investigation-nvda-stock-market-expectations">What Happened to Jensen Huang ? How Could the Nvidia ... | Gate Blog</a></li>
+<li><a href="https://www.youtube.com/watch?v=_4aXTGiiCp0">Jensen Huang resigns as Nvidia CEO : what it means for the “ AI ...”</a></li>
+<li><a href="https://www.globaltimes.cn/page/202611/1374252.shtml">Analysis: After Jensen Huang &#x27; s resignation , global... - Global Times</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Stock Market`, `#Economic Analysis`, `#Inflation`, `#Market Trends`
+**Tags**: `#Tech Stock`, `#Market Analysis`, `#AI Sector`, `#Investment Strategy`, `#Regulatory Announcement`
 
 ---
 
 <a id="item-cn-macro-4"></a>
-### [Anthropic&\#x27;s Conservative IPO Pricing Strategy Compared to SpaceX](https://wallstreetcn.com/articles/3785926) ⭐️ 7.0/10
+### [Chinas Capital Market Regulation Optimization and Fair Supervision](https://wallstreetcn.com/articles/3785937) ⭐️ 7.0/10
 
-Anthropic&\#x27;s IPO pricing strategy is more conservative than SpaceX&\#x27;s, with a target valuation of around $140 billion compared to SpaceX&\#x27;s $862 billion valuation at its IPO. This reflects the current market conditions and policy changes, with Anthropic adopting a traditional roadshow approach and SpaceX setting a fixed price in its marketing stage.
+China&\#x27;s Securities Regulatory Commission \(SRC\) has discussed the optimization and fair regulatory arrangements for quantitative research and share reduction systems in the capital market. This includes evaluating the current systems and establishing fair regulatory frameworks to ensure market stability and investor protection.
 
-rss · 华尔街见闻 · Nov 13, 23:44
+rss · 华尔街见闻 · Nov 14, 03:53
 
-**「Market Dynamics and Policy Changes Influencing IPO Pricing Strategies」** The contrasting IPO pricing strategies of Anthropic and SpaceX reflect the evolving market dynamics and policy changes in the tech industry. SpaceX&\#x27;s IPO in June 2026, with a valuation of $862 billion, benefited from a strong market environment, including a 28% surge in the Nasdaq 100 index. In contrast, Anthropic is facing a more challenging market backdrop, with concerns over AI infrastructure supply, Federal Reserve interest rate hikes, and the mid-term election results impacting market sentiment. These factors have led to a more conservative valuation and fundraising strategy for Anthropic, reflecting the current market conditions and policy changes.
+**「Background」** The discussion comes amidst ongoing efforts to deepen and improve China&\#x27;s capital market system. The SRC has been working on enhancing the legal and regulatory framework, promoting a multi-level market system, and fostering a more coordinated and adaptable investment and financing structure. This initiative is part of a broader effort to align the capital market with the country&\#x27;s economic development goals and global financial trends.
 
-**「Impact on Investors and Tech IPOs」** The conservative IPO pricing strategy adopted by Anthropic contrasts with the aggressive approach of SpaceX, reflecting the current market conditions and policy changes. This difference in strategy may lead investors to reassess their expectations for tech IPOs, particularly in the AI sector. The more cautious approach of Anthropic could be seen as a signal for investors to be more selective and cautious in their investments, focusing on companies with sustainable growth and solid market fundamentals.
+**「Impact on Investors and Companies」** The discussions on optimizing quantitative research and share reduction systems in China&\#x27;s capital market are expected to have a significant impact on investors and companies. By improving the fairness and rationality of regulatory arrangements, these changes may enhance market stability and attract more long-term investments. Companies, especially those in the new economy sector, may benefit from a more supportive regulatory environment, potentially leading to increased market access and financing opportunities. Investors may find a more level playing field, which could lead to a more efficient allocation of capital and potentially better returns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://marketwise.com/investing/spacex-1-5-trillion-ipo-elon-musk-valuation-strategy/">SpaceX’s $1.5T IPO: How Elon Musk Is Driving the Sky-High ...</a></li>
-<li><a href="https://www.allium.so/blog/spacex-valuation-from-tender-offers-to-1-98t/">SpaceX Valuation: From Tender Offers to $1.98T - allium.so</a></li>
-<li><a href="https://keeptrack.space/deep-dive/spacex-valuation-history">SpaceX Valuation, $2.2 Trillion in Oct 2026 and Every Round ...</a></li>
-<li><a href="https://www.wsgr.com/a/web/9JCTjQ85qakRoi8KZB9YSC/ipo-report-ye_2023.pdf">2023 TECHNOLOGY AND LIFE SCIENCES IPO REPORT - WILSON SONSINI</a></li>
-<li><a href="https://foundershield.com/blog/tech-ipos-2023/">Tech IPOs in 2023: A Year of Reckoning or a Year of Opportunity?</a></li>
-<li><a href="https://www.federalreserve.gov/monetarypolicy/2023-03-mpr-summary.htm">The Fed - Monetary Policy: Monetary Policy Report (Branch) Top Stories The Federal Reserve Just Raised Interest Rates for the First ... 2023 in review: Rates, rallies and reflections - J.P. Morgan Fed Rate Hike: Investor Portfolio Implications | BlackRock Policy impact of unexpected Fed rate movements blurred by key ... The Impact of the Federal Reserve Raises the Interest Rates ...</a></li>
-<li><a href="https://www.fool.com/investing/2026/09/18/the-federal-reserve-just-raised-interest-rates-for/">The Federal Reserve Just Raised Interest Rates for the First ...</a></li>
-<li><a href="https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/2023-in-review-rates-rallies-and-reflections">2023 in review: Rates, rallies and reflections - J.P. Morgan</a></li>
+<li><a href="https://www.researchgate.net/">ResearchGate | Find and share research</a></li>
+<li><a href="https://hub.papersowl.com/examples/importance-of-quantitative-research-across-fields/">Importance Of Quantitative Research Across Fields... | PapersOwl.com</a></li>
+<li><a href="https://www.midpointmarkets.com/careers/quantitative-researcher">Quantitative Researcher - Careers - Midpoint Markets</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#IPO`, `#Market Dynamics`, `#Valuation`, `#Investment Strategy`, `#Tech IPO`
+**Tags**: `#Capital Market Regulation`, `#China Economic Policy`, `#Regulatory Announcements`, `#Market Dynamics`, `#Capital Market Optimization`
 
 ---
 
 <a id="item-cn-macro-5"></a>
-### [Fed Official Proposes Distinct Accounting for Market Operations](https://wallstreetcn.com/articles/3785920) ⭐️ 7.0/10
+### [CAR-T Drug Rikyeolansai Included in National Medical Insurance](https://wallstreetcn.com/livenews/3200084) ⭐️ 7.0/10
 
-Federal Reserve official Lorie Logan proposed separating market functional bond purchases from monetary policy operations to clarify the distinction between liquidity support and quantitative easing. This move aims to address market confusion over the distinction between the two and ensure that such operations do not inadvertently provide additional stimulus.
+The CAR-T drug Rikyeolansai, previously priced at 1.29 million yuan per dose, has been included in the national medical insurance directory, with its price reduced to below 300,000 yuan per dose after the inclusion.
 
-rss · 华尔街见闻 · Nov 13, 23:06
+rss · 华尔街见闻 · Nov 14, 03:04
 
-**「Background on Lorie Logan and美联储&\#x27;s Approach to Market Functionality」** Lorie Logan, the President and CEO of the Federal Reserve Bank of Dallas, has been a key figure in推动美联储对央行资产负债表管理框架进行结构性调整。 This adjustment aims to clearly distinguish between market functionality bond purchases and monetary policy operations, addressing concerns about the potential blurring of lines between liquidity support and quantitative easing. Logan&\#x27;s role as a central banker and her background in overseeing the Federal Reserve Bank of Dallas provide insight into the institution&\#x27;s approach to managing market stability and liquidity. The discussion around these adjustments is part of a broader effort by the Federal Reserve to ensure transparency and clarity in its operations, particularly in times of market stress.
+**「Background on CAR-T Drug Rikyeolansai and National Medical Insurance」** The inclusion of the CAR-T drug Rikyeolansai in the national medical insurance directory is a significant development in the healthcare sector. Prior to this, the drug was priced at 1.29 million yuan per dose, which posed a significant financial burden on patients. The reduction in price to below 300,000 yuan per dose after its inclusion in the insurance directory is expected to make the drug more accessible to a wider population. This policy shift is part of a broader effort to improve the affordability and accessibility of high-cost medications in China, reflecting the government&\#x27;s commitment to enhancing healthcare coverage and supporting innovative biopharmaceuticals.
 
-**「Impact on Market Confidence and Investment Decisions」** The proposal by Federal Reserve official Lorie Logan to separate market functional bond purchases from monetary policy operations aims to clarify the distinction between liquidity support and quantitative easing. This move is expected to enhance market confidence by providing a clearer understanding of the Federal Reserve&\#x27;s strategies. Investors may now be more inclined to engage in sustained trading, as they have greater confidence in the market&\#x27;s ability to sustain normal operations without the need for frequent intervention by the Federal Reserve. This could lead to a more stable investment environment and potentially influence investment decisions in favor of long-term securities.
+**「Impact on Healthcare Sector」** The inclusion of the CAR-T drug Rikyeolansai in the national medical insurance directory, with its price reduced to below 300,000 yuan per dose, is expected to significantly lower the financial burden on patients with certain cancers. This move could lead to increased access to this costly treatment, potentially benefiting both patients and healthcare providers. However, it may also put pressure on the healthcare system to manage the increased demand for such treatments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.highperformr.ai/people/lorie-logan-29a99310">Who is Lorie Logan ? Discover Their Role as President... | Highperformr</a></li>
-<li><a href="https://grokipedia.com/page/Lorie_K._Logan">Lorie K. Logan — Grokipedia</a></li>
-<li><a href="https://dallasinnovates.com/dallas-fed-names-lorie-logan-as-its-first-female-president-ceo/">Dallas Fed Names Lorie Logan as its First Female President, CEO</a></li>
-<li><a href="https://www.federalreserve.gov/monetarypolicy.htm">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program...</a></li>
-<li><a href="https://www.tiktok.com/discover/what-happens-to-housing-market-if-fed-cuts-rates">What Happens to Housing Market If Fed Cuts Rates | TikTok</a></li>
+<li><a href="https://www.sohu.com/a/1048117450_121503026">CAR-T支付可及性再升级！瑞基奥仑赛冲刺医保，凭卓越疗效与“零重度毒...</a></li>
+<li><a href="https://www.sohu.com/a/903394770_120867875">瑞基奥仑赛新适应症申报上市,国产CAR-T多线爆发,横扫血癌、肝癌、肠癌...</a></li>
+<li><a href="https://jwtherapeutics.com/cn/media/press-release/20251021/">药明巨诺向中国国家药品监督管理局递交瑞基奥仑赛在中国成人活动性系...</a></li>
+<li><a href="https://www.sohu.com/a/1074687659_121076562">2026医保国谈｜CAR-T首入国谈，患者如何权衡时间与支付？</a></li>
+<li><a href="https://www.yicai.com/news/103440699.html">百万元的CAR-T药物终于进医保了！价格降至30万元以内</a></li>
+<li><a href="https://www.sohu.com/a/959046247_122504239">CAR-T细胞疗法首次进入医保谈判，医保＋商保叠加报销后患者自费部分有...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Federal Reserve`, `#Market Functionality`, `#Monetary Policy`, `#Regulatory Announcements`
+**Tags**: `#Healthcare Policy`, `#Medication Pricing`, `#Insurance Coverage`, `#Market Impact`, `#Economic Policy`
 
 ---
 
 <a id="item-cn-macro-6"></a>
-### [US Treasury Secretary and Fed Chairman Debate Inflation and Rate Hike Path](https://wallstreetcn.com/articles/3785917) ⭐️ 7.0/10
+### [Anthropic&\#x27;s IPO Strategy Contrasts with SpaceX&\#x27;s](https://wallstreetcn.com/articles/3785926) ⭐️ 7.0/10
 
-US Treasury Secretary Scott Bessent and Chicago Federal Reserve Chairman Austan Goolsbee have publicly debated the cause of inflation and the Federal Reserve&\#x27;s interest rate hike path, adding uncertainty to the December meeting. Bessent argues that inflation is driven by energy supply shocks and urges the Fed not to hike rates aggressively. Goolsbee counters that inflation has spread beyond energy and is driven by strong demand, particularly in services and healthcare.
+Anthropic&\#x27;s IPO strategy differs from SpaceX&\#x27;s, with Anthropic adopting a more conservative approach by pricing shares between $70 to $78 per share, aiming for a fully diluted valuation of around $1.4 trillion and raising up to $644 billion through the IPO, with an additional $260 billion through private financing. This contrasts with SpaceX&\#x27;s fixed price of $135 per share in its IPO, reflecting the current market conditions and investor sentiment.
 
-rss · 华尔街见闻 · Nov 13, 21:54
+rss · 华尔街见闻 · Nov 13, 23:44
 
-**「Background on the Debate」** The debate between the US Treasury Secretary and the Chicago Federal Reserve Chairman revolves around the cause of current inflation and the appropriate path for the Federal Reserve&\#x27;s interest rate hikes. This discussion is significant for understanding the evolving policy stance in the US. Austan Goolsbee, the Chicago Federal Reserve Chairman, has been a prominent figure in economic policy, serving as the Chairman of the Council of Economic Advisers and a member of the President&\#x27;s cabinet. Scott Bessent, the US Treasury Secretary, has been a key figure in Trump&\#x27;s economic policies, advocating for policies that support US competitiveness and address trade imbalances. The differing views on inflation&\#x27;s causes and the appropriate monetary policy response reflect a broader policy divergence within the US government and financial institutions.
+**「Background on SpaceX and IPOs」** SpaceX, founded by Elon Musk, has a history of significant milestones in the aerospace industry. The company&\#x27;s IPO in 2026, which raised $75 billion, was the largest IPO ever at that time. SpaceX&\#x27;s IPO strategy, including setting a fixed price for shares, was influenced by Musk&\#x27;s extensive experience in the capital markets. This contrasts with Anthropic&\#x27;s approach to its IPO, which involved a more traditional roadshow and a more conservative valuation, reflecting the current market conditions and investor sentiment. The differing strategies highlight the impact of market dynamics and the experience of the companies involved in the IPO process.
 
-**「Impact on Investors and Markets」** The debate between the US Treasury Secretary and the Chicago Federal Reserve Chairman over the cause of inflation and the Federal Reserve&\#x27;s interest rate hike path is likely to increase market uncertainty. This uncertainty could lead to volatility in financial markets, particularly in sectors sensitive to interest rate changes, such as real estate and technology. Investors may need to reassess their portfolios and be prepared for potential shifts in market dynamics.
+**「Impact on Investors」** Investors in the tech sector should be cautious as Anthropic&\#x27;s conservative IPO strategy, compared to SpaceX&\#x27;s aggressive approach, indicates a cautious market sentiment. The lower valuation and smaller fundraising amount suggest a potential lack of confidence in the current market conditions, which could affect the overall sentiment towards tech IPOs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Austan_Goolsbee">Austan Goolsbee - Wikipedia</a></li>
-<li><a href="https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-home">Office of the President: Austan Goolsbee - Federal Reserve ...</a></li>
-<li><a href="https://www.chicagobooth.edu/faculty/emeriti/austan-d-goolsbee">Austan D. Goolsbee - The University of Chicago Booth School ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Scott_Bessent">Scott Bessent - Wikipedia</a></li>
-<li><a href="https://www.forbes.com/sites/dereksaul/2025/01/16/what-to-know-about-scott-bessent-treasury-pick-will-tout-trump-economic-golden-age-in-confirmation-hearing/">Who Is Scott Bessent ? Meet Trump Treasury Pick Facing...</a></li>
-<li><a href="https://www.cbsnews.com/news/who-is-scott-bessent-what-to-know-trump-treasury-secretary-pick/">Who is Scott Bessent ? What you need to know about... - CBS News</a></li>
-<li><a href="https://www.deloitte.com/us/en/insights/topics/economy/spotlight/us-inflation-dynamics-effect-us-economy.html">US inflation dynamics effect on US economy | Deloitte Insights</a></li>
-<li><a href="https://money.usnews.com/money/personal-finance/family-finance/articles/how-inflation-is-impacting-everyday-americans-6-stories">How Inflation Is Impacting Everyday Americans: 6 Stories</a></li>
-<li><a href="https://www.pgpf.org/article/what-is-inflation-and-why-does-it-matter/">What Is Inflation and Why Does It Matter? - The Peter G ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/History_of_SpaceX">History of SpaceX - Wikipedia</a></li>
+<li><a href="https://www.dw.com/en/musks-spacex-ipo-holds-both-promise-and-peril/a-77491986">Musk&#x27;s SpaceX IPO holds both promise and peril</a></li>
+<li><a href="https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-spacex-stock/">How to Buy SpaceX Stock (SPCX) in 2026 | The Motley Fool</a></li>
+<li><a href="https://foundershield.com/blog/tech-ipos-2023/">Tech IPOs in 2023 : A Year of Reckoning or a Year of Opportunity?</a></li>
+<li><a href="https://economictimes.indiatimes.com/tech/startups/2023-holds-little-promise-for-tech-ipos-as-slowdown-continues/articleshow/98415387.cms">Tech IPOs : 2023 holds little promise for tech IPOs as slowdown...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Inflation`, `#Federal Reserve`, `#Interest Rates`, `#Policy Debate`, `#Market Uncertainty`
+**Tags**: `#IPO`, `#Market Conditions`, `#Investor Sentiment`, `#Tech IPO`, `#Anthropic`, `#SpaceX`
 
 ---
 
 <a id="item-cn-macro-7"></a>
-### [Gold Prices Set to Record Largest Weekly Decline Since June](https://wallstreetcn.com/articles/3785918) ⭐️ 7.0/10
+### [Fed Official Proposes Distinct Accounting for Market Functional Bond Purchases](https://wallstreetcn.com/articles/3785920) ⭐️ 7.0/10
 
-Gold prices are poised to record their largest weekly decline since June, primarily due to persistent inflation and heightened expectations of Federal Reserve rate hikes. The现货黄金 price has dropped by 4.78% this week, with the U.S. Consumer Price Index exceeding expectations for the third consecutive month, sparking market re-pricing of the Federal Reserve&\#x27;s aggressive加息 stance. The dollar&\#x27;s strength and rising U.S. Treasury yields have created a double whammy for gold, as it does not generate interest income and is priced in U.S. dollars.
+Federal Reserve official Lorie Logan proposed separating market functional bond purchases from monetary policy operations to clarify the distinction between liquidity intervention and quantitative easing. This move aims to stabilize market expectations and operations, emphasizing the need for distinct accounting and a commitment to sell these assets promptly.
 
-rss · 华尔街见闻 · Nov 13, 21:54
+rss · 华尔街见闻 · Nov 13, 23:06
 
-**「Background on Gold Price Decline and Federal Reserve Rate Hikes」** The recent decline in gold prices can be attributed to persistent inflation and increased expectations of Federal Reserve rate hikes. Historically, when the Federal Reserve raises interest rates, it tends to strengthen the US dollar and push up bond yields, both of which negatively impact gold prices. This is because gold does not generate interest income and is priced in US dollars, making it more expensive for non-US investors and reducing demand. Additionally, the expectation of higher interest rates can lead to a shift of capital from gold to other investment vehicles, further pressuring gold prices. The current situation is a continuation of this historical pattern, where monetary policy decisions by the Federal Reserve have a significant impact on the global gold market.
+**「Background on Federal Reserve&\#x27;s Market Functioning Purchases」** The Federal Reserve has historically used market functioning purchases to support smooth market operations. These purchases help absorb the flow of sales and restore two-way trading, thereby supporting liquidity. The recent discussion on separating market functional bond purchases from monetary policy operations is part of a broader effort to clarify the boundaries between liquidity intervention and quantitative easing. This clarification aims to stabilize market expectations and operations, which is particularly important for market participants tracking the A-share market.
 
-**「Impact」** The surge in expectations of Federal Reserve rate hikes has pushed up U.S. Treasury yields and strengthened the dollar, directly pressuring gold prices. This situation is likely to continue to affect gold investors, as the market re-prices the possibility of a 50 basis point single加息 in December. Despite the short-term sell-off, market institutions&\#x27; long-term outlook for gold is becoming increasingly divided.
+**「Impact」** The proposal could lead to increased market confidence as it aims to provide clearer boundaries between liquidity operations and quantitative easing. This could potentially reduce the probability of market interventions by the Federal Reserve, affecting investors&\#x27; strategies and decisions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://invest.10jqka.com.cn/20260914/c679873498.shtml">美联储加息对黄金的影响 - invest.10jqka.com.cn</a></li>
-<li><a href="https://wenku.baidu.com/view/6ea3b5464f73f242336c1eb91a37f111f0850d1d.html">美联储加息降息如何影响黄金价格？一文看懂美元与黄金的关系</a></li>
-<li><a href="https://www.sohu.com/a/1077091863_122066678">美联储加息引发国际金价波动，黄金市场何去何从？_经济_影响_全球</a></li>
+<li><a href="https://www.newyorkfed.org/newsevents/speeches/2020/log200715">The Federal Reserve’s Market Functioning Purchases: From ...</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-13/fed-s-logan-calls-for-clearer-separation-of-market-operations">Fed’s Logan Calls for Clearer Separation of Market Operations</a></li>
+<li><a href="https://finance.biggo.com/news/293ad08f-2b60-4098-81f8-7d0f122656bf">Dallas Fed&#x27;s Logan: Separate Crisis Bond Buying From Rate ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Gold Market`, `#Inflation`, `#Federal Reserve`, `#A-share Market`, `#Economic News`
+**Tags**: `#Federal Reserve`, `#Monetary Policy`, `#Market Operations`, `#Regulatory Announcements`, `#A-share Market`
 
 ---
 
 <a id="item-cn-macro-8"></a>
-### [OpenAI Restructures Robot Development Team](https://wallstreetcn.com/articles/3785914) ⭐️ 7.0/10
+### [Goldman Sachs 2027 Macroeconomic Outlook](https://wallstreetcn.com/articles/3785912) ⭐️ 7.0/10
 
-OpenAI has restructured its robot development team by integrating researchers into a broader AI model team, reflecting a shift in strategy towards general AI models for robotics. This move comes after the success of GPT-6 Astra and other general AI models in controlling robots directly, prompting a reevaluation of the development route for robot-specific models.
+Goldman Sachs predicts a slightly faster but bumpier global economic growth path in 2027, with a GDP growth rate of 2.8% and notable risks including Iran&\#x27;s situation escalating, bond market turmoil, and AI investment cycle peaking early. The firm expects the Federal Reserve and the European Central Bank to raise interest rates before turning to cuts later in the year.
 
-rss · 华尔街见闻 · Nov 13, 18:36
+rss · 华尔街见闻 · Nov 13, 22:03
 
-**「Background on OpenAI&\#x27;s Strategy Shift in Robotics」** OpenAI has historically focused on developing general AI models, which have recently shown the ability to directly control robots. This development has prompted a reevaluation of the strategy for robot development, leading to the integration of researchers into a broader AI model team. The shift towards general AI models for robotics reflects a change in perspective, where robots are no longer seen as a separate problem to be tackled but as a downstream application of general intelligence. This approach is similar to how general models are now providing underlying capabilities for professional tools in programming, law, and finance, suggesting that robots may also benefit directly from the same evolving foundational models without the need for separate AI models for each application.
+**「Previous Economic Outlook and Policy Stance」** In the lead-up to the 2027 macroeconomic outlook, global economic growth had been impacted by events such as the 2026 Iran war, which led to increased energy prices and supply disruptions. The previous economic forecasts had predicted a more modest growth trajectory, with the global GDP growth rate expected to be around 2.7%. These forecasts took into account factors such as the impact of the Iran war on energy prices and the subsequent effect on global economic growth. Additionally, monetary policy trends, including interest rate changes and the stance of major central banks, were considered in these forecasts. The previous outlook also highlighted key risks such as geopolitical tensions and market volatility, which were taken into account in the formulation of the 2027 macroeconomic outlook.
 
-**「Impact on Robotics Industry」** The shift in OpenAI&\#x27;s strategy towards general AI models for robotics could lead to a reduction in the dependency on specialized AI models for robots. This is due to the increasing capabilities of general models in areas such as language, code, vision, and reasoning, which may now directly control robots and execute real-world tasks. However, this could also pose challenges for robotics startups that have accumulated real-world data and experience in specific work environments, which may become more valuable as general models become stronger.
+**「Impact on Investors and Markets」** Investors should be cautious as the global economic growth path is expected to be bumpy in 2027, with notable risks such as Iran&\#x27;s situation escalating, bond market turmoil, and AI investment cycle peaking prematurely. High volatility is anticipated in the market, and investors are advised to strengthen hedging and diversification strategies. The forecast indicates that while stocks and bonds are expected to yield positive returns, the risk of market fluctuations is increasing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bilibili.com/video/BV139YE6REFx/?spm_id_from=333.788.recommend_more_video.2">GPT - 6 Astra 通 关了“我不是 机 器 人 ”的全部 48 关_哔哩哔哩_bilibili</a></li>
-<li><a href="https://evolink.ai/zh/blog/gemini-4-vs-gpt-6-astra">Gemini 4 vs GPT - 6 Astra ：现在接入还是等待</a></li>
-<li><a href="https://openeuler.csdn.net/6a9cb34148977663a5dd583c.html">FDE的Harnessz智能体操作系统上线： GPT - 6 Astra ...</a></li>
-<li><a href="https://news.futunn.com/post/1004489164/rise-of-general-purpose-models-prompts-scrutiny-of-specialized-model">通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队</a></li>
-<li><a href="https://news.qq.com/rain/a/20261114A057JH00">OpenAI重组具身智能团队 通用模型当机器人大脑_腾讯新闻</a></li>
+<li><a href="https://en.koreadaily.com/2027-us-economic-outlook-goldman-sachs/">2027 US economic outlook — Goldman Sachs Forecasts Growth</a></li>
+<li><a href="https://finance.yahoo.com/markets/article/goldman-sachs-sees-upside-for-sp-500-in-2027--even-as-earnings-growth-slows-185627269.html?fr=sycsrp_catchall">Goldman Sachs sees upside for S&amp;P 500 in 2027 — even as ...</a></li>
+<li><a href="https://news.futunn.com/en/post/1004508097/goldman-sachs-gsus-2027-macro-outlook-global-economy-to-accelerate">Goldman Sachs (GS.US) 2027 Macro Outlook: Global Economy to ...</a></li>
+<li><a href="https://finance.biggo.com/news/630fea9b-8592-4fd9-972f-ed51bd6f70e6">Goldman Sachs 2027 Outlook: Global GDP Seen at 2.8%, AI Capex ...</a></li>
+<li><a href="https://longbridge.com/en/news/305488952">Goldman Sachs 2027 Global Market Outlook: AI Investment ...</a></li>
+<li><a href="https://news.futunn.com/en/post/1004508097/goldman-sachs-gsus-2027-macro-outlook-global-economy-to-accelerate">Goldman Sachs (GS.US) 2027 Macro Outlook: Global Economy to ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Development`, `#Robotics`, `#OpenAI`, `#AI Strategy`, `#Robotics Research`
+**Tags**: `#Global Economic Outlook`, `#Macroeconomic Forecast`, `#Monetary Policy`, `#Market Risks`, `#Stock Market Analysis`
 
 ---
 
 <a id="item-cn-macro-9"></a>
-### [Global Protests Over Data Centers Impacting A-share Market and China&\#x27;s Economy](https://wallstreetcn.com/articles/3785911) ⭐️ 7.0/10
+### [Policy Debate on Inflation and Interest Rate Hikes in the U.S.](https://wallstreetcn.com/articles/3785917) ⭐️ 7.0/10
 
-Protests against data centers in various countries, including the US, Ireland, and Spain, are affecting the A-share market and China&\#x27;s economy due to environmental and policy concerns. These protests have led to negative votes on local data center development initiatives and have raised concerns about electricity prices, noise pollution, and property values in affected areas.
+U.S. Treasury Secretary Scott Bessent and Chicago Federal Reserve President Austan Goolsbee have publicly debated the cause of inflation and the potential path of Federal Reserve interest rate hikes. Bessent argues that inflation is driven by energy supply shocks and urges the Fed not to hike rates aggressively. Goolsbee, however, believes inflation has spread beyond energy and is driven by strong demand, particularly in services and healthcare. This debate adds uncertainty to the Fed&\#x27;s December meeting.
 
-rss · 华尔街见闻 · Nov 13, 16:33
+rss · 华尔街见闻 · Nov 13, 21:54
 
-**「Background on Data Center Protests and Their Impact」** Data centers have become a point of contention globally, leading to protests and public concerns. These concerns stem from environmental and policy implications, such as increased electricity costs, noise pollution, and potential health risks. The rapid expansion of data centers has raised questions about their impact on local communities and the environment. This has led to policy and regulatory changes, as well as public sentiment, which are important factors for market tracking. The situation is particularly relevant in the A-share market and China&\#x27;s economy, where these issues are closely monitored.
+**「Prior Policy Stance and Economic Context」** The current debate between the U.S. Treasury Secretary and the Chicago Federal Reserve President reflects a growing policy divergence and uncertainty in the Federal Reserve&\#x27;s approach to inflation and interest rate hikes. This uncertainty is compounded by the recent strong employment and inflation data, which has led some officials to discuss a potential 50 basis point rate hike at the December meeting. The debate also highlights the complex relationship between oil prices and inflation, as the U.S. has become a net energy exporter, making the impact of global oil price increases more pronounced on the domestic economy. This situation is further complicated by the spread of inflation beyond energy and tariff impacts, affecting sectors like services and healthcare, and the strong demand driven by AI data center construction.
 
-**「Impact on Investors and Companies」** The protests and public concerns over data centers are leading to increased scrutiny and potential delays in data center projects, which could impact the revenue and growth prospects of companies involved in data center construction and operation. Investors should be cautious about companies that rely heavily on data center projects, as these projects may face regulatory hurdles and public opposition, leading to increased costs and longer timelines.
+**「Impact on Investment Decisions」** The ongoing debate between the U.S. Treasury Secretary and the Chicago Federal Reserve President over the cause of inflation and the potential path of interest rate hikes by the Federal Reserve is creating uncertainty in the market. This uncertainty may lead investors to reassess their investment strategies, particularly in sectors sensitive to interest rate changes, such as real estate and technology. Investors may also seek to diversify their portfolios to mitigate the risk of a sudden shift in monetary policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cnbeta.com.tw/articles/tech/1584460.htm">芬兰警方启动刑事预调查 Google... - cnBeta.COM</a></li>
-<li><a href="https://www.winzheng.com/article/us-data-center-movement-global-lessons">美国反 数 据 中 心 浪潮，能向海外学什么 | 赢政天下</a></li>
-<li><a href="https://content.knightfrank.com/research/2266/documents/zh-chs/chan-ye-di-chan-tou-zi-xin-re-dian-shu-ju-zhong-xin-zhuan-ti-yan-jiu-bao-gao-2020-8208.pdf">content.knightfrank.com/research/2266/documents/zh-chs/chan-ye-di...</a></li>
-<li><a href="https://www.guancha.cn/kegongliliang/2026_11_10_907833.shtml">“吞电巨兽”进村：AI 数 据 中 心 正在失去欧洲 民 心</a></li>
-<li><a href="https://www.bohaishibei.com/post/114160/">数 据 中 心 越来越招人烦 – 博海拾贝</a></li>
-<li><a href="https://www.dlyj.ac.cn/CN/abstract/article/1000-0585/78507">中国大数据中心空间配置的影响机制及社会经济效应</a></li>
-<li><a href="https://learn.microsoft.com/zh-cn/training/modules/learn-contributing-local-economies-through-datacenters/">了解如何通过数据中心为本地经济做出贡献 - Training | Microsoft Lea...</a></li>
-<li><a href="https://www.dc-se.com/articledetail.asp?ID=12998">大型数据中心如何影响地方经济与资源环境？ - 应用实践 - 文章资料 数...</a></li>
+<li><a href="https://workforcerealigned.org/people/austan-goolsbee/">Austan Goolsbee - Workforce Realigned</a></li>
+<li><a href="https://www.linkedin.com/in/austan-goolsbee-62b278277">Austan Goolsbee - Federal Reserve Bank of Chicago | LinkedIn</a></li>
+<li><a href="https://pod.wave.co/podcast/the-best-one-yet/fed-prez-interview-with-federal-reserve-president-austan-goolsbee-on-money-inflation-when-you-can-bu">“Fed Prez” — Interview with Federal Reserve President Austan ...</a></li>
+<li><a href="https://www.nytimes.com/2024/12/10/style/scott-bessent-trump-treasury.html">Scott Bessent , Trump’ s Pick for Treasury Secretary , Doesn’t Fit the...</a></li>
+<li><a href="https://nypost.com/2026/11/13/us-news/scott-bessent-points-finger-at-howard-lutnick-over-nvidia-chip-scandal/">Scott Bessent points finger at Howard Lutnick over Nvidia chip scandal</a></li>
+<li><a href="https://www.zerohedge.com/political/commerce-has-pen-bessent-throws-lutnick-under-bus-amid-agreement-testify-nvidia-spy">&quot;Commerce Has The Pen&quot;: Bessent Throws Lutnick... | ZeroHedge</a></li>
+<li><a href="https://www.economist.com/special-report/2026/06/01/partners-in-prime-the-fed-and-treasurys-new-relationship">Partners in prime: The Fed and Treasury’s new relationship</a></li>
+<li><a href="https://www.chicagobooth.edu/review/rate-hikes-are-costing-fed-treasury">Rate Hikes Are Costing the Fed and the Treasury | Chicago ...</a></li>
+<li><a href="https://bfi.uchicago.edu/wp-content/uploads/2026/07/BFI_WP_2026-98.pdf">How Does Monetary and Fiscal Policy Affect the Economy in the ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Data Center Protests`, `#A-share Market`, `#Economic Policy`, `#Environmental Impact`, `#Public Sentiment`
+**Tags**: `#Inflation`, `#Federal Reserve`, `#Policy Debate`, `#Interest Rates`, `#Economic Policy`
 
 ---
 
 <a id="item-cn-macro-10"></a>
-### [深圳已成为中国内地首个外贸进出口超5万亿元的城市](https://www.cls.cn/detail/2534413) ⭐️ 7.0/10
+### [Gold Prices Set to Record Largest Weekly Decline Since June](https://wallstreetcn.com/articles/3785918) ⭐️ 7.0/10
 
-Shenzhen becomes the first Chinese city with foreign trade exceeding 5 trillion yuan.
+Gold prices are poised to record their largest weekly decline since June, primarily due to persistent inflation and heightened expectations of Federal Reserve rate hikes. The现货黄金 price has dropped by 4.78% this week, with the U.S. Consumer Price Index exceeding expectations for the third consecutive month, sparking market re-pricing of the Federal Reserve&\#x27;s aggressive rate hikes. The dollar&\#x27;s strength and rising U.S. bond yields have created a double whammy for gold.
 
-rss · 财联社电报 · Nov 14, 03:14
+rss · 华尔街见闻 · Nov 13, 21:54
 
-**Tags**: `#Economic Data`, `#Shenzhen`, `#Foreign Trade`, `#China&\#x27;s Economy`, `#Market Impact`
+**「Background on Gold Market and Federal Reserve Policy」** The gold market has been under pressure due to persistent inflation and increased expectations of Federal Reserve rate hikes. Historically, when the Federal Reserve raises interest rates, it leads to an increase in the cost of holding non-interest-bearing assets like gold, causing investors to move their funds from gold to interest-bearing assets such as U.S. Treasury bonds and dollar deposits. This has a downward pressure on gold prices. Additionally, the recent trend of the U.S. Consumer Price Index \(CPI\) exceeding expectations has led to a reassessment of the Federal Reserve&\#x27;s monetary policy, further impacting the gold market. The relationship between the Federal Reserve&\#x27;s policies and the gold market is complex and influenced by various factors including inflation, interest rates, and global economic conditions.
+
+**「Impact」** The surge in expectations of Federal Reserve rate hikes has pushed up U.S. bond yields and strengthened the dollar, both of which have directly suppressed gold prices. Despite the evident short-term selling pressure, market institutions&\#x27; long-term outlook for gold is becoming increasingly divided.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://invest.10jqka.com.cn/20260914/c679873498.shtml">美联储加息对黄金的影响 - invest.10jqka.com.cn</a></li>
+<li><a href="https://goodsfu.10jqka.com.cn/20260916/c679973662.shtml">今夜美联储是否加息对黄金影响</a></li>
+<li><a href="https://wenku.baidu.com/view/6ea3b5464f73f242336c1eb91a37f111f0850d1d.html">美联储加息降息如何影响黄金价格？一文看懂美元与黄金的关系</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Gold Market`, `#Inflation`, `#Federal Reserve`, `#Economic News`, `#Market Trends`
 
 ---
 
 <a id="item-cn-macro-11"></a>
-### [South China&\#x27;s New Energy Vehicle Industry Chain&\#x27;s Impact on Electricity Consumption](https://www.cls.cn/detail/2534405) ⭐️ 7.0/10
+### [OpenAI&\#x27;s Shift in Robotics Research Strategy](https://wallstreetcn.com/articles/3785914) ⭐️ 7.0/10
 
-In the first 10 months of 2026, the new energy vehicle industry chain in southern China&\#x27;s five provinces contributed over 30% to the incremental electricity consumption. The sales volume of electricity for this industry chain accounted for 17.1% of the total electricity sold on the national grid, a year-on-year increase of 14.8%, and its contribution rate to the total electricity consumption increase reached 34.1%.
+OpenAI has reevaluated its robotics research strategy, integrating robotics research into its core AI model development. This move includes the dissolution of its independent robotics team and the incorporation of robotics researchers into the company&\#x27;s core research and application departments. The shift is driven by the increasing capabilities of general AI models in robotics, which may now directly control robots and execute real-world tasks.
 
-rss · 财联社电报 · Nov 14, 02:34
+rss · 华尔街见闻 · Nov 13, 18:36
 
-**「Background on China&\#x27;s New Energy Vehicle Industry Chain」** The rapid growth of China&\#x27;s new energy vehicle \(NEV\) industry has been a significant driver in the country&\#x27;s economic development. In recent years, the Chinese government has been actively promoting the adoption of NEVs through various incentives and policies. This has led to a substantial increase in the production and sales of NEVs, which in turn has had a notable impact on the energy sector. The increased demand for electricity to support the NEV industry has been a key factor in the rise of electricity consumption in certain regions, particularly in southern China. This trend is part of a broader shift towards sustainable and green energy solutions in China.
+**「OpenAI&\#x27;s Previous and Current Robotics Strategy」** OpenAI has previously undergone a strategic shift in its approach to robotics. In 2020, the company disbanded its robotics team, focusing resources on the development of large-scale language models and adopting a strategy of &\#x27;only doing the brain, not the body&\#x27;. This strategy emphasized the development of AI models without the physical aspect. However, by the end of May and June 2026, OpenAI attempted to rebuild its robotics team and announced the development of a self-developed humanoid robot, indicating a continued exploration in hardware and data closed-loop. This recent shift in strategy, involving the integration of robotics research into core AI model development, marks a significant change from OpenAI&\#x27;s previous focus on language models.
 
-**「Impact」** This significant increase in electricity consumption for the new energy vehicle industry chain suggests a growing reliance on renewable energy sources and could potentially lead to increased investment in the energy sector, particularly in renewable energy infrastructure.
+**「Impact on Robotics Industry」** The integration of robotics research into OpenAI&\#x27;s core AI model development may lead to a shift in the robotics industry, reducing the dependency on specialized AI models for robots. This could potentially streamline the development process and lower costs, as robots may benefit directly from evolving general AI models without the need for separate AI models for each application. However, it also raises concerns about the value of real-world data and engineering expertise accumulated by robotics startups, which may become less relevant if robots can learn from general models without specific task data.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.bjx.com.cn/html/20250125/1424787.shtml">news.bjx.com.cn/html/20250125/1424787.shtml</a></li>
-<li><a href="https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202508/P020250814316273519216.pdf">02B20250814C</a></li>
+<li><a href="https://www.sohu.com/a/1101170366_122066678">OpenAI机器人战略转向：模型内整合如何影响未来？</a></li>
+<li><a href="https://m.jrj.com.cn/madapter/finance/2026/11/14081559144085.shtml">OpenAI确认解散独立机器人研究团队，称重组旨在加快通用机器人研发-电...</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/672534947">面向通用机器人的基础模型：综述和综合分析 - 知乎</a></li>
+<li><a href="https://blog.csdn.net/weixin_44887311/article/details/135148035">CMU\谷歌等最新研究综述：面向通用机器人的基础模型_lptms-CSDN博客</a></li>
+<li><a href="https://aiho.net/wiki/robot-foundation-model.html">机器人基础模型详解 2026：具身智能从专用demo走向通用部署的关键 — A...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Energy Sector`, `#New Energy Vehicles`, `#Economic Data`, `#China&\#x27;s Economy`
+**Tags**: `#AI Research`, `#Robotics`, `#OpenAI`, `#AI Models`, `#Robotics Industry`
 
 ---
 
 <a id="item-cn-macro-12"></a>
-### [Two Innovative Drugs Added to China&\#x27;s Basic Medical Insurance Directory](https://www.cls.cn/detail/2534401) ⭐️ 7.0/10
+### [Discussion on Global Macroeconomic Situation by Martin Wolf](https://www.cls.cn/detail/2534460) ⭐️ 7.0/10
 
-Two innovative drugs from the commercial insurance innovation drug list have been successfully included in the basic medical insurance directory, reflecting policy fine-tuning and regulatory announcements. This change affects patients and healthcare providers, as it expands access to innovative treatments covered by basic medical insurance.
+Treasury Deputy Minister Liao Min hosted an online special lecture featuring Martin Wolf, Deputy Editor and Chief Economic Commentator of the Financial Times, discussing the global macroeconomic situation.
 
-rss · 财联社电报 · Nov 14, 02:13
+rss · 财联社电报 · Nov 14, 07:05
 
-**「Background on Commercial Insurance Innovation Drug List」** The commercial insurance innovation drug list was introduced to provide a clear reimbursement basis for high-priced self-paying特效药, addressing the core pain point of patients who cannot afford advanced therapies. This policy aims to build a multi-level medical insurance system that combines basic medical insurance with commercial insurance, making cutting-edge medical treatments more accessible. The list has been instrumental in guiding the development of a comprehensive healthcare system in China.
+**「Previous Economic Analysis by Martin Wolf」** Martin Wolf, the esteemed Chief Economic Commentator at the Financial Times, has previously discussed global economic trends and policies. His insights often focus on the impact of central bank policies, economic growth, and innovation in the pharmaceutical and biotech sectors. His analysis is widely referenced in the Financial Times and other financial publications, providing a comprehensive view of the global economic landscape. Additionally, the World Bank&\#x27;s Global Economic Prospects report offers a detailed outlook on economic trends, policies, GDP growth, risks, and inflation rates, which can be used as a reference for understanding the broader economic context.
 
-**「Impact」** The inclusion of these innovative drugs in the basic medical insurance directory is expected to increase patient access to advanced treatments, potentially reducing financial burdens for those with chronic or serious conditions. Investors in the healthcare sector may see this as a positive sign for the growth of innovative drug companies and the overall healthcare market.
+**「Impact」** The lecture is expected to provide insights into the global economic landscape, which may influence investment decisions and market trends.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://xinwen.bjd.com.cn/content/s695b62f4e4b0687a288f4cd2.html">什 么 是 商 保 创 新 药 品 目 录 ？ 如何查询 目 录 内 药 品信息？ 一文读懂</a></li>
-<li><a href="https://post.smzdm.com/p/amoqdogv/">post.smzdm.com/p/amoqdogv</a></li>
-<li><a href="https://m.huize.com/study/detail-497660.html">有没有 保 险，以后看病用的 药 都不一样！_ 慧择 保 险网</a></li>
+<li><a href="https://www.ft.com/">News, analysis and opinion from the Financial Times on the latest in...</a></li>
+<li><a href="https://www.worldbank.org/en/publication/global-economic-prospects">Global Economic Prospects</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Healthcare Policy`, `#Innovation Drug`, `#Medical Insurance`, `#A-share Market`, `#Regulatory Announcement`
+**Tags**: `#Economic Lecture`, `#Macroeconomic Analysis`, `#Financial Times`, `#Martin Wolf`, `#China&\#x27;s Economy`
 
 ---
 
 <a id="item-cn-macro-13"></a>
-### [China&\#x27;s Renewable Energy Sector to Cover All New Electricity Demand by 2030](https://www.cls.cn/detail/2534381) ⭐️ 7.0/10
+### [证监会主席吴清指出新经济领域公司在A股市场占比超过一半](https://www.cls.cn/detail/2534431) ⭐️ 7.0/10
 
-The Chinese Academy of Macroeconomic Research reports that by 2030, China&\#x27;s renewable energy sector is expected to cover all new electricity demand. This shift is driven by the increasing dominance of clean energy sources like wind and solar power, which have become the main sources of new installations. As of the first three quarters of 2026, renewable energy accounted for over 40% of the total electricity generation in China.
+证监会主席吴清指出，A股市场新经济领域公司在数量、营收、市值方面均占比超过一半，显示出产业转型和现代化产业体系建设取得显著进展。这一数据与市场预期存在差异，标志着A股市场结构发生了重大变化。
 
-rss · 财联社电报 · Nov 14, 00:40
+rss · 财联社电报 · Nov 14, 04:17
 
-**「Background on China&\#x27;s Renewable Energy Transition」** China has been actively transitioning towards renewable energy sources, with a significant focus on wind and solar power. This shift is part of a broader effort to reduce reliance on fossil fuels and combat climate change. The Chinese Academy of Macroeconomic Research&\#x27;s report indicates that renewable energy generation, particularly wind and solar, has become the dominant source for new installations. As of the first three quarters of 2026, renewable energy accounted for over 40% of the total electricity generation in China. This trend underscores the government&\#x27;s commitment to sustainable development and the clean energy transition.
+**「Previous Market Composition and Policy Landscape」** Prior to the recent announcement by SEC Chairman Wu Qing, the A-share market had been characterized by a different composition, with traditional sectors dominating. The Chinese government had been pushing for economic transformation and the development of a modern industrial system. This included policies aimed at fostering new economic sectors and encouraging innovation. The introduction of the new &\#x27;National Nine Strategies&\#x27; two years ago was a significant step in this direction, aiming to enhance the market&\#x27;s ability to support new economic sectors and improve corporate governance.
 
-**「Impact」** This transition to clean energy is expected to significantly impact the energy sector and the broader economy, potentially leading to increased investments in renewable energy technologies and a reduction in carbon emissions. Investors in renewable energy companies and related sectors may see opportunities for growth, while those invested in traditional energy sources may need to adapt to the changing landscape.
+**「Impact」** 这一变化对投资者而言，意味着应更加关注新经济领域公司的投资机会，尤其是那些在技术创新和产业升级方面具有优势的企业。投资者需警惕市场过度集中于某一领域可能带来的风险，并关注政策对新经济领域的支持力度。
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://usercontent.one/wp/www.cet.energy/wp-content/uploads/2024/11/CET_%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E8%BD%AC%E5%9E%8B%E5%B1%95%E6%9C%9B2024_%E6%89%A7%E8%A1%8C%E6%91%98%E8%A6%81-20241108.pdf">usercontent.one/wp/www.cet.energy/wp-content/uploads/2024/11/CET...</a></li>
-<li><a href="https://cpnn.com.cn/news/hg/202606/t20260618_1895955.html">生态环境部： 中 国 能 源 转 型 、碳市场建设等成就显著-- 中 国 能 源 新闻网</a></li>
+<li><a href="https://qks.shufe.edu.cn/J/PDFFull/A20190304XB.pdf">Journal of Shanghai University of Finance and Economics</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Renewable Energy`, `#Chinese Economy`, `#Energy Policy`, `#Electricity Generation`, `#Clean Energy Transition`
+**Tags**: `#A-share Market`, `#Economic Data`, `#Market Composition`, `#Regulatory News`
 
 ---
 
 <a id="item-cn-macro-14"></a>
+### [Jing Wu Emphasizes Deepening AI and Capital Market Synergy](https://www.cls.cn/detail/2534430) ⭐️ 7.0/10
+
+China&\#x27;s Securities Regulatory Commission \(SRC\) Chairman Wu Qing emphasized the need for further research into the mutual empowerment of artificial intelligence \(AI\) and the capital market. He highlighted the importance of the capital market adapting to technological changes and mitigating AI-related risks.
+
+rss · 财联社电报 · Nov 14, 04:09
+
+**「Background on AI and Capital Market Integration」** The integration of artificial intelligence in the capital market has been a topic of significant interest and discussion. In recent years, there has been a growing recognition of the impact of AI on various aspects of the capital market, including investment decision-making, risk management, and market operations. This has led to increased efforts in studying and implementing AI technologies in the financial sector. The discussions around AI and capital market integration often revolve around the need to adapt to technological advancements, enhance efficiency, and mitigate risks associated with the use of AI. Key areas of focus include the development of AI-driven tools for market analysis, algorithmic trading, and the management of financial risks.
+
+**「Impact」** Investors should be aware of the potential risks and opportunities presented by the integration of AI in the capital market. The emphasis on responsible AI application and risk mitigation could lead to increased regulatory scrutiny and changes in market practices, affecting sectors heavily reliant on AI technologies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bjnews.com.cn/detail/1793000575129216.html">建言中国 资 本 市 场 ｜武泽伟：破解AI...</a></li>
+<li><a href="https://www.yemacaijing.com/Index/view/id/91595.html">南方基金：锚定国家战略 赋 能 资 本 市 场 高质量发展</a></li>
+<li><a href="https://www.ysu.edu.cn/info/5423/45924.htm">浙江大学探索构建“ 智 库+学科” 双 向 赋 能 育 人 新模式-燕山大学</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Artificial Intelligence`, `#Capital Market`, `#Regulatory Announcement`, `#Technology Integration`, `#Financial Risk Management`
+
+---
+
+<a id="item-cn-macro-15"></a>
+### [A-share Market: New Economy Companies Dominate](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ca3hBNGpBb1c3dFFBeHJjOVFXSU5fejhDWUhEeURTOXFmNHlxc3ZyQm9sbDg3eDljMm95WU1ld0xpaS1jbm9MVXo2dHpmeG5DV2MtaTRMQ0RhS25WaElRR2I0azU3dEZV?oc=5) ⭐️ 7.0/10
+
+In the Chinese A-share market, new economy companies now account for over half of the total number, revenue, and market value, marking a significant shift from traditional sectors.
+
+google\_news · 中国新闻网 · Nov 14, 07:12
+
+**「Historical Context of A-share Market and New Economy Companies」** The A-share market in China has historically been dominated by traditional sectors such as manufacturing and finance. However, in recent years, there has been a significant shift towards the growth of new economy companies, which include technology, healthcare, and consumer services. This shift has been driven by government policies promoting innovation and technological advancement, as well as the increasing demand for these sectors from both domestic and international investors. The rise of new economy companies has been a key factor in the overall growth and development of the A-share market.
+
+**「Investment Implications」** This shift indicates a growing emphasis on technology and innovation in the Chinese economy, potentially benefiting investors in tech and related sectors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=kUf7bCgA6RQ">youtube.com/watch?v=kUf7bCgA6RQ</a></li>
+<li><a href="https://www.hkira.com/en/resources/views160118.pdf">hkira.com/en/resources/views160118.pdf</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#A-share Market`, `#Chinese Economy`, `#New Economy`, `#Market Statistics`
+
+---
+
+<a id="item-cn-macro-16"></a>
+### [A-share Market Policy Enhancement and Loan Acceleration](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IcVcxUWJsckhXY3Q5bzNuMXlLblVXMlFJNWxkRTlrdkpLdV9fdWk3ZVU1RGZybUg3NlZpbHVXRHZvQ1VUQndOVU5RUTVoQWNsNldPRmtvTVl3R2dSakZUcA?oc=5) ⭐️ 7.0/10
+
+The Chinese government has announced enhanced policies for stock repurchases, increased loans, and accelerated special loans for A-share listed companies. This move is expected to boost the A-share market by providing additional financial support to listed companies.
+
+google\_news · 证券之星 · Nov 13, 23:43
+
+**「Background on Policy Enhancements and Loan Acceleration for A-share Listed Companies」** The recent policy enhancements and loan acceleration for A-share listed companies are part of a broader effort to stabilize the market and support corporate growth. This initiative follows the establishment of the stock repurchase and share purchase re-loan policy by the People&\#x27;s Bank of China, which aims to guide financial institutions to provide loans to listed companies and major shareholders. The loans are intended to be used exclusively for repurchasing and increasing the holding of listed company stocks, thereby promoting active use of these tools for market value management. This policy is a continuation of the efforts to strengthen the A-share market and encourage corporate investment.
+
+**「Impact」** Investors in the A-share market may see increased activity as these policies are expected to improve the financial health of listed companies, potentially leading to higher stock prices and improved market confidence.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.gov.cn/zhengce/zhengceku/202410/content_6981220.htm">中国人民银行 金融监管总局 中国证监会关于设立股票回购增持再贷款有...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese Macroeconomy`, `#A-share Market`, `#Policy Changes`, `#Regulatory Announcements`
+
+---
+
+<a id="item-cn-macro-17"></a>
+### [October High-frequency Data Indicates Stable and Improving Economic Trend in China](https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UldwU3pDUzFQOEVubU9JSUtab00tVWZWNDYwalJqWEM2VlNNOXRocmVPbk5YVUhYUm5TN2hsenZyT0p3aE9ZR2VwT0hPcThwckd2UXR1RjlUZFU4eGpnTA?oc=5) ⭐️ 7.0/10
+
+October high-frequency data in China shows a stable and improving economic trend. This data is significant for those tracking the Chinese economy and stock market, as it reflects a positive economic outlook without major policy shifts or landmark statistics.
+
+google\_news · 同花顺财经 · Nov 14, 00:04
+
+**「Understanding the Economic Context」** The analysis of high-frequency data in October reflects a stable and improving economic trend in China. This trend is significant for readers tracking the Chinese economy and stock market. It is important to note that this analysis does not involve groundbreaking policy shifts or landmark statistics but is relevant due to its alignment with economic expectations. The data presented provides insights into the current economic situation, which is crucial for understanding the market trends and investor sentiment.
+
+**「Impact」** The stable and improving economic trend is likely to boost investor confidence in the Chinese stock market, particularly in sectors that are sensitive to economic growth.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://faculty.ist.psu.edu/jjansen/academic/jansen_specifity.pdf">Understanding the specificity of web search queries</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese Economy`, `#A-share Market`, `#Economic Data`, `#Market Trends`, `#Stable Growth`
+
+---
+
+<a id="item-cn-macro-18"></a>
+### [Chinese Economy Shows Stable and Positive Trend in October](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYjBMUmlIQmIwVWNlVmdxRGtkajJ6dkxDUmZWMVlDVDVGa19jWlVnQlZuU2R2elJNUDVNLUhpSzd5YjdoOXpsb2ZIZDg0UEdtSUhYRmMtZktwVUhtbTdVbFFLcEI4dw?oc=5) ⭐️ 7.0/10
+
+October&\#x27;s high-frequency economic data in China indicates a stable and positive economic trend, with significant data points aligning with expectations, reflecting a routine data update rather than a groundbreaking event.
+
+google\_news · 东方财富 · Nov 13, 17:31
+
+**「Economic Data Context」** The stable and positive economic trend in China discussed in the article is based on October&\#x27;s high-frequency data. This data includes various economic indicators such as the producer price index \(PPI\) and other relevant economic metrics. The PPI inflation report for October 2026 indicated an expected increase of 0.4%, which aligns with the stable economic trend observed. This routine data update reflects the ongoing monitoring and analysis of the Chinese economy, providing a basis for understanding the current economic situation.
+
+**「Impact」** The stable economic trend is expected to positively influence investor confidence and market stability, potentially leading to increased investment in sectors aligned with China&\#x27;s economic growth.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html">PPI inflation report October 2026</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Chinese Economy`, `#Economic Data`, `#Market Trends`, `#China Stock Market`
+
+---
+
+<a id="item-cn-macro-19"></a>
 ### [Corporate Loan Interest Rate in China Hits New Low](https://news.google.com/rss/articles/CBMickFVX3lxTE9DZG95VDdQTWJCcDJwbmtVVFFlLU5PUzNJVzl3VXlmbEtLWHNMQV9VLWZuYUo4SWM1M19KSjdiNnJraWs3TC1wamRQNTBCaDQtejVWLXByQl8waWRSWUJjdklaYjVIOGx4RVExaXRRVVNpQQ?oc=5) ⭐️ 7.0/10
 
 The corporate loan interest rate in China has reached a new low, breaking the 3% threshold for the first time. This significant change in interest rates deviates from expectations and has the potential to impact multiple sectors.
 
 google\_news · 手机新浪网 · Nov 14, 01:48
 
-**「Historical Context of Corporate Loan Interest Rates in China」** In recent years, China has been implementing various monetary policies to stimulate economic growth. This includes lowering interest rates to encourage borrowing and investment. Prior to this recent development, corporate loan interest rates had been steadily decreasing, reflecting the central bank&\#x27;s efforts to support the economy. The last significant change in corporate loan interest rates was in 2025, when the rate was adjusted downwards by 0.5 percentage points, marking a significant easing of monetary policy. This background sets the stage for the recent news of the corporate loan interest rate breaking the 3% mark for the first time, indicating a further relaxation of monetary policy.
+**「Background on Corporate Loan Interest Rates in China」** The corporate loan interest rate in China has historically been a key indicator of the country&\#x27;s economic health and monetary policy stance. The Loan Prime Rate \(LPR\) system, introduced in 2019, replaced the previous lending facility rate system, marking a significant shift towards a more market-driven interest rate environment. The LPR is determined by a panel of banks and reflects the interest rates offered to the most creditworthy borrowers. The historical data and analysis of the loan interest rates in China show a trend of gradual liberalization and marketization, with the LPR system aiming to enhance the effectiveness of monetary policy transmission and promote a more stable and transparent interest rate environment. This shift has been part of broader efforts to deepen financial reforms and support economic growth.
 
 **「Impact」** The decline in corporate loan interest rates is expected to stimulate borrowing and investment in various sectors, potentially leading to increased economic activity. Investors should monitor the impact on sectors sensitive to interest rate changes, such as real estate and construction.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=ABRdFe03L4c">youtube.com/watch?v=ABRdFe03L4c</a></li>
-<li><a href="https://nc.bendibao.com/live/2024521/87827.shtm">南昌下调个人住房公积金 贷 款 利 率 - 南昌本地宝</a></li>
-<li><a href="https://daikuanyy.com/">daikuanyy.com</a></li>
+<li><a href="https://www.boc.cn/fimarkets/lilv/fd32/201310/t20131031_2591219.html">贷款市场报价利率（LPR） - 中国银行</a></li>
+<li><a href="https://wenku.baidu.com/view/27b8bac222fff705cc1755270722192e453658fc.html">中国贷款利率历史演变全景分析（1990-2024）_百度文库</a></li>
 
 </ul>
 </details>
@@ -409,404 +527,353 @@ google\_news · 手机新浪网 · Nov 14, 01:48
 
 ---
 
-<a id="item-cn-macro-15"></a>
-### [China&\#x27;s Economy Hits Historical High Growth](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9USGNLekZCNFMyeFZPbF9TTzVwQnRRSm5lLTVId0ttTDFabG1oM3dJTlpULURGTjcxUWNLZ01BaEV4c21EWWRlSQ?oc=5) ⭐️ 7.0/10
-
-China&\#x27;s economy has achieved a historical high in continuous growth, marking a significant milestone for the nation&\#x27;s economic development. This news is crucial for readers tracking China&\#x27;s economy and stock market, as it reflects the current state of the country&\#x27;s economic health.
-
-google\_news · 凤凰网 · Nov 14, 01:51
-
-**「Historical Context of China&\#x27;s Economic Growth」** In recent years, China&\#x27;s economy has been characterized by a shift towards higher-quality growth. This transition has been marked by structural adjustments and efforts to enhance economic resilience. The government has been focusing on maintaining stability in key economic indicators, such as GDP growth, as part of its &\#x27;Four Stabilizations&\#x27; strategy. This approach has been aimed at ensuring a steady and sustainable economic expansion amidst global economic uncertainties. For instance, the GDP growth in the first quarter of 2026 was reported at 5.0%, reflecting the country&\#x27;s strong performance compared to other major economies. These efforts have contributed to the current phase of continuous economic growth, which has reached a historical high, as reported by Phoenix News.
-
-**「Impact」** The continuous growth of China&\#x27;s economy is expected to positively impact key sectors and companies, potentially leading to increased investment opportunities. Investors should monitor this trend closely, as it may influence their investment decisions in the Chinese stock market.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.aisixiang.com/data/83086.html">唐毅南： 中 国 经 济 真是“粗放式 增 长 ”吗_爱思想</a></li>
-<li><a href="https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202604/P020260417316524616241.pdf">03B20260417C</a></li>
-<li><a href="https://wl.hanzhong.gov.cn/hzwlwz/lyjq/202506/025d31b0d4bc41e6838954dd185df869.shtml">wl.hanzhong.gov.cn/hzwlwz/lyjq/202506/025d31b0d4bc41e6838954dd...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#中国经济`, `#股市`, `#经济增长`, `#政策变化`, `#经济数据`
-
----
-
-<a id="item-cn-macro-16"></a>
-### [October Financial Data and Central Bank Actions in China](https://news.google.com/rss/articles/CBMickFVX3lxTE5tT19zNkZmQVc5ZDVtZ3k3VHFVVHFmNGpUNG0yeW9xenFmOEFGM2xrbjRKenUtbzVITHdEbTJIV0xKYm1kbk9fZi1CSjVkTEtBeHFUTlJwdVZGSUdFYWxjY2VBT3BENXVLLWdKNmFyYU9kdw?oc=5) ⭐️ 7.0/10
-
-The Chinese central bank has reduced the volume of reverse repurchase operations, and a significant energy storage policy has been implemented. Additionally, the Shanghai Exchange has taken strict action against high-standard stocks, leading to the temporary suspension of stocks that have gained four consecutive trading days. Goldman Sachs has predicted a 14% rise in the S&amp;P 500 index over the next year.
-
-google\_news · 金融界 · Nov 14, 00:50
-
-**「Recent Economic and Policy Context」** The recent economic and policy landscape has been marked by significant developments in China&\#x27;s financial sector. The People&\#x27;s Bank of China has been actively adjusting its monetary policy, including the implementation of reverse repurchase operations to maintain liquidity in the banking system. Additionally, there has been a shift towards using the overnight reverse repurchase rate as the main policy rate, aiming to improve the transmission of monetary policy. These changes reflect the central bank&\#x27;s efforts to support economic growth and stabilize financial markets. Furthermore, the release of October financial data provides insights into the current state of the Chinese economy, which is crucial for understanding the recent market developments.
-
-**「Market Impact」** The reduction in reverse repurchase volume by the central bank and the implementation of the energy storage policy are expected to influence the investment landscape. Investors in the energy storage sector may see increased opportunities, while those in high-standard stocks could face regulatory challenges. The prediction of a 14% rise in the S&amp;P 500 index by Goldman Sachs might attract foreign investment into the A-share market, potentially boosting stock prices.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026">World Economic Outlook, October 2026: Resilience Under Strain ...</a></li>
-<li><a href="https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1">China’s producer prices hit four-year high - Financial Times</a></li>
-<li><a href="https://www.reuters.com/world/china/china-q3-growth-set-pick-up-stimulus-keeping-2026-goal-within-reach-2026-10-15/">China Q3 growth set to pick up on stimulus, keeping 2026 goal ...</a></li>
-<li><a href="https://english.www.gov.cn/news/202608/04/content_WS6a71e534c6d00ca5f9a0c89e.html">China&#x27;s central bank to conduct 500-billion-yuan outright ...</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/chinas-central-bank-studies-making-overnight-rate-its-main-policy-rate-2026-10-19/">China&#x27;s central bank studies making overnight rate its main ...</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/chinas-central-bank-conduct-overnight-reserve-repos-every-working-day-november-2-2026-10-30/">China&#x27;s central bank steps up shift toward overnight rate as ...</a></li>
-<li><a href="https://www.cnbc.com/quotes/.SSEC">SSEC: Shanghai - Stock Price, Quote and News - CNBC</a></li>
-<li><a href="https://www.tradinghours.com/markets/sse">SSE Market Hours &amp; Holidays 2026 - 2027 - TradingHours.com</a></li>
-<li><a href="https://www.youtube.com/watch?v=hydBCCgHt7A">Bitcoin Falls as Chinese Exchange Cracks Down - YouTube</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Chinese economy`, `#A-share market`, `#central bank policy`, `#regulatory news`, `#market outlook`
-
----
-
 ## Global Market
 
 <a id="item-global-market-1"></a>
 ### [Chicago Fed&\#x27;s Goolsbee on Inflation Concerns](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) ⭐️ 7.0/10
 
-Chicago Federal Reserve President Austan Goolsbee expressed concerns about inflation, indicating the central bank may need to take action to reestablish credibility and meet its 2% inflation target. He noted that the producer price index rose 0.3% in October, and the consumer price index rose more than expected, pushing the Fed further away from its target.
+Chicago Federal Reserve President Austan Goolsbee expressed concerns over rising inflation, suggesting the central bank may need to take action to reestablish credibility. He noted that the producer price index increased by 0.3% in October, indicating a 6.5% annual gain, and the consumer price index rose more than expected. Goolsbee emphasized that the Fed is slipping further away from its 2% inflation target, with inflation proving more persistent than predicted.
 
 rss · CNBC Finance · Nov 13, 14:22
 
-**「Prior Inflation Data and Central Bank Policy Path」** The recent remarks by Chicago Federal Reserve President Austan Goolsbee reflect ongoing concerns about inflation, which have been a persistent issue for the central bank. The discussion of inflation persistence and the potential need for further action is rooted in the recent inflation data, including the producer price index and consumer price index reports. These reports indicate that inflation remains above the 2% target, prompting discussions about the appropriate monetary policy stance. The context of these remarks includes the current monetary policy stance, which is marginally restrictive, and the forward-looking indicators suggesting that inflation may not fall substantially soon. This situation raises concerns about rising inflation expectations and the need for potential adjustments in policy.
+**「Chicago Federal Reserve&\#x27;s Role and Recent Inflation Data」** The Federal Reserve Bank of Chicago, under the leadership of President Austan Goolsbee, is tasked with maximizing employment and stabilizing prices. Goolsbee&\#x27;s recent media interviews reflect the ongoing challenge of achieving these goals, particularly in the context of rising inflation. The Chicago Fed has been analyzing various inflation indicators, such as the Consumer Price Index \(CPI\) and Producer Price Index \(PPI\), to gain insights into the current inflation landscape. Additionally, the Federal Reserve Board&\#x27;s Beige Book provides a comprehensive overview of economic conditions across the United States, which includes information on wage inflation and price growth.
 
-**「Impact」** Goolsbee&\#x27;s comments suggest that markets are pricing in a quarter percentage point increase in the Federal Open Market Committee&\#x27;s next meeting, with a better than 10% probability of a half-point hike. His remarks reflect the ongoing challenge of inflation persistence and the potential for more aggressive policy actions.
+**「Impact」** Goolsbee&\#x27;s comments suggest that markets are pricing in a quarter percentage point increase in the Federal Open Market Committee&\#x27;s next meeting, with a better than 10% probability of a half-point hike. His remarks indicate that the central bank is facing challenges in reestablishing its credibility on inflation control.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/millions-capital_the-chicago-federal-reserves-goolsbee-activity-7392328649951318016-cgI3">The Chicago Federal Reserve &#x27;s Goolsbee highlights uncertainty in...</a></li>
-<li><a href="https://www.newsmax.com/finance/streettalk/federal-reserve-inflation-interest-rates/2024/04/04/id/1159816/">Fed&#x27;s Goolsbee: Biggest Inflation Danger Is Housing | Newsmax.com</a></li>
-<li><a href="https://ainsliebullion.com.au/news-resources/article/housing-biggest-driver-of-inflation-e2-80-93-are-interest-rates-the-fuel-/id/3152">Housing biggest driver of inflation – are interest rates... | Ainslie Bullion</a></li>
+<li><a href="https://www.chicagofed.org/Home/">Federal Reserve Bank of Chicago</a></li>
+<li><a href="https://www.chicagofed.org/publications/chicago-fed-letter/2026/529">Flash PCE: A Mid-Month Inflation Nowcast - Federal Reserve ...</a></li>
+<li><a href="https://www.federalreserve.gov/monetarypolicy/beigebook202607-summary.htm">Monetary Policy: Beige Book (Branch) - Federal Reserve Board</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Inflation`, `#Central Bank Policy`, `#Financial Markets`, `#Economic Data`, `#Rate Hike Expectations`
+**Tags**: `#Inflation`, `#Central Bank Policy`, `#Economic Analysis`, `#Market Expectations`, `#Chicago Fed`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [Nvidia&\#x27;s Stock Decline](https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories) ⭐️ 7.0/10
+### [Federal Reserve Identifies AI as Top Concern for Financial System](https://reut.rs/4sZ2gcN) ⭐️ 7.0/10
 
-Nvidia&\#x27;s stock has experienced a remarkable decline, erasing $573 billion in market capitalization over six consecutive weeks, marking a streak not seen in 14 years.
+The Federal Reserve&\#x27;s latest survey reveals that artificial intelligence has emerged as the primary concern for the financial system, indicating a shift in focus among market participants.
 
-rss · MarketWatch Top Stories · Nov 13, 22:21
+rss · 路透社 Reuters · Nov 13, 22:58
 
-**「Nvidia&\#x27;s Stock Decline Context」** Nvidia&\#x27;s stock has been on a significant decline, with its market capitalization decreasing by $573 billion over six consecutive weeks. This decline has been attributed to various factors, including concerns about the future demand for AI and high expectations despite strong quarterly revenue reports. Additionally, there have been reports of a probe into CEO Jensen Huang and concerns regarding chip shipments and export risks, particularly in relation to China.
+**「Prior Concerns and AI&\#x27;s Growing Role in Financial Systems」** The Federal Reserve&\#x27;s recent survey highlighting artificial intelligence as the top concern for the financial system builds upon earlier observations about the potential risks associated with AI. The Fed has been monitoring the rapid expansion of data centers and the leverage associated with them, as outlined in a report on financial stability. This report suggests that in the event of a downturn in artificial intelligence, defaults on debt could be larger than current balance sheets suggest. Additionally, financial experts have been examining how leverage and interconnected financing could amplify an AI downturn, distinguishing potential losses for technology investors from the more serious risk of losses spreading through banks and credit markets. These findings reflect a growing awareness of the potential impact of AI on the financial system.
 
-**「Impact」** This significant stock decline is likely to have a notable impact on the technology sector, potentially affecting investor sentiment and market dynamics.
+**「Impact」** This identification of AI as a top concern may lead to increased regulatory scrutiny and investment in cybersecurity measures within the financial sector.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.neostox.com/us-stocks/why-is-nvidia-stock-dropping-key-reasons-investor-selling-and-downside-risks">Why Is Nvidia Stock Dropping? Reasons and Risks (Oct 2026 ...</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-losing-market-2026-020500373.html?fr=sycsrp_catchall">Nvidia Stock Is Losing to the Market in 2026. Time to Walk ...</a></li>
-<li><a href="https://www.indmoney.com/blog/us-stocks/why-is-nvidia-stock-falling-jensen-huang-affair-china-chip-claims">Why Is Nvidia Stock Falling? CEO Jensen Huang ... - INDmoney</a></li>
+<li><a href="https://finance.yahoo.com/economy/policy/article/fed-says-its-monitoring-the-data-center-build-out-for-risks-to-the-financial-system-224116947.html">Fed says it&#x27; s monitoring the data center build-out for risks to the...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html">Jensen Huang’ s ouster tests Nvidia’ s role as the ‘central bank of AI...</a></li>
+<li><a href="https://www.nytimes.com/spotlight/artificial-intelligence">Artificial Intelligence - The New York Times</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Equities`, `#Market Capitalization`, `#Stock Decline`, `#Nvidia`
+**Tags**: `#Federal Reserve`, `#Artificial Intelligence`, `#Financial System`, `#Market Concerns`, `#Reuters`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [Federal Reserve Identifies AI as Top Concern for Financial System](https://reut.rs/4sZ2gcN) ⭐️ 7.0/10
+### [Security Incident at World Leaders&\#x27; Dining Location](https://reut.rs/4t2TPgP) ⭐️ 7.0/10
 
-The Federal Reserve has reported that artificial intelligence has emerged as the leading concern for the financial system, according to its latest survey. This finding highlights the increasing importance of AI in the financial sector and the potential risks associated with its integration.
+Irish police discovered an explosive device near the site where world leaders had dined a day earlier. This security incident has the potential to impact global markets, particularly if it is linked to geopolitical tensions or security concerns.
 
-rss · 路透社 Reuters · Nov 13, 22:58
+rss · 路透社 Reuters · Nov 13, 22:25
 
-**「Prior Concerns and the Rise of AI in Financial System」** The Federal Reserve&\#x27;s recent survey highlighting artificial intelligence as the top concern for the financial system builds upon previous discussions about emerging risks in the sector. In the past, the Federal Reserve has been monitoring the integration of technology in financial services, particularly focusing on the potential risks associated with digital currencies and blockchain technology. The increasing complexity and speed of AI applications in financial markets have raised concerns about their impact on financial stability, prompting the Federal Reserve to prioritize this issue in their latest survey. This shift in focus reflects the evolving landscape of financial technology and the need for regulatory oversight to mitigate potential risks.
+**「Prior Security Incidents in Ireland」** Recent events in Ireland have highlighted a series of security incidents. For instance, an &\#x27;extremely significant&\#x27; explosive device was found in a vehicle near the border with Northern Ireland, indicating an ongoing operation targeting &\#x27;dissident republican activity&\#x27;. Additionally, there have been instances of explosive devices being thrown at police and former political leaders, indicating a heightened security environment. These incidents have been linked to nationalist groups and have raised concerns about the stability in the region.
 
-**「Impact」** This identification of AI as a major concern may lead to increased regulatory scrutiny and a focus on ensuring the ethical and secure use of AI in financial services, potentially affecting the pace of technological advancements in the sector.
+**「Impact」** The discovery of the explosive device could lead to increased market volatility and heightened security measures at international events, affecting travel and tourism sectors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html">AI risks are biggest threat to the financial system, Fed ...</a></li>
-<li><a href="https://www.reuters.com/business/finance/ai-rockets-top-worries-about-financial-system-latest-fed-survey-2026-11-13/">AI rockets to top of worries about financial system in latest ...</a></li>
-<li><a href="https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/">AI tops the risks to the financial system in the Fed&#x27;s survey ...</a></li>
+<li><a href="https://insiderpaper.com/irish-police-find-explosive-device-in-car-near-border/">Irish police find explosive device in car near border - Insider Paper</a></li>
+<li><a href="https://www.youtube.com/watch?v=hkD-NuS9-Ss">N. Ireland police investigating explosive device attacked... - YouTube</a></li>
+<li><a href="https://www.nbcnews.com/news/world/explosive-thrown-house-former-irish-nationalist-leader-gerry-adams-n891431">Explosive thrown at house of former Irish nationalist leader</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Federal Reserve`, `#Artificial Intelligence`, `#Financial System`, `#Market Concerns`, `#Central Banking`
+**Tags**: `#Security Incident`, `#Geopolitical Tensions`, `#World Leaders`, `#Market Implications`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [Explosive Device Found Near World Leaders&\#x27; Dining Location](https://reut.rs/4t2TPgP) ⭐️ 7.0/10
+### [FAA Suspends All Departing Flights Due to Special Circumstances](https://reut.rs/4Axb4JG) ⭐️ 7.0/10
 
-Irish police discovered an explosive device near the location where world leaders had dined the previous day. This event has significant implications for global security and political relations.
+The United States Federal Aviation Administration \(FAA\) has suspended all departing flights across the nation due to an extraordinary circumstance, specifically a communication failure at the air traffic control center. This action, effective immediately, affects all airports in the United States and could have significant implications for global financial markets.
 
 rss · 路透社 Reuters · Nov 13, 22:25
 
-**「Prior Events and Security Concerns」** The discovery of an explosive device near the location where world leaders had dined the previous day is a significant event. It follows a period of heightened security concerns, especially during international summits and events involving world leaders. The incident underscores the ongoing need for robust security measures at such gatherings to ensure the safety of participants and prevent potential threats.
+**「Background on FAA Flight Suspension」** The Federal Aviation Administration \(FAA\) has a history of managing various aviation incidents and disruptions. In the past, the FAA has implemented national ground stop orders due to issues such as communication system failures, as seen in the case of the FAA&\#x27;s national ground stop order on November 13, 2026, following a communication failure at the air traffic control center. These events can lead to significant disruptions in global aviation, affecting flight schedules and potentially impacting financial markets.
 
-**「Impact」** The discovery of the explosive device could lead to increased security measures at events involving world leaders and may affect international diplomatic relations.
+**「Impact」** The suspension of flights by the FAA is likely to lead to widespread delays and cancellations, impacting both passenger and cargo flights. This could have a notable effect on global financial markets, particularly in sectors such as aviation, travel, and commodities, as well as on the broader economy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.reuters.com/world/irish-police-discover-explosive-device-near-where-world-leaders-dined-day-2026-11-13/">Irish police discover explosive device near where world ...</a></li>
-<li><a href="https://metroradio.com.hk/news/details.aspx?NewsId=20261114063510">Irish police discover explosive device near where world ...</a></li>
-<li><a href="https://www.vietnam.vn/en/phat-hien-vat-lieu-no-gan-noi-cac-nha-lanh-dao-the-gioi-an-toi-o-ireland">Explosive materials discovered near where world leaders dined ...</a></li>
+<li><a href="https://huaren.us/showtopic.html?topicid=3228181&amp;page=2">美 国 联 邦 航 空 局 （ FAA ）全 国 性地面停飞令 - 第2页 | 华人网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Security Alert`, `#World Leaders`, `#Geopolitical Event`, `#Explosive Device`
+**Tags**: `#aviation`, `#FAA`, `#flight suspension`, `#global financial markets`, `#aviation news`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [FAA Grounds All Departing Flights in the US](https://reut.rs/4Axb4JG) ⭐️ 7.0/10
+### [Foreign Investors Flock to Caracas Amid Venezuelan Political Transition](https://reut.rs/4zfXfOD) ⭐️ 7.0/10
 
-The United States Federal Aviation Administration \(FAA\) has suspended all departing flights due to an &\#x27;extraordinary circumstance&\#x27;. This decision affects all flights across the country and is expected to have a significant impact on the global financial markets.
+Foreign investors are pouring into Caracas as Venezuela undergoes a significant political transition. This development is attracting attention due to its potential impact on global financial markets, particularly central banks, equities, and currencies.
 
-rss · 路透社 Reuters · Nov 13, 22:25
+rss · 路透社 Reuters · Nov 13, 21:21
 
-**「Background on FAA&\#x27;s Grounding of All Departing Flights」** The Federal Aviation Administration \(FAA\) has implemented a nationwide ground stop for all departing flights in the United States. This action, which is highly unusual, is attributed to &\#x27;extraordinary circumstances&\#x27; and &\#x27;reasons of safety&\#x27;. The FAA has ordered aircraft to remain on the ground until further notice. This development is likely to have significant implications for the aviation industry and global financial markets.
+**「Historical Context of Venezuela&\#x27;s Political Situation」** Venezuela has a complex political history, marked by periods of authoritarian rule, democratic transitions, and economic challenges. The country gained independence from Colombia in 1830 and has since undergone various political transformations. The recent political transition in Venezuela has been influenced by internal political dynamics and external pressures, including the economic crisis and the changing US policy towards the region. This context is crucial in understanding the current influx of foreign investors into Caracas.
 
-**「Impact」** The suspension of all departing flights in the US is likely to disrupt global travel and logistics, potentially affecting various sectors such as tourism, retail, and manufacturing, leading to a temporary decline in market activity.
+**「Impact」** The influx of foreign investors into Venezuela could lead to increased stability in the country&\#x27;s financial markets, potentially boosting the value of its currency and attracting further investment in the region.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thenationalpulse.com/2026/11/13/faa-grounds-every-departing-flight-extraordinary-circumstances/">BREAKING: FAA Grounds Every Departing Flight... - The National Pulse</a></li>
-<li><a href="https://nypost.com/2026/11/13/us-news/planes-halted-across-us-as-faa-issues-nationwide-ground-stop-over-extraordinary-circumstances/">Planes halted across US as FAA issues nationwide ground stop over...</a></li>
-<li><a href="https://www.nine.com.au/world-news/usa/flights-grounded-in-us-for-safety-reasons-20261114-p61e3w.html">Flights grounded in US in ‘ extraordinary circumstances ’ | Nine.com.au</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89">委內瑞拉 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.toutiao.com/article/7591519582444110371/">委内瑞拉历任领导人：从民主摇篮到政治裂变 - 今日头条</a></li>
+<li><a href="https://news.qq.com/rain/a/20260810A021B000">委内瑞拉政治对话陷“三方博弈”，未来转型将走向何方？</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#aviation`, `#FAA`, `#flight suspension`, `#global financial markets`, `#aviation disruption`
+**Tags**: `#Political Transition`, `#Foreign Investment`, `#Venezuela`, `#Global Financial Markets`, `#Central Banks`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [Iran Tankers Hit by Sea Mines in Hormuz Strait](https://reut.rs/4kfcmEn) ⭐️ 7.0/10
+### [US Extends Shipping Law Waiver for 90 Days](https://reut.rs/4C28pcu) ⭐️ 7.0/10
 
-Iran&\#x27;s Revolutionary Guard reports that two tankers have been hit by sea mines in the strategically important Hormuz Strait. This incident, which involved tankers using an &\#x27;unauthorized and dangerous route,&\#x27; marks an escalation in attacks on vessels carrying energy products through the strait over the past month.
+The United States has extended the shipping law waiver for an additional 90 days, aiming to facilitate the free movement of oil and commodities. This decision is significant as it impacts the global financial markets, particularly the oil and commodities sectors, which are critical components of the market dynamics.
 
-rss · 路透社 Reuters · Nov 13, 21:37
+rss · 路透社 Reuters · Nov 13, 19:45
 
-**「Historical Context of the Strait of Hormuz」** The Strait of Hormuz has been a strategically significant region due to its role as a vital waterway for global oil trade. It connects the Persian Gulf to the Gulf of Oman and the Arabian Sea, making it a &\#x27;choke point&\#x27; for over 20 percent of the world&\#x27;s oil and liquefied natural gas exports. The strait&\#x27;s importance has been a source of geopolitical tensions, with historical conflicts and disputes over control and trade routes. This recent incident involving tankers hit by sea mines in the Strait of Hormuz is part of a broader pattern of maritime incidents in the region, highlighting the ongoing tensions and the potential impact on global oil markets.
+**「Background on US Shipping Law and its Impact」** The U.S. shipping law, specifically the Jones Act, requires that goods shipped between U.S. ports be transported on ships that are owned by U.S. companies, crewed by U.S. citizens, built in the U.S., and registered in the U.S. This act has been a subject of debate due to its impact on shipping costs and the global shipping industry. The Jones Act has been temporarily waived in the past, particularly during natural disasters, such as the waiver authorized by President Trump for Hurricane Maria in 2017. The extension of the shipping law waiver for 90 days, as announced by the U.S., is significant as it affects the movement of oil and commodities, which are critical components of global financial markets. This action is notable for its potential to impact prices and market dynamics, although it is not considered a regime shift or a market-breaking surprise.
 
-**「Impact on Global Oil Markets」** The incident of two tankers being hit by sea mines in the Hormuz Strait, as reported by Iran&\#x27;s Revolutionary Guard, could significantly impact global oil markets. Given that the Strait of Hormuz is a critical maritime chokepoint carrying a quarter of global seaborne oil trade, any disruption here can lead to a supply shortage and potentially drive up oil prices worldwide.
+**「Impact」** The extension of the shipping law waiver is expected to have a concrete impact on the market dynamics, potentially influencing prices and the movement of commodities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
-<li><a href="https://www.history.com/articles/7-historical-fights-over-strait-of-hormuz">The Strait of Hormuz: A Timeline of Tensions - HISTORY</a></li>
-<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure ... Strait of Hormuz - Wikipedia The Strategic Importance of the Strait of Hormuz: a ... The History of the Strait of Hormuz: Gateway to Global Trade Strait of Hormuz - History and Importance - ThoughtCo History of the Strait of Hormuz - Arab America</a></li>
-<li><a href="https://unctad.org/publication/strait-hormuz-disruptions-implications-global-trade-and-development">Strait of Hormuz disruptions: Implications for global trade ...</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R45281/R45281.6.pdf">Iran Conflict and the Strait of Hormuz: Impacts on Oil, Gas ...</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R45281/R45281.4.pdf">Iran Conflict and the Strait of Hormuz: Oil and Gas Market ...</a></li>
+<li><a href="https://www.jpmorgan.com/insights/global-research/current-events/us-tariffs">US Tariffs: What’s the Impact? | J.P. Morgan Global Research</a></li>
+<li><a href="https://corporatefinanceinstitute.com/resources/economics/jones-act/">Jones Act - Definition, History, and Economic Impact Global Shipping Industry Braces for Impact Amid New U.S ... Sanctions Programs and Country Information | Office of ... Tariffs and Their Impact on Global Trade - UPS THE IMPACT OF MARITIME TRADE ON GLOBAL STOCK MARKETS</a></li>
+<li><a href="https://www.shipuniverse.com/news/global-shipping-industry-braces-for-impact-amid-new-u-s-tariffs/">Global Shipping Industry Braces for Impact Amid New U.S ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Iran`, `#Hormuz Strait`, `#Tanker Attack`, `#Sea Mines`, `#Geopolitical Tensions`
+**Tags**: `#US Shipping Law`, `#Oil Market`, `#Commodities`, `#Market Dynamics`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [US Extends Shipping Law Waiver for 90 Days](https://reut.rs/4C28pcu) ⭐️ 7.0/10
+### [First US-China Trade Committee Meeting Held](https://reut.rs/4AAsxRD) ⭐️ 7.0/10
 
-The United States has extended the shipping law waiver for an additional 90 days, aiming to facilitate the free movement of oil and commodities. This decision, effective immediately, is expected to impact various asset classes, including equities, bonds, commodities, and currencies.
+The first US-China Trade Committee meeting has taken place, marking a significant event in the context of global financial markets. This meeting could potentially influence trade policies and market dynamics.
 
-rss · 路透社 Reuters · Nov 13, 19:45
+rss · 路透社 Reuters · Nov 13, 18:41
 
-**「Background on US Shipping Law Extension」** The extension of the shipping law waiver by the US is part of a broader strategy to ensure the smooth flow of oil and commodities, which are crucial for the global financial market. This decision follows a period of increased volatility in the oil and commodity markets, influenced by geopolitical tensions and supply chain disruptions. The previous extension of the shipping law waiver had been met with market speculation and uncertainty, highlighting the importance of such policies in stabilizing global trade.
+**「Background on US-China Trade Relations」** The US and China have a long-standing and complex relationship in the global financial markets. This relationship has been marked by periods of cooperation and tension, particularly in the areas of trade policies and market dynamics. The establishment of the US-China Trade Committee signifies a formalized mechanism for dialogue and negotiation between the two nations, which could potentially lead to more predictable and stable trade relations. This meeting is significant as it is the first of its kind, indicating a renewed effort to address trade issues and manage market expectations.
 
-**「Impact」** The extension of the shipping law waiver is likely to support the free flow of oil and commodities, potentially benefiting sectors reliant on these resources and influencing global financial markets.
+**「Impact」** The outcome of this meeting may have concrete consequences for global financial markets, including trade policies and market dynamics, although specific impacts are yet to be determined.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.start.gg/tournament/moscow-slam-2026/details">Moscow Slam 2026 | Details</a></li>
-<li><a href="https://pmay-g.com/">PM Awas Gramin List 2026 -27 [UPDATED]</a></li>
-<li><a href="https://happ.info/">Happ Proxy Utility</a></li>
+<li><a href="https://www.gafta.com/Trade-Policy/Committees">Committees</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#US Shipping Law`, `#Oil Movement`, `#Commodity Market`, `#Global Financial Market`
+**Tags**: `#Trade Committee`, `#US-China Relations`, `#Global Financial Markets`, `#Trade Policies`
 
 ---
 
 <a id="item-global-market-8"></a>
-### [US and China&\#x27;s First Trade Committee Meeting](https://reut.rs/4AAsxRD) ⭐️ 7.0/10
+### [UK, Norway, and Canada Launch Climate Finance Initiative](https://reut.rs/4C2ac12) ⭐️ 7.0/10
 
-The United States and China have held their first Board of Trade meeting, a significant event that could have implications for global financial markets.
+The United Kingdom, Norway, and Canada have jointly initiated a 100 billion climate finance plan, aiming to support global climate efforts. This significant international collaboration is expected to have a notable impact on global financial markets and environmental policies.
 
-rss · 路透社 Reuters · Nov 13, 18:41
+rss · 路透社 Reuters · Nov 13, 17:54
 
-**「Historical Context of US-China Trade Relations」** The relationship between the United States and China has been a significant aspect of global trade and economic policy. Historically, the two nations have engaged in various trade agreements and disputes, shaping the global economic landscape. For instance, the bilateral trade between China and Cuba in 2005 reached $777 million, highlighting China&\#x27;s increasing engagement in international trade. Additionally, companies like Boeing have been at the forefront of these relations, demonstrating how structural changes in the international system have impacted multinational firms. These historical interactions set the stage for the current trade dynamics between the US and China, which are now being further shaped by the first Board of Trade meeting between the two nations.
+**「Background on the Climate Finance Initiative」** The climate finance initiative launched by the UK, Norway, and Canada is part of a broader effort to address global climate change. This initiative aims to allocate $10 billion into climate projects in emerging markets by 2030. The participating institutions include Development Finance Institutions from the UK, Norway, and Canada, such as British International Investment \(BII\), FinDev Canada, and Norfund. This collaborative approach is aimed at enhancing climate finance and supporting sustainable development in emerging markets.
 
-**「Impact」** The outcome of this meeting may influence market sentiment and policy decisions, potentially affecting global financial markets.
+**「Impact」** The launch of this climate finance initiative is likely to stimulate increased investment in renewable energy and sustainable practices, potentially leading to a shift in market dynamics and a boost in the adoption of environmentally friendly technologies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Foreign_relations_of_China">Foreign relations of China - Wikipedia</a></li>
-<li><a href="https://macropolo.org/analysis/boeing-us-china-relations-history/">For Company and For Country: Boeing and US - China Relations</a></li>
-<li><a href="https://www.history.com/articles/us-china-relations-history-diplomacy-taiwan">Major Milestones in US - China Relations | HISTORY</a></li>
+<li><a href="https://www.globalbankingandfinance.com/uk-norway-canada-launch-10-billion-climate-finance/">UK, Norway and Canada launch $10 billion climate finance ...</a></li>
+<li><a href="https://www.bnnbloomberg.ca/business/international/2026/11/13/uk-norway-and-canada-launch-us10-billion-climate-finance-initiative/">Canada, partners launch US$10B climate finance initiative</a></li>
+<li><a href="https://www.norfund.no/bii-findev-canada-and-norfund-join-forces-to-deliver-usd-10-billion-in-climate-finance-by-2030/">BII, FinDev Canada and Norfund join forces to deliver USD 10 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Trade Relations`, `#Global Markets`, `#Economic Policy`, `#Geopolitical Events`, `#Central Banks`
+**Tags**: `#Climate Finance`, `#International Cooperation`, `#Global Markets`, `#Environmental Policy`, `#Central Bank`
 
 ---
 
 <a id="item-global-market-9"></a>
-### [Major Economies Announce Climate Finance Initiative](https://reut.rs/4C2ac12) ⭐️ 7.0/10
-
-The UK, Norway, and Canada have jointly initiated a 100 billion USD climate finance plan, aiming to support global climate efforts. This significant financial commitment is expected to impact international climate policies and global financial markets.
-
-rss · 路透社 Reuters · Nov 13, 17:54
-
-**「Background on the Climate Finance Initiative」** The climate finance initiative announced by the UK, Norway, and Canada is part of a broader effort to address global climate change. The partners aim to raise $10 billion, which includes private capital, to support climate-related projects and policies. This initiative was launched at the COP31 climate summit in Antalya, Turkey. Canada has previously contributed over $8.7 billion in international climate finance to developing countries from 2015 to 2022, showcasing its commitment to environmental issues.
-
-**「Impact」** The launch of this 100 billion USD climate finance initiative is likely to stimulate increased investment in renewable energy and environmental sustainability projects, potentially leading to a shift in global financial flows towards greener technologies.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.gulftoday.ae/news/2026/11/13/uk-norway-and-canada-launch-10b-climate-finance-initiative">UK , Norway and Canada launch $10b climate finance initiative</a></li>
-<li><a href="https://www.canada.ca/en/services/environment/weather/climatechange/canada-international-action/climate-finance.html">Canada &#x27;s international climate finance - Canada .ca</a></li>
-<li><a href="https://www.bnnbloomberg.ca/">BNN Bloomberg - Canada Business News, TSX Today, Oil and Energy...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Climate Finance`, `#International Cooperation`, `#Global Markets`, `#Environmental Policy`, `#Economic News`
-
----
-
-<a id="item-global-market-10"></a>
 ### [South Korean and Chinese Foreign Ministers Discuss Korean Peninsula Issues](https://reut.rs/4C1AUHg) ⭐️ 7.0/10
 
-South Korean Foreign Minister Cho and Chinese Foreign Minister Wang engaged in discussions regarding the Korean Peninsula issues. This dialogue between the two major geopolitical players is significant and could potentially impact regional stability and global markets.
+South Korean Foreign Minister Cho and Chinese Foreign Minister Wang engaged in discussions regarding the Korean peninsula issues. This dialogue between the two major geopolitical actors is significant and could potentially impact regional stability and global markets.
 
 rss · 路透社 Reuters · Nov 13, 17:39
 
-**「Previous Discussions and Geopolitical Landscape」** The discussion between the South Korean and Chinese foreign ministers on the Korean Peninsula issue is part of a series of high-level talks aimed at addressing regional stability and global market implications. These discussions follow a period of increased tensions in the region and come after the first high-level talks between the two countries in five years, where Chinese Foreign Minister Wang Yi pledged a constructive role in the peninsula&\#x27;s issues. Additionally, recent meetings between the nuclear envoys of South Korea and China have focused on the Korean Peninsula&\#x27;s issues, indicating a continuous effort to address the geopolitical landscape in the region.
+**「Previous Discussions and Bilateral Relations」** The discussion between the South Korean and Chinese foreign ministers on the Korean Peninsula issue is part of a series of high-level talks aimed at addressing the ongoing geopolitical tensions in the region. These discussions follow previous meetings and statements from both countries, emphasizing the importance of regional stability and cooperation. South Korea and China have a history of engaging in diplomatic efforts to resolve issues on the Korean Peninsula, including efforts to advance the process of denuclearization and establish a peace mechanism. These discussions are significant as they involve major geopolitical actors and have the potential to impact regional stability and global markets.
 
-**「Impact」** The discussions between the South Korean and Chinese foreign ministers may lead to a more stable Korean Peninsula, which could positively influence regional markets by reducing geopolitical tensions.
+**「Impact」** The discussions between the South Korean and Chinese foreign ministers may lead to policy adjustments or diplomatic efforts that could influence market sentiment, particularly in the context of regional stability and geopolitical tensions.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.chosun.com/english/national-en/2026/08/19/C3XLBVRFRFDGXIIGBWOMLXJ3EE/">South Korea , China Foreign Ministers Discuss Korean Peninsula ...</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k0OU9YaUVSR2xjaWVvNG92VXpDZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">Google News - News about South Korea • China - Overview</a></li>
-<li><a href="https://www.koreatimes.co.kr/foreignaffairs/20240510/south-korea-and-china-nuclear-envoys-meet-in-tokyo-discuss-korean-peninsula-issues">Nuclear envoys of S. Korea , China discuss Korean Peninsula ...</a></li>
+<li><a href="https://english.hani.co.kr/arti/english_edition/e_national/1150716.html">China pledges to play constructive role on Korean Peninsula issues ...</a></li>
+<li><a href="https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2767_663538/2769_663542/202406/t20240607_11413087.html">Xi, Moon meet on bilateral ties, Korean Peninsula situation_ Ministry ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical`, `#Korean Peninsula`, `#Foreign Policy`, `#Asia`
+**Tags**: `#Geopolitical`, `#Korean Peninsula`, `#Foreign Policy`, `#Central Bank`, `#Commodities`
+
+---
+
+<a id="item-global-market-10"></a>
+### [Turkey and Qatar Sign Mutual Defense Agreement](https://reut.rs/4t2HY2q) ⭐️ 7.0/10
+
+Turkey and Qatar have signed a mutual defense agreement, as announced by the Turkish presidency. This significant development could impact regional stability and global financial markets, highlighting the growing importance of geopolitical relations and economic stability in the region.
+
+rss · 路透社 Reuters · Nov 13, 17:39
+
+**「Background on Turkey and Qatar&\#x27;s Mutual Defense Agreement」** The recent signing of a mutual defense agreement between Turkey and Qatar is a significant development in the region. This agreement, aimed at strengthening collective defense and promoting regional security, reflects the growing importance of strategic partnerships in the Middle East. It follows a period of increased tensions in the region, particularly with Iran, which has seen a rise in attacks on vessels carrying energy products through the Strait of Hormuz. This new agreement could potentially alter the geopolitical dynamics in the region and has implications for global financial markets due to its impact on regional stability.
+
+**「Impact」** The mutual defense agreement between Turkey and Qatar may lead to increased regional stability, potentially affecting global financial markets by altering geopolitical dynamics and influencing energy trade routes in the region.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.reuters.com/world/middle-east/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says-2026-11-13/">Turkey, Qatar sign mutual defence agreement, pledge unified ...</a></li>
+<li><a href="https://www.thedefensenews.com/Turkey-and-Qatar-Sign-Mutual-Defence-Agreement-as-Ankara-Expands-Regional-Military-Partnerships/">Turkey and Qatar Sign Mutual Defence Agreement as Ankara ...</a></li>
+<li><a href="https://www.jpost.com/middle-east/article-914824">Turkey, Qatar sign mutual defense agreement - The Jerusalem Post</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Geopolitical`, `#Defense Agreement`, `#Turkey`, `#Qatar`, `#Regional Stability`
 
 ---
 
 <a id="item-global-market-11"></a>
-### [Turkey and Qatar Sign Mutual Defense Agreement](https://reut.rs/4t2HY2q) ⭐️ 7.0/10
+### [ICC Afghanistan Investigations Halted Involving US Troops](https://reut.rs/4sXDx8I) ⭐️ 7.0/10
 
-Turkey and Qatar have signed a mutual defense agreement, marking a significant strategic alliance in the region. This development is expected to impact regional security and geopolitical dynamics, affecting multiple markets and currencies.
+Judges have terminated part of the International Criminal Court&\#x27;s \(ICC\) Afghanistan investigations that could have involved US troops. This decision impacts international legal proceedings and relations.
 
-rss · 路透社 Reuters · Nov 13, 17:39
+rss · 路透社 Reuters · Nov 13, 17:23
 
-**「Background on Turkey and Qatar&\#x27;s Mutual Defense Agreement」** The recent signing of a mutual defense agreement between Turkey and Qatar marks a significant development in regional security and geopolitical dynamics. This agreement follows a series of military pacts between Ankara and other Muslim states, indicating a growing strategic alliance in the Middle East. The move is seen as a response to ongoing geopolitical tensions and a desire to enhance regional stability.
+**「Background on the ICC Afghanistan Investigations」** The International Criminal Court \(ICC\) is an intergovernmental organisation based in The Hague, Netherlands, responsible for investigating and prosecuting individuals for crimes against humanity, war crimes, and genocide. The ICC authorised the Prosecution to resume its investigation into the Afghanistan Situation on 31 October 2022. This investigation was significant as it aimed to address issues of justice for war survivors and confront the long-standing culture of impunity in Afghanistan, which has been marked by over a half-century of conflict, starting in 1978.
 
-**「Impact」** The signing of the mutual defense agreement between Turkey and Qatar is likely to increase geopolitical tensions in the region, potentially leading to a shift in market dynamics and currency values.
+**「Impact」** The termination of these investigations may lead to a shift in geopolitical dynamics and legal strategies, particularly concerning the involvement of US military personnel in Afghanistan.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.jpost.com/middle-east/article-914824">Turkey , Qatar sign mutual defense agreement , Turkish presidency...</a></li>
-<li><a href="https://www.middleeasteye.net/news/turkey-and-qatar-sign-mutual-defence-agreement">Turkey and Qatar sign mutual defence agreement | Middle East Eye</a></li>
-<li><a href="https://sputnikglobe.com/20261113/turkiye-qatar-sign-new-mutual-defense-pact-1125070968.html">Turkiye, Qatar Sign New Mutual Defense Pact</a></li>
+<li><a href="https://en.wikipedia.org/wiki/International_Criminal_Court">International Criminal Court - Wikipedia</a></li>
+<li><a href="https://www.icc-cpi.int/afghanistan">Afghanistan | International Criminal Court</a></li>
+<li><a href="https://rwi.lu.se/afghan-publ/the-international-criminal-courts-afghanistan-investigation/">The International Criminal Court &#x27;s Afghanistan Investigation - The...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Events`, `#Regional Security`, `#Defense Agreements`, `#Turkey`, `#Qatar`
-
----
-
-<a id="item-global-market-12"></a>
-### [Financial Week in Review: Nvidia, Fed Policy, and Europe&\#x27;s Electric Vehicle Investments](https://reut.rs/3UsoSWE) ⭐️ 7.0/10
-
-This week&\#x27;s financial news includes Nvidia&\#x27;s unexpected developments, shifts in Federal Reserve policy expectations, and significant investments in electric vehicles in Europe. These events have significant implications for global financial markets, affecting central banks, equities, bonds, commodities, and currencies.
-
-rss · 路透社 Reuters · Nov 13, 16:03
-
-**「Background on Financial Events」** The recent financial events analyzed include Nvidia&\#x27;s unexpected news, changes in Federal Reserve policy expectations, and Europe&\#x27;s electric vehicle investments. Nvidia, a significant player in the technology sector, has been facing internal challenges, including a potential change in leadership and concerns over foreign intelligence efforts. The Federal Reserve&\#x27;s policy changes are a key focus, as they can significantly impact global financial markets. Europe&\#x27;s electric vehicle investments represent a significant shift in the automotive industry, with Europe poised for substantial growth in electric vehicle sales, driven by robust governmental policies and substantial investments in EV platforms and infrastructure.
-
-**「Impact」** The shift in Federal Reserve policy expectations is expected to have a concrete impact on the markets, potentially influencing interest rates and investment strategies.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.bbc.com/news/live/c6zjry11v8w1t">Huang agrees to appear before Congress, US lawmakers... - BBC News</a></li>
-<li><a href="https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059">Nvidia board reportedly preparing to oust CEO Jensen... - ABC News</a></li>
-<li><a href="https://charter97.org/en/news/2026/11/12/705270/">Nvidia &#x27; s Board Of Directors Is Deciding The Fate Of CEO... - Charter&#x27;9...</a></li>
-<li><a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://operationdisclosureofficial.com/2026/11/13/restored-republic-via-a-gcr-as-of-november-13-2026/">Restored Republic via a GCR as of November 13, 2026</a></li>
-<li><a href="https://www.youtube.com/watch?v=YVQ1buWwfWA">League of Legends Skin Changer 2026 | FREE Official... - YouTube</a></li>
-<li><a href="https://www.iea.org/reports/global-ev-outlook-2026/executive-summary">Executive summary - Global EV Outlook 2026 - IEA</a></li>
-<li><a href="https://www.intelmarketresearch.com/europe-electric-vehicles-evs-market-market-41425">Europe Electric Vehicles EVs Market 2026 to 2034</a></li>
-<li><a href="https://vfuturemedia.com/electric-vehicles/how-europe-became-the-global-leader-in-electric-vehicle-adoption-in-2026/">How Europe Became the Global Leader in Electric Vehicle ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Financial News`, `#Market Analysis`, `#Central Bank Policy`, `#Commodities`
-
----
-
-<a id="item-global-market-13"></a>
-### [Iraq&\#x27;s Oil Production Soars to 2019 High](https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html) ⭐️ 7.0/10
-
-Iraq&\#x27;s crude oil production reached 4.6 million barrels per day in October, the highest level since 2019, marking a significant increase of 540,000 bpd from September. This surge is attributed to higher flows through the Strait of Hormuz, impacting global oil markets.
-
-rss · OilPrice · Nov 13, 17:30
-
-**「Historical Context of the Strait of Hormuz」** The Strait of Hormuz has been a critical bottleneck for global oil trade, with approximately 80 to 100 oil tankers and LNG carriers transiting the strait each day. This accounts for roughly 20% of the world’s total petroleum liquids consumption and a significant portion of global LNG trade. The strait’s strategic importance has been highlighted in various geopolitical tensions, affecting global energy flows and oil prices.
-
-**「Impact」** The increase in Iraq&\#x27;s oil production and the subsequent higher flows through the Strait of Hormuz are expected to influence global oil prices and potentially impact currency fluctuations in major oil-producing countries.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.earth-site.co.uk/Education/the-strait-of-hormuz-and-oil-prices-why-global-markets-panic-during-tensions/">The Strait of Hormuz and Oil Prices: Why Global Markets Panic...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Oil Production`, `#Global Oil Markets`, `#Strait of Hormuz`, `#Commodity Prices`, `#Currency Fluctuations`
+**Tags**: `#International Law`, `#Geopolitical`, `#Legal Proceedings`, `#US Military`, `#ICC Afghanistan`
 
 ---
 
 ## AI Frontier
 
 <a id="item-ai-frontier-1"></a>
-### [Scaling 1T MoE Model on TorchTitan](https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/) ⭐️ 8.0/10
+### [Frontier Models Achieve High Scores in Materials-Science Test](https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/) ⭐️ 9.0/10
 
-The post discusses the successful scaling of a 1T MoE model on TorchTitan, achieving a training speed of ~1,300 tokens/s per GPU on 384 GPUs. The author provides technical insights and lessons learned from the process, focusing on optimizations and challenges faced during the scaling process.
+Four frontier AI models, including Gemini 4 Carbon and Claude Opus 5.5, achieved scores ranging from 97.8 to 100 in a comprehensive materials-science research test, showcasing significant advancements in AI capabilities.
 
-reddit · r/MachineLearning · /u/f14-bertolotti · Nov 13, 16:28
+reddit · r/MachineLearning · /u/v\_aravind · Nov 13, 18:58
 
-**「Background on Large Language Model Scaling」** Large language models, such as those with millions or billions of parameters, require significant computational resources for training and inference. The scaling of these models involves distributing the computation across multiple GPUs and optimizing the communication between them. Techniques like Pipeline Parallelism \(PP\), Fully Sharded Data Parallelism \(FSDP\), and Expert Parallelism \(EP\) are commonly used to achieve this. TorchTitan, a PyTorch-native platform for large-scale training, provides tools and optimizations to facilitate the training of large models. This includes features like FlexShard, which allows for more efficient sharding of model parameters across multiple GPUs, and optimizations for mixed-precision training to reduce memory usage and improve performance.
+**「Materials Science Research Test and AI Capabilities」** The recent development in AI capabilities is exemplified by a comprehensive materials-science research test that involved four frontier models. These models were evaluated on a seven-part test designed to simulate everyday technical work in a research group. The test included tasks such as data reduction, writing a CIF density function, physics calculations, manuscript critique, experimental design, and abstract writing. The models achieved exceptional scores, with mean scores ranging from 100.0 to 98.5, highlighting a significant breakthrough in AI&\#x27;s ability to perform complex scientific tasks. This test is a part of the ongoing research into evaluating AI models, particularly in the context of long-horizon agent evaluations, which is an area of active discussion and exploration in the field of artificial intelligence.
 
-**「Impact on AI Research and Infrastructure」** The successful scaling of a 1T MoE model on TorchTitan provides valuable insights and optimizations for AI researchers and infrastructure developers. This achievement demonstrates the feasibility of training large language models on cutting-edge hardware, which can lead to advancements in model performance and efficiency. It also highlights the importance of efficient memory management, optimization techniques, and hardware utilization for scaling models of this size, potentially paving the way for future large-scale AI research.
+**「Impact on AI Development」** The exceptional performance of frontier models in a comprehensive materials-science research test suggests significant advancements in AI capabilities. This breakthrough could pave the way for more sophisticated and reliable long-horizon agent evaluations, potentially leading to more accurate assessments of AI agents&\#x27; abilities in complex, open-ended tasks.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/pytorch/torchtitan">GitHub - pytorch / torchtitan : A PyTorch native platform for training...</a></li>
-<li><a href="https://docs.pytorch.org/docs/2.13/community/persons_of_interest.html">PyTorch Governance | Maintainers — PyTorch 2.13 documentation</a></li>
-<li><a href="https://arxiv.org/abs/2410.06511">[2410.06511] TorchTitan : One-stop PyTorch native solution for...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
-<li><a href="https://arxiv.org/html/2507.11181v2">Mixture of Experts in Large Language Models - arXiv.org</a></li>
-<li><a href="https://arxiv.org/html/2501.16352v1">Mixture of Experts (MoE): A Big Data Perspective - arXiv.org</a></li>
+<li><a href="https://metr.org/time-horizons/">Task-Completion Time Horizons of Frontier AI Models - METR</a></li>
+<li><a href="https://metr.org/blog/2026-01-29-time-horizon-1-1/">Time Horizon 1.1 - METR</a></li>
+<li><a href="https://aiwiki.ai/wiki/metr_time_horizon">Task-completion time horizon (METR) - AI Wiki</a></li>
+<li><a href="https://www.alphaxiv.org/abs/2601.21165">FrontierScience : Evaluating AI&#x27;s Ability to Perform... | alphaXiv</a></li>
+<li><a href="https://www.gend.co/en-ca/blog/frontierscience-benchmark">FrontierScience benchmark AI scientific reasoning</a></li>
+<li><a href="https://www.productcool.com/product/frontierscience-by-openai">FrontierScience by OpenAI - A benchmark evaluating... | ProductCool</a></li>
+<li><a href="https://jimbobbennett.dev/blogs/agent-benchmarks-field-guide/">Long - horizon agent benchmarks are fragmenting... | JimBobBennett</a></li>
+<li><a href="https://pinggy.io/blog/long_horizon_tasks_with_ai_agents/">Long Horizon Tasks with AI Agents : From Research to... | Pinggy Blog</a></li>
+<li><a href="https://agenteconomics.org/posts/agentic-rl-recipe">FireFlash: An Open Recipe for Long - Horizon Agentic RL Achieving...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Artificial Intelligence`, `#Materials Science`, `#Frontier Models`, `#Machine Learning Research`
+
+---
+
+<a id="item-ai-frontier-2"></a>
+### [Ggml v1.0.0 Release Enhances AI Infrastructure](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) ⭐️ 8.0/10
+
+The ggml v1.0.0 release introduces performance enhancements, contributing to the AI infrastructure space with significant improvements and community appreciation.
+
+hackernews · cobychapple · Nov 14, 02:28 · [Discussion](https://news.ycombinator.com/item?id=50493062)
+
+**「Background on ggml v1.0.0 Release」** ggml v1.0.0 represents a significant milestone in the AI infrastructure space, featuring performance enhancements and community-driven development. This release focuses on optimizing code execution on existing hardware, with users reporting consistent speed improvements over time. The project, which includes llama.cpp, is likened to the Linux of the AI world, providing essential tools for local inference. ggml v1.0.0 introduces several key features, such as pruning deprecated APIs, adding configurable YaRN truncation and FP8 support, and enhancing performance across various backends. This includes optimizations for few-row quantized matmuls and MoE fusion on CUDA/Metal, a Vulkan prefill FlashAttention path, a device-side MoE scheduler on SYCL, and new WebGPU kernels, among others.
+
+**「Contribution to AI Infrastructure」** The release of ggml v1.0.0 and llama.cpp v1.0.0 marks a significant contribution to the AI infrastructure space. These updates, which include performance enhancements and the formalization of semantic versioning, provide developers with more efficient and stable tools for local AI inference, contributing to the advancement of AI applications.
+
+**「Community Discussion」** Community members express admiration for ggml and llama.cpp, highlighting their continuous efforts to optimize performance and their importance in the AI world. Users appreciate the speed boosts and usability on various hardware, with one user noting a 5 to 10% speed increase after upgrading.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://sourceforge.net/projects/ggml.mirror/files/v1.0.0/">ggml - Browse /v1.0.0 at SourceForge.net</a></li>
+<li><a href="https://aiweekly.co/alerts/llamacpp-ships-v100-with-semver-for-libllama-and-ggml">llama.cpp Ships v1.0.0 With Semver for libllama and ggml</a></li>
+<li><a href="https://grafy.ai/news/llama-cpp-and-ggml-hit-1-0-0-with-a-stable-api-promise">llama.cpp and ggml hit 1.0.0 — Grafy News</a></li>
+<li><a href="https://aiweekly.co/alerts/llamacpp-ships-v100-with-semver-for-libllama-and-ggml">llama.cpp Ships v1.0.0 With Semver for libllama and ggml | AI ...</a></li>
+<li><a href="https://grafy.ai/news/llama-cpp-and-ggml-hit-1-0-0-with-a-stable-api-promise">llama.cpp and ggml hit 1.0.0 — Grafy News</a></li>
+<li><a href="https://dev.to/delimitter/llamacpp-and-ggml-ship-v100-semantic-versioning-comes-to-the-local-ai-stack-1ag4">llama.cpp and ggml ship v1.0.0 — semantic versioning comes to ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Infrastructure`, `#Model Optimization`, `#Community Interest`, `#ggml`, `#Llama.cpp`
+
+---
+
+<a id="item-ai-frontier-3"></a>
+### [Scaling 1T MoE Model on TorchTitan](https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/) ⭐️ 8.0/10
+
+Researchers have successfully scaled a 1T MoE model on TorchTitan, achieving a training speed of ~1,300 tokens/s per GPU using 384 GPUs. This represents a significant improvement over previous efforts and showcases the capabilities of the JUPITER supercomputer&\#x27;s GH200 GPUs.
+
+reddit · r/MachineLearning · /u/f14-bertolotti · Nov 13, 16:28
+
+**「Background on Scaling MoE Models」** The Modular Neural Architecture \(MoE\) is a technique used in large language models to improve efficiency and performance. Scaling MoE models to a large number of parameters, such as 1T MoE, requires significant computational resources and optimization techniques. This involves sharding the model across multiple GPUs, optimizing communication between GPUs, and managing memory efficiently. The use of advanced techniques like Full Activation Checkpointing, FlexShard, and optimizing gradient accumulation in mixed precision are crucial for achieving high throughput and reducing communication overhead. The development and optimization of such techniques are essential for the advancement of large language models and AI research.
+
+**「Impact on AI Research and Large Language Models」** The successful scaling of a 1T MoE model on TorchTitan has significant implications for AI research and large language models. This achievement demonstrates the feasibility of training extremely large models on public infrastructure, which could lead to advancements in the field by enabling more extensive research and development efforts.
+
+**「Community Discussion」** No community comments available.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/pytorch/torchtitan">GitHub - pytorch/torchtitan: A PyTorch native platform for ...</a></li>
+<li><a href="https://notebook.google/">Gemini Notebook | AI Research Tool &amp; Thinking Partner</a></li>
+<li><a href="https://macdate.com/en/blog/longcat-2-technical-analysis-moe-architecture.html">LongCat-2.0 Technical Principles: Inside Meituan&#x27;s 1.6 T MoE</a></li>
+<li><a href="https://gentic.news/article/kimi-2-5-s-1t-parameter-moe-model-runs-on-96gb-mac-hardware-via-ssd-streaming">Kimi 2.5&#x27;s 1 T Parameter MoE Model Runs on… | gentic.news</a></li>
+<li><a href="https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/">Training a 1T-Parameter MoE on EU public infrastructure with ...</a></li>
+<li><a href="https://explore.n1n.ai/blog/training-1t-parameter-moe-pytorch-torchtitan-2026-11-13">Training a 1T-Parameter MoE on EU Public Infrastructure with ...</a></li>
+<li><a href="https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch">Training a 1T-Parameter MoE on EU public infrastructure with ...</a></li>
 
 </ul>
 </details>
@@ -815,40 +882,39 @@ reddit · r/MachineLearning · /u/f14-bertolotti · Nov 13, 16:28
 
 ---
 
-<a id="item-ai-frontier-2"></a>
-### [Frontier Models Achieve High Scores in Materials-Science Research Test](https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/) ⭐️ 8.0/10
+<a id="item-ai-frontier-4"></a>
+### [Protein Granzyme K Identified as Driver of Aging Without Inflammation](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
 
-Four frontier AI models, including Gemini 4 Carbon, Gemini 4 Hydrogen, Claude Opus 5.5, and Claude Fable 5.2, achieved scores between 97.8 and 100 in a comprehensive materials-science research test, showcasing their capabilities in technical work.
+Research has identified the protein Granzyme K as a potential driver of aging without causing inflammation, offering new insights into aging processes. This finding, discovered in mice, suggests a novel approach to understanding and potentially combating aging.
 
-reddit · r/MachineLearning · /u/v\_aravind · Nov 13, 18:58
+hackernews · gumby · Nov 13, 19:25 · [Discussion](https://news.ycombinator.com/item?id=50488470)
 
-**「Materials Science Research Test and AI Model Evaluation」** The development of long-horizon agent evaluation methods has been influenced by the need to assess the capabilities of AI models in technical work. A comprehensive materials-science research test, which includes tasks such as data analysis, manuscript critique, and experimental design, has been created to evaluate the performance of AI models. This test utilizes synthetic data and precomputed answer keys, providing a benchmark for assessing the models&\#x27; abilities in technical tasks. The results of such evaluations can inform the development of more rigorous and useful evals for AI agents, as well as guide future research in long-horizon agent benchmarks.
+**「Protein Discovery in Aging Research」** The discovery of Granzyme K as a potential driver of aging without causing inflammation is a significant advancement in the field of aging research. Granzyme K, a protein produced by immune cells, has been found to increase significantly with age in both mice and humans. This finding, which was initially reported in Immunity, suggests a link between Granzyme K and signs of aging in organs such as the heart, liver, and kidneys. The research, while conducted in mice, offers insights into the complex processes of aging and may pave the way for future studies aimed at combating aging-related diseases.
 
-**「Impact」** The high performance of these models in technical tasks could lead to increased efficiency and accuracy in materials research, potentially speeding up the development of new materials and technologies.
+**「Impact」** This discovery could lead to new strategies for combating aging by targeting Granzyme K, potentially offering a way to slow down the aging process without triggering inflammation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arize.com/blog/long-horizon-agent-benchmarks-field-guide/">Long-Horizon Agent Benchmarks: What Each One Measures</a></li>
-<li><a href="https://codex.danielvaughan.com/2026/03/28/evaluating-codex-agents-evals-longhorizon/">Evaluating Codex Agents: Evals, Long-Horizon Benchmarks, and ...</a></li>
-<li><a href="https://www.anthropic.com/research/demystifying-evals-for-ai-agents">Demystifying evals for AI agents \ Anthropic</a></li>
+<li><a href="https://www.news-medical.net/news/20261112/Blocking-Granzyme-K-protein-may-protect-organs-from-age-related-damage.aspx">Blocking Granzyme K protein may protect organs from age-related...</a></li>
+<li><a href="https://www.nature.com/articles/s41586-025-08713-9?error=cookies_not_supported&amp;code=db5a9b43-0514-42d3-8226-1b5ae67491ac">Granzyme K activates the entire complement cascade | Nature</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Materials Science`, `#AI Research`, `#Model Evaluation`, `#Benchmarking`
+**Tags**: `#Aging Research`, `#Protein Discovery`, `#Immune Aging`, `#Animal Studies`
 
 ---
 
-<a id="item-ai-frontier-3"></a>
+<a id="item-ai-frontier-5"></a>
 ### [清华首发具身智能综述：从端到端策略到自主系统](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652742948&amp;idx=3&amp;sn=1819844003572b95633483e1da825ebb) ⭐️ 7.0/10
 
-Tsinghua University has released a comprehensive review on embodied intelligence, focusing on advancements and strategies in the field. The review discusses the integration of language understanding, visual perception, and action generation into a unified learning framework, enabling robots to perform a wider range of tasks. It also addresses the challenge of organizing these abilities into a sustainable autonomous system for long-term deployment in open environments.
+Tsinghua University has released a comprehensive review on embodied intelligence, highlighting significant advancements in the field. The review discusses the evolution of embodied intelligence from feedback control to multi-modal base models, emphasizing the development of autonomous systems capable of continuous interaction and adaptation.
 
 rss · 新智元 · Nov 13, 11:12
 
-**「Background on Embodied Intelligence」** Embodied intelligence, a field that focuses on creating intelligent systems capable of interacting with the physical world, has been gaining significant attention. This field combines elements of robotics, machine learning, and control theory to enable machines to perceive their environment, make decisions, and take actions. The development of embodied intelligence has been driven by advancements in areas such as reinforcement learning, sensor technology, and computational power. This has led to the creation of robots that can perform complex tasks in real-world environments, such as navigating through unknown spaces, manipulating objects, and interacting with humans. The research and development in embodied intelligence are crucial for the advancement of artificial intelligence and its applications in various industries.
+**「Background on Embodied Intelligence」** Embodied intelligence, a field that focuses on creating intelligent systems through the interaction between the body and the environment, has gained significant attention in recent years. This approach aims to enable robots and AI systems to learn and execute behaviors through physical interaction, mimicking how humans learn and adapt. The development of embodied intelligence involves various techniques such as feedback control, imitation learning, reinforcement learning, and deep learning. These techniques have been instrumental in expanding the capabilities of robots and AI systems, allowing them to perform a wide range of tasks. The research in this area is driven by the need to create more autonomous and adaptable intelligent systems that can interact effectively with the real world. This background is crucial for understanding the significance of the comprehensive review on embodied intelligence released by Tsinghua University.
 
-**「Impact」** The review provides developers and researchers with a deeper understanding of the challenges and opportunities in embodied intelligence, potentially leading to the development of more sophisticated and autonomous robots capable of performing complex tasks in real-world environments.
+**「Impact」** The review provides developers and researchers with a deeper understanding of the challenges and opportunities in building autonomous systems, offering insights into the integration of various technologies and the importance of continuous interaction and adaptation.
 
 <details><summary>References</summary>
 <ul>
@@ -863,106 +929,83 @@ rss · 新智元 · Nov 13, 11:12
 
 ---
 
-<a id="item-ai-frontier-4"></a>
+<a id="item-ai-frontier-6"></a>
 ### [ICML 2027 Submission Process Changes](https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/) ⭐️ 7.0/10
 
-ICML 2027 introduces a new two-stage submission process to manage the submission explosion and enhance the review process. The process involves area chairs deciding paper acceptance, mandatory confirmation by senior area chairs for first-stage rejections, and stricter reviewer and author guidelines.
+ICML 2027 introduces a two-stage submission process to manage the submission explosion and improve reviewer workload. The process involves area chairs deciding paper acceptance, mandatory confirmation by senior area chairs for first-stage rejections, and stricter reviewer and author guidelines.
 
 reddit · r/MachineLearning · /u/Gravitist · Nov 13, 21:53
 
-**「ICML 2027 Conference Background」** The International Conference on Machine Learning \(ICML\) is an annual conference organized by the International Machine Learning Society. It is a prominent event in the field of machine learning, attracting researchers and practitioners from around the world. The conference typically includes paper submissions, which have been due at the end of January in previous years. ICML 2027 is planned to be held in South America, with specific details such as the exact city, venue, dates, registration details, and submission deadlines to be confirmed. The conference serves as a platform for presenting and discussing the latest advancements in machine learning research.
+**「ICML 2027 Submission Process Changes」** The International Conference on Machine Learning \(ICML\) 2027 has introduced a two-stage submission process to manage the explosion in submissions and improve the workload of reviewers. In the first stage, area chairs decide whether a paper should proceed to full review, with any proposed first-stage rejection requiring confirmation by a senior area chair. This process aims to streamline the review process and address the increasing number of submissions. Additionally, there are new rules in place, such as limiting the number of submissions a single individual can be involved in, requiring reciprocal reviewers for each paper, and ensuring that authors with three or more submissions serve on the program committee. These changes are intended to balance the workload and maintain the quality of the review process.
 
-**「Impact」** This change is expected to reduce the reviewer load by tying authorship volume to reviewing duties, potentially improving the quality of the review process. However, there is a concern that the first-stage cut might miss good papers.
+**「Impact」** The new submission process aims to reduce the burden on reviewers by directly involving senior area chairs in the initial rejection phase and by setting stricter limits on the number of submissions and reciprocal reviewing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning">International Conference on Machine Learning - Wikipedia</a></li>
-<li><a href="https://icml.cc/">2027 Conference</a></li>
-<li><a href="https://www.linkedin.com/pulse/icml-2027-what-expect-from-one-biggest-ai-research-conferences-roy-oomgc">ICML 2027 : What to Expect From One of the Biggest AI Research...</a></li>
+<li><a href="https://icml.cc/Conferences/2027">2027 Conference - icml.cc</a></li>
+<li><a href="https://icml.cc/Conferences/2027/CallForPapers">ICML 2027 Call for Papers</a></li>
+<li><a href="https://media.icml.cc/Conferences/ICML2027/styles/example_paper.pdf">Submission and Formatting Instructions for - media.icml.cc</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ICML 2027`, `#AI Research`, `#Conference Changes`, `#Review Process`, `#Machine Learning`
+**Tags**: `#AI Research`, `#ICML 2027`, `#Conference Changes`, `#Review Process`, `#AI Infrastructure`
 
 ---
 
-<a id="item-ai-frontier-5"></a>
-### [Open-Source Legal Conflict Detector Tool](https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/) ⭐️ 7.0/10
+<a id="item-ai-frontier-7"></a>
+### [OpenAI Disbands Robotics Team for General Models](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
 
-A legal engineer has developed an open-source legal conflict detector tool using encoder models and natural language inference \(NLI\) to improve efficiency in legal document review. The tool aims to address the challenges of pairwise review in legal documents by utilizing faster and more accurate models, potentially reducing the time and cost associated with document analysis.
+OpenAI has dissolved its independent robotics team, reallocating researchers to a more general AI team. This shift is due to the capability of their general models, such as GPT-6 Astra, to directly control robots without the need for a specialized robotics team.
 
-reddit · r/MachineLearning · /u/ladyofcode · Nov 13, 05:48
+telegram · zaihuapd · Nov 14, 04:00
 
-**「Prerequisite Concepts in Legal Document Review and Machine Learning」** Legal document review is a complex and time-consuming process that involves identifying deviations and gaps between legal documents. This task has traditionally been performed manually by legal professionals. However, with the advent of machine learning, particularly natural language inference \(NLI\) and encoder models, it is now possible to automate parts of this process. NLI models are designed to understand the relationships between sentences and determine if one sentence logically follows from another. Encoder models, on the other hand, convert text into numerical vectors that can be used for various tasks, including document comparison. These models have been increasingly used in the legal domain to improve efficiency and accuracy in legal document review.
+**「OpenAI&\#x27;s Evolution in Robotics and AI Models」** OpenAI&\#x27;s decision to disband its independent robotics team and integrate researchers into a more general AI team is rooted in the advancements of their general models, such as GPT-6 Astra. These models have demonstrated the capability to directly control robots, eliminating the need for a specialized robotics team. This shift reflects OpenAI&\#x27;s broader approach to AI, focusing on the integration of general AI with various tasks, including robotics. The development of such models is a significant step forward in the field of AI, as it showcases the potential of general AI to handle complex tasks without the need for specialized systems.
 
-**「Impact on Legal Document Review」** The open-source legal conflict detector tool developed by a legal engineer can significantly improve efficiency in legal document review. By utilizing encoder models and natural language inference, the tool enables comprehensive pairwise comparison of legal documents, potentially reducing the time and cost associated with clause-level review. This innovation could lead to more accurate and timely conflict detection, benefiting developers, researchers, and users in the legal domain.
+**「Impact on AI Development」** The dissolution of OpenAI&\#x27;s independent robotics team and the integration of their general models with robotics tasks signifies a shift towards more versatile AI applications. This development allows for a more streamlined approach to AI research, reducing the need for specialized teams for specific tasks, and potentially leading to more efficient and adaptable AI systems.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://typesafe.ai/">Home - TypeSafe AI</a></li>
-<li><a href="https://jevtypesafeai.com/">Jev by TypeSafe AI — Try the System One model &amp; API</a></li>
-<li><a href="https://www.jevdirectory.org/resources/jev-typesafe-ai-2">Jev TypeSafe AI Tutorial · JevDirectory.org</a></li>
-<li><a href="https://github.com/anamh3/legal-rag-pipeline">GitHub - anamh3/ legal -rag-pipeline: Production-grade RAG pipeline for...</a></li>
-<li><a href="https://huggingface.co/datasets/John6666/forum2/blob/main/contract_nli_nda_analizer_1.md">contract_ nli _nda_analizer_1.md · John6666/forum2 at main</a></li>
-<li><a href="https://mbrenndoerfer.com/writing/hallucination-detection">Hallucination Detection: NLI , Self-Consistency - Interactive</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release">OpenAI ’s next big AI model has ‘entered the AGI era’ | The Verge</a></li>
+<li><a href="https://thenextweb.com/news/openai-astra-agi-claim-cybersecurity-containment">OpenAI says it has overtaken Anthropic with a model that sometimes...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChatGPT">ChatGPT - Wikipedia</a></li>
+<li><a href="https://www.britannica.com/money/OpenAI">OpenAI | ChatGPT, Sam Altman, &amp; Microsoft | Britannica Money</a></li>
+<li><a href="https://openai.com/research/">Research | OpenAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI - Wikipedia</a></li>
+<li><a href="https://openai.com/">OpenAI | Research &amp; Deployment</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Legal Technology`, `#Machine Learning`, `#Natural Language Inference`, `#Encoder Models`, `#Legal Document Review`
-
----
-
-<a id="item-ai-frontier-6"></a>
-### [OpenAI Introduces ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/) ⭐️ 7.0/10
-
-OpenAI has launched ChatGPT Wallet, a payment solution that enhances security and user experience. This service is now available to ChatGPT Pro subscribers in the US, in collaboration with American Express, Mastercard, and Visa. The wallet allows for payments without revealing the user&\#x27;s real card number and requires secure verification for each transaction.
-
-telegram · zaihuapd · Nov 13, 15:43
-
-**「Background on ChatGPT Wallet」** ChatGPT Wallet is a payment solution introduced by OpenAI, designed to enhance security and user experience for ChatGPT Pro subscribers in the United States. This wallet operates by not requiring access to users&\#x27; actual card details during transactions, ensuring a higher level of security. It is integrated with major payment networks like American Express, Mastercard, and Visa, and is available to users aged 18 and above through the dots platform. The wallet generates payment tokens as substitutes for real card details, which are used for transactions, thereby protecting users&\#x27; sensitive information.
-
-**「Impact」** The introduction of ChatGPT Wallet is expected to provide a more secure and user-friendly payment experience for ChatGPT Pro subscribers, potentially leading to increased adoption of the service due to enhanced trust and convenience.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openai.com/index/introducing-chatgpt-wallet/">Introducing ChatGPT Wallet - OpenAI</a></li>
-<li><a href="https://help.openai.com/en/articles/20001654-making-purchases-with-chatgpt-wallet">Making purchases with ChatGPT Wallet | OpenAI Help Center</a></li>
-<li><a href="https://community.openai.com/t/introducing-chatgpt-wallet/1416044">Introducing ChatGPT Wallet - Dots - OpenAI Developer Community</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#OpenAI`, `#ChatGPT`, `#Payment Wallet`, `#AI Product`, `#Security`
+**Tags**: `#AI Research`, `#Robotics`, `#OpenAI`, `#AI Models`, `#AI Development`
 
 ---
 
 ## IT &amp; Open Source
 
 <a id="item-it-opensource-1"></a>
-### [Rapid Solar Energy Development in Africa](https://www.solidot.org/story?sid=85882) ⭐️ 7.0/10
+### [Africa&\#x27;s Solar Energy Acceleration](https://www.solidot.org/story?sid=85882) ⭐️ 7.0/10
 
-The article highlights the rapid development of solar energy in Africa, with a projected increase of 17 GW in solar power capacity by 2026, a 45% growth from the previous year. This surge is attributed to factors such as decreasing costs of solar panels, unstable electricity supply, rising diesel costs for generators, and Africa&\#x27;s abundant and stable sunlight. The majority of the growth is in small-scale solar installations, with Solar as a Service \(SaaS\) being a prominent model.
+The popularity of solar energy in Africa is increasing due to technological advancements and economic factors. The African Tech Futures Lab predicts that Africa&\#x27;s solar energy capacity will reach 17 GW in 2026, a 45% increase from the previous year. Factors such as the decline in the cost of solar panels, unstable electricity supply, rising diesel costs for generators, and abundant and stable sunlight in most of Africa are driving this trend. Solar energy has become a feasible solution for local deployment in countries with inadequate or unstable power grids.
 
 rss · Solidot · Nov 13, 17:07
 
-**「Background on Solar Energy Development in Africa」** The rapid development of solar energy in Africa is driven by several factors. The cost of photovoltaic panels has decreased, making solar technology more accessible. Additionally, the instability of electricity supply, the escalating cost of diesel for generators, and the abundant and stable sunshine in most parts of Africa have contributed to the rise of solar energy. The African Tech Futures Lab, an energy think tank, predicts that Africa&\#x27;s solar power capacity will reach 17 gigawatts in 2026, a 45% increase from the previous year. This growth is attributed to the increasing adoption of small-scale solar power generation units and the Solar as a Service \(SaaS\) model, which allows for local deployment of solar technology. The lack of a comprehensive electricity grid or stable power supply in many African countries has also made solar energy a viable solution. This trend is further supported by experts like Joel Nana, the research director at African Tech Futures Lab, and Jayne Mammatt from Deloitte South Africa, who emphasize the potential of solar energy to address energy challenges in the region.
+**「Background on Solar Energy Adoption in Africa」** The increasing popularity of solar energy in Africa is attributed to several factors. Technological advancements have led to the decrease in the cost of solar panels, making them more accessible. Additionally, the instability of electricity supply, growing energy crises, and rising costs of diesel for generators have driven the need for alternative energy solutions. Africa&\#x27;s abundant and stable sunlight provides ideal conditions for solar energy. The African Tech Futures Lab&\#x27;s Research Director, Joel Nana, highlights this as a bottom-up revolution. The majority of Africa&\#x27;s solar energy growth comes from small-scale solar power installations, with Solar as a Service \(SaaS\) being a prominent model. This trend is further supported by professionals like Jayne Mammatt from Deloitte, who notes that the lack of a comprehensive grid or stable power supply in many African countries makes solar technology a viable and practical solution for local deployment.
 
-**「Impact on Developers and Organizations」** The rapid development of solar energy in Africa presents significant opportunities for developers and organizations. With the predicted addition of 17 GW of solar energy capacity in 2026, developers can capitalize on the growing market for renewable energy solutions. Organizations can benefit from the increasing availability of cost-effective solar technology, which can help address energy challenges and improve energy efficiency, especially in regions with unstable electricity supply and high diesel costs. The rise of small-scale solar installations and the Solar as a Service model also opens new avenues for businesses to provide energy solutions to underserved communities.
+**「Impact on Developers and Organizations」** The increasing adoption of solar energy in Africa presents a significant opportunity for developers and organizations. With the cost of solar panels decreasing and the availability of local suppliers improving, developers can access quality solar components at better prices. This trend is particularly beneficial for organizations looking to deploy renewable energy solutions, as it allows for more localized and cost-effective energy solutions. The growth of the solar energy sector also opens up new markets and business opportunities for companies specializing in solar technology and services.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://africantechfutures.org/energy-futures">Energy Futures — African Tech Futures Lab</a></li>
-<li><a href="https://www.pv-tech.org/africas-hidden-solar-boom-revealed/">Africa ’s hidden solar boom revealed - PV Tech</a></li>
-<li><a href="https://za.linkedin.com/in/joel-yongoua-nana-phd-905427b3">Joel Yongoua Nana , PhD - Sustainable Energy Africa | LinkedIn</a></li>
-<li><a href="https://www.deloitte.com/za/en/about/people/profiles.jayne-mammatt+bf9c0908.html">Jayne Mammatt | Deloitte Africa | Partner - ESG, Sustainability and...</a></li>
-<li><a href="https://za.linkedin.com/in/jayne-mammatt-47927568">Jayne Mammatt - Deloitte | LinkedIn</a></li>
-<li><a href="https://www.businessday.co.za/bd/companies/financial-services/2022-08-01-deloitte-africa-names-two-esg-specialists-as-partners/">Deloitte Africa names two ESG specialists as partners</a></li>
+<li><a href="https://africantechfutures.org/bios/joel-nana">Joel Nana - African Tech Futures Lab</a></li>
+<li><a href="https://africantechfutures.org/insights/tag/Joel+Nana">Joel Nana — Insights | Discover Tech Insights Today — African ...</a></li>
+<li><a href="https://www.linkedin.com/posts/african-tech-futures-lab_joel-nana-activity-7444656235926257665-7FaG">Joel Nana | African Tech Futures Lab - LinkedIn</a></li>
+<li><a href="https://www.deloitte.com/za/en/about/people/profiles.jayne-mammatt+bf9c0908.html">Jayne Mammatt | Deloitte Africa | Partner - ESG ... Jayne Mammatt - Deloitte | LinkedIn Deloitte secures leading ESG talent to ramp up capabilities ... Jayne Mammatt Bio - Wiki Mzansi Jayne Mammatt - Partner at Deloitte Danmark &amp; Norden | The Org Jayne Mammatt - Sustainability Summit Africa Deloitte Africa Hires Sustainability Reporting Leaders Jayne ...</a></li>
+<li><a href="https://za.linkedin.com/in/jayne-mammatt-47927568">Jayne Mammatt - Deloitte | LinkedIn Deloitte secures leading ESG talent to ramp up capabilities ... Jayne Mammatt Bio - Wiki Mzansi Jayne Mammatt - Partner at Deloitte Danmark &amp; Norden | The Org Jayne Mammatt - Sustainability Summit Africa Deloitte Africa Hires Sustainability Reporting Leaders Jayne ...</a></li>
+<li><a href="https://www.deloitte.com/za/en/about/press-room/deloitte-secures-leading-esg-talent-to-ramp-up-capabilities-in-africa.html">Deloitte secures leading ESG talent to ramp up capabilities ...</a></li>
 <li><a href="https://solartoafrica.com/solar-energy-in-africa-2026/">Solar Energy in Africa 2026: Recording Significant Growth</a></li>
 <li><a href="https://www.afsiasolar.com/wp-content/uploads/2026/01/Africa-Solar-Outlook-2026-final-260114-2.pdf">AFRICA SOLAR OUTLOOK 2026</a></li>
 <li><a href="https://www.afsiasolar.com/data-center/outlook-report-2/">Africa Solar Outlook 2026 – AFSIA</a></li>
@@ -970,43 +1013,44 @@ rss · Solidot · Nov 13, 17:07
 </ul>
 </details>
 
-**Tags**: `#Solar Energy`, `#Renewable Energy`, `#Africa`, `#Energy Transition`, `#Technology Adoption`
+**Tags**: `#Solar Energy`, `#Africa`, `#Renewable Energy`, `#Energy Transition`, `#Technology Adoption`
 
 ---
 
 <a id="item-it-opensource-2"></a>
 ### [TSMC Employee Data Breach](https://www.solidot.org/story?sid=85881) ⭐️ 7.0/10
 
-Taiwan Semiconductor Manufacturing Company \(TSMC\) confirms a data breach involving the personal information of its current and former employees. The leaked data, which includes sensitive details such as names, birthdays, titles, addresses, identification numbers, phone numbers, and bank account information, has been found on underground forums. TSMC is collaborating with a cloud service provider, investigation agencies, and a cybersecurity firm to investigate the incident and notify affected employees.
+Taiwan Semiconductor Manufacturing Company \(TSMC\) confirms a data breach involving the personal information of current and former employees, with potential for widespread impact. The leaked data includes sensitive information such as names, birthdays, titles, addresses, identification numbers, phone numbers, and bank account details.
 
 rss · Solidot · Nov 13, 10:37
 
-**「Background on TSMC Employee Data Breach」** The Taiwan Semiconductor Manufacturing Company \(TSMC\) has confirmed a significant data breach involving the personal information of its current and former employees. The leaked data, which includes names, birthdays, job titles, addresses, identification numbers, phone numbers, and bank account information, was found on an external website and matched data stored in a cloud service provider&\#x27;s system. TSMC has stated that there is no evidence of an intrusion into its own systems and that the data is unrelated to its business operations or customer information. The company is notifying affected employees and is working with the cloud service provider, relevant investigation agencies, and an external cybersecurity company to investigate the incident. It has been reported that hackers are selling 6.9GB of TSMC employee data on underground forums like DarkForums and BreachForums, with an initial bid of 3 BTC. The hackers claim that if a buyer is not found within a week, they will publicly release all the data.
+**「Background on TSMC Data Breach」** The Taiwan Semiconductor Manufacturing Company \(TSMC\) has recently experienced a significant data breach involving the personal information of current and former employees. This breach has the potential for widespread impact as it includes sensitive personal data such as names, birthdays, job titles, addresses, identification numbers, phone numbers, and bank account information. The data was found on an external website and is believed to be stored in a cloud service provider&\#x27;s system. TSMC has not found evidence that its own systems were breached and has stated that the data is unrelated to its business operations or customer information. The company is in cooperation with the cloud service provider, relevant investigation agencies, and an external cybersecurity company to investigate the incident. This follows a recent incident where TSMC engineers were suspected of stealing 2nm process technology secrets, highlighting the importance of protecting core secrets in the development of advanced technologies.
 
-**「Impact」** The data breach poses a significant risk to the affected employees, as their personal and financial information could be misused. This incident highlights the importance of robust cybersecurity measures for protecting sensitive data within major technology companies.
+**「Impact」** The breach poses significant risks to the affected employees, as their personal and financial information could be misused. It also raises concerns about TSMC&\#x27;s cybersecurity measures and the security of data stored with cloud service providers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techflowpost.com/article/35333">台积电遭&quot;勒索&quot;3 枚比特币，黑客暗网叫卖 6.9GB 员工数据，又是熟悉的...</a></li>
-<li><a href="https://x.com/Tylerhe01/status/2121281919937638855">Tyler on X: &quot;台积电刚刚向美国 SEC 提交了一份 6-K 文件，回应了近期...</a></li>
+<li><a href="https://cn-sec.com/archives/4390627.html">台 积 电 2nm... | CN-SEC 中文网</a></li>
+<li><a href="https://caifuhao.eastmoney.com/news/20250805231544578210070">突发！ 台 积 电 2nm机密外 泄 ，多人被抓！_ 财富号_东方财富网</a></li>
+<li><a href="https://www.elecfans.com/news/1734300.html">elecfans.com/news/1734300.html</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Data Breach`, `#Security`, `#Taiwan Semiconductor`, `#Employee Data`, `#Cybersecurity`
+**Tags**: `#Data Breach`, `#Security`, `#Taiwan Semiconductor`, `#Employee Privacy`, `#Cybersecurity`
 
 ---
 
 <a id="item-it-opensource-3"></a>
-### [Cryosphere No Longer in Safe Operating Space](https://www.solidot.org/story?sid=85880) ⭐️ 7.0/10
+### [Cryosphere Exceeds Safe Operating Space](https://www.solidot.org/story?sid=85880) ⭐️ 7.0/10
 
-A new analysis reveals that the cryosphere, including ice caps, glaciers, sea ice, snow, and permafrost, has exceeded its safe operating space, posing long-term challenges for Earth&\#x27;s population. The study, part of the Earth Boundaries method, indicates that key control variables such as land ice volume, sea ice area, snow area, and permafrost temperature have deteriorated beyond the levels defined for the cryosphere&\#x27;s safe operating space.
+A new analysis reveals that the cryosphere, encompassing ice caps, glaciers, sea ice, snow, and permafrost, has surpassed its safe operating space, presenting long-term challenges for Earth&\#x27;s population.
 
 rss · Solidot · Nov 13, 09:52
 
-**「Understanding the Cryosphere and its Importance」** The cryosphere, which includes ice caps, glaciers, sea ice, snow, and permafrost, plays a crucial role in regulating Earth&\#x27;s climate, water resources, and carbon cycles. It is an integral part of the Earth&\#x27;s ecosystem services. The concept of &\#x27;safe operating space&\#x27; \(SOS\) is part of the Earth Boundaries method, which defines environmental limits for the Earth system to remain stable and resilient, allowing human and ecological systems to thrive. This analysis, which focuses on key control variables such as land ice volume, sea ice area, snow area, and permafrost temperature, highlights the &\#x27;accelerated and partially irreversible loss&\#x27; of the cryosphere&\#x27;s integrity. It emphasizes the need for urgent global action to stop and reverse greenhouse gas and black carbon emissions, and to reduce human local disturbances in cryosphere regions.
+**「Understanding the Cryosphere and its Importance」** The cryosphere, which includes ice caps, glaciers, sea ice, snow, and permafrost, plays a crucial role in regulating Earth&\#x27;s climate, water resource supply, and carbon cycle. It is an integral part of various ecosystems services. The concept of &\#x27;safe operating space&\#x27; \(SOS\) is part of the Earth Boundaries method, defining environmental limits for the Earth system to remain stable and resilient, allowing human and ecological systems to thrive. The analysis highlights the critical control variables such as land ice volume, sea ice area, snow area, and permafrost temperature, indicating an &\#x27;accelerated and partly irreversible loss&\#x27; of the cryosphere&\#x27;s integrity. This situation has led to a degradation or is destined to degrade beyond the levels defined as the safe operating space for the cryosphere.
 
-**「Impact on Developers and Organizations」** Developers and organizations will face increased challenges in infrastructure planning and resource management due to the accelerated loss of the cryosphere. This includes the need to adapt to changing water resources and carbon cycles, which could impact the reliability and sustainability of their operations.
+**「Impact on Developers and Organizations」** Developers and organizations may face increased challenges in planning and implementing infrastructure projects in cryosphere regions due to the accelerated and largely irreversible loss of the cryosphere&\#x27;s integrity. This loss poses long-term risks to Earth&\#x27;s climate, water resources, and carbon cycle, necessitating urgent global action to stop and reverse greenhouse gas and black carbon emissions, and reduce human disturbances in cryosphere areas.
 
 **「Community Discussion」** No community comments available.
 
@@ -1014,67 +1058,13 @@ rss · Solidot · Nov 13, 09:52
 <ul>
 <li><a href="https://news.ucas.edu.cn/cmjj/10f108bc3dbe41cc8fcae2c8056064bb.htm">冰 冻 圈 科学国家重点实验室：让“冷”学科拥有高热度</a></li>
 <li><a href="https://www.researchgate.net/publication/343006581_Research_and_practice_on_socio-ecological_systems_resilience_over_cryosphere_affected_areas_progress_and_prospects">(PDF) Research and practice on socio-ecological systems resilience...</a></li>
-<li><a href="https://archive.org/stream/ChinaXiv-202303.08997V1/202303.08997v1_djvu.txt">Full text of &quot; 冰 冻 圈 地 缘政治时代的到来&quot;</a></li>
-<li><a href="http://cn.chinagate.cn/news/2020-04/16/content_75940308.htm">cn.chinagate.cn/news/2020-04/16/content_75940308.htm</a></li>
-<li><a href="https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/1c73bd5d-1c73bd5d-melting-earth.pdf">Melting earth report update1119</a></li>
-<li><a href="https://www.qstheory.cn/zoology/2019-12/23/c_1125377460.htm">高山 冰 冻 圈 退缩将 影 响 人类 生 存环境</a></li>
+<li><a href="https://iccinet.org/zh/polar-and-mountain-microbial-communities-depend-on-a-stable-cryosphere/">Polar and Mountain Microbial Communities Depend on a Stable...</a></li>
+<li><a href="https://www.climatechange.cn/article/2020/1673-1719/1673-1719-16-2-143.shtml">全球山地冰冻圈变化、影响与适应 - Climate Change</a></li>
+<li><a href="https://www.msn.cn/zh-cn/weather/%E9%80%9A%E7%94%A8/%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E5%9C%B0%E7%90%83%E5%86%B0%E5%86%BB%E5%9C%88%E5%B7%B2%E8%84%B1%E7%A6%BB%E5%AE%89%E5%85%A8%E8%BF%90%E8%A1%8C%E8%8C%83%E5%9B%B4/ar-AA2hmv4Z">研究表明地球冰冻圈已脱离安全运行范围 - MSN</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Climate Change`, `#Environmental Science`, `#Cryosphere`, `#Global Warming`, `#Ecosystem Services`
-
----
-
-<a id="item-it-opensource-4"></a>
-### [FBI Seizes Over $1.2B in Stolen Cryptocurrency from Binance](https://www.solidot.org/story?sid=85876) ⭐️ 7.0/10
-
-The FBI has announced the seizure of over $1.2 billion in cryptocurrency stolen from Binance by the hacker group TraderTraitor. This significant action follows a major security breach at Binance, where approximately $63 billion worth of cryptocurrency was stolen, including stablecoins and other cryptocurrencies like Bitcoin, Ethereum, and XRP.
-
-rss · Solidot · Nov 13, 06:36
-
-**「Background on Binance Security Breach」** The recent announcement of the FBI seizing over $1.2 billion worth of cryptocurrency stolen from Binance highlights a significant security breach that occurred at the global cryptocurrency exchange. This breach, which resulted in the loss of $6.3 billion in assets, involved both stablecoins and other cryptocurrencies like Bitcoin, Ethereum, and XRP. The breach raised questions about the security measures in place at Binance and the broader cryptocurrency market. The ability of the stablecoin issuers to freeze transactions played a role in the recovery of some of the stolen funds, while others remained inaccessible.
-
-**「Impact on Developers and Organizations」** The seizure of over $1.2 billion in stolen cryptocurrency from Binance by the FBI is likely to have a significant impact on the cryptocurrency ecosystem. It underscores the importance of security measures for cryptocurrency exchanges and may lead to increased scrutiny and investment in cybersecurity for the industry.
-
-**「Community Discussion」** No community comments available.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.squaredtech.co/binance-security-breach-63b-attack-raises-key-questions">Binance Security Breach : Key Details On $6.3B Attack</a></li>
-<li><a href="https://bravenewcoin.com/insights/binance-confirms-6-3b-security-breach-freezes-3b-in-assets-and-pledges-full-compensation">Binance Confirms $6.3B Security Breach , Freezes $3B in Assets and...</a></li>
-<li><a href="https://www.indiatoday.in/technology/news/story/binance-hack-explained-in-5-points-latest-updates-on-the-biggest-cyber-incident-ever-3028190-2026-10-30">Binance hack explained in 5 points, latest updates on the... - India Today</a></li>
-<li><a href="https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html">U.S. seizes $ 1 . 2 billion in stolen Binance crypto</a></li>
-<li><a href="https://www.yahoo.com/news/us/articles/fbi-recovers-1-2-billion-105216976.html">FBI recovers $ 1 . 2 billion in cryptocurrency stolen from Binance</a></li>
-<li><a href="https://abcnews.com/Technology/wireStory/fbi-us-seized-12-billion-worth-cryptocurrency-stolen-138094651">US has seized $ 1 . 2 billion worth of cryptocurrency stolen from...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Cryptocurrency`, `#Security Breach`, `#FBI`, `#Binance`, `#Stablecoins`
-
----
-
-<a id="item-it-opensource-5"></a>
-### [Microsoft Cloud Services Global Outage](https://www.solidot.org/story?sid=85875) ⭐️ 7.0/10
-
-Microsoft cloud services experienced a global outage affecting Outlook, Teams, OneDrive, and AI tool Copilot, with no indication of a network attack. The outage was caused by some servers becoming unexpectedly unavailable, leading to a heavy load on the remaining systems.
-
-rss · Solidot · Nov 13, 05:30
-
-**「Background on Microsoft Cloud Services Outage」** Microsoft cloud services have experienced a global outage, impacting services such as Outlook, Teams, OneDrive, and the AI tool Copilot. This outage has been significant, affecting a wide range of users and services. Previous incidents, such as the global outage of Microsoft Azure in July 2026 and the Microsoft 365 outage in January 2026, have highlighted the critical nature of cloud services and the potential impact of such outages on businesses and individuals. These past events have shown that outages can lead to disruptions in operations, loss of productivity, and potential security concerns.
-
-**「Impact」** The outage has significant impact on users, potentially preventing them from accessing files, viewing calendar details, and using the AI tool Copilot. This could disrupt workflows and communication for organizations relying on these services.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://rivers.chaitin.cn/blog/cqq55ap0lnec5jjugfp0">继 全 球 蓝屏后， 微 软 Azure...</a></li>
-<li><a href="https://www.dealmoon.com.au/guide/1215628">突发！ 微 软 Azure 宕 机 波及 全 球 ！ Costco、星巴克、Office 365...</a></li>
-<li><a href="https://www.anquanke.com/post/id/314535">Microsoft 365 全 球 宕 机 事件：2026年1月22日多国业 务 停摆-安 全 KER...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Microsoft`, `#Cloud Services`, `#Outage`, `#Security`, `#Infrastructure`
+**Tags**: `#Climate Change`, `#Environmental Sustainability`, `#Cryosphere`, `#Global Warming`, `#Permafrost`
 
 ---

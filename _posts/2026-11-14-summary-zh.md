@@ -5,403 +5,510 @@ date: 2026-11-14
 lang: zh
 ---
 
-> 从 300 条内容中筛选出 40 条重要资讯。
+> 从 278 条内容中筛选出 40 条重要资讯。
 
 ---
 
 **A 股与宏观**
-1. [高盛 2027 年全球市场展望：AI 投资冲动见顶，成长的烦恼来袭](#item-cn-macro-1) ⭐️ 8.0/10
-2. [天价药瑞基奥仑赛纳入医保，价格降至 30 万元以下](#item-cn-macro-2) ⭐️ 7.0/10
-3. [美股圣诞行情分析](#item-cn-macro-3) ⭐️ 7.0/10
-4. [Anthropic IPO 定价策略与 SpaceX 对比分析](#item-cn-macro-4) ⭐️ 7.0/10
-5. [美联储洛根提议市场功能性购债单独记账、尽快出售](#item-cn-macro-5) ⭐️ 7.0/10
-6. [贝森特与美联储高官交锋：通胀根源与加息路径之争](#item-cn-macro-6) ⭐️ 7.0/10
-7. [黄金价格创六月来最大单周跌幅，美联储加息预期升温](#item-cn-macro-7) ⭐️ 7.0/10
-8. [OpenAI 调整机器人研发战略](#item-cn-macro-8) ⭐️ 7.0/10
-9. [全球数据中心争议影响 A 股市场及中国经济](#item-cn-macro-9) ⭐️ 7.0/10
-10. [深圳已成为中国内地首个外贸进出口超 5 万亿元的城市](#item-cn-macro-10) ⭐️ 7.0/10
-11. [南方五省新能源汽车产业链用电增量贡献超三成](#item-cn-macro-11) ⭐️ 7.0/10
-12. [国家医保局纳入两款创新药进医保目录](#item-cn-macro-12) ⭐️ 7.0/10
-13. [中国清洁能源发展展望](#item-cn-macro-13) ⭐️ 7.0/10
-14. [企业贷款利率首破 3%，再创新低](#item-cn-macro-14) ⭐️ 7.0/10
-15. [中国经济连续增长达到历史新高](#item-cn-macro-15) ⭐️ 7.0/10
-16. [10 月金融数据及市场动态摘要](#item-cn-macro-16) ⭐️ 7.0/10
+1. [中美经贸磋商机制项下贸易理事会首次会议举行](#item-cn-macro-1) ⭐️ 7.0/10
+2. [高盛全球股市展望：明年 AI 资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”](#item-cn-macro-2) ⭐️ 7.0/10
+3. [科技股前景蒙阴影，知名投资者看空 AI 行业](#item-cn-macro-3) ⭐️ 7.0/10
+4. [吴清谈中国资本市场优化与监管安排](#item-cn-macro-4) ⭐️ 7.0/10
+5. [天价药瑞基奥仑赛纳入医保，价格降至 30 万元以下](#item-cn-macro-5) ⭐️ 7.0/10
+6. [Anthropic IPO 定价策略与 SpaceX 对比分析](#item-cn-macro-6) ⭐️ 7.0/10
+7. [美联储洛根提议市场功能性购债单独记账、尽快出售](#item-cn-macro-7) ⭐️ 7.0/10
+8. [高盛 2027 年宏观展望：全球经济增速略升但风险加剧](#item-cn-macro-8) ⭐️ 7.0/10
+9. [贝森特与美联储高官交锋：通胀原因与加息路径争论升温](#item-cn-macro-9) ⭐️ 7.0/10
+10. [黄金价格创六月来最大单周跌幅，美联储加息预期升温施压贵金属](#item-cn-macro-10) ⭐️ 7.0/10
+11. [OpenAI 调整机器人研发战略，将机器人研究融入通用 AI 模型开发](#item-cn-macro-11) ⭐️ 7.0/10
+12. [廖岷主持马丁·沃尔夫线上专题讲座](#item-cn-macro-12) ⭐️ 7.0/10
+13. [吴清：新经济领域公司在 A 股市场占比超半数](#item-cn-macro-13) ⭐️ 7.0/10
+14. [吴清强调深化人工智能与资本市场双向赋能研究](#item-cn-macro-14) ⭐️ 7.0/10
+15. [A 股新经济公司表现突出](#item-cn-macro-15) ⭐️ 7.0/10
+16. [A 股上市公司专项贷款落地提速](#item-cn-macro-16) ⭐️ 7.0/10
+17. [10 月高频数据折射中国经济稳中向好态势](#item-cn-macro-17) ⭐️ 7.0/10
+18. [10 月高频数据折射中国经济稳中向好态势](#item-cn-macro-18) ⭐️ 7.0/10
+19. [企业贷款利率首破 3%，再创新低](#item-cn-macro-19) ⭐️ 7.0/10
 
 **全球市场**
 1. [芝加哥联邦储备银行行长 Goolsbee 表示央行在通胀问题上“肯定有工作要做”](#item-global-market-1) ⭐️ 7.0/10
-2. [Nvidia 股价连续六周下跌，市值蒸发 5730 亿美元](#item-global-market-2) ⭐️ 7.0/10
-3. [美联储最新调查显示人工智能成为金融体系最大担忧](#item-global-market-3) ⭐️ 7.0/10
-4. [爱尔兰警方发现爆炸装置](#item-global-market-4) ⭐️ 7.0/10
-5. [美国 FAA 因特殊情况暂停所有出港航班](#item-global-market-5) ⭐️ 7.0/10
-6. [伊朗革命卫队称两艘油轮在霍尔木兹海峡触雷](#item-global-market-6) ⭐️ 7.0/10
-7. [美国延长航运法豁免期 90 天](#item-global-market-7) ⭐️ 7.0/10
-8. [中美举行首届贸易委员会会议](#item-global-market-8) ⭐️ 7.0/10
-9. [英国、挪威和加拿大启动 100 亿美元气候融资计划](#item-global-market-9) ⭐️ 7.0/10
-10. [韩国外长赵和中国外长王讨论朝鲜半岛问题](#item-global-market-10) ⭐️ 7.0/10
-11. [土耳其与卡塔尔签署相互防御协定](#item-global-market-11) ⭐️ 7.0/10
-12. [英伟达意外、美联储政策预期变化及欧洲电动化投资：本周金融动态分析](#item-global-market-12) ⭐️ 7.0/10
-13. [伊拉克原油产量飙升，达到 2019 年最高水平](#item-global-market-13) ⭐️ 7.0/10
+2. [美联储最新调查显示人工智能成金融体系最大担忧](#item-global-market-2) ⭐️ 7.0/10
+3. [爱尔兰警方发现爆炸装置，影响全球市场](#item-global-market-3) ⭐️ 7.0/10
+4. [美国联邦航空管理局暂停所有出港航班](#item-global-market-4) ⭐️ 7.0/10
+5. [委内瑞拉政治转型吸引外国投资者](#item-global-market-5) ⭐️ 7.0/10
+6. [美国延长航运法豁免期 90 天](#item-global-market-6) ⭐️ 7.0/10
+7. [中美举行首届贸易委员会会议](#item-global-market-7) ⭐️ 7.0/10
+8. [英国、挪威和加拿大启动 100 亿美元气候融资计划](#item-global-market-8) ⭐️ 7.0/10
+9. [韩国外长赵和中国外长王讨论朝鲜半岛问题](#item-global-market-9) ⭐️ 7.0/10
+10. [土耳其与卡塔尔签署相互防御协定](#item-global-market-10) ⭐️ 7.0/10
+11. [法官终止国际刑事法院针对阿富汗部分调查](#item-global-market-11) ⭐️ 7.0/10
 
 **AI 前沿**
-1. [在 TorchTitan 上成功扩展至 1T MoE](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [前沿模型在材料科学研究中取得优异成绩](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [清华首发具身智能综述：从端到端策略到自主系统](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [ICML 2027 会议变更](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [使用 NLI 和编码器模型构建 Legora 风格的合法冲突检测工具](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [OpenAI 推出 ChatGPT Wallet 支付钱包](#item-ai-frontier-6) ⭐️ 7.0/10
+1. [前沿模型在材料科学研究中取得优异成绩](#item-ai-frontier-1) ⭐️ 9.0/10
+2. [ggml v1.0.0 发布展现性能提升和社区认可](#item-ai-frontier-2) ⭐️ 8.0/10
+3. [在 TorchTitan 上成功扩展至 1T MoE](#item-ai-frontier-3) ⭐️ 8.0/10
+4. [发现：一种不引发炎症的衰老驱动蛋白](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [清华首发具身智能综述：从端到端策略到自主系统](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [ICML 2027 会议变更](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [OpenAI 解散独立机器人团队，转由通用模型驱动](#item-ai-frontier-7) ⭐️ 7.0/10
 
 **IT 与开源**
-1. [非洲太阳能发展迅速](#item-it-opensource-1) ⭐️ 7.0/10
+1. [非洲太阳能发展加速](#item-it-opensource-1) ⭐️ 7.0/10
 2. [台积电内部员工数据泄露](#item-it-opensource-2) ⭐️ 7.0/10
 3. [地球冰冻圈安全运行空间告急](#item-it-opensource-3) ⭐️ 7.0/10
-4. [美国扣押了从币安盗走的逾 12 亿美元加密货币](#item-it-opensource-4) ⭐️ 7.0/10
-5. [微软云服务全球宕机](#item-it-opensource-5) ⭐️ 7.0/10
 
 ---
 
 ## A 股与宏观
 
 <a id="item-cn-macro-1"></a>
-### [高盛 2027 年全球市场展望：AI 投资冲动见顶，成长的烦恼来袭](https://wallstreetcn.com/articles/3785910) ⭐️ 8.0/10
+### [中美经贸磋商机制项下贸易理事会首次会议举行](https://wallstreetcn.com/livenews/3200113) ⭐️ 7.0/10
 
-高盛发布 2027 年全球市场展望报告，指出 AI 投资冲动将见顶，市场面临更多逆风。报告预测 AI 投资增量占 GDP 比重将于 2027 年初见顶，对市场的冲击将大于对实体经济的冲击。
+11 月 13 日，中美双方通过视频会议方式举行了中美经贸磋商机制项下贸易理事会首次会议。会议旨在落实前期中美经贸磋商成果，就关税、对等降税安排、农产品贸易等议题进行了深入交流。双方将通过贸易理事会加强沟通，推动解决经贸关切，构建中美建设性战略稳定关系。
 
-rss · 华尔街见闻 · 11月13日 16:28
+rss · 华尔街见闻 · 11月14日 06:54
 
-**「背景信息」** 高盛在 2027 年发布的全球市场展望报告中，对 AI 投资、市场趋势和主要资产类别进行了全面分析。报告指出，随着经济周期的延伸，市场周期正面临更多逆风，其中 AI 投资冲动见顶是对市场的最大考验。此外，报告还涵盖了股票、债券、外汇、大宗商品及新兴市场等主要资产类别，为投资者提供了对当前和未来市场条件的清晰认识。
+**「背景信息」** 在本次中美经贸磋商机制项下贸易理事会首次会议之前，中美双方已经进行了多轮经贸磋商。这些磋商旨在落实双方之前达成的共识，包括关税、对等降税安排、农产品贸易等方面的协议。此外，中美双方还就各自关心的其他议题进行了深入交流。这些磋商对于理解当前中美经济关系以及推动双方经贸关系的发展具有重要意义。
 
-**「对投资者的影响」** 高盛的 2027 年全球市场展望报告指出，AI 投资的增长冲动预计将在 2027 年初见顶，这将对市场构成重大考验。投资者应关注 AI 投资增速放缓对相关股票估值的影响，以及市场从 AI 基础设施受益者向其他领域的切换可能带来的风险。此外，能源价格的波动和信用利差的扩大也是投资者需要关注的潜在风险。
+**「影响分析」** 此次会议的举行有助于缓解中美贸易紧张局势，为双方进一步经贸合作奠定基础。对于投资者而言，关注中美贸易关系进展，以及相关行业政策变化，将有助于做出更为合理的投资决策。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.canadianminingreport.com/blog/goldman-sachs-2027-gold-outlook-could-gold-stocks-still-have-room-to-run">Goldman Sachs Holds $5,400 Gold for 2027 . Do Miners Still Have...</a></li>
-<li><a href="https://www.bullionstar.com/blogs/gold-silver-101/gold-price-forecast-2027/">Gold Price Forecast 2027 | BullionStar Singapore</a></li>
-<li><a href="https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027.html">The creator economy could approach half-a-trillion... | Goldman Sachs</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/goldman-sachs-sees-ai-impulse-122748629.html?fr=sycsrp_catchall">Goldman Sachs sees AI impulse peaking in 2027 - Yahoo Finance</a></li>
-<li><a href="https://www.proactiveinvestors.com/companies/news/1101757/global-markets-face-growing-pains-as-goldman-sachs-sees-ai-peak-1101757.html">Global Markets face growing pains as Goldman Sachs sees AI peak</a></li>
-<li><a href="https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027.html">The creator economy could approach half-a-trillion... | Goldman Sachs</a></li>
+<li><a href="https://world.huanqiu.com/article/4TOGWMAtNmo">商 务部 美 大司负责人解读第八轮 中 美 经 贸 磋 商 成果 | 环球网</a></li>
+<li><a href="https://stock.10jqka.com.cn/20260928/c680290353.shtml">stock.10jqka.com.cn/20260928/c680290353.shtml</a></li>
+<li><a href="https://www.dutenews.com/n/article/10648640">商 务部 美 大司负责人解读 中 美 经 贸 磋 商 初步成果</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Economic Outlook`, `#Market Analysis`, `#AI Investments`, `#Global Market Trends`, `#Stock Market`
+**标签**: `#China-US Trade`, `#Economic Negotiations`, `#Tariffs`, `#Trade Relations`
 
 ---
 
 <a id="item-cn-macro-2"></a>
+### [高盛全球股市展望：明年 AI 资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”](https://wallstreetcn.com/articles/3785935) ⭐️ 7.0/10
+
+高盛最新报告指出，随着 AI 资本开支热潮接近顶点，全球股市盈利增长引擎正在降速。预计 2027 年标普 500 指数目标价为 8700 点，较当前水平上涨约 14%。云公司被视为防御性资产。
+
+rss · 华尔街见闻 · 11月14日 06:49
+
+**「背景信息」** 近年来，全球股市经历了快速的增长，其中人工智能（AI）资本开支的激增是推动这一增长的重要因素。然而，随着 AI 资本开支接近顶点，市场对盈利增长的担忧日益增加。在此背景下，云服务公司被视为一种防御性资产。高盛的最新分析显示，尽管盈利增速将放缓，但云服务公司的估值已经大幅回调，为投资者提供了具有吸引力的入场时机。此外，高盛对全球股市的展望包括对主要股票市场指数和行业表现的预测，这些预测对于跟踪中国经济和股市的读者来说具有重要意义。
+
+**「影响」** 对于投资者而言，高盛的分析表明，随着 AI 资本开支的见顶，科技板块的盈利增速预计将大幅放缓，这可能导致相关股票的估值下降。然而，云服务巨头因其估值已大幅回调，可能被视为相对防御性资产，为投资者提供了具有吸引力的入场时机。投资者应关注这一趋势，并考虑在云服务领域进行配置。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://destiny.to/ubbthreads/topic/259008">试占2026 年 全 球 股 市 之意象。 - DestinyNet 命理网</a></li>
+<li><a href="https://www.zhitongcaijing.com/content/detail/1515771.html">亚马逊(AMZN.US)步谷歌后尘盘后大跌！ 自由现金流转负424...</a></li>
+<li><a href="https://wallstreetcn.com/articles/3731215">跟 高 盛 对着干？ 摩根大通认为美 股 未来十 年 保持强劲，受益于科技和AI...</a></li>
+<li><a href="https://www.36kr.com/p/4052091159352448">AI资本开支见顶？高盛：拐点近了，AI正从“超级主题”变成“常规叙事”-36...</a></li>
+<li><a href="https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-13/doc-iniypvhf1120557.shtml">AI资本开支见顶，全球股市盈利“换挡”! 高盛给出2027年三大主线</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Global Stock Market Outlook`, `#AI Capital Expenditure`, `#Cloud Companies`, `#Market Predictions`, `#Economic Analysis`
+
+---
+
+<a id="item-cn-macro-3"></a>
+### [科技股前景蒙阴影，知名投资者看空 AI 行业](https://wallstreetcn.com/articles/3785936) ⭐️ 7.0/10
+
+英伟达 CEO 黄仁勋离职后，知名投资者 Michael Burry 看空科技股，特别是 AI 行业。他警告 AI 热潮可能陷入‘牛市陷阱’，并加倍做空纳斯达克 100 指数的看跌期权，行权日期定于 2027 年初。
+
+rss · 华尔街见闻 · 11月14日 04:21
+
+**「背景信息」** 在分析 Michael Burry 对科技股市场的看法之前，了解他的投资策略和过去的表现是重要的。Burry 以其独特的投资策略而闻名，他通过深入研究公司的基本面和价值，关注自由现金流和企业价值等指标，持有 12-18 只来自低迷行业的股票的多元化投资组合。他的策略包括对潜在投资进行广泛的研究，以了解公司在投资前的价值。这种策略在过去已经证明是成功的，尤其是在科技股领域。他的投资哲学强调对市场的深入理解和对潜在风险的谨慎评估。这些因素共同构成了他对当前市场状况的看法，特别是对 AI 热潮和科技股市场的看空预测。
+
+**「影响」** 知名投资者 Michael Burry 对科技股，尤其是 AI 领域的看空态度可能会对相关行业和公司产生显著影响。他通过加倍纳斯达克 100 指数的看跌期权仓位，以及对 VanEck 半导体指数的看跌期权进行重新建立，表明他对芯片股及整体科技板块在 2027 年中前将遭受显著回调的预期。这种看空策略可能会引发投资者对科技股的担忧，导致相关股票价格下跌，对依赖科技股的投资者和公司构成潜在风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finmasters.com/michael-burry-investment-strategy/">A Fascinating Look at Dr. Michael Burry&#x27;s Investment Strategy</a></li>
+<li><a href="https://macro-ops.com/how-to-evaluate-stocks-like-michael-burry/">Michael Burry’s Investment Strategy Explained - Macro Ops</a></li>
+<li><a href="https://www.scribd.com/document/603300035/michael-burry-strategy">Michael Burry&#x27;s Investment Strategy | PDF | Stocks | Investing</a></li>
+<li><a href="https://www.gate.com/blog/jensen-huang-nvidia-investigation-nvda-stock-market-expectations">What Happened to Jensen Huang ? How Could the Nvidia ... | Gate Blog</a></li>
+<li><a href="https://www.youtube.com/watch?v=_4aXTGiiCp0">Jensen Huang resigns as Nvidia CEO : what it means for the “ AI ...”</a></li>
+<li><a href="https://www.globaltimes.cn/page/202611/1374252.shtml">Analysis: After Jensen Huang &#x27; s resignation , global... - Global Times</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Tech Stock`, `#Market Analysis`, `#AI Sector`, `#Investment Strategy`, `#Regulatory Announcement`
+
+---
+
+<a id="item-cn-macro-4"></a>
+### [吴清谈中国资本市场优化与监管安排](https://wallstreetcn.com/articles/3785937) ⭐️ 7.0/10
+
+中国证监会主席吴清在首届中国资本市场学术年会上提出，将研究评估量化研究和减持等制度的优化，以及公平合理的监管安排。这将对资本市场的研究和市场动态产生重要影响。
+
+rss · 华尔街见闻 · 11月14日 03:53
+
+**「背景」** 中国资本市场在过去几十年中经历了快速发展，已成为全球重要的市场之一。为了适应新的发展需求和应对挑战，中国证监会正在推动资本市场制度的优化和监管的改进。
+
+**「对投资者的影响」** 证监会对于量化研究和减持等制度的优化和公平合理的监管安排，将对投资者产生积极影响。这将有助于提高市场的透明度和公平性，降低投资者面临的风险，从而吸引更多长期投资者进入市场，促进资本市场的稳定和健康发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.researchgate.net/">ResearchGate | Find and share research</a></li>
+<li><a href="https://hub.papersowl.com/examples/importance-of-quantitative-research-across-fields/">Importance Of Quantitative Research Across Fields... | PapersOwl.com</a></li>
+<li><a href="https://www.midpointmarkets.com/careers/quantitative-researcher">Quantitative Researcher - Careers - Midpoint Markets</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Capital Market Regulation`, `#China Economic Policy`, `#Regulatory Announcements`, `#Market Dynamics`, `#Capital Market Optimization`
+
+---
+
+<a id="item-cn-macro-5"></a>
 ### [天价药瑞基奥仑赛纳入医保，价格降至 30 万元以下](https://wallstreetcn.com/livenews/3200084) ⭐️ 7.0/10
 
 国家医保局宣布，CAR-T 药物瑞基奥仑赛，此前每支定价 129 万元，现已被纳入医保目录，价格降至每支 30 万元以下。
 
 rss · 华尔街见闻 · 11月14日 03:04
 
-**「背景信息」** 近年来，随着我国医疗技术的进步和患者对高质量医疗服务的需求增加，CAR-T 细胞疗法作为一种先进的癌症治疗手段，受到了广泛关注。此前，CAR-T 细胞疗法因其高昂的治疗费用而难以普及。此次瑞基奥仑赛被纳入医保目录，并降价至 30 万元/支以下，标志着我国在提高医疗保障水平、减轻患者负担方面取得了重要进展。
+**「背景信息」** 近年来，CAR-T 疗法作为一种创新的肿瘤治疗方法，在国内外都取得了显著进展。然而，由于高昂的治疗费用，这种疗法一直面临着可及性的挑战。此前，瑞基奥仑赛作为一种 CAR-T 药物，其高昂的价格限制了其在市场上的普及。随着国家医保局宣布将瑞基奥仑赛纳入医保目录，并降低其价格，这一政策变化有望显著提高该药物的可及性，从而对整个医疗保健行业和经济产生广泛影响。
 
-**「影响」** 这一政策变化将显著降低 CAR-T 治疗成本，对癌症患者和家庭来说是一大利好，同时也可能对制药行业产生竞争压力，促使更多创新药物进入医保目录。
+**「影响」** 这一政策变化将显著降低 CAR-T 药物瑞基奥仑赛的治疗成本，对于患者和家庭来说，这意味着更高的可负担性。然而，对于制药公司而言，这可能会影响其收入，并可能促使他们寻找其他高价值药物的市场定位。投资者应关注这一变化对相关制药公司股票的影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.21jingji.com/article/20251212/herald/e6d2ad876aa80ee4c33ffae736f9a238.html">药 明 巨 诺 换帅，新管理层迎战 CAR - T 市场机遇与挑战 - 21经济网</a></li>
-<li><a href="https://news.qq.com/rain/a/20250722A07Q9Q00">13亿美元！ 科弈 药 业 CAR - T 授权出海，市场 影 响 几何？_ 腾讯新闻</a></li>
-<li><a href="https://www.guancha.cn/economy/2025_09_25_791417.shtml?s=zwyxgtjbt">百万抗癌 药 有望进 入 商 保 目录，5款 CAR - T 疗法通过专家评审</a></li>
+<li><a href="https://www.sohu.com/a/1048117450_121503026">CAR-T支付可及性再升级！瑞基奥仑赛冲刺医保，凭卓越疗效与“零重度毒...</a></li>
+<li><a href="https://www.sohu.com/a/903394770_120867875">瑞基奥仑赛新适应症申报上市,国产CAR-T多线爆发,横扫血癌、肝癌、肠癌...</a></li>
+<li><a href="https://jwtherapeutics.com/cn/media/press-release/20251021/">药明巨诺向中国国家药品监督管理局递交瑞基奥仑赛在中国成人活动性系...</a></li>
+<li><a href="https://www.sohu.com/a/1074687659_121076562">2026医保国谈｜CAR-T首入国谈，患者如何权衡时间与支付？</a></li>
+<li><a href="https://www.yicai.com/news/103440699.html">百万元的CAR-T药物终于进医保了！价格降至30万元以内</a></li>
+<li><a href="https://www.sohu.com/a/959046247_122504239">CAR-T细胞疗法首次进入医保谈判，医保＋商保叠加报销后患者自费部分有...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Healthcare Policy`, `#Pharmaceutical Market`, `#Insurance`, `#Market Impact`
-
----
-
-<a id="item-cn-macro-3"></a>
-### [美股圣诞行情分析](https://wallstreetcn.com/articles/3785929) ⭐️ 7.0/10
-
-美股在经历剧烈抛售后，技术面和仓位面同步修复，高盛等机构预测年末反弹。然而，通胀压力以超过疫情时期的速度积聚，市场存在不确定性。
-
-rss · 华尔街见闻 · 11月14日 02:49
-
-**「背景信息」** 美国股市在经历了一轮剧烈抛售后，技术面和仓位面都进行了修复。高盛等华尔街主要机构发出了年末反弹的信号。然而，这场潜在的&\#x27;圣诞行情&\#x27;背后，存在着通胀压力的累积风险。近期股市的大幅回调、估值倍数下移、市场仓位大幅减轻，以及季节性因素的支撑，共同构成了年末风险资产向上轧空的条件。此外，通胀压力正在以超过新冠疫情时期的速度积聚，这给市场带来了不确定性。
-
-**「对投资者的具体影响」** 尽管市场预期年末可能出现反弹，但通胀压力的积聚和不确定性为投资者带来了风险。高盛的分析指出，通胀压力正在以超过新冠疫情时期的速度积聚，这可能导致明年一季度价格重置效应，对股市造成压力。投资者应关注通胀趋势，并考虑在市场预期反弹时保持谨慎。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://alphio.ai/blog/santa-claus-rally-stock-market-investor-guide-2026">Santa Claus Rally 2026: Year-End Stock Market Guide</a></li>
-<li><a href="https://onestopprop.com/santa-claus-rally-stock-market/">Santa Claus Rally 2026: The Dates, the Data, and How to Trade ...</a></li>
-<li><a href="https://marketshq.net/en/analysis/stock-markets/santa-claus-rally-2026">Santa Claus Rally: 76 Years of S&amp;P 500 Data (2026)</a></li>
-<li><a href="https://wallstreeteconomicists.com/articles/inflation-trends-2026-us">Inflation trends 2026 US: Cooling Pressures</a></li>
-<li><a href="https://www.fool.com/investing/2026/06/29/inflation-surging-how-affect-stock-market-2026/">Inflation Is Surging: Here&#x27;s How That Might Affect the Stock ...</a></li>
-<li><a href="https://wallstreeteconomicists.com/articles/us-inflation-trajectory-2026">US inflation trajectory 2026: Trends and Outlook</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Stock Market`, `#Economic Analysis`, `#Inflation`, `#Market Trends`
-
----
-
-<a id="item-cn-macro-4"></a>
-### [Anthropic IPO 定价策略与 SpaceX 对比分析](https://wallstreetcn.com/articles/3785926) ⭐️ 7.0/10
-
-Anthropic 的 IPO 定价策略相较于 SpaceX 更为保守，以每股 70 至 78 美元的价格区间询价，目标估值约为 1.4 万亿美元，计划通过 IPO 募资最多 644 亿美元。这与 SpaceX 在营销阶段直接设定每股 135 美元固定价格的模式形成对比，反映了市场条件和政策变化的影响。
-
-rss · 华尔街见闻 · 11月13日 23:44
-
-**「背景信息」** Anthropic 和 SpaceX 在 IPO 定价策略上的差异反映了当前市场环境和政策变化。Anthropic 选择了一种更为保守的定价策略，将更多主动权交给机构投资者，而非单方面设定价格。这种策略与 SpaceX 今年 6 月以 862 亿美元估值上市时所处的顺风环境形成鲜明对比。当时，SpaceX 直接设定了每股 135 美元的固定价格。此外，Anthropic 此次采用传统路演方式，这意味着最终 IPO 价格将在很大程度上反映机构投资者的真实需求。这种定价策略的差异可能与两家公司在资本市场上的经验有关，SpaceX 的创始人马斯克在资本市场上有丰富的经验，而 Anthropic 作为一家成立仅五年的公司，尚属资本市场的相对新手。
-
-**「对投资者的影响」** Anthropic 的更为保守的 IPO 定价策略可能会对投资者产生重要影响。由于市场波动和估值预期的调整，投资者可能会对科技公司的 IPO 表现出更高的谨慎态度。这种谨慎可能会影响科技股的整体表现，尤其是在估值较高和风险较高的领域。对于寻求投资科技 IPO 的投资者来说，了解市场动态和公司定价策略变得尤为重要。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://marketwise.com/investing/spacex-1-5-trillion-ipo-elon-musk-valuation-strategy/">SpaceX’s $1.5T IPO: How Elon Musk Is Driving the Sky-High ...</a></li>
-<li><a href="https://www.allium.so/blog/spacex-valuation-from-tender-offers-to-1-98t/">SpaceX Valuation: From Tender Offers to $1.98T - allium.so</a></li>
-<li><a href="https://keeptrack.space/deep-dive/spacex-valuation-history">SpaceX Valuation, $2.2 Trillion in Oct 2026 and Every Round ...</a></li>
-<li><a href="https://www.wsgr.com/a/web/9JCTjQ85qakRoi8KZB9YSC/ipo-report-ye_2023.pdf">2023 TECHNOLOGY AND LIFE SCIENCES IPO REPORT - WILSON SONSINI</a></li>
-<li><a href="https://foundershield.com/blog/tech-ipos-2023/">Tech IPOs in 2023: A Year of Reckoning or a Year of Opportunity?</a></li>
-<li><a href="https://www.federalreserve.gov/monetarypolicy/2023-03-mpr-summary.htm">The Fed - Monetary Policy: Monetary Policy Report (Branch) Top Stories The Federal Reserve Just Raised Interest Rates for the First ... 2023 in review: Rates, rallies and reflections - J.P. Morgan Fed Rate Hike: Investor Portfolio Implications | BlackRock Policy impact of unexpected Fed rate movements blurred by key ... The Impact of the Federal Reserve Raises the Interest Rates ...</a></li>
-<li><a href="https://www.fool.com/investing/2026/09/18/the-federal-reserve-just-raised-interest-rates-for/">The Federal Reserve Just Raised Interest Rates for the First ...</a></li>
-<li><a href="https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/2023-in-review-rates-rallies-and-reflections">2023 in review: Rates, rallies and reflections - J.P. Morgan</a></li>
-
-</ul>
-</details>
-
-**标签**: `#IPO`, `#Market Dynamics`, `#Valuation`, `#Investment Strategy`, `#Tech IPO`
-
----
-
-<a id="item-cn-macro-5"></a>
-### [美联储洛根提议市场功能性购债单独记账、尽快出售](https://wallstreetcn.com/articles/3785920) ⭐️ 7.0/10
-
-美联储官员洛根提议将市场功能性购债与货币政策操作分离，并承诺尽快出售，以消除市场对流动性干预的疑虑。这一提议旨在明确区分流动性支持与量化宽松，对市场参与者具有重要意义。
-
-rss · 华尔街见闻 · 11月13日 23:06
-
-**「背景信息」** 美联储官员洛丽·洛根（Lorie Logan）是达拉斯联邦储备银行的首席执行官，她在 2022 年 8 月 22 日担任了这一职位。洛根在金融领域拥有丰富的经验，此前曾在纽约联邦储备银行担任执行副总裁。她提出的将市场功能性购债与货币政策操作分离的建议，旨在消除市场对流动性干预是否变相量化宽松的疑虑。这一提议是在美联储启动对资产负债表管理框架进行系统性审视的背景下提出的，旨在探索如何缩减美联储在市场中的直接介入规模。
-
-**「对投资者的影响」** 美联储官员洛根提出的将市场功能性购债与货币政策操作分离的建议，有助于消除市场对流动性干预是否变相量化宽松的疑虑。这可能会增强市场对美联储政策的理解，从而提高市场信心，降低市场参与者对美联储介入的预期，进而可能对债券市场产生稳定作用。对于投资者而言，这可能会影响他们对债券市场的投资策略，尤其是在长端收益率方面。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.highperformr.ai/people/lorie-logan-29a99310">Who is Lorie Logan ? Discover Their Role as President... | Highperformr</a></li>
-<li><a href="https://grokipedia.com/page/Lorie_K._Logan">Lorie K. Logan — Grokipedia</a></li>
-<li><a href="https://dallasinnovates.com/dallas-fed-names-lorie-logan-as-its-first-female-president-ceo/">Dallas Fed Names Lorie Logan as its First Female President, CEO</a></li>
-<li><a href="https://www.federalreserve.gov/monetarypolicy.htm">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program...</a></li>
-<li><a href="https://www.tiktok.com/discover/what-happens-to-housing-market-if-fed-cuts-rates">What Happens to Housing Market If Fed Cuts Rates | TikTok</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Federal Reserve`, `#Market Functionality`, `#Monetary Policy`, `#Regulatory Announcements`
+**标签**: `#Healthcare Policy`, `#Medication Pricing`, `#Insurance Coverage`, `#Market Impact`, `#Economic Policy`
 
 ---
 
 <a id="item-cn-macro-6"></a>
-### [贝森特与美联储高官交锋：通胀根源与加息路径之争](https://wallstreetcn.com/articles/3785917) ⭐️ 7.0/10
+### [Anthropic IPO 定价策略与 SpaceX 对比分析](https://wallstreetcn.com/articles/3785926) ⭐️ 7.0/10
 
-美国财政部长贝森特与芝加哥联储主席古尔斯比就通胀根源和美联储加息路径展开辩论，引发市场对 12 月美联储议息会议的关注。贝森特认为通胀主要由能源冲击引起，不应激进加息；而古尔斯比则指出通胀已蔓延至多个领域，需求过热是主要因素，暗示美联储可能需要加快加息步伐。
+Anthropic 的 IPO 定价策略与 SpaceX 形成鲜明对比。Anthropic 以每股 70 至 78 美元的价格区间询价，目标估值约 1.4 万亿美元，计划通过 IPO 募资最多 644 亿美元，私募融资 260 亿美元。这与 SpaceX 在营销阶段直接设定每股 135 美元固定价格的模式不同，反映出当前市场环境和投资者情绪的变化。
 
-rss · 华尔街见闻 · 11月13日 21:54
+rss · 华尔街见闻 · 11月13日 23:44
 
-**「背景信息」** 美国财政部长贝森特和芝加哥联储主席古尔斯比就通胀的根源和美联储加息路径进行了公开辩论。贝森特认为通胀主要由能源供应冲击引起，不应激进加息。而古尔斯比则认为通胀已蔓延至多个领域，不应仅归因于能源价格上涨。这一辩论反映了华盛顿与美联储之间日益加深的政策分歧，并为美联储 12 月议息会议增添了不确定性。近期强于预期的就业和通胀数据强化了美联储继续加息的理由，部分官员甚至开始讨论在 12 月会议上采取超常规的 50 个基点加息幅度。
+**「背景信息」** Anthropic 和 SpaceX 的 IPO 策略反映了市场状况和投资者情绪。Anthropic 选择了一种更为传统的路演方式，这意味着最终 IPO 价格将在很大程度上反映机构投资者的真实需求。相比之下，SpaceX 在 2026 年 6 月上市时，市场环境较为有利，纳斯达克 100 指数当季强劲上涨，而 Anthropic 面临的市场背景明显承压，包括纳斯达克 100 指数近三个月累计下跌约 7%，AI 基础设施供给过剩的担忧，美联储加息以及中期选举结果等。
 
-**「对投资者的影响」** 这场关于通胀根源和加息路径的争论增加了市场的不确定性，可能导致股市波动。投资者应密切关注即将发布的通胀和就业数据，以及美联储 12 月议息会议的结果，以调整投资策略。
+**「对投资者的影响」** Anthropic 的 IPO 策略与 SpaceX 形成鲜明对比，这表明在当前市场环境下，科技公司的上市策略需要更加谨慎。对于投资者而言，这表明在投资科技股时需要更加关注市场环境和公司估值，尤其是在估值和融资规模上采取更为保守立场的公司可能面临更大的市场风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Austan_Goolsbee">Austan Goolsbee - Wikipedia</a></li>
-<li><a href="https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-home">Office of the President: Austan Goolsbee - Federal Reserve ...</a></li>
-<li><a href="https://www.chicagobooth.edu/faculty/emeriti/austan-d-goolsbee">Austan D. Goolsbee - The University of Chicago Booth School ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Scott_Bessent">Scott Bessent - Wikipedia</a></li>
-<li><a href="https://www.forbes.com/sites/dereksaul/2025/01/16/what-to-know-about-scott-bessent-treasury-pick-will-tout-trump-economic-golden-age-in-confirmation-hearing/">Who Is Scott Bessent ? Meet Trump Treasury Pick Facing...</a></li>
-<li><a href="https://www.cbsnews.com/news/who-is-scott-bessent-what-to-know-trump-treasury-secretary-pick/">Who is Scott Bessent ? What you need to know about... - CBS News</a></li>
-<li><a href="https://www.deloitte.com/us/en/insights/topics/economy/spotlight/us-inflation-dynamics-effect-us-economy.html">US inflation dynamics effect on US economy | Deloitte Insights</a></li>
-<li><a href="https://money.usnews.com/money/personal-finance/family-finance/articles/how-inflation-is-impacting-everyday-americans-6-stories">How Inflation Is Impacting Everyday Americans: 6 Stories</a></li>
-<li><a href="https://www.pgpf.org/article/what-is-inflation-and-why-does-it-matter/">What Is Inflation and Why Does It Matter? - The Peter G ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/History_of_SpaceX">History of SpaceX - Wikipedia</a></li>
+<li><a href="https://www.dw.com/en/musks-spacex-ipo-holds-both-promise-and-peril/a-77491986">Musk&#x27;s SpaceX IPO holds both promise and peril</a></li>
+<li><a href="https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-spacex-stock/">How to Buy SpaceX Stock (SPCX) in 2026 | The Motley Fool</a></li>
+<li><a href="https://foundershield.com/blog/tech-ipos-2023/">Tech IPOs in 2023 : A Year of Reckoning or a Year of Opportunity?</a></li>
+<li><a href="https://economictimes.indiatimes.com/tech/startups/2023-holds-little-promise-for-tech-ipos-as-slowdown-continues/articleshow/98415387.cms">Tech IPOs : 2023 holds little promise for tech IPOs as slowdown...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Inflation`, `#Federal Reserve`, `#Interest Rates`, `#Policy Debate`, `#Market Uncertainty`
+**标签**: `#IPO`, `#Market Conditions`, `#Investor Sentiment`, `#Tech IPO`, `#Anthropic`, `#SpaceX`
 
 ---
 
 <a id="item-cn-macro-7"></a>
-### [黄金价格创六月来最大单周跌幅，美联储加息预期升温](https://wallstreetcn.com/articles/3785918) ⭐️ 7.0/10
+### [美联储洛根提议市场功能性购债单独记账、尽快出售](https://wallstreetcn.com/articles/3785920) ⭐️ 7.0/10
 
-本周，黄金价格遭遇重挫，预计将创下自六月以来的最大单周跌幅。这主要由于通胀持续高企和美联储加息预期的升温。截至周五，现货金累计跌幅达 4.78%，曾一度跌至 13 个月低点。
+美联储官员洛根提议将市场功能性购债与货币政策操作分离，并承诺尽快出售相关资产，以消除市场对流动性干预的疑虑，稳定市场预期。
 
-rss · 华尔街见闻 · 11月13日 21:54
+rss · 华尔街见闻 · 11月13日 23:06
 
-**「背景信息」** 近期，由于通胀持续高企和美国联邦储备系统加息预期的升温，黄金市场承受了较大的压力。历史上，美联储的加息政策通常会导致美元走强和美债收益率上升，这对黄金价格产生负面影响，因为黄金以美元计价且不产生利息收益。此外，美联储官员近期释放的鹰派信号进一步加剧了市场的紧张情绪，例如联储理事沃勒表示支持单次加息 50 个基点，以及纽约联储主席 John Williams 等官员呼吁采取进一步行动遏制通胀。这些因素共同导致了黄金价格的下跌。
+**「美联储资产负债表管理框架调整背景」** 美联储官员洛根提出将市场功能性购债与货币政策操作分离，以消除市场对流动性干预的疑虑。这一提议发生在美联储启动对资产负债表管理框架的系统性审视之后。美联储主席沃什在 2026 年 5 月上任后，召集了五个外部专家工作组研究关键议题，其中包括资产负债表问题。这一改革旨在探索如何缩减美联储在市场中的直接介入规模，这是沃什长期以来的施政优先项之一。
 
-**「市场影响」** 黄金价格的下跌对投资者而言，意味着需要关注与黄金相关的投资组合表现，尤其是那些对黄金价格波动敏感的资产。同时，投资者也应关注美联储的加息步伐，因为这可能会对整个金融市场产生广泛影响。
+**「市场影响」** 此提议有助于市场参与者更好地理解美联储的决策逻辑，增强市场对自身持续正常运转的信心，降低联储可能需要介入的概率。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://invest.10jqka.com.cn/20260914/c679873498.shtml">美联储加息对黄金的影响 - invest.10jqka.com.cn</a></li>
-<li><a href="https://wenku.baidu.com/view/6ea3b5464f73f242336c1eb91a37f111f0850d1d.html">美联储加息降息如何影响黄金价格？一文看懂美元与黄金的关系</a></li>
-<li><a href="https://www.sohu.com/a/1077091863_122066678">美联储加息引发国际金价波动，黄金市场何去何从？_经济_影响_全球</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-13/fed-s-logan-calls-for-clearer-separation-of-market-operations">Fed’s Logan Calls for Clearer Separation of Market Operations</a></li>
+<li><a href="https://finance.biggo.com/news/293ad08f-2b60-4098-81f8-7d0f122656bf">Dallas Fed&#x27;s Logan: Separate Crisis Bond Buying From Rate ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gold Market`, `#Inflation`, `#Federal Reserve`, `#A-share Market`, `#Economic News`
+**标签**: `#Federal Reserve`, `#Monetary Policy`, `#Market Operations`, `#Regulatory Announcements`, `#A-share Market`
 
 ---
 
 <a id="item-cn-macro-8"></a>
-### [OpenAI 调整机器人研发战略](https://wallstreetcn.com/articles/3785914) ⭐️ 7.0/10
+### [高盛 2027 年宏观展望：全球经济增速略升但风险加剧](https://wallstreetcn.com/articles/3785912) ⭐️ 7.0/10
 
-OpenAI 解散独立机器人团队，将相关研究人员并入核心 AI 模型团队，转向通用 AI 模型在机器人领域的应用。这一调整旨在加快通用机器人研发，而非退出该领域。
+高盛预测 2027 年全球经济增速将从 2026 年的 2.7%升至 2.8%，但增长路径崎岖，面临下行风险。预计美联储和欧洲央行将在 2027 年底开始降息，对股市和债市构成潜在利好。
 
-rss · 华尔街见闻 · 11月13日 18:36
+rss · 华尔街见闻 · 11月13日 22:03
 
-**「背景信息」** OpenAI 此前曾设立机器人团队，但在 2020 年将其解散，转而将更多资源投入超大规模语言模型训练。2024 年，OpenAI 重新组建独立机器人团队，并与人形机器人初创公司 Figure 合作开发机器人 AI 模型。然而，这一合作于 2025 年 2 月结束。近期，OpenAI 再次调整战略，解散独立机器人团队，将相关研究人员并入公司的核心研究和应用部门，以加快通用机器人研发。
+**「背景信息」** 在 2026 年，全球经济受到伊朗战争冲击后展现出超预期的韧性。然而，高盛在 2027 年宏观展望报告中指出，尽管全球经济增速将从 2026 年的 2.7%小幅升至 2.8%，但增长路径将更为崎岖，风险天平明显向下倾斜。报告预测，能源价格正常化与持续强劲的 AI 资本开支将构成主要支撑，但金融条件收紧与财政刺激退潮将形成对冲，整体增长格局&\#x27;稳健但平淡&\#x27;。此外，高盛还列举了三大下行风险：伊朗局势再度升级、债券市场动荡以及 AI 投资周期提前见顶。
 
-**「影响」** OpenAI 解散独立机器人团队，将相关研究人员并入通用 AI 模型研发团队，这一调整可能削弱机器人领域对专用模型的依赖。通用模型在空间理解和推理能力上的进步，使得它们能够处理过去需要专门使用机器人数据训练的任务，这可能对机器人初创公司构成挑战，因为它们在真实场景数据方面的优势可能会减弱。
+**「对投资者的影响」** 高盛的 2027 年宏观展望报告对投资者来说具有重要意义。报告预测全球 GDP 增速将从 2026 年的 2.7%小幅升至 2.8%，但增长路径崎岖，存在下行风险。投资者应关注能源价格波动、债券市场动荡和 AI 投资周期提前见顶等风险。在货币政策方面，美联储和欧洲央行预计将在 2027 年底开始降息，这可能对股票和债券市场构成潜在利好。高盛建议投资者加强对冲与分散配置，以应对市场波动风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bilibili.com/video/BV139YE6REFx/?spm_id_from=333.788.recommend_more_video.2">GPT - 6 Astra 通 关了“我不是 机 器 人 ”的全部 48 关_哔哩哔哩_bilibili</a></li>
-<li><a href="https://evolink.ai/zh/blog/gemini-4-vs-gpt-6-astra">Gemini 4 vs GPT - 6 Astra ：现在接入还是等待</a></li>
-<li><a href="https://openeuler.csdn.net/6a9cb34148977663a5dd583c.html">FDE的Harnessz智能体操作系统上线： GPT - 6 Astra ...</a></li>
-<li><a href="https://news.futunn.com/post/1004489164/rise-of-general-purpose-models-prompts-scrutiny-of-specialized-model">通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队</a></li>
-<li><a href="https://news.qq.com/rain/a/20261114A057JH00">OpenAI重组具身智能团队 通用模型当机器人大脑_腾讯新闻</a></li>
+<li><a href="https://en.koreadaily.com/2027-us-economic-outlook-goldman-sachs/">2027 US economic outlook — Goldman Sachs Forecasts Growth</a></li>
+<li><a href="https://finance.yahoo.com/markets/article/goldman-sachs-sees-upside-for-sp-500-in-2027--even-as-earnings-growth-slows-185627269.html?fr=sycsrp_catchall">Goldman Sachs sees upside for S&amp;P 500 in 2027 — even as ...</a></li>
+<li><a href="https://news.futunn.com/en/post/1004508097/goldman-sachs-gsus-2027-macro-outlook-global-economy-to-accelerate">Goldman Sachs (GS.US) 2027 Macro Outlook: Global Economy to ...</a></li>
+<li><a href="https://finance.biggo.com/news/630fea9b-8592-4fd9-972f-ed51bd6f70e6">Goldman Sachs 2027 Outlook: Global GDP Seen at 2.8%, AI Capex ...</a></li>
+<li><a href="https://longbridge.com/en/news/305488952">Goldman Sachs 2027 Global Market Outlook: AI Investment ...</a></li>
+<li><a href="https://news.futunn.com/en/post/1004508097/goldman-sachs-gsus-2027-macro-outlook-global-economy-to-accelerate">Goldman Sachs (GS.US) 2027 Macro Outlook: Global Economy to ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Development`, `#Robotics`, `#OpenAI`, `#AI Strategy`, `#Robotics Research`
+**标签**: `#Global Economic Outlook`, `#Macroeconomic Forecast`, `#Monetary Policy`, `#Market Risks`, `#Stock Market Analysis`
 
 ---
 
 <a id="item-cn-macro-9"></a>
-### [全球数据中心争议影响 A 股市场及中国经济](https://wallstreetcn.com/articles/3785911) ⭐️ 7.0/10
+### [贝森特与美联储高官交锋：通胀原因与加息路径争论升温](https://wallstreetcn.com/articles/3785917) ⭐️ 7.0/10
 
-全球范围内对数据中心建设的抗议和公众担忧正在影响 A 股市场和中国的经济。这些抗议主要关注环境政策和公共情绪，导致数据中心建设放缓，进而影响了相关产业链和投资回报。
+美国财政部长与芝加哥联储主席就通胀原因和美联储加息路径公开交锋，引发政策分歧。贝森特认为通胀源于能源冲击，不应激进加息；古尔斯比则认为通胀已蔓延至服务业等领域，需求过热是关键因素。这一争论为美联储 12 月议息会议增添不确定性。
 
-rss · 华尔街见闻 · 11月13日 16:33
+rss · 华尔街见闻 · 11月13日 21:54
 
-**「背景信息」** 近年来，随着云计算和大数据技术的发展，数据中心在全球范围内迅速扩张。然而，这一趋势也引发了一系列环境和社会问题，包括能源消耗、噪音污染、土地使用等。这些问题在许多国家和地区引起了公众的广泛关注和抗议。例如，在美国、欧洲和爱尔兰等地，居民对数据中心的建设和运营表示了强烈的反对，认为这些设施对当地环境和居民生活造成了负面影响。这些抗议活动对数据中心的建设和运营产生了影响，同时也引发了关于数据中心未来发展的讨论。
+**「背景信息」** 美国财政部长贝森特和芝加哥联储主席古尔斯比就通胀的根源和美联储加息路径进行了公开辩论。贝森特认为通胀主要由能源价格上涨引起，不应激进加息。而古尔斯比则认为通胀已经蔓延到服务业、医疗等领域，并受到强劲需求推动，不应仅以能源价格上涨来解释通胀。这一辩论反映了华盛顿与美联储之间日益加深的政策分歧，并为美联储 12 月议息会议增添了不确定性。
 
-**「影响」** 数据中心的建设和运营引发了全球范围内的抗议和公众担忧，这直接影响了 A 股市场和中国的经济。由于数据中心对电力、噪音和环境的负面影响，居民对数据中心的建设表示强烈反对，这可能导致数据中心项目延期或取消，从而影响相关科技公司的业务和投资回报。
+**「对投资者的影响」** 此次美国财政部长与芝加哥联储主席就通胀原因和加息路径的争论，增加了市场对美联储 12 月议息会议的不确定性。这可能导致市场波动，投资者应密切关注相关政策和数据，以调整投资策略。特别是对于投资于与通胀和利率敏感的行业的投资者，如金融、房地产和消费类股票，应更加谨慎。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cnbeta.com.tw/articles/tech/1584460.htm">芬兰警方启动刑事预调查 Google... - cnBeta.COM</a></li>
-<li><a href="https://www.winzheng.com/article/us-data-center-movement-global-lessons">美国反 数 据 中 心 浪潮，能向海外学什么 | 赢政天下</a></li>
-<li><a href="https://content.knightfrank.com/research/2266/documents/zh-chs/chan-ye-di-chan-tou-zi-xin-re-dian-shu-ju-zhong-xin-zhuan-ti-yan-jiu-bao-gao-2020-8208.pdf">content.knightfrank.com/research/2266/documents/zh-chs/chan-ye-di...</a></li>
-<li><a href="https://www.guancha.cn/kegongliliang/2026_11_10_907833.shtml">“吞电巨兽”进村：AI 数 据 中 心 正在失去欧洲 民 心</a></li>
-<li><a href="https://www.bohaishibei.com/post/114160/">数 据 中 心 越来越招人烦 – 博海拾贝</a></li>
-<li><a href="https://www.dlyj.ac.cn/CN/abstract/article/1000-0585/78507">中国大数据中心空间配置的影响机制及社会经济效应</a></li>
-<li><a href="https://learn.microsoft.com/zh-cn/training/modules/learn-contributing-local-economies-through-datacenters/">了解如何通过数据中心为本地经济做出贡献 - Training | Microsoft Lea...</a></li>
-<li><a href="https://www.dc-se.com/articledetail.asp?ID=12998">大型数据中心如何影响地方经济与资源环境？ - 应用实践 - 文章资料 数...</a></li>
+<li><a href="https://workforcerealigned.org/people/austan-goolsbee/">Austan Goolsbee - Workforce Realigned</a></li>
+<li><a href="https://www.nytimes.com/2024/12/10/style/scott-bessent-trump-treasury.html">Scott Bessent , Trump’ s Pick for Treasury Secretary , Doesn’t Fit the...</a></li>
+<li><a href="https://www.economist.com/special-report/2026/06/01/partners-in-prime-the-fed-and-treasurys-new-relationship">Partners in prime: The Fed and Treasury’s new relationship</a></li>
+<li><a href="https://www.chicagobooth.edu/review/rate-hikes-are-costing-fed-treasury">Rate Hikes Are Costing the Fed and the Treasury | Chicago ...</a></li>
+<li><a href="https://bfi.uchicago.edu/wp-content/uploads/2026/07/BFI_WP_2026-98.pdf">How Does Monetary and Fiscal Policy Affect the Economy in the ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Data Center Protests`, `#A-share Market`, `#Economic Policy`, `#Environmental Impact`, `#Public Sentiment`
+**标签**: `#Inflation`, `#Federal Reserve`, `#Policy Debate`, `#Interest Rates`, `#Economic Policy`
 
 ---
 
 <a id="item-cn-macro-10"></a>
-### [深圳已成为中国内地首个外贸进出口超 5 万亿元的城市](https://www.cls.cn/detail/2534413) ⭐️ 7.0/10
+### [黄金价格创六月来最大单周跌幅，美联储加息预期升温施压贵金属](https://wallstreetcn.com/articles/3785918) ⭐️ 7.0/10
 
-Shenzhen becomes the first Chinese city with foreign trade exceeding 5 trillion yuan.
+本周，黄金价格遭遇重挫，预计将创下自六月以来的最大单周跌幅。这主要由于通胀持续高企和美联储加息预期的升温。截至周五，现货黄金累计跌幅达 4.78%，一度跌至 13 个月低点。
 
-rss · 财联社电报 · 11月14日 03:14
+rss · 华尔街见闻 · 11月13日 21:54
 
-**标签**: `#Economic Data`, `#Shenzhen`, `#Foreign Trade`, `#China&\#x27;s Economy`, `#Market Impact`
+**「背景信息」** 近期，美国通胀持续高企，美联储加息预期升温，对黄金市场造成压力。根据历史数据，美联储加息会导致美国短端名义利率上升，进而推动实际利率上行，使得黄金作为零息无息资产的持有机会成本上升，导致资金从黄金市场流出，转向无风险美债、美元存款等生息资产，从而对金价造成下行压力。此外，黄金定价正在发生结构性变化，从单纯关注政策利率转向同时考量美国财政信用、地缘冲突、央行储备多元化等中长期因素。例如，在 2026 年 9 月美联储议息会议前，市场加息概率升至约 60%，但现货黄金仍上涨至 4414 美元附近，对加息的敏感度明显弱于以往。
+
+**「市场影响」** 黄金价格的下跌对投资者而言，意味着需要关注贵金属市场的波动风险。特别是对于那些持有黄金作为投资组合一部分的投资者，应密切关注美联储的政策动向和市场情绪的变化。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://invest.10jqka.com.cn/20260914/c679873498.shtml">美联储加息对黄金的影响 - invest.10jqka.com.cn</a></li>
+<li><a href="https://goodsfu.10jqka.com.cn/20260916/c679973662.shtml">今夜美联储是否加息对黄金影响</a></li>
+<li><a href="https://wenku.baidu.com/view/6ea3b5464f73f242336c1eb91a37f111f0850d1d.html">美联储加息降息如何影响黄金价格？一文看懂美元与黄金的关系</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Gold Market`, `#Inflation`, `#Federal Reserve`, `#Economic News`, `#Market Trends`
 
 ---
 
 <a id="item-cn-macro-11"></a>
-### [南方五省新能源汽车产业链用电增量贡献超三成](https://www.cls.cn/detail/2534405) ⭐️ 7.0/10
+### [OpenAI 调整机器人研发战略，将机器人研究融入通用 AI 模型开发](https://wallstreetcn.com/articles/3785914) ⭐️ 7.0/10
 
-南方五省区新能源汽车产业链在 2026 年前 10 个月对全网用电增量的贡献率超过 30%，售电量占全网售电量的 17.1%，同比增长 14.8%。
+OpenAI 解散独立机器人团队，将相关研究人员并入核心研究和应用部门，以加快通用机器人研发。这一调整反映了 OpenAI 对机器人 AI 技术路径的重新评估，即通用 AI 模型可能直接承担控制机器人、执行现实世界任务的角色。
 
-rss · 财联社电报 · 11月14日 02:34
+rss · 华尔街见闻 · 11月13日 18:36
 
-**「背景信息」** 近年来，中国新能源汽车产业得到了快速发展，成为推动经济增长的重要力量。随着新能源汽车产业链的不断完善，其对能源消耗的贡献也在逐渐增加。根据历史数据，新能源汽车产业链的用电量逐年上升，对电网负荷的影响日益显著。此外，中国政府也出台了一系列政策，支持新能源汽车产业的发展，包括补贴、税收优惠等，这些政策有助于推动新能源汽车产业链的进一步扩张。
+**「背景信息」** OpenAI 早期曾设立机器人团队，但在 2020 年将其解散，转而专注于大模型的开发。2026 年 5 月底至 6 月，OpenAI 再次尝试重建机器人团队，并宣布自研人形机器人，显示出在硬件与数据闭环方面的持续探索。然而，近期 OpenAI 再次调整战略，解散独立机器人团队，将相关研究人员并入公司的核心研究和应用部门，这一变化反映了公司对机器人 AI 技术路径的重新评估。
 
-**「影响」** 这一数据表明新能源汽车产业链对电力需求的增长贡献显著，可能对相关电力和新能源汽车行业的企业产生积极影响。
+**「影响」** OpenAI 将通用 AI 模型应用于机器人控制，可能削弱机器人领域对专用模型的依赖。这一变化可能对机器人初创公司构成挑战，因为它们在真实场景数据积累和工程能力方面具有优势。同时，通用模型的局限性，如运行速度较慢和需要稳定网络连接，可能使得小型专用模型仍具有其存在价值。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.bjx.com.cn/html/20250125/1424787.shtml">news.bjx.com.cn/html/20250125/1424787.shtml</a></li>
-<li><a href="https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202508/P020250814316273519216.pdf">02B20250814C</a></li>
+<li><a href="https://www.sohu.com/a/1101170366_122066678">OpenAI机器人战略转向：模型内整合如何影响未来？</a></li>
+<li><a href="https://news.qq.com/rain/a/20261114A02AOZ00">通用模型发展引发专用模型路线拷问？OpenAI被曝解散独立机器人团队_腾...</a></li>
+<li><a href="https://m.jrj.com.cn/madapter/finance/2026/11/14081559144085.shtml">OpenAI确认解散独立机器人研究团队，称重组旨在加快通用机器人研发-电...</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/672534947">面向通用机器人的基础模型：综述和综合分析 - 知乎</a></li>
+<li><a href="https://blog.csdn.net/weixin_44887311/article/details/135148035">CMU\谷歌等最新研究综述：面向通用机器人的基础模型_lptms-CSDN博客</a></li>
+<li><a href="https://aiho.net/wiki/robot-foundation-model.html">机器人基础模型详解 2026：具身智能从专用demo走向通用部署的关键 — A...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Energy Sector`, `#New Energy Vehicles`, `#Economic Data`, `#China&\#x27;s Economy`
+**标签**: `#AI Research`, `#Robotics`, `#OpenAI`, `#AI Models`, `#Robotics Industry`
 
 ---
 
 <a id="item-cn-macro-12"></a>
-### [国家医保局纳入两款创新药进医保目录](https://www.cls.cn/detail/2534401) ⭐️ 7.0/10
+### [廖岷主持马丁·沃尔夫线上专题讲座](https://www.cls.cn/detail/2534460) ⭐️ 7.0/10
 
-国家医保局局长章轲宣布，今年有两款商保创新药成功纳入基本医保目录，标志着医保政策对创新药的进一步支持。这一政策调整将影响创新药企业和患者。
+财政部副部长廖岷主持了《金融时报》副主编兼首席经济评论员马丁·沃尔夫的线上专题讲座，讨论了全球宏观经济形势。
 
-rss · 财联社电报 · 11月14日 02:13
+rss · 财联社电报 · 11月14日 07:05
 
-**「背景信息」** 自去年以来，国家医保局推出了商保创新药目录，旨在为高价自费特效药提供明确的报销依据，解决患者用不起前沿疗法的痛点。这一政策为构建“基本医保 + 商保”的多层次医疗保障体系奠定了基础。同时，医保部门围绕创新药准入和支付机制推出了一系列举措，包括参照药预沟通、预申报机制、优化创新药价格预谈判等，以帮助企业提前明确市场定位和价格预期。
+**「背景信息」** 近期，全球宏观经济形势引起了广泛关注。在此背景下，财政部副部长廖岷主持了《金融时报》副主编兼首席经济评论员马丁·沃尔夫的线上专题讲座。马丁·沃尔夫是国际知名的经济学家，他的讲座内容涉及全球宏观经济形势，对于理解当前经济形势具有重要意义。此外，世界银行发布的《全球经济展望》报告也提供了对世界经济趋势、政策、GDP 增长、风险和通胀率等方面的分析，有助于更全面地了解全球经济形势。
 
-**「影响」** 这一政策将促进创新药企业的市场发展，同时为患者提供更多治疗选择，但可能增加医保基金的压力。
+**「影响分析」** 此次讲座可能对投资者和分析师理解全球宏观经济形势及其对中国经济的影响具有重要意义。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://xinwen.bjd.com.cn/content/s695b62f4e4b0687a288f4cd2.html">什 么 是 商 保 创 新 药 品 目 录 ？ 如何查询 目 录 内 药 品信息？ 一文读懂</a></li>
-<li><a href="https://post.smzdm.com/p/amoqdogv/">post.smzdm.com/p/amoqdogv</a></li>
-<li><a href="https://m.huize.com/study/detail-497660.html">有没有 保 险，以后看病用的 药 都不一样！_ 慧择 保 险网</a></li>
+<li><a href="https://www.ft.com/">News, analysis and opinion from the Financial Times on the latest in...</a></li>
+<li><a href="https://www.worldbank.org/en/publication/global-economic-prospects">Global Economic Prospects</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Healthcare Policy`, `#Innovation Drug`, `#Medical Insurance`, `#A-share Market`, `#Regulatory Announcement`
+**标签**: `#Economic Lecture`, `#Macroeconomic Analysis`, `#Financial Times`, `#Martin Wolf`, `#China&\#x27;s Economy`
 
 ---
 
 <a id="item-cn-macro-13"></a>
-### [中国清洁能源发展展望](https://www.cls.cn/detail/2534381) ⭐️ 7.0/10
+### [吴清：新经济领域公司在 A 股市场占比超半数](https://www.cls.cn/detail/2534431) ⭐️ 7.0/10
 
-中国宏观经济研究院发布报告预测，到 2030 年，我国新增清洁能源电量将覆盖全部新增用电量。目前，风电、光伏等清洁能源发电已成为新增装机的主体，并逐步成为发电主力。今年前三季度，全国可再生能源发电量超过 3 万亿千瓦时，占全部发电量的比重超过四成。
+证监会主席吴清指出，A 股市场新经济领域公司在数量、营收、市值方面均占比超过一半，显示出产业转型和现代化产业体系建设取得显著进展。
 
-rss · 财联社电报 · 11月14日 00:40
+rss · 财联社电报 · 11月14日 04:17
 
-**「背景信息」** 近年来，中国可再生能源发展迅速，风电、光伏等清洁能源发电已成为新增装机的主体。根据中国宏观经济研究院发布的《中国能源转型展望 2026》，今年前三季度，全国可再生能源发电量超过 3 万亿千瓦时，占全部发电量的比重超过四成。这一趋势表明，中国在能源转型和清洁能源发展方面取得了显著成就。
+**「背景信息」** 近年来，中国证监会一直致力于推动产业结构调整和现代化产业体系建设。在此背景下，新经济领域公司在 A 股市场的占比逐渐增加。此前，A 股市场以传统行业为主，而新经济领域公司的发展表明了中国经济结构的转型升级。这一趋势与国家推动创新驱动发展战略相一致，旨在培育新的经济增长点，提高市场活力。
 
-**「影响」** 这一预测表明，清洁能源将成为支撑我国电力需求增长的主要来源，对能源行业和更广泛的经济产生重大影响。投资者应关注清洁能源相关领域的投资机会，同时关注政策实施过程中的潜在风险。
+**「影响分析」** 这一变化表明，新经济领域已成为 A 股市场的重要力量，对投资者而言，关注新经济领域的公司可能成为获取投资机会的关键。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://usercontent.one/wp/www.cet.energy/wp-content/uploads/2024/11/CET_%E4%B8%AD%E5%9B%BD%E8%83%BD%E6%BA%90%E8%BD%AC%E5%9E%8B%E5%B1%95%E6%9C%9B2024_%E6%89%A7%E8%A1%8C%E6%91%98%E8%A6%81-20241108.pdf">usercontent.one/wp/www.cet.energy/wp-content/uploads/2024/11/CET...</a></li>
-<li><a href="https://paper.people.com.cn/rmrb/pc/attachement/202605/11/bd8fa02c-e6c7-47b5-b12c-4fc44c88260e.pdf">Solar</a></li>
-<li><a href="https://cpnn.com.cn/news/hg/202606/t20260618_1895955.html">生态环境部： 中 国 能 源 转 型 、碳市场建设等成就显著-- 中 国 能 源 新闻网</a></li>
+<li><a href="https://qks.shufe.edu.cn/J/PDFFull/A20190304XB.pdf">Journal of Shanghai University of Finance and Economics</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Renewable Energy`, `#Chinese Economy`, `#Energy Policy`, `#Electricity Generation`, `#Clean Energy Transition`
+**标签**: `#A-share Market`, `#Economic Data`, `#Market Composition`, `#Regulatory News`
 
 ---
 
 <a id="item-cn-macro-14"></a>
+### [吴清强调深化人工智能与资本市场双向赋能研究](https://www.cls.cn/detail/2534430) ⭐️ 7.0/10
+
+证监会主席吴清在 2026 中国资本市场学术年会上提出，需深化人工智能与资本市场的双向赋能研究。他强调，资本市场应积极适应新技术变革，同时防范 AI 相关风险，包括算法黑箱、AI 网络攻击等。
+
+rss · 财联社电报 · 11月14日 04:09
+
+**「背景信息」** 近年来，人工智能技术在资本市场中的应用日益广泛，对投资决策、风险管理和市场运行逻辑产生了深远影响。在此背景下，证监会主席吴清提出深化人工智能与资本市场双向赋能研究，旨在推动资本市场适应新技术变革，同时防范 AI 相关风险。这一提议与当前中国资本市场的发展趋势和监管政策密切相关，反映了监管部门对技术创新与风险管理的关注。
+
+**「影响」** 这一政策将推动相关‘硬科技’企业的发展，并有效增进社会福祉。同时，投资者应关注 AI 在资本市场中的应用可能带来的风险，如数据安全和系统风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bjnews.com.cn/detail/1793000575129216.html">建言中国 资 本 市 场 ｜武泽伟：破解AI...</a></li>
+<li><a href="https://www.yemacaijing.com/Index/view/id/91595.html">南方基金：锚定国家战略 赋 能 资 本 市 场 高质量发展</a></li>
+<li><a href="https://www.ysu.edu.cn/info/5423/45924.htm">浙江大学探索构建“ 智 库+学科” 双 向 赋 能 育 人 新模式-燕山大学</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Artificial Intelligence`, `#Capital Market`, `#Regulatory Announcement`, `#Technology Integration`, `#Financial Risk Management`
+
+---
+
+<a id="item-cn-macro-15"></a>
+### [A 股新经济公司表现突出](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ca3hBNGpBb1c3dFFBeHJjOVFXSU5fejhDWUhEeURTOXFmNHlxc3ZyQm9sbDg3eDljMm95WU1ld0xpaS1jbm9MVXo2dHpmeG5DV2MtaTRMQ0RhS25WaElRR2I0azU3dEZV?oc=5) ⭐️ 7.0/10
+
+中国 A 股市场新经济公司在数量、营收和市值方面均占比超过一半，显示出新经济在 A 股市场中的重要地位。
+
+google\_news · 中国新闻网 · 11月14日 07:12
+
+**「背景信息」** 近年来，中国 A 股市场经历了显著的结构性变化。新经济公司，如科技、互联网和消费服务行业的企业，逐渐成为市场的主导力量。这些公司以其创新能力和高增长潜力吸引了大量投资者。在此背景下，新经济公司在 A 股市场的占比逐渐上升，反映了市场对于创新和科技行业的重视。此外，中国政府对新兴产业的支持政策，如减税和融资便利化，也促进了新经济公司的发展。
+
+**「影响分析」** 这一变化可能对投资者关注的新经济领域带来积极影响，尤其是那些投资于新经济公司的投资者可能会看到投资回报的提升。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=kUf7bCgA6RQ">youtube.com/watch?v=kUf7bCgA6RQ</a></li>
+<li><a href="https://www.journal.sdu.edu.cn/__local/A/8B/5F/B7A56984B363B550D5BC5BF0FB8_0BD3AF69_B9D81.pdf">学者独立董事需要“安全感”吗</a></li>
+<li><a href="https://www.hkira.com/en/resources/views160118.pdf">hkira.com/en/resources/views160118.pdf</a></li>
+
+</ul>
+</details>
+
+**标签**: `#A-share Market`, `#Chinese Economy`, `#New Economy`, `#Market Statistics`
+
+---
+
+<a id="item-cn-macro-16"></a>
+### [A 股上市公司专项贷款落地提速](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IcVcxUWJsckhXY3Q5bzNuMXlLblVXMlFJNWxkRTlrdkpLdV9fdWk3ZVU1RGZybUg3NlZpbHVXRHZvQ1VUQndOVU5RUTVoQWNsNldPRmtvTVl3R2dSakZUcA?oc=5) ⭐️ 7.0/10
+
+中国加强对 A 股上市公司的支持，推出股票回购增持再贷款政策，并加速专项贷款的落地，旨在提高资金流动性，支持上市公司发展。
+
+google\_news · 证券之星 · 11月13日 23:43
+
+**「背景信息」** 中国人民银行设立了股票回购增持再贷款，旨在引导金融机构向上市公司和主要股东提供贷款，以支持其回购和增持上市公司股票，从而推动上市公司积极运用回购、股东增持等工具进行市值管理。这一政策的实施，为 A 股市场注入了新的活力，有助于提升市场信心和稳定股价。
+
+**「影响分析」** 此政策将有助于提高 A 股市场的资金流动性，对上市公司尤其是那些资金紧张的中小企业构成利好，可能促进股价上涨。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.gov.cn/zhengce/zhengceku/202410/content_6981220.htm">中国人民银行 金融监管总局 中国证监会关于设立股票回购增持再贷款有...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Chinese Macroeconomy`, `#A-share Market`, `#Policy Changes`, `#Regulatory Announcements`
+
+---
+
+<a id="item-cn-macro-17"></a>
+### [10 月高频数据折射中国经济稳中向好态势](https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UldwU3pDUzFQOEVubU9JSUtab00tVWZWNDYwalJqWEM2VlNNOXRocmVPbk5YVUhYUm5TN2hsenZyT0p3aE9ZR2VwT0hPcThwckd2UXR1RjlUZFU4eGpnTA?oc=5) ⭐️ 7.0/10
+
+10 月高频数据显示，中国经济呈现出稳中向好的态势。这一趋势对于关注中国宏观经济和 A 股市场的读者来说具有重要意义。
+
+google\_news · 同花顺财经 · 11月14日 00:04
+
+**「背景信息」** 在分析 10 月高频数据之前，中国宏观经济政策一直致力于稳定经济增长。近年来，政府实施了一系列措施，包括减税降费、优化金融环境、推动供给侧结构性改革等，以促进经济平稳健康发展。这些政策对于稳定市场预期和增强市场活力起到了积极作用。
+
+**「影响分析」** 这一经济趋势对投资者而言，意味着需要关注与经济稳定增长相关的行业和公司，尤其是那些受益于国内消费和投资增长的领域。
+
+**标签**: `#Chinese Economy`, `#A-share Market`, `#Economic Data`, `#Market Trends`, `#Stable Growth`
+
+---
+
+<a id="item-cn-macro-18"></a>
+### [10 月高频数据折射中国经济稳中向好态势](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYjBMUmlIQmIwVWNlVmdxRGtkajJ6dkxDUmZWMVlDVDVGa19jWlVnQlZuU2R2elJNUDVNLUhpSzd5YjdoOXpsb2ZIZDg0UEdtSUhYRmMtZktwVUhtbTdVbFFLcEI4dw?oc=5) ⭐️ 7.0/10
+
+10 月高频数据显示，中国经济呈现稳中向好的态势。具体数据与预期相符，反映出经济趋势的稳定和改善，这是一次常规的数据更新，并非突破性或意外的事件。
+
+google\_news · 东方财富 · 11月13日 17:31
+
+**「背景信息」** 根据 10 月的高频数据，中国经济呈现出稳中向好的态势。这一趋势与市场预期相符，表明中国经济正在稳步改善。这种数据更新是常规性的，并非具有突破性或令人惊讶的事件。
+
+**「影响分析」** 这一经济趋势对投资者而言，意味着市场可能继续稳定增长，但投资者应关注潜在的风险，如政策变动或外部经济环境的不确定性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html">PPI inflation report October 2026</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Chinese Economy`, `#Economic Data`, `#Market Trends`, `#China Stock Market`
+
+---
+
+<a id="item-cn-macro-19"></a>
 ### [企业贷款利率首破 3%，再创新低](https://news.google.com/rss/articles/CBMickFVX3lxTE9DZG95VDdQTWJCcDJwbmtVVFFlLU5PUzNJVzl3VXlmbEtLWHNMQV9VLWZuYUo4SWM1M19KSjdiNnJraWs3TC1wamRQNTBCaDQtejVWLXByQl8waWRSWUJjdklaYjVIOGx4RVExaXRRVVNpQQ?oc=5) ⭐️ 7.0/10
 
 中国企业贷款利率首次突破 3%，创下新低。这一变化超出市场预期，将对多个行业产生影响。
 
 google\_news · 手机新浪网 · 11月14日 01:48
 
-**「背景信息」** 近年来，中国央行多次下调基准利率，以刺激经济增长和促进信贷扩张。这一政策背景导致了企业贷款利率的持续下降。此外，全球金融危机后，各国央行普遍采取了宽松的货币政策，这也对中国企业贷款利率产生了影响。
+**「背景信息」** 中国贷款市场报价利率（LPR）是由各报价行根据其对最优质客户执行的贷款利率，按照公开市场操作利率加点形成的方式报价，由中国人民银行授权全国银行间同业拆借中心计算得出并发布的利率。自上世纪 90 年代以来，中国的贷款利率经历了从直接调控到间接调控的转变，特别是 2019 年 LPR 改革标志着利率市场化基本完成，形成了以 MLF 利率、LPR 和贷款利率为传导机制的利率体系。这一改革旨在提高利率的市场化程度，增强利率政策的传导效率。
 
 **「影响」** 这一低利率环境可能刺激企业贷款需求，尤其是对中小企业而言，有助于降低融资成本，但同时也可能加剧金融风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=ABRdFe03L4c">youtube.com/watch?v=ABRdFe03L4c</a></li>
-<li><a href="https://nc.bendibao.com/live/2024521/87827.shtm">南昌下调个人住房公积金 贷 款 利 率 - 南昌本地宝</a></li>
-<li><a href="https://daikuanyy.com/">daikuanyy.com</a></li>
+<li><a href="https://www.boc.cn/fimarkets/lilv/fd32/201310/t20131031_2591219.html">贷款市场报价利率（LPR） - 中国银行</a></li>
+<li><a href="https://wenku.baidu.com/view/27b8bac222fff705cc1755270722192e453658fc.html">中国贷款利率历史演变全景分析（1990-2024）_百度文库</a></li>
 
 </ul>
 </details>
@@ -410,399 +517,353 @@ google\_news · 手机新浪网 · 11月14日 01:48
 
 ---
 
-<a id="item-cn-macro-15"></a>
-### [中国经济连续增长达到历史新高](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9USGNLekZCNFMyeFZPbF9TTzVwQnRRSm5lLTVId0ttTDFabG1oM3dJTlpULURGTjcxUWNLZ01BaEV4c21EWWRlSQ?oc=5) ⭐️ 7.0/10
-
-中国经济连续增长，达到历史新高，这一变化对追踪中国经济的读者具有重要价值。
-
-google\_news · 凤凰网 · 11月14日 01:51
-
-**「背景信息」** 近年来，中国经济经历了结构调整和增长模式转变的过程。根据历史数据，中国经济在过去的一段时间内保持了平稳增长，并在全球主要经济体中名列前茅。中国政府将‘四稳’作为下一步经济工作的着力点，旨在稳定经济增长，延续向新向好态势。在全球经济形势下，中国经济持续展现强劲韧性，为当前的连续增长奠定了基础。
-
-**「影响分析」** 这一增长对投资者来说是一个积极的信号，可能促使他们增加对中国股市的投资。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.aisixiang.com/data/83086.html">唐毅南： 中 国 经 济 真是“粗放式 增 长 ”吗_爱思想</a></li>
-<li><a href="https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202604/P020260417316524616241.pdf">03B20260417C</a></li>
-<li><a href="https://wl.hanzhong.gov.cn/hzwlwz/lyjq/202506/025d31b0d4bc41e6838954dd185df869.shtml">wl.hanzhong.gov.cn/hzwlwz/lyjq/202506/025d31b0d4bc41e6838954dd...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#中国经济`, `#股市`, `#经济增长`, `#政策变化`, `#经济数据`
-
----
-
-<a id="item-cn-macro-16"></a>
-### [10 月金融数据及市场动态摘要](https://news.google.com/rss/articles/CBMickFVX3lxTE5tT19zNkZmQVc5ZDVtZ3k3VHFVVHFmNGpUNG0yeW9xenFmOEFGM2xrbjRKenUtbzVITHdEbTJIV0xKYm1kbk9fZi1CSjVkTEtBeHFUTlJwdVZGSUdFYWxjY2VBT3BENXVLLWdKNmFyYU9kdw?oc=5) ⭐️ 7.0/10
-
-10 月金融数据公布，央行缩量逆回购操作；储能政策正式实施；上交所对高标股票进行严格监管，四连板个股被特别停牌；高盛预计标普 500 指数未来一年将上涨 14%。
-
-google\_news · 金融界 · 11月14日 00:50
-
-**「背景信息」** 10 月金融数据的发布反映了中国经济的基本面。在此之前，中国央行已经宣布进行 5000 亿元人民币的逆回购操作，以维持银行体系的流动性。此外，央行正在研究将隔夜回购利率作为主要政策利率，这是货币政策传导机制改革的一部分。这些政策和数据为 10 月金融数据的解读提供了背景。
-
-**「市场影响」** 央行缩量逆回购和上交所对高标股的监管特停将对市场产生直接影响。缩量逆回购可能预示着央行对流动性的收紧，可能对股市资金面产生压力。而上交所的监管行动可能对市场投机行为产生抑制作用，尤其是对四连板个股的特停可能引发市场对高风险股票的谨慎态度。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026">World Economic Outlook, October 2026: Resilience Under Strain ...</a></li>
-<li><a href="https://english.www.gov.cn/news/202608/04/content_WS6a71e534c6d00ca5f9a0c89e.html">China&#x27;s central bank to conduct 500-billion-yuan outright ...</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/chinas-central-bank-studies-making-overnight-rate-its-main-policy-rate-2026-10-19/">China&#x27;s central bank studies making overnight rate its main ...</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/chinas-central-bank-conduct-overnight-reserve-repos-every-working-day-november-2-2026-10-30/">China&#x27;s central bank steps up shift toward overnight rate as ...</a></li>
-<li><a href="https://www.cnbc.com/quotes/.SSEC">SSEC: Shanghai - Stock Price, Quote and News - CNBC</a></li>
-<li><a href="https://www.tradinghours.com/markets/sse">SSE Market Hours &amp; Holidays 2026 - 2027 - TradingHours.com</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Chinese economy`, `#A-share market`, `#central bank policy`, `#regulatory news`, `#market outlook`
-
----
-
 ## 全球市场
 
 <a id="item-global-market-1"></a>
 ### [芝加哥联邦储备银行行长 Goolsbee 表示央行在通胀问题上“肯定有工作要做”](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) ⭐️ 7.0/10
 
-芝加哥联邦储备银行行长 Austan Goolsbee 对最新的通胀数据表示担忧，表示央行可能需要采取行动。他提到，生产者价格指数在 10 月份上涨了 0.3%，低于预期，但年增长率为 6.5%，为 2022 年 11 月以来的最高值。Goolsbee 指出，美联储已经超过 2%的通胀目标近六年，但最近进展缓慢，甚至有倒退的趋势。
+芝加哥联邦储备银行行长 Austan Goolsbee 对最新的通胀数据表示担忧，表示央行可能需要采取行动来恢复其信誉。他提到，生产者价格指数在 10 月份上涨了 0.3%，低于预期，但年增长率为 6.5%，为 2022 年 11 月以来的最高值。Goolsbee 指出，美联储已经超过 2%的通胀目标近六年，但最近进展缓慢，甚至有倒退的趋势。
 
 rss · CNBC Finance · 11月13日 14:22
 
-**「背景信息」** 在芝加哥联邦储备银行行长奥斯坦·古尔斯比表达对通胀担忧之前，美国经济已经面临持续的通胀压力。古尔斯比指出，当前货币政策略微具有限制性，倾向于保持利率稳定，直到通胀明显下降。此外，前瞻性指标显示通胀可能不会很快大幅下降，这引发了关于通胀预期上升的担忧。古尔斯比还强调了住房服务领域价格增长过大是美联储将通胀恢复到 2%目标的主要障碍。
+**「背景信息」** 美国联邦储备银行芝加哥分行行长奥斯汀·古尔斯比（Austan Goolsbee）对最新的通胀数据表示担忧。他提到，美联储可能需要采取行动来恢复其信誉。古尔斯比指出，美联储已经超过 2%的通胀目标近六年，尽管有时取得了一些进展，但最近并没有取得进展，甚至有倒退的趋势。古尔斯比还提到，通胀比预期的更为持久，现在又出现了由 AI 数据中心建设带来的传统需求过热问题。此外，美联储官员克里斯托弗·沃勒（Christopher Waller）表示，他愿意根据本周的通胀数据考虑进行 50 个基点的加息。
 
-**「影响」** Goolsbee 的言论可能导致市场对美联储未来政策行动的预期发生变化，进而影响金融市场和货币汇率。
+**「影响」** Goolsbee 的言论可能对市场产生直接影响，尤其是对美联储未来政策方向的预期。市场目前预计美联储在 12 月 8-9 日的会议上将加息 0.25 个百分点，超过 10%的概率将加息 0.5 个百分点。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/millions-capital_the-chicago-federal-reserves-goolsbee-activity-7392328649951318016-cgI3">The Chicago Federal Reserve &#x27;s Goolsbee highlights uncertainty in...</a></li>
-<li><a href="https://www.newsmax.com/finance/streettalk/federal-reserve-inflation-interest-rates/2024/04/04/id/1159816/">Fed&#x27;s Goolsbee: Biggest Inflation Danger Is Housing | Newsmax.com</a></li>
-<li><a href="https://ainsliebullion.com.au/news-resources/article/housing-biggest-driver-of-inflation-e2-80-93-are-interest-rates-the-fuel-/id/3152">Housing biggest driver of inflation – are interest rates... | Ainslie Bullion</a></li>
+<li><a href="https://www.chicagofed.org/Home/">Federal Reserve Bank of Chicago</a></li>
+<li><a href="https://www.chicagofed.org/publications/chicago-fed-letter/2026/529">Flash PCE: A Mid-Month Inflation Nowcast - Federal Reserve ...</a></li>
+<li><a href="https://www.federalreserve.gov/monetarypolicy/beigebook202607-summary.htm">Monetary Policy: Beige Book (Branch) - Federal Reserve Board</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Inflation`, `#Central Bank Policy`, `#Financial Markets`, `#Economic Data`, `#Rate Hike Expectations`
+**标签**: `#Inflation`, `#Central Bank Policy`, `#Economic Analysis`, `#Market Expectations`, `#Chicago Fed`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [Nvidia 股价连续六周下跌，市值蒸发 5730 亿美元](https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories) ⭐️ 7.0/10
-
-Nvidia 股价连续六周下跌，市值蒸发 5730 亿美元，创下了 14 年来的最大跌幅。
-
-rss · MarketWatch Top Stories · 11月13日 22:21
-
-**「背景信息」** Nvidia 的股价在 2026 年经历了显著的下跌，其市场资本化损失了 5730 亿美元，这是连续六周的股票下跌。这一情况与 AI 需求的强劲形成鲜明对比，因为通常情况下，强劲的需求会推动股价上涨。Nvidia 在截至 2026 年 7 月 26 日的季度报告显示，其收入为 962 亿美元，同比增长 106%，数据中心收入为 890 亿美元。然而，尽管业绩强劲，其股价仍出现下跌。这一下跌可能与多种因素有关，包括投资者对未来预期的变化、CEO 黄仁勋的调查、以及与中国芯片出口相关的风险。
-
-**「市场影响」** Nvidia 股价的连续下跌对市场产生了显著影响，尤其是对科技股和半导体行业。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://blog.neostox.com/us-stocks/why-is-nvidia-stock-dropping-key-reasons-investor-selling-and-downside-risks">Why Is Nvidia Stock Dropping? Reasons and Risks (Oct 2026 ...</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-losing-market-2026-020500373.html?fr=sycsrp_catchall">Nvidia Stock Is Losing to the Market in 2026. Time to Walk ...</a></li>
-<li><a href="https://www.indmoney.com/blog/us-stocks/why-is-nvidia-stock-falling-jensen-huang-affair-china-chip-claims">Why Is Nvidia Stock Falling? CEO Jensen Huang ... - INDmoney</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Equities`, `#Market Capitalization`, `#Stock Decline`, `#Nvidia`
-
----
-
-<a id="item-global-market-3"></a>
-### [美联储最新调查显示人工智能成为金融体系最大担忧](https://reut.rs/4sZ2gcN) ⭐️ 7.0/10
+### [美联储最新调查显示人工智能成金融体系最大担忧](https://reut.rs/4sZ2gcN) ⭐️ 7.0/10
 
 美联储最新调查显示，人工智能已成为金融体系最令人担忧的问题。
 
 rss · 路透社 Reuters · 11月13日 22:58
 
-**「背景信息」** 根据美联储发布的最新金融稳定报告，人工智能已成为金融体系中最令人担忧的问题。这份报告是在 2026 年 11 月 13 日发布的，其中指出，在美联储对银行、经纪商、投资基金和顾问公司进行的调查中，87%的受访者将人工智能视为最大的风险。这一发现反映了市场对人工智能在金融领域应用的担忧，特别是在其潜在风险方面。
+**「背景信息」** 美联储近期对人工智能在金融体系中的影响表示了严重关切。此前，美联储曾密切监测数据中心的建设，以评估其对金融体系的风险。在人工智能领域出现下滑的情况下，债务违约的规模可能超过当前资产负债表所显示的规模。此外，金融专家指出，技术投资者的潜在损失与银行和信贷市场损失蔓延的风险相比，后者更为严重。
 
 **「影响」** 这一调查结果可能引发市场对人工智能在金融领域应用的进一步关注和监管讨论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html">AI risks are biggest threat to the financial system, Fed ...</a></li>
-<li><a href="https://www.reuters.com/business/finance/ai-rockets-top-worries-about-financial-system-latest-fed-survey-2026-11-13/">AI rockets to top of worries about financial system in latest ...</a></li>
-<li><a href="https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/">AI tops the risks to the financial system in the Fed&#x27;s survey ...</a></li>
+<li><a href="https://finance.yahoo.com/economy/policy/article/fed-says-its-monitoring-the-data-center-build-out-for-risks-to-the-financial-system-224116947.html">Fed says it&#x27; s monitoring the data center build-out for risks to the...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html">Jensen Huang’ s ouster tests Nvidia’ s role as the ‘central bank of AI...</a></li>
+<li><a href="https://www.nytimes.com/spotlight/artificial-intelligence">Artificial Intelligence - The New York Times</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Federal Reserve`, `#Artificial Intelligence`, `#Financial System`, `#Market Concerns`, `#Central Banking`
+**标签**: `#Federal Reserve`, `#Artificial Intelligence`, `#Financial System`, `#Market Concerns`, `#Reuters`
+
+---
+
+<a id="item-global-market-3"></a>
+### [爱尔兰警方发现爆炸装置，影响全球市场](https://reut.rs/4t2TPgP) ⭐️ 7.0/10
+
+爱尔兰警方在世界各国领导人前一天用餐地点附近发现了一枚爆炸装置，这一事件可能引发全球市场的担忧，尤其是如果与地缘政治紧张或安全关切有关。
+
+rss · 路透社 Reuters · 11月13日 22:25
+
+**「背景信息」** 近期爱尔兰警方在北爱尔兰边界附近发现了一枚爆炸装置，这表明该地区可能存在分裂主义活动。此外，爱尔兰民族主义者曾向警方投掷汽油弹，并在伦敦德里附近成功拆除了另一枚爆炸装置。这些事件表明，爱尔兰地区的安全形势可能对全球市场产生潜在影响。
+
+**「市场影响」** 这一安全事件可能导致全球市场短期内出现波动，尤其是对地缘政治敏感的资产和货币。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://insiderpaper.com/irish-police-find-explosive-device-in-car-near-border/">Irish police find explosive device in car near border - Insider Paper</a></li>
+<li><a href="https://www.youtube.com/watch?v=hkD-NuS9-Ss">N. Ireland police investigating explosive device attacked... - YouTube</a></li>
+<li><a href="https://www.nbcnews.com/news/world/explosive-thrown-house-former-irish-nationalist-leader-gerry-adams-n891431">Explosive thrown at house of former Irish nationalist leader</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Security Incident`, `#Geopolitical Tensions`, `#World Leaders`, `#Market Implications`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [爱尔兰警方发现爆炸装置](https://reut.rs/4t2TPgP) ⭐️ 7.0/10
+### [美国联邦航空管理局暂停所有出港航班](https://reut.rs/4Axb4JG) ⭐️ 7.0/10
 
-爱尔兰警方在世界各国领导人前一天用餐地点附近发现了一枚爆炸装置，这一事件可能对全球安全和政治关系产生重大影响。
+美国联邦航空管理局（FAA）因空中交通管制中心通信故障，于 11 月 13 日发布全国地面停飞令，暂停所有出港航班。已在空中的飞机仍可继续飞行和降落，入境国际航班按个案处理。FAA 技术人员正在调查故障原因。
 
 rss · 路透社 Reuters · 11月13日 22:25
 
-**「背景信息」** 在爱尔兰首都都柏林举行的两日峰会期间，世界领导人曾在一天前在某地用餐。随后，爱尔兰警方在峰会地点附近发现了一枚爆炸装置。这一事件引起了全球安全和政治关系方面的关注。
+**「背景信息」** 美国联邦航空管理局（FAA）此前曾因类似原因发布全国性地面停飞令。例如，2026 年佛罗里达州 Learjet 60 坠毁事故中，FAA 确认事故发生于当地时间约 12 时 50 分，飞机坠毁于居民区。此外，FAA 也担心在 46 个主要大都市部署的 5G 移动服务可能会限制飞机上依赖雷达高度计的自动化系统的使用，从而导致航班延误和取消。这些历史事件表明，FAA 对于航空安全的重视以及对于可能影响飞行安全的因素的密切关注。
 
-**「影响分析」** 这一发现可能引发全球对领导人安全的关注，并对国际政治关系产生潜在影响。
+**「影响」** 此次航班暂停可能导致全球金融市场波动，尤其是对航空业和与航空相关的商品市场产生影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.reuters.com/world/irish-police-discover-explosive-device-near-where-world-leaders-dined-day-2026-11-13/">Irish police discover explosive device near where world ...</a></li>
-<li><a href="https://metroradio.com.hk/news/details.aspx?NewsId=20261114063510">Irish police discover explosive device near where world ...</a></li>
-<li><a href="https://www.vietnam.vn/en/phat-hien-vat-lieu-no-gan-noi-cac-nha-lanh-dao-the-gioi-an-toi-o-ireland">Explosive materials discovered near where world leaders dined ...</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9ELearjet_60%E5%9D%A0%E6%AF%81%E4%BA%8B%E6%95%85">2026年佛罗里达州Learjet 60坠毁事故 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://huaren.us/showtopic.html?topicid=3228181&amp;page=2">美 国 联 邦 航 空 局 （ FAA ）全 国 性地面停飞令 - 第2页 | 华人网</a></li>
+<li><a href="https://juejin.cn/pin/7028115946522804237">美 国 联 邦 航 空 管 理 局 （ FAA ）担心在 46...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Security Alert`, `#World Leaders`, `#Geopolitical Event`, `#Explosive Device`
+**标签**: `#aviation`, `#FAA`, `#flight suspension`, `#global financial markets`, `#aviation news`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [美国 FAA 因特殊情况暂停所有出港航班](https://reut.rs/4Axb4JG) ⭐️ 7.0/10
+### [委内瑞拉政治转型吸引外国投资者](https://reut.rs/4zfXfOD) ⭐️ 7.0/10
 
-美国联邦航空管理局（FAA）因特殊情况暂停了所有出港航班。
+随着委内瑞拉和美国政治转型的进行，外国投资者纷纷涌向加拉加斯。这一趋势可能对全球金融市场产生重大影响。
 
-rss · 路透社 Reuters · 11月13日 22:25
+rss · 路透社 Reuters · 11月13日 21:21
 
-**「背景信息」** 美国联邦航空管理局（FAA）于 2026 年 11 月 13 日因特殊情况暂停了所有出港航班。这一决定是在考虑到安全因素后做出的，并要求所有飞机停留在地面，直到进一步通知。这一罕见的全国性地面停飞命令可能对全球金融市场产生广泛影响。
+**「背景信息」** 委内瑞拉自 1830 年脱离大哥伦比亚共和国成为独立国家以来，其领导人更迭反映了从考迪罗统治、民主转型到“玻利瓦尔革命”的复杂历程。近两个世纪的演变中，石油财富与民众诉求的互动构成了权力变迁的主线。近年来，委内瑞拉政治环境动荡，政府与反对派之间的政治对话陷入僵局，这为外国投资者带来了不确定性。在此背景下，委内瑞拉的政治转型以及美国政策的变化，使得外国投资者对加拉加斯的兴趣日益浓厚。
 
-**「市场影响」** 这一决定可能导致全球航空市场出现混乱，影响航空公司的运营和旅客的出行计划。
+**「影响」** 外国投资者的涌入可能会对委内瑞拉的经济复苏产生积极影响，并可能对全球石油市场产生波动。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thenationalpulse.com/2026/11/13/faa-grounds-every-departing-flight-extraordinary-circumstances/">BREAKING: FAA Grounds Every Departing Flight... - The National Pulse</a></li>
-<li><a href="https://nypost.com/2026/11/13/us-news/planes-halted-across-us-as-faa-issues-nationwide-ground-stop-over-extraordinary-circumstances/">Planes halted across US as FAA issues nationwide ground stop over...</a></li>
-<li><a href="https://www.nine.com.au/world-news/usa/flights-grounded-in-us-for-safety-reasons-20261114-p61e3w.html">Flights grounded in US in ‘ extraordinary circumstances ’ | Nine.com.au</a></li>
+<li><a href="https://www.toutiao.com/article/7591519582444110371/">委内瑞拉历任领导人：从民主摇篮到政治裂变 - 今日头条</a></li>
 
 </ul>
 </details>
 
-**标签**: `#aviation`, `#FAA`, `#flight suspension`, `#global financial markets`, `#aviation disruption`
+**标签**: `#Political Transition`, `#Foreign Investment`, `#Venezuela`, `#Global Financial Markets`, `#Central Banks`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [伊朗革命卫队称两艘油轮在霍尔木兹海峡触雷](https://reut.rs/4kfcmEn) ⭐️ 7.0/10
+### [美国延长航运法豁免期 90 天](https://reut.rs/4C28pcu) ⭐️ 7.0/10
 
-伊朗革命卫队报告称，两艘油轮在霍尔木兹海峡触雷。这一事件发生在战略要地，可能对全球油市和地缘政治紧张局势产生重大影响。
+美国将航运法豁免期延长 90 天，旨在促进石油和大宗商品的自由流通。这一举措将对全球金融市场产生重要影响，尤其是对油价和市场动态的潜在影响。
 
-rss · 路透社 Reuters · 11月13日 21:37
+rss · 路透社 Reuters · 11月13日 19:45
 
-**「背景信息」** 霍尔木兹海峡是连接波斯湾和阿拉伯海的重要水道，位于伊朗和奥曼的穆桑达姆半岛之间。该海峡是全球石油贸易的关键通道，每天有超过 20 百万桶的石油通过。霍尔木兹海峡的战略地位使其成为地缘政治紧张的热点地区。过去，该海峡发生过多次冲突和紧张事件，这些事件通常与全球石油供应和地缘政治有关。例如，2019 年，美国对伊朗实施制裁后，霍尔木兹海峡的安全局势加剧紧张。
+**「背景信息」** 美国之前实施的航运法豁免主要涉及国家防御和自然灾害等紧急情况。例如，在 2017 年飓风玛利亚袭击波多黎各时，美国总统特朗普曾授权暂时豁免琼斯法案。此外，全球航运业一直在应对美国对中国、墨西哥和加拿大等国家实施的关税，这些关税对全球贸易产生了影响。这些因素共同构成了美国延长航运法豁免期的背景。
 
-**「影响」** 霍尔木兹海峡是世界上最关键的航运要道之一，承载着全球约四分之一的海上石油贸易和大量的液化天然气和化肥。因此，该海峡的任何中断都可能对全球贸易和能源市场产生重大影响。
+**「影响」** 美国延长航运法豁免期可能有助于降低大宗商品运输成本，从而对全球油价产生下行压力，对石油出口国和进口国均产生显著影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
-<li><a href="https://www.history.com/articles/7-historical-fights-over-strait-of-hormuz">The Strait of Hormuz: A Timeline of Tensions - HISTORY</a></li>
-<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure ... Strait of Hormuz - Wikipedia The Strategic Importance of the Strait of Hormuz: a ... The History of the Strait of Hormuz: Gateway to Global Trade Strait of Hormuz - History and Importance - ThoughtCo History of the Strait of Hormuz - Arab America</a></li>
-<li><a href="https://unctad.org/publication/strait-hormuz-disruptions-implications-global-trade-and-development">Strait of Hormuz disruptions: Implications for global trade ...</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R45281/R45281.6.pdf">Iran Conflict and the Strait of Hormuz: Impacts on Oil, Gas ...</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R45281/R45281.4.pdf">Iran Conflict and the Strait of Hormuz: Oil and Gas Market ...</a></li>
+<li><a href="https://www.jpmorgan.com/insights/global-research/current-events/us-tariffs">US Tariffs: What’s the Impact? | J.P. Morgan Global Research</a></li>
+<li><a href="https://corporatefinanceinstitute.com/resources/economics/jones-act/">Jones Act - Definition, History, and Economic Impact Global Shipping Industry Braces for Impact Amid New U.S ... Sanctions Programs and Country Information | Office of ... Tariffs and Their Impact on Global Trade - UPS THE IMPACT OF MARITIME TRADE ON GLOBAL STOCK MARKETS</a></li>
+<li><a href="https://www.shipuniverse.com/news/global-shipping-industry-braces-for-impact-amid-new-u-s-tariffs/">Global Shipping Industry Braces for Impact Amid New U.S ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Iran`, `#Hormuz Strait`, `#Tanker Attack`, `#Sea Mines`, `#Geopolitical Tensions`
+**标签**: `#US Shipping Law`, `#Oil Market`, `#Commodities`, `#Market Dynamics`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [美国延长航运法豁免期 90 天](https://reut.rs/4C28pcu) ⭐️ 7.0/10
+### [中美举行首届贸易委员会会议](https://reut.rs/4AAsxRD) ⭐️ 7.0/10
 
-美国将航运法豁免期延长 90 天，旨在促进石油和大宗商品的自由流通。这一决定将影响全球金融市场，包括股票、债券、大宗商品和货币等多个资产类别。
+美国和中国举行了首届贸易委员会会议，这一事件可能对全球金融市场产生影响。
 
-rss · 路透社 Reuters · 11月13日 19:45
+rss · 路透社 Reuters · 11月13日 18:41
 
-**「背景信息」** 美国此次延长航运法豁免期，是为了促进石油和大宗商品的自由流通。这一决策与美国之前的政策路径有关，旨在稳定全球金融市场。在过去的几个月中，全球金融市场对石油和大宗商品的价格波动非常敏感，因此美国政府的这一举措被视为对市场稳定性的重要支持。
+**「背景信息」** 中美贸易委员会的成立是两国关系中的一个重要里程碑，特别是在全球金融市场的背景下。这一委员会的成立旨在促进中美之间的贸易对话和合作，同时解决双方在贸易政策上的分歧。在此之前，中美两国在贸易政策上的互动主要通过双边谈判和高层会晤进行。此次会议的召开，标志着双方在贸易政策上的沟通机制得到了进一步加强。
 
-**「影响」** 此举可能导致石油和大宗商品价格波动，进而影响全球股市、债市以及货币市场的走势。
+**「影响」** 此次会议可能对全球金融市场产生具体影响，尤其是在贸易政策和市场动态方面。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.start.gg/tournament/moscow-slam-2026/details">Moscow Slam 2026 | Details</a></li>
-<li><a href="https://pmay-g.com/">PM Awas Gramin List 2026 -27 [UPDATED]</a></li>
-<li><a href="https://happ.info/">Happ Proxy Utility</a></li>
+<li><a href="https://www.gafta.com/Trade-Policy/Committees">Committees</a></li>
 
 </ul>
 </details>
 
-**标签**: `#US Shipping Law`, `#Oil Movement`, `#Commodity Market`, `#Global Financial Market`
+**标签**: `#Trade Committee`, `#US-China Relations`, `#Global Financial Markets`, `#Trade Policies`
 
 ---
 
 <a id="item-global-market-8"></a>
-### [中美举行首届贸易委员会会议](https://reut.rs/4AAsxRD) ⭐️ 7.0/10
+### [英国、挪威和加拿大启动 100 亿美元气候融资计划](https://reut.rs/4C2ac12) ⭐️ 7.0/10
 
-美国和中国举行了首次贸易委员会会议，这一事件可能对全球金融市场产生影响。
+英国、挪威和加拿大共同启动了一项价值 100 亿美元的气候融资计划，旨在支持全球气候治理和环境保护。这一计划将影响全球金融市场和气候政策。
 
-rss · 路透社 Reuters · 11月13日 18:41
+rss · 路透社 Reuters · 11月13日 17:54
 
-**「背景」** 中美两国的关系一直是全球金融市场关注的焦点。自 19 世纪以来，中国的外交关系经历了许多变化，其中包括与古巴在 2005 年的双边贸易总额达到 7.77 亿美元，其中 5.6 亿美元是中国对古巴的出口。此外，波音公司在美国与中国关系中的地位展示了过去五十年国际体系结构性变化如何影响了一家强大跨国公司的商业计算。这些变化不仅影响了波音，还影响了其他许多公司。美国与中国关系的历史中还有许多重要里程碑，例如在台海问题上的外交谈判等。
+**「背景信息」** 近期，英国、挪威和加拿大共同宣布了一项旨在为新兴市场气候项目提供资金的新计划。这一计划名为“10by30”，旨在到 2030 年将 100 亿美元的资金投入气候项目。该计划涉及英国国际投资（BII）、FinDev Canada 和挪威的发展投资机构 Norfund 的合作。这一举措是为了应对全球气候变化挑战，并支持新兴市场在气候适应和减缓方面的努力。
 
-**「影响」** 此次会议可能影响市场情绪和政策决策，从而对全球金融市场产生具体影响。
+**「影响」** 该气候融资计划的启动有望促进全球绿色能源的发展，对可再生能源行业产生积极影响，并可能推动相关股票价格上涨。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Foreign_relations_of_China">Foreign relations of China - Wikipedia</a></li>
-<li><a href="https://macropolo.org/analysis/boeing-us-china-relations-history/">For Company and For Country: Boeing and US - China Relations</a></li>
-<li><a href="https://www.history.com/articles/us-china-relations-history-diplomacy-taiwan">Major Milestones in US - China Relations | HISTORY</a></li>
+<li><a href="https://www.globalbankingandfinance.com/uk-norway-canada-launch-10-billion-climate-finance/">UK, Norway and Canada launch $10 billion climate finance ...</a></li>
+<li><a href="https://www.bnnbloomberg.ca/business/international/2026/11/13/uk-norway-and-canada-launch-us10-billion-climate-finance-initiative/">Canada, partners launch US$10B climate finance initiative</a></li>
+<li><a href="https://www.norfund.no/bii-findev-canada-and-norfund-join-forces-to-deliver-usd-10-billion-in-climate-finance-by-2030/">BII, FinDev Canada and Norfund join forces to deliver USD 10 ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Trade Relations`, `#Global Markets`, `#Economic Policy`, `#Geopolitical Events`, `#Central Banks`
+**标签**: `#Climate Finance`, `#International Cooperation`, `#Global Markets`, `#Environmental Policy`, `#Central Bank`
 
 ---
 
 <a id="item-global-market-9"></a>
-### [英国、挪威和加拿大启动 100 亿美元气候融资计划](https://reut.rs/4C2ac12) ⭐️ 7.0/10
-
-英国、挪威和加拿大联合宣布启动一项价值 100 亿美元的气候融资计划，旨在支持全球气候行动。这一计划将影响全球金融市场和气候政策。
-
-rss · 路透社 Reuters · 11月13日 17:54
-
-**「背景信息」** 在 2026 年 11 月 13 日，英国、挪威和加拿大在土耳其安塔利亚举行的 COP31 气候峰会上启动了一项 100 亿美元的气候融资计划。这一计划的目标是吸引私人资本，以支持气候融资。此外，加拿大从 2015 年到 2022 年已经向发展中国家提供了超过 87 亿美元的气候融资，这超过了其核心公共承诺的范围。
-
-**「影响」** 该气候融资计划的启动有望促进全球气候治理，对可再生能源和环保产业产生积极影响，可能推动相关股票和债券价格上涨。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.gulftoday.ae/news/2026/11/13/uk-norway-and-canada-launch-10b-climate-finance-initiative">UK , Norway and Canada launch $10b climate finance initiative</a></li>
-<li><a href="https://www.canada.ca/en/services/environment/weather/climatechange/canada-international-action/climate-finance.html">Canada &#x27;s international climate finance - Canada .ca</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Climate Finance`, `#International Cooperation`, `#Global Markets`, `#Environmental Policy`, `#Economic News`
-
----
-
-<a id="item-global-market-10"></a>
 ### [韩国外长赵和中国外长王讨论朝鲜半岛问题](https://reut.rs/4C1AUHg) ⭐️ 7.0/10
 
-韩国外长赵和中国外长王就朝鲜半岛问题进行了讨论，这一讨论涉及主要的地缘政治玩家，可能对区域稳定和全球市场产生影响。
+韩国外长赵和中国外长王就朝鲜半岛问题进行了讨论，这一讨论涉及主要的地缘政治行为者，可能对区域稳定和全球市场产生影响。
 
 rss · 路透社 Reuters · 11月13日 17:39
 
-**「背景信息」** 韩国外长赵和中国外长王就朝鲜半岛问题进行讨论，这是两国在五年来的首次高级别会谈。在此之前的会谈中，中国外长王承诺在半岛问题上发挥建设性作用。这次会谈是在韩国首尔举行的，旨在寻求合作措施，以解决朝鲜半岛的紧张局势。
+**「背景信息」** 韩国外长赵和中国外长王就朝鲜半岛问题进行讨论，这是两国在五年来的首次高级别会谈。在此之前的会谈中，中国承诺在朝鲜半岛问题上发挥建设性作用。目前，朝鲜半岛局势处于关键阶段，中国和韩国应加强沟通，协调彼此以推进去核化和推动半岛和平机制的建设。
 
-**「影响」** 此次讨论可能对区域稳定和全球市场产生影响，具体影响需进一步观察。
+**「影响」** 此次讨论可能对区域稳定和全球市场产生影响，具体影响尚需进一步观察。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.chosun.com/english/national-en/2026/08/19/C3XLBVRFRFDGXIIGBWOMLXJ3EE/">South Korea , China Foreign Ministers Discuss Korean Peninsula ...</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k0OU9YaUVSR2xjaWVvNG92VXpDZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">Google News - News about South Korea • China - Overview</a></li>
+<li><a href="https://english.hani.co.kr/arti/english_edition/e_national/1150716.html">China pledges to play constructive role on Korean Peninsula issues ...</a></li>
+<li><a href="https://www.fmprc.gov.cn/eng/gjhdq_665435/2675_665437/2767_663538/2769_663542/202406/t20240607_11413087.html">Xi, Moon meet on bilateral ties, Korean Peninsula situation_ Ministry ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitical`, `#Korean Peninsula`, `#Foreign Policy`, `#Asia`
+**标签**: `#Geopolitical`, `#Korean Peninsula`, `#Foreign Policy`, `#Central Bank`, `#Commodities`
+
+---
+
+<a id="item-global-market-10"></a>
+### [土耳其与卡塔尔签署相互防御协定](https://reut.rs/4t2HY2q) ⭐️ 7.0/10
+
+土耳其总统府宣布，土耳其与卡塔尔签署了相互防御协定。
+
+rss · 路透社 Reuters · 11月13日 17:39
+
+**「背景信息」** 土耳其和卡塔尔签署相互防御协定之前，两国在地区安全方面的合作一直备受关注。土耳其总统雷杰普·塔伊普·埃尔多安和卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼在伊斯坦布尔会面，签署了这一协议。这一举措旨在加强集体防御和促进地区安全，并对中东地区的地缘政治格局产生重要影响。
+
+**「影响」** 该协定可能对区域稳定和全球金融市场产生重大影响，因为它涉及双方的安全防御合作。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/world/middle-east/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says-2026-11-13/">Turkey, Qatar sign mutual defence agreement, pledge unified ...</a></li>
+<li><a href="https://www.thedefensenews.com/Turkey-and-Qatar-Sign-Mutual-Defence-Agreement-as-Ankara-Expands-Regional-Military-Partnerships/">Turkey and Qatar Sign Mutual Defence Agreement as Ankara ...</a></li>
+<li><a href="https://www.jpost.com/middle-east/article-914824">Turkey, Qatar sign mutual defense agreement - The Jerusalem Post</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Geopolitical`, `#Defense Agreement`, `#Turkey`, `#Qatar`, `#Regional Stability`
 
 ---
 
 <a id="item-global-market-11"></a>
-### [土耳其与卡塔尔签署相互防御协定](https://reut.rs/4t2HY2q) ⭐️ 7.0/10
+### [法官终止国际刑事法院针对阿富汗部分调查](https://reut.rs/4sXDx8I) ⭐️ 7.0/10
 
-土耳其总统府宣布，土耳其与卡塔尔签署了相互防御协定，标志着两国在地区安全与地缘政治动态方面的战略联盟。
+国际刑事法院（ICC）的法官们已决定终止针对阿富汗的部分调查，这些调查可能涉及美军。这一决定对国际关系和法律程序具有重大影响。
 
-rss · 路透社 Reuters · 11月13日 17:39
+rss · 路透社 Reuters · 11月13日 17:23
 
-**「背景信息」** 土耳其和卡塔尔签署相互防御协定，这一举措在区域安全和地缘政治动态方面具有重要意义。此前，土耳其总统雷杰普·塔伊普·埃尔多安与卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼在伊斯坦布尔会面，双方签署了这一协议。这一军事协议是安卡拉与其他穆斯林国家之间最新的一项军事协议。
+**「背景信息」** 国际刑事法院（ICC）是一个设在荷兰海牙的政府间组织和国际法庭。2022 年 10 月 31 日，国际刑事法院的预审庭 II 授权检察官恢复对阿富汗局势的调查。这次调查被视为为战争幸存者带来正义和面对一个长期存在的不受惩罚的文化的一个希望灯塔，阿富汗自 1978 年起就经历了超过半个世纪的冲突。阿富汗动荡的历史，以内战为特征，给这个国家留下了深刻的创伤。
 
-**「影响」** 该协定可能对地区安全产生积极影响，同时可能对相关市场及货币产生波动。
+**「影响」** 此决定可能对美阿关系产生长远影响，并可能影响国际社会对美军在阿富汗行动的法律评价。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.jpost.com/middle-east/article-914824">Turkey , Qatar sign mutual defense agreement , Turkish presidency...</a></li>
-<li><a href="https://www.middleeasteye.net/news/turkey-and-qatar-sign-mutual-defence-agreement">Turkey and Qatar sign mutual defence agreement | Middle East Eye</a></li>
-<li><a href="https://sputnikglobe.com/20261113/turkiye-qatar-sign-new-mutual-defense-pact-1125070968.html">Turkiye, Qatar Sign New Mutual Defense Pact</a></li>
+<li><a href="https://en.wikipedia.org/wiki/International_Criminal_Court">International Criminal Court - Wikipedia</a></li>
+<li><a href="https://www.icc-cpi.int/afghanistan">Afghanistan | International Criminal Court</a></li>
+<li><a href="https://rwi.lu.se/afghan-publ/the-international-criminal-courts-afghanistan-investigation/">The International Criminal Court &#x27;s Afghanistan Investigation - The...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitical Events`, `#Regional Security`, `#Defense Agreements`, `#Turkey`, `#Qatar`
-
----
-
-<a id="item-global-market-12"></a>
-### [英伟达意外、美联储政策预期变化及欧洲电动化投资：本周金融动态分析](https://reut.rs/3UsoSWE) ⭐️ 7.0/10
-
-本周金融市场受到英伟达意外新闻、美联储政策预期变化以及欧洲电动化投资的影响。具体来说，英伟达的业绩超出市场预期，美联储的政策预期出现调整，而欧洲在电动化领域的投资加大。
-
-rss · 路透社 Reuters · 11月13日 16:03
-
-**「背景」** 英伟达的意外新闻、美联储政策预期的变化以及欧洲在电动汽车领域的投资是本周金融动态中的三个重要事件。英伟达的联合创始人兼首席执行官黄仁勋面临被董事会罢免的可能性，这引发了市场对科技行业领导层稳定性的关注。美联储的政策变化可能影响全球金融市场的利率和货币供应。欧洲在电动汽车领域的投资增长表明了该地区对可持续交通解决方案的承诺。这些事件对全球金融市场、科技行业和可持续能源领域产生了重要影响。
-
-**「市场影响」** 英伟达的业绩超出预期，可能对科技股产生正面影响；美联储政策预期的变化可能影响美元走势和全球金融市场；欧洲电动化投资的增加可能推动相关行业股票上涨。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bbc.com/news/live/c6zjry11v8w1t">Huang agrees to appear before Congress, US lawmakers... - BBC News</a></li>
-<li><a href="https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059">Nvidia board reportedly preparing to oust CEO Jensen... - ABC News</a></li>
-<li><a href="https://charter97.org/en/news/2026/11/12/705270/">Nvidia &#x27; s Board Of Directors Is Deciding The Fate Of CEO... - Charter&#x27;9...</a></li>
-<li><a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://operationdisclosureofficial.com/2026/11/13/restored-republic-via-a-gcr-as-of-november-13-2026/">Restored Republic via a GCR as of November 13, 2026</a></li>
-<li><a href="https://www.youtube.com/watch?v=YVQ1buWwfWA">League of Legends Skin Changer 2026 | FREE Official... - YouTube</a></li>
-<li><a href="https://www.iea.org/reports/global-ev-outlook-2026/executive-summary">Executive summary - Global EV Outlook 2026 - IEA</a></li>
-<li><a href="https://www.intelmarketresearch.com/europe-electric-vehicles-evs-market-market-41425">Europe Electric Vehicles EVs Market 2026 to 2034</a></li>
-<li><a href="https://vfuturemedia.com/electric-vehicles/how-europe-became-the-global-leader-in-electric-vehicle-adoption-in-2026/">How Europe Became the Global Leader in Electric Vehicle ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Financial News`, `#Market Analysis`, `#Central Bank Policy`, `#Commodities`
-
----
-
-<a id="item-global-market-13"></a>
-### [伊拉克原油产量飙升，达到 2019 年最高水平](https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html) ⭐️ 7.0/10
-
-伊拉克的原油产量在 10 月份达到 460 万桶/日，为 2019 年以来的最高水平，较 9 月份增加了 54 万桶/日。这一增长主要得益于通过霍尔木兹海峡的原油流量增加，对全球石油市场产生影响。
-
-rss · OilPrice · 11月13日 17:30
-
-**「背景信息」** 霍尔木兹海峡是全球石油运输的重要通道，通常每天有 80 至 100 艘油轮和 LNG 运输船通过，这大约占全球石油液体消费的 20%以及全球 LNG 贸易的很大一部分。霍尔木兹海峡的石油运输情况对全球能源流动和石油价格有重大影响。在过去的几年中，由于地缘政治紧张局势和供应中断的风险，霍尔木兹海峡的石油运输一直是全球市场关注的焦点。
-
-**「影响」** 这一产量增长可能导致全球原油供应增加，从而对原油价格产生影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.earth-site.co.uk/Education/the-strait-of-hormuz-and-oil-prices-why-global-markets-panic-during-tensions/">The Strait of Hormuz and Oil Prices: Why Global Markets Panic...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Oil Production`, `#Global Oil Markets`, `#Strait of Hormuz`, `#Commodity Prices`, `#Currency Fluctuations`
+**标签**: `#International Law`, `#Geopolitical`, `#Legal Proceedings`, `#US Military`, `#ICC Afghanistan`
 
 ---
 
 ## AI 前沿
 
 <a id="item-ai-frontier-1"></a>
-### [在 TorchTitan 上成功扩展至 1T MoE](https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/) ⭐️ 8.0/10
+### [前沿模型在材料科学研究中取得优异成绩](https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/) ⭐️ 9.0/10
 
-研究人员成功在 TorchTitan 上扩展了一个 1T MoE 模型，实现了每 GPU 约 1300 个 token/s 的吞吐量，使用了 384 个 GPU。这一成果展示了在 JUPITER 超级计算机的 GH200 GPU 上进行的深度优化，包括 FSDP 和 EP 的使用，以及一系列针对大规模模型训练的优化措施。
+四款前沿模型在材料科学研究的综合测试中取得了 97.8 至 100 分的优异成绩，显示出人工智能在材料科学领域的重大突破。
 
-reddit · r/MachineLearning · /u/f14-bertolotti · 11月13日 16:28
+reddit · r/MachineLearning · /u/v\_aravind · 11月13日 18:58
 
-**「背景信息」** TorchTitan 是一个专为大规模训练设计的 PyTorch 原生平台，它提供了一个高效的环境来训练大型语言模型。PyTorch 是一个开源的机器学习库，广泛用于深度学习研究和开发。在本次研究中，研究人员与 TorchTitan 的维护者合作，探索了如何在 JUPITER 超级计算机的 GH200 GPU 上实现大规模模型训练。JUPITER 是一个高性能计算系统，其 GPU 具有强大的计算能力。通过使用 FSDP（Fully Sharded Data Parallel）和 EP（Expert Parallelism）技术，研究人员成功地在 384 个 GPU 上训练了一个 1T 参数的 MoE（Mixture of Experts）模型，实现了每 GPU 每秒约 1300 个 token 的吞吐量。这一成就展示了在现有硬件上实现大规模模型训练的潜力，并为未来的研究提供了宝贵的经验和见解。
+**「背景」** 在材料科学领域，研究人员开发了一套综合性的日常技术工作测试，用于评估人工智能模型的能力。这个测试包括七个部分，如对拉伸数据集进行整理、编写 CIF 密度函数、进行物理计算、审阅论文、设计实验和撰写摘要等。测试使用了 Gemini 4 Carbon、Gemini 4 Hydrogen、Claude Opus 5.5 和 Claude Fable 5.2 等模型，所有测试均在“高”设置下进行。结果显示，这些模型的平均得分在 97.8 到 100 之间，表明人工智能在材料科学领域的应用取得了重大突破。
 
-**「影响」** 这项工作对于 AI 研究人员和开发者来说具有重要意义，因为它展示了如何在 TorchTitan 上成功训练一个 1T 参数的 MoE 模型，并提供了关于优化和挑战的宝贵见解。这有助于推动大型语言模型的进一步发展和应用。
+**「影响」** 这一突破性的研究成果为开发者和研究人员提供了新的视角，以评估长期目标代理的评估方法。它强调了在长期、开放性工作中，评估代理的轨迹（例如从错误假设中恢复的能力）与最终输出之间的区别。
 
-**「社区讨论」** 目前没有可用的社区评论。
+**「社区讨论」** 目前没有可用的社区讨论内容。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/pytorch/torchtitan">GitHub - pytorch / torchtitan : A PyTorch native platform for training...</a></li>
-<li><a href="https://docs.pytorch.org/docs/2.13/community/persons_of_interest.html">PyTorch Governance | Maintainers — PyTorch 2.13 documentation</a></li>
-<li><a href="https://arxiv.org/abs/2410.06511">[2410.06511] TorchTitan : One-stop PyTorch native solution for...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
-<li><a href="https://arxiv.org/html/2507.11181v2">Mixture of Experts in Large Language Models - arXiv.org</a></li>
-<li><a href="https://arxiv.org/html/2501.16352v1">Mixture of Experts (MoE): A Big Data Perspective - arXiv.org</a></li>
+<li><a href="https://metr.org/time-horizons/">Task-Completion Time Horizons of Frontier AI Models - METR</a></li>
+<li><a href="https://metr.org/blog/2026-01-29-time-horizon-1-1/">Time Horizon 1.1 - METR</a></li>
+<li><a href="https://aiwiki.ai/wiki/metr_time_horizon">Task-completion time horizon (METR) - AI Wiki</a></li>
+<li><a href="https://www.alphaxiv.org/abs/2601.21165">FrontierScience : Evaluating AI&#x27;s Ability to Perform... | alphaXiv</a></li>
+<li><a href="https://www.gend.co/en-ca/blog/frontierscience-benchmark">FrontierScience benchmark AI scientific reasoning</a></li>
+<li><a href="https://www.productcool.com/product/frontierscience-by-openai">FrontierScience by OpenAI - A benchmark evaluating... | ProductCool</a></li>
+<li><a href="https://jimbobbennett.dev/blogs/agent-benchmarks-field-guide/">Long - horizon agent benchmarks are fragmenting... | JimBobBennett</a></li>
+<li><a href="https://pinggy.io/blog/long_horizon_tasks_with_ai_agents/">Long Horizon Tasks with AI Agents : From Research to... | Pinggy Blog</a></li>
+<li><a href="https://agenteconomics.org/posts/agentic-rl-recipe">FireFlash: An Open Recipe for Long - Horizon Agentic RL Achieving...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Artificial Intelligence`, `#Materials Science`, `#Frontier Models`, `#Machine Learning Research`
+
+---
+
+<a id="item-ai-frontier-2"></a>
+### [ggml v1.0.0 发布展现性能提升和社区认可](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) ⭐️ 8.0/10
+
+ggml v1.0.0 的发布展示了性能的显著提升，并获得了社区的广泛认可，为 AI 基础设施领域做出了贡献。
+
+hackernews · cobychapple · 11月14日 02:28 · [社区讨论](https://news.ycombinator.com/item?id=50493062)
+
+**「背景信息」** ggml v1.0.0 的发布标志着 ggml 项目在性能优化和社区认可方面的重大进展。ggml 是一个开源的机器学习库，它通过提供高效的模型推理功能，为 AI 基础设施空间做出了贡献。ggml v1.0.0 版本中引入了诸如 API 剪枝、可配置的 YaRN 截断和 FP8 支持等新特性，同时在多个后端实现了广泛的性能提升，包括 CUDA/Metal 上的少量行量化矩阵乘法和 MoE 融合、Vulkan 的 prefill FlashAttention 路径、SYCL 上的设备端 MoE 调度器、OpenCL 中的 Adreno FlashAttention 分解以及新的 WebGPU 内核等。
+
+**「影响」** ggml v1.0.0 的发布为开发者提供了性能提升，使得在相同硬件上运行 AI 模型更加高效。社区成员对 ggml 和 llama.cpp 的持续优化表示赞赏，这有助于推动 AI 基础设施的发展。
+
+**「社区讨论」** 社区成员对 ggml 和 llama.cpp 项目表示赞赏，认为它们在相同硬件上不断找到加速代码的新方法，每次升级都能带来 5%到 10%的速度提升。一位用户分享了自己的经验，表示在升级后，处理 50K tokens 的运行时间从 4:22 缩短到了 3:59。还有用户表示 ggml 和 llama.cpp 是 AI 世界的 Linux，为本地推理提供了强大的支持。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://sourceforge.net/projects/ggml.mirror/files/v1.0.0/">ggml - Browse /v1.0.0 at SourceForge.net</a></li>
+<li><a href="https://aiweekly.co/alerts/llamacpp-ships-v100-with-semver-for-libllama-and-ggml">llama.cpp Ships v1.0.0 With Semver for libllama and ggml</a></li>
+<li><a href="https://grafy.ai/news/llama-cpp-and-ggml-hit-1-0-0-with-a-stable-api-promise">llama.cpp and ggml hit 1.0.0 — Grafy News</a></li>
+<li><a href="https://aiweekly.co/alerts/llamacpp-ships-v100-with-semver-for-libllama-and-ggml">llama.cpp Ships v1.0.0 With Semver for libllama and ggml | AI ...</a></li>
+<li><a href="https://grafy.ai/news/llama-cpp-and-ggml-hit-1-0-0-with-a-stable-api-promise">llama.cpp and ggml hit 1.0.0 — Grafy News</a></li>
+<li><a href="https://dev.to/delimitter/llamacpp-and-ggml-ship-v100-semantic-versioning-comes-to-the-local-ai-stack-1ag4">llama.cpp and ggml ship v1.0.0 — semantic versioning comes to ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Infrastructure`, `#Model Optimization`, `#Community Interest`, `#ggml`, `#Llama.cpp`
+
+---
+
+<a id="item-ai-frontier-3"></a>
+### [在 TorchTitan 上成功扩展至 1T MoE](https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/) ⭐️ 8.0/10
+
+研究人员成功在 TorchTitan 上扩展了一个 1T MoE 模型，实现了每 GPU 约 1300 个 token/s 的吞吐量，使用了 384 个 GPU。这一成果是通过优化 FSDP 和 EP 技术，以及采用一系列技术手段实现的，包括全激活检查点、Muon 优化器、FlexShard 等，显著提高了模型训练的效率。
+
+reddit · r/MachineLearning · /u/f14-bertolotti · 11月13日 16:28
+
+**「背景信息」** 多专家模型（MoE）是一种用于处理大规模语言模型的先进技术。它通过将模型分解成多个专家，每个专家专注于处理特定类型的任务，从而提高了模型的效率和性能。在 PyTorch 框架中，TorchTitan 是一个专门为大规模训练设计的平台，它支持多种并行技术，如 FSDP 和 EP，以优化模型训练过程。这些技术的发展和应用对于理解和实现大规模 MoE 模型至关重要。
+
+**「影响」** 这项研究对于 AI 研究人员和大型语言模型开发者来说具有实际意义，因为它展示了如何在大规模模型训练中优化资源使用和性能。通过在 TorchTitan 上成功训练一个 1T MoE 模型，研究人员提供了宝贵的经验和见解，这些经验和见解可以帮助其他研究人员提高模型训练的效率和可扩展性。
+
+**「社区讨论」** 目前没有社区讨论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/pytorch/torchtitan">GitHub - pytorch/torchtitan: A PyTorch native platform for ...</a></li>
+<li><a href="https://notebook.google/">Gemini Notebook | AI Research Tool &amp; Thinking Partner</a></li>
+<li><a href="https://macdate.com/en/blog/longcat-2-technical-analysis-moe-architecture.html">LongCat-2.0 Technical Principles: Inside Meituan&#x27;s 1.6 T MoE</a></li>
+<li><a href="https://gentic.news/article/kimi-2-5-s-1t-parameter-moe-model-runs-on-96gb-mac-hardware-via-ssd-streaming">Kimi 2.5&#x27;s 1 T Parameter MoE Model Runs on… | gentic.news</a></li>
+<li><a href="https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/">Training a 1T-Parameter MoE on EU public infrastructure with ...</a></li>
+<li><a href="https://explore.n1n.ai/blog/training-1t-parameter-moe-pytorch-torchtitan-2026-11-13">Training a 1T-Parameter MoE on EU Public Infrastructure with ...</a></li>
+<li><a href="https://www.domyn.com/blog/training-1t-moe-eu-public-infrastructure-pytorch">Training a 1T-Parameter MoE on EU public infrastructure with ...</a></li>
 
 </ul>
 </details>
@@ -811,40 +872,39 @@ reddit · r/MachineLearning · /u/f14-bertolotti · 11月13日 16:28
 
 ---
 
-<a id="item-ai-frontier-2"></a>
-### [前沿模型在材料科学研究中取得优异成绩](https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/) ⭐️ 8.0/10
+<a id="item-ai-frontier-4"></a>
+### [发现：一种不引发炎症的衰老驱动蛋白](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
 
-四款前沿模型在材料科学研究的综合测试中取得了 97.8 至 100 分的高分，展示了它们在技术工作方面的能力。
+研究人员发现了一种名为 Granzyme K 的蛋白质，它可能是衰老的驱动因素，而不会引发炎症。这一发现为理解衰老过程提供了新的见解。
 
-reddit · r/MachineLearning · /u/v\_aravind · 11月13日 18:58
+hackernews · gumby · 11月13日 19:25 · [社区讨论](https://news.ycombinator.com/item?id=50488470)
 
-**「背景信息」** 在材料科学领域，研究人员开发了一套综合性的技术工作测试，用于评估人工智能模型的能力。该测试包含七个部分，包括数据处理、物理计算、文献审查和实验设计等。测试使用了 Gemini 4 Carbon、Gemini 4 Hydrogen、Claude Opus 5.5 和 Claude Fable 5.2 等模型，所有测试均在“高”设置下进行。结果显示，这些模型在测试中取得了 97.8 至 100 的高分，显示出它们在技术工作方面的强大能力。
+**「背景」** 这项研究基于对小鼠的实验，发现了一种名为 Granzyme K 的蛋白质，它可能在无炎症的情况下驱动衰老过程。Granzyme K 是一种由免疫细胞产生的蛋白质，其水平在老年小鼠和人类中显著增加。这项研究揭示了 Granzyme K 与心脏、肝脏和肾脏中衰老迹象之间的联系，为理解衰老过程提供了新的见解。
 
-**「影响」** 这一结果对研究人员来说是一个重要的证据，表明这些模型在处理复杂技术任务方面具有潜力。
+**「影响」** 这一发现可能为开发新的抗衰老疗法提供了线索，有助于研究人员更好地理解免疫和器官衰老之间的关系。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arize.com/blog/long-horizon-agent-benchmarks-field-guide/">Long-Horizon Agent Benchmarks: What Each One Measures</a></li>
-<li><a href="https://codex.danielvaughan.com/2026/03/28/evaluating-codex-agents-evals-longhorizon/">Evaluating Codex Agents: Evals, Long-Horizon Benchmarks, and ...</a></li>
-<li><a href="https://www.anthropic.com/research/demystifying-evals-for-ai-agents">Demystifying evals for AI agents \ Anthropic</a></li>
+<li><a href="https://www.news-medical.net/news/20261112/Blocking-Granzyme-K-protein-may-protect-organs-from-age-related-damage.aspx">Blocking Granzyme K protein may protect organs from age-related...</a></li>
+<li><a href="https://www.nature.com/articles/s41586-025-08713-9?error=cookies_not_supported&amp;code=db5a9b43-0514-42d3-8226-1b5ae67491ac">Granzyme K activates the entire complement cascade | Nature</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Materials Science`, `#AI Research`, `#Model Evaluation`, `#Benchmarking`
+**标签**: `#Aging Research`, `#Protein Discovery`, `#Immune Aging`, `#Animal Studies`
 
 ---
 
-<a id="item-ai-frontier-3"></a>
+<a id="item-ai-frontier-5"></a>
 ### [清华首发具身智能综述：从端到端策略到自主系统](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652742948&amp;idx=3&amp;sn=1819844003572b95633483e1da825ebb) ⭐️ 7.0/10
 
-清华大学发布了一篇关于具身智能的综述，概述了该领域的研究进展和策略，强调了从端到端策略到自主系统的转变。
+清华大学发布了一篇关于具身智能的综述，概述了该领域从端到端策略到自主系统的重大进展。
 
 rss · 新智元 · 11月13日 11:12
 
-**「具身智能研究背景」** 具身智能是人工智能领域的一个重要研究方向，它强调将智能体与物理环境相结合，使智能体能够通过感知、决策和行动与环境进行交互。清华大学在具身智能领域的研究，旨在通过智能体视角重新梳理具身智能研究，将模型能力、计算基础设施、安全、数据与评测放进同一幅系统图景，探讨通向更高自主性的技术路径与开放问题。这一研究背景对于理解具身智能的发展趋势具有重要意义。
+**「具身智能研究背景」** 具身智能是人工智能领域的一个重要研究方向，它强调将智能体与物理环境相结合，使智能体能够通过感知、决策和行动与环境进行交互。清华大学在具身智能领域的研究具有前瞻性，其研究涵盖了从技能学习到认知闭环的多个方面。这一研究不仅推动了机器人技术的发展，也为人工智能在现实世界中的应用提供了新的思路和方法。
 
-**「影响」** 该综述为开发者、研究人员和用户提供了一个理解具身智能领域最新进展的框架，有助于推动相关技术的发展和应用。
+**「影响」** 该综述为开发者、研究人员和用户提供了一个理解具身智能如何通过身体与环境的交互形成智能行为的框架。
 
 <details><summary>参考链接</summary>
 <ul>
@@ -859,106 +919,85 @@ rss · 新智元 · 11月13日 11:12
 
 ---
 
-<a id="item-ai-frontier-4"></a>
+<a id="item-ai-frontier-6"></a>
 ### [ICML 2027 会议变更](https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/) ⭐️ 7.0/10
 
-ICML 2027 引入了新的两阶段提交流程以及其他变更，旨在管理提交爆炸并改善审稿流程。新流程包括区域主席决定论文是否进入全面审稿，任何第一阶段拒绝提案都必须由资深区域主席确认。作者将在 2 月 23 日之前收到简短的说明。此外，任何人都不能参与超过 20 个提交，每篇论文都必须从作者名单中指定一名互惠审稿人（每位审稿人最多 6 篇论文），任何有 3 个或更多提交的人都必须在程序委员会任职。不符合规定的论文可能会被直接拒绝。最大的变化是，每位作者最多只能在一篇论文上署名，且该论文的作者中没有人有资格作为互惠审稿人。这意味着，如果你继续在那些无法审稿的合著者（如本科生、实习生、领域外的人）的论文上署名，你将在一次之后用完免费通行证。这听起来像是一个合理的解决方案，尽管审稿人的工作量已经失控多年，将作者的作品量与审稿责任联系起来似乎是公平的。唯一的担忧是第一阶段削减，因为快速 AC 阅读可能会错过一篇好论文，尽管 SAC 检查有所帮助。
+ICML 2027 引入了两阶段提交流程以及其他变更，旨在管理提交爆炸和改善审稿人工作量。新流程中，领域主席决定论文是否进入全面审查，任何第一阶段拒绝提案都必须由资深领域主席确认。作者将在 2 月 23 日之前收到简短的说明。此外，任何人都不能参与超过 20 个提交，每篇论文都必须从作者名单中指定一名互惠审稿人（每位审稿人最多 6 篇论文），任何有 3 个或更多提交的人都必须在程序委员会任职。不符合规定的论文可能会被直接拒绝。最大的变化是，每位作者最多只能在一篇论文上署名，且该论文的作者中没有人有资格作为互惠审稿人。如果作者继续在无法审稿的合著者（如本科生、实习生、领域外人士）的论文上署名，那么他们将在一次之后用完免费通行证。这听起来像是一个合理的解决方案，尽管审稿人工作量失控多年，将作者署名量与审稿责任挂钩似乎公平。唯一的担忧是第一阶段削减，因为快速 AC 阅读可能会错过一篇好论文，尽管 SAC 检查有所帮助。
 
 reddit · r/MachineLearning · /u/Gravitist · 11月13日 21:53
 
-**「背景信息」** 国际机器学习会议（ICML）是一个由国际机器学习学会组织的年度会议。ICML 的会议日期和截止日期每年都有所不同，但通常论文提交截止日期在 1 月底。2027 年的 ICML 会议预计将在南美洲举行，具体的城市、场地、日期、注册详情和提交截止日期将由官方公布。
+**「背景信息」** ICML（国际机器学习会议）是一个重要的机器学习领域会议。随着机器学习领域的快速发展，ICML 2027 面临着大量提交的挑战。为了应对这一挑战，ICML 2027 引入了两阶段提交流程和其他变化，旨在管理提交爆炸并改善审稿人的工作负担。
 
-**「影响」** 这一变化可能会对研究人员和开发者产生具体影响，因为它旨在减轻审稿人的负担，并确保所有提交的论文都得到适当的审查。这可能会提高论文的整体质量，并确保审稿过程更加公平。
+**「影响」** 这一变化对开发者、研究人员或用户的一个具体、有证据支持的后果是，它可能会减少因提交爆炸而导致的审稿人工作量，从而提高审稿质量。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning">International Conference on Machine Learning - Wikipedia</a></li>
-<li><a href="https://icml.cc/">2027 Conference</a></li>
-<li><a href="https://www.linkedin.com/pulse/icml-2027-what-expect-from-one-biggest-ai-research-conferences-roy-oomgc">ICML 2027 : What to Expect From One of the Biggest AI Research...</a></li>
+<li><a href="https://icml.cc/Conferences/2027">2027 Conference - icml.cc</a></li>
+<li><a href="https://icml.cc/Conferences/2027/CallForPapers">ICML 2027 Call for Papers</a></li>
+<li><a href="https://media.icml.cc/Conferences/ICML2027/styles/example_paper.pdf">Submission and Formatting Instructions for - media.icml.cc</a></li>
 
 </ul>
 </details>
 
-**标签**: `#ICML 2027`, `#AI Research`, `#Conference Changes`, `#Review Process`, `#Machine Learning`
+**标签**: `#AI Research`, `#ICML 2027`, `#Conference Changes`, `#Review Process`, `#AI Infrastructure`
 
 ---
 
-<a id="item-ai-frontier-5"></a>
-### [使用 NLI 和编码器模型构建 Legora 风格的合法冲突检测工具](https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/) ⭐️ 7.0/10
+<a id="item-ai-frontier-7"></a>
+### [OpenAI 解散独立机器人团队，转由通用模型驱动](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
 
-一位法律工程师分享了他们使用 NLI 和编码器模型的开放源代码法律冲突检测工具，旨在提高法律文件审查的效率。该工具通过将 NLI 和推理任务转移到更快速、更准确的编码器模型上，实现了对法律文件对之间的差异和空缺的检测。
+OpenAI 已解散其独立的机器人团队，并将研究人员重新分配到通用 AI 研究团队。这一转变是因为通用模型如 GPT-6 Astra 等已能够直接控制机器人执行任务，无需专门的机器人团队。
 
-reddit · r/MachineLearning · /u/ladyofcode · 11月13日 05:48
+telegram · zaihuapd · 11月14日 04:00
 
-**「背景」** 自然语言推理（NLI）和编码器模型在机器学习领域被广泛应用于文本分析和处理。NLI 模型能够理解和推断文本之间的语义关系，而编码器模型则擅长将文本转换为固定长度的向量表示。这些技术在法律文档审查中的应用是一个新兴的研究方向，旨在提高法律工程师的工作效率。在之前的研究中，已经有一些尝试使用机器学习技术来辅助法律文档的审查，例如 TypeSafe AI 的 Jev 模型，它能够将混乱的输入转换为软件可以直接使用的类型化、校准过的决策，从而避免了幻觉现象。这些技术的发展为构建更高效、准确的冲突检测工具提供了基础。
+**「背景」** OpenAI 是一家总部位于加利福尼亚州旧金山的美国人工智能公益公司。2025 年 4 月，OpenAI 以 3000 亿美元的后估值筹集了 400 亿美元，这是历史上价值最高的私人技术交易。OpenAI 致力于研究、开发和部署人工智能技术，其模型如 GPT-6 Astra 和 GPT-6 Sol 和 Luna 在多个领域表现出色，包括网络安全、专业工作、软件工程、科学和计算机使用。OpenAI 还在开发自己的机器人硬件和人工智能大脑，计划于 2027 年进行重大演示。
 
-**「影响」** 该工具为法律工程师提供了一种使用自然语言推理和编码器模型进行法律冲突检测的新方法，这可能会显著提高法律文件审查的效率。通过利用非生成性模型进行大规模的文档对比，该工具有望减少审查过程中的时间成本和错误率。
+**「影响」** 这一举措使得开发者能够利用更通用的 AI 模型来控制机器人，从而减少了对于专门机器人团队的需求。这可能会加速机器人技术的发展，并降低相关成本，同时为研究人员提供更多时间和资源来专注于 AI 模型的通用性和安全性。
 
 **「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://typesafe.ai/">Home - TypeSafe AI</a></li>
-<li><a href="https://jevtypesafeai.com/">Jev by TypeSafe AI — Try the System One model &amp; API</a></li>
-<li><a href="https://www.jevdirectory.org/resources/jev-typesafe-ai-2">Jev TypeSafe AI Tutorial · JevDirectory.org</a></li>
-<li><a href="https://github.com/anamh3/legal-rag-pipeline">GitHub - anamh3/ legal -rag-pipeline: Production-grade RAG pipeline for...</a></li>
-<li><a href="https://huggingface.co/datasets/John6666/forum2/blob/main/contract_nli_nda_analizer_1.md">contract_ nli _nda_analizer_1.md · John6666/forum2 at main</a></li>
-<li><a href="https://mbrenndoerfer.com/writing/hallucination-detection">Hallucination Detection: NLI , Self-Consistency - Interactive</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release">OpenAI ’s next big AI model has ‘entered the AGI era’ | The Verge</a></li>
+<li><a href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">OpenAI launches GPT - 6 Sol and Luna, boasting lower... | TechCrunch</a></li>
+<li><a href="https://thenextweb.com/news/openai-astra-agi-claim-cybersecurity-containment">OpenAI says it has overtaken Anthropic with a model that sometimes...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChatGPT">ChatGPT - Wikipedia</a></li>
+<li><a href="https://www.britannica.com/money/OpenAI">OpenAI | ChatGPT, Sam Altman, &amp; Microsoft | Britannica Money</a></li>
+<li><a href="https://openai.com/research/">Research | OpenAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI - Wikipedia</a></li>
+<li><a href="https://openai.com/">OpenAI | Research &amp; Deployment</a></li>
+<li><a href="https://www.youtube.com/watch?v=BhdPuzza7i0">OpenAI &#x27;s First AI Robot Is Finally Happening (ChatGPT...) - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Legal Technology`, `#Machine Learning`, `#Natural Language Inference`, `#Encoder Models`, `#Legal Document Review`
-
----
-
-<a id="item-ai-frontier-6"></a>
-### [OpenAI 推出 ChatGPT Wallet 支付钱包](https://openai.com/index/introducing-chatgpt-wallet/) ⭐️ 7.0/10
-
-OpenAI 推出了 ChatGPT Wallet 支付钱包，这是一项针对 ChatGPT Pro 订阅用户的支付解决方案，旨在提升安全性和用户体验。该钱包与美国运通、万事达、Visa 等支付机构合作，允许用户在不暴露真实卡号的情况下进行支付，并要求每笔交易都进行安全验证。
-
-telegram · zaihuapd · 11月13日 15:43
-
-**「背景信息」** ChatGPT Wallet 是 OpenAI 推出的一款支付解决方案，旨在提高支付安全性和用户体验。该钱包通过与美国运通、万事达和 Visa 等支付机构合作，允许智能体在不接触用户真实卡号的情况下进行付款。此外，每笔交易都需要进行安全验证，确保用户身份和交易安全。ChatGPT Wallet 目前已在美国对 18 岁以上的 ChatGPT Pro 订阅用户开放，并要求使用美国发行的信用卡。用户在支付时需逐笔核对商品和金额，并通过 Face ID 或指纹进行确认。支付网络将下发替代真实卡号的支付令牌，从而保护用户的真实卡号信息。
-
-**「影响」** ChatGPT Wallet 的推出为 ChatGPT Pro 用户提供了更加安全的支付体验，有助于减少支付过程中的信息泄露风险，同时提升了用户操作的便捷性。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openai.com/index/introducing-chatgpt-wallet/">Introducing ChatGPT Wallet - OpenAI</a></li>
-<li><a href="https://help.openai.com/en/articles/20001654-making-purchases-with-chatgpt-wallet">Making purchases with ChatGPT Wallet | OpenAI Help Center</a></li>
-<li><a href="https://community.openai.com/t/introducing-chatgpt-wallet/1416044">Introducing ChatGPT Wallet - Dots - OpenAI Developer Community</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#ChatGPT`, `#Payment Wallet`, `#AI Product`, `#Security`
+**标签**: `#AI Research`, `#Robotics`, `#OpenAI`, `#AI Models`, `#AI Development`
 
 ---
 
 ## IT 与开源
 
 <a id="item-it-opensource-1"></a>
-### [非洲太阳能发展迅速](https://www.solidot.org/story?sid=85882) ⭐️ 7.0/10
+### [非洲太阳能发展加速](https://www.solidot.org/story?sid=85882) ⭐️ 7.0/10
 
-非洲太阳能产业正在迅速发展，2026 年非洲太阳能新增装机量预计达到 17 吉瓦，同比增长 45%。这一增长得益于光伏电池板成本的下降、市电供应的不稳定性、能源危机以及充足的日照条件。太阳能技术已成为非洲解决能源问题的重要手段。
+非洲太阳能装机量预计在 2026 年将达到 17 吉瓦，同比增长 45%。这一增长得益于光伏电池板成本的下降、市电供应的不稳定性、能源危机以及充足的日照条件等因素。
 
 rss · Solidot · 11月13日 17:07
 
-**「背景」** 非洲太阳能的快速发展得益于光伏电池板成本的下降、市电供应的不稳定性、日益加剧的全国性能源危机，以及发电机所用柴油成本的上涨。非洲大部分地区拥有充足且稳定的日照，这为太阳能技术的应用提供了有利条件。此外，非洲许多国家缺乏完善的电网或稳定的电力供应，太阳能技术已成为一种可在本地直接部署的切实可行的方案。据 Energy Futures — African Tech Futures Lab 的报告，2026 年非洲太阳能新增装机量有望达到 17 吉瓦，同比增长 45%。
+**「背景」** 非洲太阳能的普及得益于光伏电池板成本的下降、市电供应的不稳定性、能源危机的加剧、柴油成本的上涨，以及非洲大部分地区充足且稳定的日照条件。太阳能技术已相当成熟，成为一种可在本地直接部署的切实可行的方案。非洲太阳能增长量的 75%来自小型太阳能发电装置，其中 Solar as a Service（SaaS）模式活跃。非洲仅有 10%-20%的家庭实现了通电，其增长空间远未见顶。
 
-**「影响」** 非洲太阳能的快速增长为开发者提供了新的机遇，特别是在小型太阳能发电装置和 Solar as a Service（SaaS）模式方面。这有助于解决非洲地区电力供应不稳定和能源危机的问题，同时也推动了可再生能源技术的应用和普及。
+**「影响」** 对于开发者和组织来说，非洲太阳能的增长意味着可以更广泛地采用太阳能技术，特别是在缺乏完善电网或稳定电力供应的地区。这为小型太阳能发电装置和 Solar as a Service（SaaS）模式提供了巨大的市场潜力，有助于减少对柴油发电的依赖，并促进可再生能源的普及。
 
 **「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://africantechfutures.org/energy-futures">Energy Futures — African Tech Futures Lab</a></li>
-<li><a href="https://www.pv-tech.org/africas-hidden-solar-boom-revealed/">Africa ’s hidden solar boom revealed - PV Tech</a></li>
-<li><a href="https://za.linkedin.com/in/joel-yongoua-nana-phd-905427b3">Joel Yongoua Nana , PhD - Sustainable Energy Africa | LinkedIn</a></li>
-<li><a href="https://www.deloitte.com/za/en/about/people/profiles.jayne-mammatt+bf9c0908.html">Jayne Mammatt | Deloitte Africa | Partner - ESG, Sustainability and...</a></li>
-<li><a href="https://za.linkedin.com/in/jayne-mammatt-47927568">Jayne Mammatt - Deloitte | LinkedIn</a></li>
-<li><a href="https://www.businessday.co.za/bd/companies/financial-services/2022-08-01-deloitte-africa-names-two-esg-specialists-as-partners/">Deloitte Africa names two ESG specialists as partners</a></li>
+<li><a href="https://africantechfutures.org/bios/joel-nana">Joel Nana - African Tech Futures Lab</a></li>
+<li><a href="https://africantechfutures.org/insights/tag/Joel+Nana">Joel Nana — Insights | Discover Tech Insights Today — African ...</a></li>
+<li><a href="https://www.linkedin.com/posts/african-tech-futures-lab_joel-nana-activity-7444656235926257665-7FaG">Joel Nana | African Tech Futures Lab - LinkedIn</a></li>
+<li><a href="https://www.deloitte.com/za/en/about/people/profiles.jayne-mammatt+bf9c0908.html">Jayne Mammatt | Deloitte Africa | Partner - ESG ... Jayne Mammatt - Deloitte | LinkedIn Deloitte secures leading ESG talent to ramp up capabilities ... Jayne Mammatt Bio - Wiki Mzansi Jayne Mammatt - Partner at Deloitte Danmark &amp; Norden | The Org Jayne Mammatt - Sustainability Summit Africa Deloitte Africa Hires Sustainability Reporting Leaders Jayne ...</a></li>
+<li><a href="https://za.linkedin.com/in/jayne-mammatt-47927568">Jayne Mammatt - Deloitte | LinkedIn Deloitte secures leading ESG talent to ramp up capabilities ... Jayne Mammatt Bio - Wiki Mzansi Jayne Mammatt - Partner at Deloitte Danmark &amp; Norden | The Org Jayne Mammatt - Sustainability Summit Africa Deloitte Africa Hires Sustainability Reporting Leaders Jayne ...</a></li>
+<li><a href="https://www.deloitte.com/za/en/about/press-room/deloitte-secures-leading-esg-talent-to-ramp-up-capabilities-in-africa.html">Deloitte secures leading ESG talent to ramp up capabilities ...</a></li>
 <li><a href="https://solartoafrica.com/solar-energy-in-africa-2026/">Solar Energy in Africa 2026: Recording Significant Growth</a></li>
 <li><a href="https://www.afsiasolar.com/wp-content/uploads/2026/01/Africa-Solar-Outlook-2026-final-260114-2.pdf">AFRICA SOLAR OUTLOOK 2026</a></li>
 <li><a href="https://www.afsiasolar.com/data-center/outlook-report-2/">Africa Solar Outlook 2026 – AFSIA</a></li>
@@ -966,30 +1005,31 @@ rss · Solidot · 11月13日 17:07
 </ul>
 </details>
 
-**标签**: `#Solar Energy`, `#Renewable Energy`, `#Africa`, `#Energy Transition`, `#Technology Adoption`
+**标签**: `#Solar Energy`, `#Africa`, `#Renewable Energy`, `#Energy Transition`, `#Technology Adoption`
 
 ---
 
 <a id="item-it-opensource-2"></a>
 ### [台积电内部员工数据泄露](https://www.solidot.org/story?sid=85881) ⭐️ 7.0/10
 
-台积电确认发生数据泄露事件，涉及部分现任及前任员工的个人数据。这些数据未经授权出现在外网上，可能与某云服务提供商系统服务中的数据相吻合。台积电表示，尚未发现自身系统被入侵的证据，并正在与相关机构合作调查。
+台积电确认发生数据泄露事件，涉及现任及前任员工的个人信息，可能对受影响员工和公司声誉造成广泛影响。
 
 rss · Solidot · 11月13日 10:37
 
-**「背景信息」** 台积电确认发生了一起涉及员工个人信息的数据泄露事件。这起事件涉及部分现任及前任员工的个人数据，这些数据未经授权出现在了外网上。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正在与云服务提供商、相关调查机构以及外部网络安全公司合作，以查明事件真相。
+**「背景信息」** 台积电近期发生了一起数据泄露事件，涉及部分现任及前任员工的个人数据。这些数据未经授权出现在了外网上，与存储在某云服务提供商系统服务中的数据相吻合。尽管台积电表示尚未发现自身系统遭到入侵的证据，但此次事件引起了广泛关注，特别是考虑到台积电作为全球领先的半导体制造商，其员工数据的泄露可能对个人隐私和公司声誉产生重大影响。
 
-**「影响」** 此次数据泄露可能对受影响的员工造成严重后果，包括个人信息泄露和财务风险。
+**「影响」** 此次数据泄露可能导致受影响员工的个人信息被滥用，对个人隐私和财务安全构成威胁。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.techflowpost.com/article/35333">台积电遭&quot;勒索&quot;3 枚比特币，黑客暗网叫卖 6.9GB 员工数据，又是熟悉的...</a></li>
-<li><a href="https://x.com/Tylerhe01/status/2121281919937638855">Tyler on X: &quot;台积电刚刚向美国 SEC 提交了一份 6-K 文件，回应了近期...</a></li>
+<li><a href="https://cn-sec.com/archives/4390627.html">台 积 电 2nm... | CN-SEC 中文网</a></li>
+<li><a href="https://caifuhao.eastmoney.com/news/20250805231544578210070">突发！ 台 积 电 2nm机密外 泄 ，多人被抓！_ 财富号_东方财富网</a></li>
+<li><a href="https://www.elecfans.com/news/1734300.html">elecfans.com/news/1734300.html</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Data Breach`, `#Security`, `#Taiwan Semiconductor`, `#Employee Data`, `#Cybersecurity`
+**标签**: `#Data Breach`, `#Security`, `#Taiwan Semiconductor`, `#Employee Privacy`, `#Cybersecurity`
 
 ---
 
@@ -1000,9 +1040,9 @@ rss · Solidot · 11月13日 10:37
 
 rss · Solidot · 11月13日 09:52
 
-**「冰冻圈科学背景」** 冰冻圈科学是研究地球上的冰盖、冰川、海冰、积雪和永久冻土等冰冻部分的学科。这些冰冻部分在调节地球气候、水资源供应和碳循环等生态系统服务中发挥着至关重要的作用。冰冻圈科学已成为全球可持续发展关注的热点之一，特别是在探讨地球界限（planetary boundaries）和生态系统服务方面。冰冻圈灾害包括陆地冰冻圈灾害、海洋冰冻圈灾害和大气冰冻圈灾害，这些灾害对地球生态系统和人类生活产生重大影响。
+**「冰冻圈科学背景」** 冰冻圈，包括冰盖、冰川、海冰、积雪和永久冻土，在调节地球气候、水资源供应和碳循环等生态系统服务中扮演着至关重要的角色。冰冻圈科学是研究这些冰冻部分如何影响地球系统的一个领域，它已经成为全球可持续发展关注的热点之一。冰冻圈科学国家重点实验室是国际上第一个以冰冻圈科学命名的实验室，享有盛誉。该领域的研究对于理解地球界限（planetary boundaries）和评估地球系统保持稳定与韧性的能力至关重要。
 
-**「影响」** 对于开发者或组织来说，冰冻圈的加速丧失将对全球气候、水资源和碳循环产生深远影响，这可能导致基础设施的调整和适应策略的制定，从而影响软件开发和项目管理。
+**「影响」** 这项研究表明，冰冻圈的完整性正在经历加速且部分不可逆的丧失，这将给地球人口带来长期挑战。对于开发者或组织来说，这意味着需要采取紧急行动，停止并逆转温室气体和黑碳排放，并减少人类对冰冻圈地区的干扰，以维护和恢复地球系统的韧性。
 
 **「社区讨论」** 目前没有可用的社区评论。
 
@@ -1010,67 +1050,13 @@ rss · Solidot · 11月13日 09:52
 <ul>
 <li><a href="https://news.ucas.edu.cn/cmjj/10f108bc3dbe41cc8fcae2c8056064bb.htm">冰 冻 圈 科学国家重点实验室：让“冷”学科拥有高热度</a></li>
 <li><a href="https://www.researchgate.net/publication/343006581_Research_and_practice_on_socio-ecological_systems_resilience_over_cryosphere_affected_areas_progress_and_prospects">(PDF) Research and practice on socio-ecological systems resilience...</a></li>
-<li><a href="https://archive.org/stream/ChinaXiv-202303.08997V1/202303.08997v1_djvu.txt">Full text of &quot; 冰 冻 圈 地 缘政治时代的到来&quot;</a></li>
-<li><a href="http://cn.chinagate.cn/news/2020-04/16/content_75940308.htm">cn.chinagate.cn/news/2020-04/16/content_75940308.htm</a></li>
-<li><a href="https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/1c73bd5d-1c73bd5d-melting-earth.pdf">Melting earth report update1119</a></li>
-<li><a href="https://www.qstheory.cn/zoology/2019-12/23/c_1125377460.htm">高山 冰 冻 圈 退缩将 影 响 人类 生 存环境</a></li>
+<li><a href="https://iccinet.org/zh/polar-and-mountain-microbial-communities-depend-on-a-stable-cryosphere/">Polar and Mountain Microbial Communities Depend on a Stable...</a></li>
+<li><a href="https://www.climatechange.cn/article/2020/1673-1719/1673-1719-16-2-143.shtml">全球山地冰冻圈变化、影响与适应 - Climate Change</a></li>
+<li><a href="https://www.msn.cn/zh-cn/weather/%E9%80%9A%E7%94%A8/%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E5%9C%B0%E7%90%83%E5%86%B0%E5%86%BB%E5%9C%88%E5%B7%B2%E8%84%B1%E7%A6%BB%E5%AE%89%E5%85%A8%E8%BF%90%E8%A1%8C%E8%8C%83%E5%9B%B4/ar-AA2hmv4Z">研究表明地球冰冻圈已脱离安全运行范围 - MSN</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Climate Change`, `#Environmental Science`, `#Cryosphere`, `#Global Warming`, `#Ecosystem Services`
-
----
-
-<a id="item-it-opensource-4"></a>
-### [美国扣押了从币安盗走的逾 12 亿美元加密货币](https://www.solidot.org/story?sid=85876) ⭐️ 7.0/10
-
-美国联邦调查局（FBI）宣布扣押了价值逾 12 亿美元的加密货币，这些货币是黑客组织 TraderTraitor 从全球最大加密货币交易所币安盗走的。
-
-rss · Solidot · 11月13日 06:36
-
-**「背景信息」** 币安是全球最大的加密货币交易所之一，其安全漏洞可能导致大量加密货币被盗。在这次事件中，黑客组织 TraderTraitor 从币安盗走了价值 63 亿美元的加密货币，其中包括稳定币和难以冻结的比特币、以太币和 XRP。稳定币由于其发行方可以通过智能合约冻结交易，因此部分被盗加密货币被成功冻结。美国政府通过法庭授权扣押或冻结了逾 12 亿美元的加密货币。
-
-**「影响」** 此次事件对加密货币市场产生了重大影响，特别是对于稳定币的持有者而言，因为被盗的稳定币中有很大一部分被成功冻结。这一行动可能增强了对加密货币交易安全的信心，同时也提醒了加密货币交易所需要加强安全措施。
-
-**「社区讨论」** 目前没有可用的社区评论。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.squaredtech.co/binance-security-breach-63b-attack-raises-key-questions">Binance Security Breach : Key Details On $6.3B Attack</a></li>
-<li><a href="https://bravenewcoin.com/insights/binance-confirms-6-3b-security-breach-freezes-3b-in-assets-and-pledges-full-compensation">Binance Confirms $6.3B Security Breach , Freezes $3B in Assets and...</a></li>
-<li><a href="https://www.indiatoday.in/technology/news/story/binance-hack-explained-in-5-points-latest-updates-on-the-biggest-cyber-incident-ever-3028190-2026-10-30">Binance hack explained in 5 points, latest updates on the... - India Today</a></li>
-<li><a href="https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html">U.S. seizes $ 1 . 2 billion in stolen Binance crypto</a></li>
-<li><a href="https://www.yahoo.com/news/us/articles/fbi-recovers-1-2-billion-105216976.html">FBI recovers $ 1 . 2 billion in cryptocurrency stolen from Binance</a></li>
-<li><a href="https://abcnews.com/Technology/wireStory/fbi-us-seized-12-billion-worth-cryptocurrency-stolen-138094651">US has seized $ 1 . 2 billion worth of cryptocurrency stolen from...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Cryptocurrency`, `#Security Breach`, `#FBI`, `#Binance`, `#Stablecoins`
-
----
-
-<a id="item-it-opensource-5"></a>
-### [微软云服务全球宕机](https://www.solidot.org/story?sid=85875) ⭐️ 7.0/10
-
-微软云服务全球宕机，影响了包括 Outlook、Teams、OneDrive 和 AI 工具 Copilot 在内的多项服务。微软表示，此次事故是由部分服务器意外不可用导致的，目前无迹象表明是网络攻击引起的。
-
-rss · Solidot · 11月13日 05:30
-
-**「背景信息」** 微软云服务是全球范围内广泛使用的云计算平台，提供包括电子邮件、即时通讯、文件存储和人工智能工具等服务。这些服务对于个人和企业用户来说至关重要。历史上，微软云服务曾经历过多次全球性的宕机事件，例如 2026 年 7 月 30 日，微软 Azure 云服务全球宕机约 8 小时，以及 2026 年 1 月 22 日的 Microsoft 365 全球宕机事件。这些事件表明，云服务的稳定性和可靠性对于依赖这些服务的用户和组织来说至关重要。
-
-**「影响」** 此次全球宕机对用户造成了显著影响，可能导致部分用户无法查看文件或使用日历应用，同时 AI 工具 Copilot 也无法正常运行。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://rivers.chaitin.cn/blog/cqq55ap0lnec5jjugfp0">继 全 球 蓝屏后， 微 软 Azure...</a></li>
-<li><a href="https://www.dealmoon.com.au/guide/1215628">突发！ 微 软 Azure 宕 机 波及 全 球 ！ Costco、星巴克、Office 365...</a></li>
-<li><a href="https://www.anquanke.com/post/id/314535">Microsoft 365 全 球 宕 机 事件：2026年1月22日多国业 务 停摆-安 全 KER...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Microsoft`, `#Cloud Services`, `#Outage`, `#Security`, `#Infrastructure`
+**标签**: `#Climate Change`, `#Environmental Sustainability`, `#Cryosphere`, `#Global Warming`, `#Permafrost`
 
 ---
