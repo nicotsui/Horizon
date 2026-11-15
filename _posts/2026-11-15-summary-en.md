@@ -5,452 +5,105 @@ date: 2026-11-15
 lang: en
 ---
 
-> From 142 items, 35 important content pieces were selected
+> From 157 items, 28 important content pieces were selected
 
 ---
 
 **China Macro &amp; A-Share**
-1. [People&\#x27;s Bank of China Raises Foreign Exchange Deposit Reserve Requirement Ratio to 6%](#item-cn-macro-1) ⭐️ 9.0/10
-2. [SpaceX Achieves Major Milestone in Reusable Rocket Technology](#item-cn-macro-2) ⭐️ 8.0/10
-3. [Goldman Sachs Forecasts: US Dollar&\#x27;s &\#x27;Final Surge&\#x27; Ahead](#item-cn-macro-3) ⭐️ 7.0/10
-4. [Robotics Technology Competition Analysis](#item-cn-macro-4) ⭐️ 7.0/10
-5. [Central Bank Signals Stability in RMB Exchange Rate](#item-cn-macro-5) ⭐️ 7.0/10
-6. [下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报](#item-cn-macro-6) ⭐️ 7.0/10
-7. [Upcoming Key Economic and Market Events](#item-cn-macro-7) ⭐️ 7.0/10
-8. [China Securities Regulatory Commission Chairman&\#x27;s Speech on Capital Market Reforms](#item-cn-macro-8) ⭐️ 7.0/10
-9. [TCL华星印刷OLED技术迈向规模化量产](#item-cn-macro-9) ⭐️ 7.0/10
-10. [Anthropic&\#x27;s Record-Breaking IPO: A Significant AI Market Event](#item-cn-macro-10) ⭐️ 7.0/10
-11. [JAC Motors and CATL Expand Battery Swapping Services in China&\#x27;s EV Market](#item-cn-macro-11) ⭐️ 7.0/10
-12. [NVIDIA CEO Departure and Anthropic IPO Impact on AI Industry](#item-cn-macro-12) ⭐️ 7.0/10
-13. [NVIDIA&\#x27;s Huang Renxun Departure Raises AI Financing Concerns](#item-cn-macro-13) ⭐️ 7.0/10
-14. [Nissan Adjusts Sales Expectations and Invests in New Models for the Chinese Market](#item-cn-macro-14) ⭐️ 7.0/10
-15. [Potential 25bp or 50bp Rate Hike by Federal Reserve in December](#item-cn-macro-15) ⭐️ 7.0/10
-16. [Xi Jinping&\#x27;s Article on Building a Shared Future for the Asia-Pacific](#item-cn-macro-16) ⭐️ 7.0/10
+1. [Upcoming Capital Market Events Preview](#item-cn-macro-1) ⭐️ 7.0/10
+2. [CSRC Chairman Wu Qing Addresses Valuation Bubbles in Tech IPOs](#item-cn-macro-2) ⭐️ 7.0/10
 
 **Global Market**
 1. [Nvidia Turmoil and Democratic Congress Impact on AI Trade](#item-global-market-1) ⭐️ 7.0/10
-2. [SpaceX Achieves Milestone with Starship Rocket Catch](#item-global-market-2) ⭐️ 7.0/10
-3. [US Aviation Shutdown Blamed on L3 Harris Router](#item-global-market-3) ⭐️ 7.0/10
-4. [UN Climate Chief Urges Speed at COP31 Amid Fossil Fuel Disagreements](#item-global-market-4) ⭐️ 7.0/10
-5. [Canada and US Trade Deal Progress](#item-global-market-5) ⭐️ 7.0/10
-6. [Southeast Asia&\#x27;s Renewable Energy Push Accelerates Amid Middle East Conflict](#item-global-market-6) ⭐️ 7.0/10
-7. [Singapore&\#x27;s $65 Billion Investment in Gold](#item-global-market-7) ⭐️ 7.0/10
+2. [SpaceX Achieves Milestone with Starship Rocket Capture](#item-global-market-2) ⭐️ 7.0/10
+3. [Yemen Government Forces Withdraw from Bab el-Mandeb Strait Area](#item-global-market-3) ⭐️ 7.0/10
+4. [菲律宾与中国在南海问题上的分歧加剧](#item-global-market-4) ⭐️ 7.0/10
+5. [US Aviation Shutdown Blamed on L3 Harris Router](#item-global-market-5) ⭐️ 7.0/10
+6. [International Leaders&\#x27; Meeting Consideration](#item-global-market-6) ⭐️ 7.0/10
+7. [UN Climate Chief Urges Speed Amidst Fossil Fuel Divisions at COP31](#item-global-market-7) ⭐️ 7.0/10
+8. [European Union&\#x27;s Electrification Push Faces Challenges](#item-global-market-8) ⭐️ 7.0/10
+9. [Southeast Asia&\#x27;s Renewable Energy Push Accelerates Amid Iran Conflict](#item-global-market-9) ⭐️ 7.0/10
+10. [Singapore&\#x27;s $65 Billion Gold Investment Impact](#item-global-market-10) ⭐️ 7.0/10
 
 **AI Frontier**
-1. [SpaceX catches the Starship to end Flight 15](#item-ai-frontier-1) ⭐️ 7.0/10
-2. [Advancing science and engineering with Antigravity&\#x27;s /teamwork](#item-ai-frontier-2) ⭐️ 7.0/10
-3. [KDE Documentary Reflects Development and Impact](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [AI Research Review on Decision Frameworks and Autonomy](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [LongMemEval-S Results Analysis with gpt-4o-2024-08-06](#item-ai-frontier-5) ⭐️ 7.0/10
+1. [LongMemEval-S Memory Retrieval Performance Analysis](#item-ai-frontier-1) ⭐️ 8.0/10
+2. [SpaceX Achieves Significant Milestone with Starship Capture](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [PyPI&\#x27;s redesigned project pages with clearer security signals are now live](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [DeepSeek V3 in JAX Implementation](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [浙大VLA团队机器人状态变化处理新成果](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [NeurIPS&\#x27;26｜无需训练+梯度：引导离散扩散模型设计DNA/蛋白质](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [BiRefNet-lite Optimization for Mobile Devices](#item-ai-frontier-7) ⭐️ 7.0/10
+8. [Hackathon Project for MariaDB&\#x27;s Wikipedia Through Time Challenge](#item-ai-frontier-8) ⭐️ 7.0/10
+9. [Meituan Releases LongCat-2.5 with Chinese Chip Training](#item-ai-frontier-9) ⭐️ 7.0/10
 
 **IT &amp; Open Source**
 1. [US Loses Measles Elimination Status](#item-it-opensource-1) ⭐️ 7.0/10
 2. [微软云服务宕机持续逾 24 小时](#item-it-opensource-2) ⭐️ 7.0/10
-3. [U.S. FAA Announces Third National Flight Grounding in History](#item-it-opensource-3) ⭐️ 7.0/10
 
 **Tools &amp; Efficiency**
-1. [mkw-recomp – Native Running of Mario Kart World on Windows/Linux](#item-tools-windows-1) ⭐️ 7.0/10
-2. [Stela: Run macOS 27 on Intel and AMD PCs](#item-tools-windows-2) ⭐️ 5.0/10
-3. [让 Windows 11 在 iPhone Duo 上运行，使用 Gemini 开发，已开源｜WindowsiOS](#item-tools-windows-3) ⭐️ 5.0/10
-4. [Auto Task Scheduler and File Manager v2.0](#item-tools-windows-4) ⭐️ 5.0/10
+1. [Process Monitor 4.13 Update](#item-tools-windows-1) ⭐️ 7.0/10
+2. [BundleHunt 2026 Black Friday Software Sale](#item-tools-windows-2) ⭐️ 5.0/10
+3. [Retro Computer Graphics Comparison](#item-tools-windows-3) ⭐️ 5.0/10
+4. [Stela: Run macOS 27 on Intel or AMD PCs](#item-tools-windows-4) ⭐️ 5.0/10
+5. [VNC客户端1.0](#item-tools-windows-5) ⭐️ 5.0/10
 
 ---
 
 ## China Macro &amp; A-Share
 
 <a id="item-cn-macro-1"></a>
-### [People&\#x27;s Bank of China Raises Foreign Exchange Deposit Reserve Requirement Ratio to 6%](https://www.cls.cn/detail/2534648) ⭐️ 9.0/10
+### [Upcoming Capital Market Events Preview](https://www.cls.cn/detail/2534765) ⭐️ 7.0/10
 
-The People&\#x27;s Bank of China has raised the reserve requirement ratio for foreign exchange deposits to 6% from the previous 4%, effective immediately. This adjustment aims to promote balance in the foreign exchange market and counteract the self-fulfilling prophecy of the renminbi&\#x27;s appreciation.
+Next week, key events in the Chinese and global capital markets include the release of economic data, the APEC leaders&\#x27; informal meeting, corporate earnings reports, and IPOs. Notably, the National Bureau of Statistics will publish economic data on November 16, and the APEC third thirty-third leaders&\#x27; informal meeting will be held in Shenzhen from November 18 to 19. Major Chinese internet companies like Alibaba, Tencent, and Pinduoduo will release financial reports, and Anthropic is expected to go public.
 
-rss · 财联社电报 · Nov 15, 05:08
+rss · 财联社电报 · Nov 15, 13:35
 
-**「Background on Reserve Requirement Ratio and Foreign Exchange Deposits」** The reserve requirement ratio is a tool used by central banks to control the money supply and influence economic activity. In the case of China, the People&\#x27;s Bank of China \(PBOC\) has the authority to set and adjust the reserve requirement ratio for foreign exchange deposits. This ratio determines the percentage of foreign exchange deposits that financial institutions must hold in reserve, which in turn affects their ability to lend and the overall liquidity in the financial system. The adjustment of the reserve requirement ratio for foreign exchange deposits is a significant monetary policy tool that can impact the foreign exchange market and the broader economy. Historically, changes in this ratio have been used to manage currency values and stabilize the financial system. For instance, a higher reserve requirement ratio can reduce the liquidity in the financial system, potentially leading to a stronger currency and a more balanced foreign exchange market. The PBOC&\#x27;s decision to raise the reserve requirement ratio for foreign exchange deposits from 4% to 6% is a recent development that reflects the central bank&\#x27;s efforts to promote balance in the foreign exchange market and manage currency expectations. This policy change is likely to have substantial implications for market expectations and currency values.
+**「Previous Economic Data and Policy Stance」** The upcoming events in the Chinese and global capital markets are influenced by recent economic data and policy stances. In the Chinese market, the release of economic data such as the October social retail sales, industrial value added, and fixed asset investment will provide insights into the current economic situation. The APEC Third Thirty-Third Leader&\#x27;s Informal Meeting in Shenzhen will bring together leaders from member economies to discuss regional economic cooperation. Additionally, major companies like Alibaba, Tencent, and Pinduoduo are scheduled to release their financial reports, which will be a key indicator of their performance. Internationally, events such as the IPO of Anthropic and the release of major companies&\#x27; earnings reports in the US will have significant implications for global markets. The Federal Reserve&\#x27;s monetary policy meeting minutes and speeches by the Federal Reserve Chair will also influence market sentiment.
 
-**「Impact」** The increase in the reserve requirement ratio for foreign exchange deposits is expected to influence market expectations and currency values, potentially affecting the broader economy and foreign exchange market dynamics.
+**「Impact」** The upcoming economic data releases and corporate earnings reports could significantly impact investor sentiment and market trends. Investors should pay close attention to the reports from major companies and the outcomes of the APEC meeting, as these events may influence market directions and investment strategies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87">存款准备金率 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://baike.baidu.com/item/%E5%A4%96%E6%B1%87%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87/60858227">外汇存款准备金率 - 百度百科</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/505613378">一文读懂“外汇存款准备金率及其相关内容” - 知乎</a></li>
+<li><a href="https://www.youtube.com/watch?v=ywCVgBsszL0">聚焦 APEC ： APEC ... - YouTube</a></li>
+<li><a href="https://k.sina.com.cn/article_2258727970_m86a1742203302i0hq.html">深 圳 APEC 峰 会 倒计时100天 深 圳 向世界展示中国开放活力 | 新浪网</a></li>
+<li><a href="https://skyfamily.com.cn/news/1/4743.html">深 圳 广州同日发布禁飞通告 为 APEC 会 议 划设临时管控空域 - 天空之家</a></li>
+<li><a href="https://news.qq.com/rain/a/20260827A09L7Q00">英伟达最新财报：收入“模式”之变_腾讯新闻</a></li>
+<li><a href="https://finance.sina.com.cn/tech/roll/2026-08-28/doc-inipvvzv4632476.shtml">英伟达最新财报：收入“模式”之变_新浪科技_新浪网</a></li>
+<li><a href="https://investor.nvidia.com/financial-info/financial-reports/default.aspx">NVIDIA Corporation - Financial Reports</a></li>
+<li><a href="https://baike.baidu.com/item/Anthropic%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%8B%9F%E8%82%A1/68875766">Anthropic首次公开募股_百度百科</a></li>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_34337584">Anthropic公开IPO招股书，半年营收163亿美元_澎湃号·湃客_澎湃新闻-Th...</a></li>
+<li><a href="https://www.huxiu.com/article/4900642.html">Anthropic IPO 文件精读 - 虎嗅网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Policy Shift`, `#Foreign Exchange`, `#Economic Policy`, `#Reserve Requirement Ratio`, `#People&\#x27;s Bank of China`
+**Tags**: `#Chinese economy`, `#A-share market`, `#Economic data`, `#Policy meetings`, `#Corporate earnings`
 
 ---
 
 <a id="item-cn-macro-2"></a>
-### [SpaceX Achieves Major Milestone in Reusable Rocket Technology](https://wallstreetcn.com/articles/3785950) ⭐️ 8.0/10
+### [CSRC Chairman Wu Qing Addresses Valuation Bubbles in Tech IPOs](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SNU54TndnYmtYeDhHNzFMU2dIRnhjbUVUaUtZMDRyX1ZBVUFfakZNRDBRdHRCVVl2WU1YZnZ1a1dyemQ2ZGxpdlVUeDdYM0FoMmQw?oc=5) ⭐️ 7.0/10
 
-SpaceX successfully captured its Starship spacecraft mid-air, marking a significant step towards reusable rockets. This achievement is crucial for the company&\#x27;s valuation and has a profound impact on the space industry and stock market.
+China Securities Regulatory Commission \(CSRC\) Chairman Wu Qing has addressed valuation bubbles in some tech companies&\#x27; initial public offerings \(IPOs\), indicating a policy adjustment to address these issues. The CSRC is set to study and enhance the adaptability and risk response mechanisms for tech company listings.
 
-rss · 华尔街见闻 · Nov 15, 01:30
+google\_news · 华尔街见闻 · Nov 15, 01:11
 
-**「SpaceX&\#x27;s Development of Reusable Rocket Technology」** SpaceX has been developing reusable rocket technology for its Falcon 9 v1.2, Falcon Heavy, and Starship rockets. This program aims to create a fully reusable transportation system capable of carrying both crew and cargo to Earth orbit, the Moon, Mars, and beyond. SpaceX&\#x27;s Starship spacecraft and Super Heavy rocket are designed to be the world&\#x27;s most powerful launch vehicle, capable of carrying over 100 metric tonnes to orbit in a fully reusable configuration. This initiative is a significant step towards reducing the cost of space travel and increasing the frequency of launches.
+**「Background on CSRC Chairman Wu Qing and Tech IPOs」** Wu Qing, the tenth Chairman of the China Securities Regulatory Commission \(CSRC\), has been a key figure in the regulatory landscape of the A-share market. His tenure as Chairman has been marked by a focus on market regulation and policy adjustments. The recent discussion by Wu Qing regarding valuation bubbles in tech IPOs is part of a broader effort to address the rapid growth and potential risks in the tech sector. This comes after Wu Qing&\#x27;s appointment as Chairman, where he emphasized the need for a balanced and regulated market environment. The CSRC&\#x27;s role in overseeing the IPO process and ensuring market stability has been a focal point under his leadership.
 
-**「Impact on SpaceX&\#x27;s Valuation and Space Industry」** The successful mid-air capture of the Starship by SpaceX is a significant milestone towards reusable rockets, which is crucial for the company&\#x27;s valuation and the space industry. This achievement is expected to lower the cost of space launches, enhance the deployment of Starlink satellites, and potentially open new avenues for space-based AI data centers, thereby positively impacting SpaceX&\#x27;s financial performance and the broader space industry.
+**「Impact on Tech IPOs」** The emphasis on strengthening the adaptability and risk response mechanisms for tech companies&\#x27; issuance and listing systems suggests a potential regulatory tightening in the A-share market. This could lead to a more cautious approach to tech IPOs, potentially affecting the valuation premiums and the pace of tech companies going public.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SpaceX_reusable_launch_system_development_program">SpaceX reusable launch system development program - Wikipedia</a></li>
-<li><a href="https://www.spacex.com/technologies/reusable-rocket">SpaceX</a></li>
-<li><a href="https://www.spacex.com/vehicles/starship">SpaceX - Starship</a></li>
-<li><a href="https://en.wikipedia.org/wiki/SpaceX_Starbase">SpaceX Starbase - Wikipedia</a></li>
-<li><a href="https://www.bloomberg.com/graphics/2026-spacex-starship-rocket-future/">Elon Musk’s SpaceX Starship : Why the Rocket Is Critical to Its Future</a></li>
-<li><a href="https://www.faa.gov/space/stakeholder_engagement/spacex_starship">SpaceX Starship Super Heavy Project at the Boca Chica Launch Site</a></li>
+<li><a href="https://c.m.163.com/news/a/IQM4EGU20519875F.html">“券商屠夫” 吴 清 回归 证 监 会 ，招商 证 券63“内鬼”被罚</a></li>
+<li><a href="https://www.hunantoday.cn/news/xhn/202402/19422883.html">hunantoday.cn/news/xhn/202402/19422883.html</a></li>
+<li><a href="https://www.zaobao.com.sg/realtime/china/story20251113-7813368">路透： 中 证 监 主 席 吴 清 健康原因表达辞职意愿 | 联合早报</a></li>
+<li><a href="https://news.10jqka.com.cn/20261115/c681829711.shtml">吴清学术年会讲话的三个落点：市场结构、全球共振与科技企业上市节奏</a></li>
+<li><a href="http://ww.dapenti.com:81/blog/more-new-v5.asp?name=caijing&amp;id=196766">解读证监会主席吴清讲话：回应近期部分科技企业上市估值溢价泡沫，“加...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SpaceX`, `#Starship`, `#Reusable Rockets`, `#Space Industry`, `#Stock Market`
-
----
-
-<a id="item-cn-macro-3"></a>
-### [Goldman Sachs Forecasts: US Dollar&\#x27;s &\#x27;Final Surge&\#x27; Ahead](https://wallstreetcn.com/articles/3785958) ⭐️ 7.0/10
-
-Goldman Sachs predicts that the growth in AI capital expenditures will peak, potentially reversing the US dollar&\#x27;s short-term uptrend. The dollar has gained strength in 2026, driven by AI-related investments, but is expected to face a reversal in 2027 as these investments reach their peak.
-
-rss · 华尔街见闻 · Nov 15, 07:23
-
-**「Previous Economic Trends and AI Investments」** The rise in AI capital expenditures has been a significant driver of economic growth and market trends. In recent years, there has been a substantial increase in investments in AI technology, which has led to a surge in demand for computing power and data storage. This trend has been supported by the growing importance of AI in various sectors, including finance, healthcare, and manufacturing. The expectation of a peak in AI capital expenditures could indicate a shift in market dynamics, potentially affecting currency values and investment trends. Additionally, the role of central banks, particularly the Federal Reserve, in monetary policy and interest rates has been a key factor influencing the US dollar&\#x27;s performance.
-
-**「Impact on Investors」** Investors should be cautious as the expected peak in AI capital expenditures may lead to a reversal in the US dollar&\#x27;s short-term uptrend. This could result in a need for larger price concessions, including in the currency market, if AI capital expenditures show signs of topping out. The high level of foreign investment in US stocks and corporate bonds, much of which is on paper gains rather than actual purchases, and the low hedge ratio, suggest that even a structural increase in the hedge ratio could put substantial pressure on the US dollar.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.linkedin.com/posts/alexmartini1_us-data-center-power-demand-projected-to-activity-7478161234492588033-RRxJ">Goldman Sachs : US Data Center Power Demand to Double by 2027</a></li>
-<li><a href="https://www.ainvest.com/news/goldman-sachs-2027-gold-price-forecast-strategic-buy-long-term-investors-2510/">Goldman Sachs &#x27; 2027 Gold Price Forecast: A Strategic Buy for...</a></li>
-<li><a href="https://www.canadianminingreport.com/blog/goldman-sachs-2027-gold-outlook-could-gold-stocks-still-have-room-to-run">Goldman Sachs Holds $5,400 Gold for 2027 . Do Miners Still Have...</a></li>
-<li><a href="https://www.cnbc.com/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html">AI boom: Big Tech capital expenditures now seen topping $1 trillion in...</a></li>
-<li><a href="https://eu.36kr.com/en/p/3983918656568323">The AI Bubble: Critical Questions You Need to Ponder</a></li>
-<li><a href="https://www.linkedin.com/posts/francesco-monteverde-4b899116b_the-ai-bubble-debate-genius-investment-or-activity-7487528545183948800-npvZ">The AI Bubble Debate: Genius Investment or Ticking Time Bomb?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Economic Data`, `#Regulatory Announcements`, `#Market Trends`, `#Currency Forecast`, `#AI Investments`
-
----
-
-<a id="item-cn-macro-4"></a>
-### [Robotics Technology Competition Analysis](https://wallstreetcn.com/member/articles/3785706) ⭐️ 7.0/10
-
-The robotics technology sector is witnessing a significant competition with the release of new models from Anthropic, Nvidia, and Google. Anthropic&\#x27;s Claude Fable 5.2 achieved a 64.9% success rate in RoboDojo, Nvidia&\#x27;s GR00T 2 can complete 40 out of 50 tasks without specific demonstration, and Google&\#x27;s Gemini Robotics 2.5 achieved a 96% success rate in car part sorting on Mercedes-Benz production lines. This competition is crucial for the A-share market as it impacts the future of robotics and AI integration.
-
-rss · 华尔街见闻 · Nov 15, 05:56
-
-**「Background on Robotics Technology Developments」** The recent advancements in robotics technology have been marked by significant developments in the field of artificial intelligence and machine learning. Companies like Anthropic, Nvidia, and Google have been at the forefront of this innovation, releasing new models and technologies that are pushing the boundaries of what robots can do. Anthropic&\#x27;s Claude Fable 5.2, Nvidia&\#x27;s GR00T 2, and Google&\#x27;s Gemini Robotics 2.5 are examples of these cutting-edge technologies, each with unique features and capabilities that are poised to impact the market. These developments are particularly relevant for investors tracking the A-share market, as they represent a shift in the competitive landscape of robotics and artificial intelligence.
-
-**「Impact」** The competition among these robotics models may lead to a shift in market focus from model capabilities to hardware and data. As models become more accessible, the value may shift towards hardware components and real-world data, potentially impacting the profitability of companies specializing in robotics hardware and data collection.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1ZdWN6kEve/">【Claude】Fable 5.2 正式发布｜基于 RoboDojo 基准展示强大机器人操... Anthropic发布ClaudeFable5.2，机器人控制能力显著提升 能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊... Fable 5.2 机器人控制大幅提升:RoboDojo 双臂基准超… · AGI Hunt RoboDojo Sim Leaderboard &amp; Scores — November 2026 RoboDojo Sim评测：旧版Claude超越Anthropic Fable 5.2夺第一 · TheRo... Claude 团队展示 Fable 5.2 机器人控制，双臂基准超… · AGI Hunt</a></li>
-<li><a href="https://research.nvidia.com/labs/gear/gr00t-2/">GR00T 2: Scaling Robot Foundation Models for Generalization ...</a></li>
-<li><a href="https://gemini.google.com/?hl=tr">Google Gemini</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Robotics`, `#Technology`, `#Market Trends`, `#A-share Market`, `#Innovation`
-
----
-
-<a id="item-cn-macro-5"></a>
-### [Central Bank Signals Stability in RMB Exchange Rate](https://wallstreetcn.com/articles/3785956) ⭐️ 7.0/10
-
-The central bank announced an increase in the foreign exchange deposit reserve requirement ratio for financial institutions, aiming to stabilize the RMB exchange rate. This move is expected to halt the rapid appreciation of the RMB in the short term, with the USD/CNY exchange rate expected to stabilize around 6.67.
-
-rss · 华尔街见闻 · Nov 15, 05:11
-
-**「Background on RMB Exchange Rate and Central Bank Policies」** The Chinese Renminbi \(RMB\) exchange rate has been a subject of significant attention due to its managed floating exchange rate regime. Since 2015, the RMB has been influenced by globalized dynamics as an invoice and reserve currency, with the central bank intervening to stabilize its value. The RMB exchange rate regime has undergone structural evolution, with reforms aimed at unification of dual exchange rates and managing the currency&\#x27;s value. This managed approach has been crucial for supporting China&\#x27;s export-driven growth model, although it has also raised concerns about the currency&\#x27;s actual market value. The central bank&\#x27;s interventions, such as adjusting the foreign exchange deposit reserve requirement ratio, are strategic moves to manage the RMB exchange rate and mitigate the impact of global economic factors on the domestic economy.
-
-**「Impact」** The central bank&\#x27;s action is likely to reduce the risk of further appreciation of the RMB, which could weaken the effectiveness and independence of domestic monetary policy. This decision may also lead to a decrease in the inflow of foreign capital, affecting the liquidity environment in the short term.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2667111523000117">The “real” exchange rate regime in China since 2015′s ...</a></li>
-<li><a href="https://www.researchgate.net/publication/373444065_Structural_Evolution_of_RMB_Exchange_Rate_Reform_Historical_Review_Experience_and_Prospect">(PDF) Structural Evolution of RMB Exchange Rate Reform ...</a></li>
-<li><a href="https://www.middlebury.edu/institute/sites/default/files/2023-07/WP-+The+RMBs+Delicate+Dance-+Justin+Fulcher_0.pdf?fv=t3hWegfJ">The RMB&#x27;s Delicate Dance: Exploring the Complexities and ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Central Bank`, `#RMB Exchange Rate`, `#Regulatory Announcement`, `#Market Impact`, `#Economic Policy`
-
----
-
-<a id="item-cn-macro-6"></a>
-### [下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报](https://wallstreetcn.com/charts/41960177) ⭐️ 7.0/10
-
-Upcoming significant events including the APEC summit, Anthropic IPO, and major company earnings reports are highlighted, impacting the Chinese economy and stock market.
-
-rss · 华尔街见闻 · Nov 15, 02:18
-
-**Tags**: `#APEC Summit`, `#Anthropic IPO`, `#Company Earnings`, `#Chinese Economy`
-
----
-
-<a id="item-cn-macro-7"></a>
-### [Upcoming Key Economic and Market Events](https://wallstreetcn.com/articles/3785932) ⭐️ 7.0/10
-
-The upcoming week is marked by significant economic and market events, including the APEC summit, Anthropic IPO, and major corporate earnings reports from companies like Baidu, JD, Tencent, and Alibaba. The focus is on the APEC summit in Shenzhen, where the meeting between the leaders of the US, Russia, and China is anticipated. Additionally, the earnings reports from these tech giants will provide insights into the state of the Chinese AI sector.
-
-rss · 华尔街见闻 · Nov 15, 02:10
-
-**「Background on Upcoming Economic and Market Events」** The upcoming week is marked by significant economic and market events, including the APEC summit, Anthropic IPO, and major corporate earnings reports. The APEC summit, held in Shenzhen, focuses on economic cooperation and is a crucial event for the Chinese economy and stock market. The IPO of Anthropic, an AI company, is expected to provide insights into market sentiment towards AI assets. Additionally, the earnings reports from major tech companies like Baidu, JD.com, Tencent, and Alibaba will be closely watched for insights into the domestic AI landscape. The release of key economic data such as industrial production, retail sales, and real estate investment will also provide a snapshot of the Chinese economy. These events follow a period of steady economic growth and policy adjustments, making them important indicators of future trends.
-
-**「Impact」** Investors will be closely watching the earnings reports from Baidu, JD, Tencent, and Alibaba to gauge the performance of the Chinese AI sector. The outcome of the APEC summit and the Anthropic IPO could also have significant implications for market sentiment and investment strategies.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E4%B8%AD%E5%9B%BDAPEC%E5%B3%B0%E4%BC%9A">2026年中国APEC峰会 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://www.youtube.com/watch?v=0NRDSfnoSmc">Фотография биржевого дня на 27 октября 2026 года. - YouTube</a></li>
-<li><a href="https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261113-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%92%8C%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8D%A2%E7%89%B9%E5%B0%BC%E5%85%8B%E5%9D%87%E5%90%8C%E6%84%8F%E5%87%BA%E5%B8%AD%E5%9B%BD%E4%BC%9A%E5%90%AC%E8%AF%81-%E5%9B%BD%E4%BC%9A%E4%B8%89%E6%B3%95%E6%A1%88%E6%94%B6%E7%B4%A7%E8%8A%AF%E7%89%87%E7%9B%91%E7%AE%A1">黄仁勋和美商务部长卢特尼克均同意出席国会听证 国会三法案收紧芯片监...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#APEC Summit`, `#Anthropic IPO`, `#Corporate Earnings`, `#Chinese Economy`
-
----
-
-<a id="item-cn-macro-8"></a>
-### [China Securities Regulatory Commission Chairman&\#x27;s Speech on Capital Market Reforms](https://wallstreetcn.com/articles/3785951) ⭐️ 7.0/10
-
-China Securities Regulatory Commission \(CSRC\) Chairman Wu Qing emphasized the need for regulatory reforms and risk management in the Chinese capital market. He highlighted the unique characteristics of the A-share market and the importance of adapting regulatory mechanisms to the market&\#x27;s needs. Wu Qing also addressed the impact of global market changes on the A-share market and the need for effective risk prevention mechanisms, particularly for technology companies going public.
-
-rss · 华尔街见闻 · Nov 15, 01:11
-
-**「Background on China Securities Regulatory Commission Chairman&\#x27;s Speech」** The speech by the Chairman of the China Securities Regulatory Commission, Wu Qing, focused on the importance of regulatory reforms and risk management in the Chinese capital market. Wu Qing emphasized the need for studying and adapting the issuance and listing system for technology companies, reflecting the regulatory body&\#x27;s consideration of the unique characteristics of the Chinese market. He highlighted the differences between the A-share market and mature markets in terms of investor composition and market behavior, emphasizing the need for tailored reforms. Wu Qing also discussed the increasing integration of the Chinese capital market with the global market and the importance of stabilizing mechanisms to prevent market volatility. Additionally, he addressed concerns regarding the valuation bubbles in some technology companies&\#x27; listings and the need for improved expectation guidance mechanisms and regulatory frameworks for quantitative trading and share reduction.
-
-**「Impact on Investors and Companies」** The speech by the Chairman of the China Securities Regulatory Commission, focusing on regulatory reforms and risk management in the Chinese capital market, is expected to have a significant impact on investors and companies. It emphasizes the need for a deeper understanding of the unique characteristics of the A-share market and the importance of adapting regulatory mechanisms to the specific needs of technology companies. This could lead to a more cautious approach to initial public offerings \(IPOs\) of tech firms, potentially affecting their valuation and fundraising plans. Additionally, the emphasis on improving market stability and investor protection may lead to changes in trading practices and regulatory oversight, which could impact both investors and companies in the long term.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zh.wikipedia.org/zh-cn/%E5%90%B4%E6%B8%85">吴清 - 维基百科，自由的百科全书 - zh.wikipedia.org</a></li>
-<li><a href="https://baike.baidu.com/item/%E5%90%B4%E6%B8%85/56679">吴清（第二十届中央候补委员，中国证券监督管理委员会党委书记、主席... 吴清 - 中国证监会 吳清 - 維基百科，自由的百科全書 - zh.wikipedia.org 吴清 - 中国证监会 证监会新任主席吴清（附个人履历）_新浪财经_新浪网 吴清 - Wikiwand</a></li>
-<li><a href="https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/simp">黄仁勋辞职风波：从“ 中 国 间谍”热议到 资 本 市 场 “冷热分化” - BBC News...</a></li>
-<li><a href="http://views.ce.cn/view/ent/201808/22/t20180822_30098399.shtml">views.ce.cn/view/ent/201808/22/t20180822_30098399.shtml</a></li>
-<li><a href="https://www.youtube.com/watch?v=dLRF-KLL1Tk">「高盛」 20261113：2027... - YouTube</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Chinese Capital Market`, `#Regulatory Reforms`, `#Investor Protection`, `#Global Market Impact`
-
----
-
-<a id="item-cn-macro-9"></a>
-### [TCL华星印刷OLED技术迈向规模化量产](https://wallstreetcn.com/articles/3785949) ⭐️ 7.0/10
-
-TCL华星印刷OLED技术迎来规模化量产的关键阶段，预计将影响消费电子市场。TCL华星计划于2027年第四季度实现8.6代印刷OLED生产线量产出货，月加工玻璃基板约2.25万片，主要面向笔记本电脑、平板电脑和显示器等中尺寸产品。
-
-rss · 华尔街见闻 · Nov 14, 16:41
-
-**「TCL华星印刷OLED技术发展背景」** TCL华星自2013年起开始研发印刷OLED技术，经过13年的努力，该技术已从专业显示领域走向主流消费市场，并迎来了规模化量产的关键阶段。在此期间，TCL华星不断推出新产品，如搭载印刷OLED面板的消费电子产品，并在全球显示生态大会上展示多项技术成果。此外，TCL华星还计划投资约295亿元建设8.6代印刷OLED生产线，预计将于2027年第四季度实现量产出货。这些举措标志着TCL华星在印刷OLED技术领域的重大突破，同时也为消费电子市场带来了新的发展机遇。
-
-**「Market Impact on Consumer Electronics」** The规模化量产 of TCL华星的印刷OLED technology is expected to drive innovation and cost reductions in the consumer electronics market. This development, which has been 13 years in the making, will likely lead to the introduction of new, more affordable OLED-based products, benefiting consumers and potentially disrupting the existing market dynamics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.163.com/dy/article/KEC4C8Q905118O1O.html">一滴墨水点亮一座城： TCL 华 星 印 刷 OLED +AI重构显示新生态</a></li>
-<li><a href="https://www.tfcaijing.com/article/page/3277636130376f3130514d764a6d5a4b414f6e4a35773d3d">TCL 华 星 搭建“屏宇宙”：明年下半年量产 印 刷 OLED</a></li>
-<li><a href="https://laoyaoba.com/n/957076">万物皆有理丨搜狐张朝阳解构 印 刷 OLED ，探秘 TCL ...</a></li>
-<li><a href="https://post.smzdm.com/p/anvqxd8v/">全球首款 印 刷 OLED ...</a></li>
-<li><a href="https://www.pingwest.com/a/307222">万物皆有理丨搜狐张朝阳解构 印 刷 OLED ，探秘 TCL ... | 品玩</a></li>
-<li><a href="https://www.researching.cn/ArticlePdf/m00027/2021/41/4/237.pdf">f8fbaf43-a2d2-4a41-a0f7-259d8757226b</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#OLED Technology`, `#Consumer Electronics`, `#TCL华星`, `#Market Impact`, `#Technology Development`
-
----
-
-<a id="item-cn-macro-10"></a>
-### [Anthropic&\#x27;s Record-Breaking IPO: A Significant AI Market Event](https://wallstreetcn.com/articles/3785948) ⭐️ 7.0/10
-
-Anthropic, backed by major financial institutions and technology giants, is planning a historic IPO with a potential valuation of up to $140 billion and a funding target of $10 billion. This event marks a significant market shift in the AI sector, reflecting a strong collective bet on the future of AI by the tech ecosystem.
-
-rss · 华尔街见闻 · Nov 14, 11:47
-
-**「Background on Anthropic and the AI Sector」** Anthropic, founded in 2021 by former members of OpenAI, focuses on AI safety and has developed the Claude family of AI models. The company&\#x27;s plans for an initial public offering \(IPO\) in November 2026 have garnered significant attention, as it aims for a valuation of up to $140 billion and a funding of up to $10 billion. This event is notable in the AI sector, reflecting the growing interest and investment in AI technology. The involvement of major financial institutions and technology giants, such as NVIDIA, Microsoft, and Broadcom, in Anthropic&\#x27;s IPO underscores the sector&\#x27;s importance and the collective bet on the future of AI. This context is crucial for understanding the significance of Anthropic&\#x27;s IPO and its potential impact on the market.
-
-**「Impact on AI Stocks and Enterprise AI」** The IPO of Anthropic, backed by major financial institutions and technology giants, is expected to have a significant impact on the AI sector. The high valuation and substantial funding could lead to increased investment in AI stocks like Nvidia and Microsoft. Additionally, it may shift the focus on profitability and model economics in enterprise AI, influencing the purchasing decisions of enterprise AI buyers.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/money/Anthropic-PBC">Anthropic | History, Controversies, &amp; Claude AI | Britannica ...</a></li>
-<li><a href="https://beginnersinai.org/anthropic-company-guide/">Anthropic: The Company Behind Claude AI (2026 Guide)</a></li>
-<li><a href="https://intellectia.ai/blog/anthropic-ipo-analysis-2026">Anthropic IPO Analysis 2026: $2T Valuation and AI Market Impact</a></li>
-<li><a href="https://www.techtarget.com/ai/feature/Anthropic-IPO-Market-forces-and-enterprise-AI-effects">Anthropic IPO: Market forces and enterprise AI effects</a></li>
-<li><a href="https://www.forbes.com/sites/ronschmelzer/2026/10/26/anthropic-ipo-ai-boom-valuation-risks/">Anthropic’s IPO Reveals The Biggest Risk To The AI Boom</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI IPO`, `#Technology Investment`, `#Market Impact`, `#Financial News`, `#Tech Giants`
-
----
-
-<a id="item-cn-macro-11"></a>
-### [JAC Motors and CATL Expand Battery Swapping Services in China&\#x27;s EV Market](https://wallstreetcn.com/articles/3785945) ⭐️ 7.0/10
-
-JAC Motors and CATL are expanding their battery swapping services and charging stations in China, aiming to boost the electric vehicle \(EV\) market. JAC Motors has introduced new battery swapping models, while CATL is increasing the number of its charging stations to over 2500, with a goal of reaching 6000 by 2027.
-
-rss · 华尔街见闻 · Nov 14, 10:40
-
-**「Background on Electric Vehicle Market Developments」** The electric vehicle \(EV\) market in China has been witnessing significant developments, with a focus on battery swapping services and charging infrastructure. JAC Motors and CATL have been at the forefront of these advancements. JAC Motors introduced a new lineup of battery-swapping commercial electric vehicles, aiming to improve operational efficiency for logistics businesses. CATL, on the other hand, has been expanding its battery-swapping network, which is expected to accelerate the adoption of sodium-ion batteries and ease consumer concerns about driving range. These developments are crucial for understanding the current state of the EV market in China.
-
-**「Impact on Electric Vehicle Market」** The expansion of battery swapping services by JAC Motors and the increase in charging stations by CATL are expected to significantly boost the electric vehicle market in China. This development is particularly beneficial for consumers who prefer battery swapping over traditional charging, as it offers a faster and more convenient alternative. Investors in the EV sector may see increased demand for EVs and related infrastructure, potentially leading to higher stock prices for companies involved in battery swapping and charging solutions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.globalautoinsight.com/news/jac-battery-swapping-vehicles">JAC Battery Swapping Vehicles Debut With Four New Energy ...</a></li>
-<li><a href="https://electrek.co/2026/04/14/ev-charging-10-minutes-or-less/">EV charging in 10 minutes or less? It&#x27;s happening</a></li>
-<li><a href="https://www.accio.com/business/jac-car-company">JAC Car Company 2026: Electric &amp; High-End Trends</a></li>
-<li><a href="https://www.catl.com/en/news/6593.html">CATL and JAC Group Embark on a New 10-Year Partnership</a></li>
-<li><a href="https://autonews.gasgoo.com/articles/ev/70039581">CATL, JAC Group deepen strategic alliance to boost battery ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Electric Vehicle`, `#Battery Swapping`, `#CATL`, `#JAC Motors`, `#China&\#x27;s EV Market`
-
----
-
-<a id="item-cn-macro-12"></a>
-### [NVIDIA CEO Departure and Anthropic IPO Impact on AI Industry](https://wallstreetcn.com/articles/3785944) ⭐️ 7.0/10
-
-The departure of NVIDIA CEO Huang Renxun and the upcoming IPO of Anthropic are significant AI industry events. Huang&\#x27;s resignation amid a scandal has raised concerns about NVIDIA&\#x27;s stability, while Anthropic&\#x27;s IPO valuation has been significantly lowered from its initial $2 trillion to $1.2 trillion to $1.4 trillion. These events could test investor confidence in AI stocks.
-
-rss · 华尔街见闻 · Nov 14, 10:20
-
-**「Previous Events and Market Conditions」** The departure of Jensen Huang, CEO of NVIDIA, has raised concerns about the stability of the company and the AI industry. Huang&\#x27;s resignation followed allegations of extramarital affairs, leading to speculation about the future direction of NVIDIA. Additionally, Anthropic, a developer of the Claude chatbot, has announced its IPO with a valuation significantly lower than the initial expected $2 trillion. This valuation has been reduced to $1.2 trillion to $1.4 trillion, reflecting market uncertainty and cautious investor sentiment. These events come amidst a backdrop of higher consumer inflation data, expectations of further interest rate hikes by the Federal Reserve, and ongoing geopolitical tensions in the Middle East, all of which contribute to a challenging macroeconomic environment.
-
-**「Impact on Investors and AI Sector」** The departure of NVIDIA&\#x27;s CEO and the IPO of Anthropic pose significant challenges for investors and the AI sector. Investors are closely watching NVIDIA&\#x27;s upcoming earnings report, particularly for signs of stability in the post-Huang Renxun era. A disappointing report could lead to amplified market penalties due to the current uncertainty surrounding NVIDIA. Similarly, Anthropic&\#x27;s IPO, with its revised valuation, could serve as a bellwether for investor sentiment towards AI stocks. A poor IPO performance might indicate increasing pressure on AI investments.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/2104598366407636179">黄仁勋突然辞任英伟达CEO：33年创始人时代结束，CUDA和AI算力市场会变...</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/2104389203777927069">黄仁勋辞职：英伟达 CEO 交接、事件始末与职业生涯回顾</a></li>
-<li><a href="https://hot.foxnan.com/items/dshh7okllubhbbf4r13kbrrk4">Anthropic IPO 未撤回，但 估 值 缩水与人事变动令华尔街承压 · AI快讯</a></li>
-<li><a href="https://www.todayusstock.com/news/467115/">知情人士透露部分投资者 下 调 Anthropic IPO ... | 今日美股</a></li>
-<li><a href="https://www.winzheng.com/article/anthropic-ipo-valuation-2028-revenue-forecast">Anthropic IPO 估 值 依赖2028年1900-2000亿美元营收预测 | 赢政天 下</a></li>
-<li><a href="https://www.youtube.com/watch?v=OyWCLCvLtW8">警告! AI叙事崩盘! 泡沫里的热钱大批出逃! Anthropic ... - YouTube</a></li>
-<li><a href="https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1">Anthropic targets valuation of up to $1.4tn in IPO</a></li>
-<li><a href="https://polymarket.com/zh-hant/event/anthropic-ipo-by">Anthropic IPO by __ ？ 預測與賠率 2026 | Polymarket</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Industry`, `#NVIDIA`, `#IPO`, `#Market Reaction`, `#Chinese Stock Market`
-
----
-
-<a id="item-cn-macro-13"></a>
-### [NVIDIA&\#x27;s Huang Renxun Departure Raises AI Financing Concerns](https://wallstreetcn.com/articles/3785942) ⭐️ 7.0/10
-
-The departure of Huang Renxun from NVIDIA has sparked concerns about the stability of the AI financing ecosystem and its potential impact on the broader market. Huang&\#x27;s role as the &\#x27;last lender&\#x27; for the AI industry has been crucial, with NVIDIA&\#x27;s financing machine valued at over $500 billion. His exit has led to a drop in NVIDIA&\#x27;s stock price and raised worries about the future of AI ecosystem funding.
-
-rss · 华尔街见闻 · Nov 14, 09:44
-
-**「Background on Huang Renxun&\#x27;s Departure from NVIDIA」** Huang Renxun, the CEO of NVIDIA, played a pivotal role in the AI financing ecosystem, transforming NVIDIA into a key player in the AI industry. Under his leadership, NVIDIA became the &\#x27;last lender&\#x27; for AI, establishing a financing machine worth over $500 billion through equity investments, guarantees, and repurchase agreements. This extensive network included investments in AI labs, emerging cloud service providers, and the supply chain. Huang&\#x27;s departure raises concerns about the stability of the AI financing ecosystem and the potential impact on the broader market, as NVIDIA&\#x27;s financing model was closely tied to his vision and leadership.
-
-**「Impact on AI Industry and Market」** The departure of Huang Renxun from NVIDIA has raised significant concerns about the stability of the AI financing ecosystem. This is due to Huang&\#x27;s pivotal role in NVIDIA&\#x27;s expansion into AI financing, where the company had committed over 5300 billion USD in various forms of investments and guarantees. The uncertainty surrounding the future of NVIDIA&\#x27;s financing activities could lead to a slowdown in AI infrastructure growth and potentially impact the broader market. Investors are particularly concerned about the potential reduction in funding for emerging cloud service providers and the overall stability of the AI industry.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.gurufocus.com/news/9099173/nvidias-huang-renxun-discusses-ais-future-and-industry-impact">NVIDIA &#x27;s Huang Renxun Discusses AI &#x27;s Future and Industry Impact</a></li>
-<li><a href="https://www.gate.com/blog/jensen-huang-nvidia-investigation-nvda-stock-market-expectations">What Happened to Jensen Huang ? How Could the Nvidia ... | Gate Blog</a></li>
-<li><a href="https://medium.com/@jason.aiesec.gdufs/nvidia-is-monopolizing-the-ai-industry-according-to-the-foresight-of-huang-renxun-4cd31c96ea19">NVIDIA is “monopolizing” the AI industry , according to the... | Medium</a></li>
-<li><a href="https://thehill.com/business/6217149-ai-industry-stability-threatened-nvidia-huang/">Nvidia, AI-powered economy face instability after Jensen ...</a></li>
-<li><a href="https://emergent.sh/news/ai-financing-after-jensen-huang-what-s-next">AI Financing After Jensen Huang: What&#x27;s Next for Nvidia</a></li>
-<li><a href="https://www.forbes.com/sites/emmawaldman/2026/11/12/what-jensen-huangs-exit-means-for-nvidia-and-investors/">What Jensen Huang’s Exit Means For Nvidia And Investors</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Industry`, `#NVIDIA`, `#Market Stability`, `#Financing Ecosystem`, `#Huang Renxun`
-
----
-
-<a id="item-cn-macro-14"></a>
-### [Nissan Adjusts Sales Expectations and Invests in New Models for the Chinese Market](https://wallstreetcn.com/articles/3785943) ⭐️ 7.0/10
-
-Nissan has lowered its 2026 China market retail sales expectations from 580,000 to 370,000 to 400,000 units, yet continues to invest in new models and expand its presence in the Chinese and global markets. The company is focusing on the introduction of new models, including plug-in hybrid SUVs and MPVs, and aims to strengthen its position in the Chinese and global auto markets.
-
-rss · 华尔街见闻 · Nov 14, 09:39
-
-**「Background on Nissan&\#x27;s Strategy Adjustments in the Chinese Market」** Nissan has been facing significant challenges in the Chinese market, with a notable decline in sales expectations. In response, the company has announced a strategic shift, including a reduction in sales expectations from 580,000 to 370,000 to 400,000 units for the Chinese market in 2026. This adjustment is part of a broader strategy to invest in new models and expand its presence in both the Chinese and global markets. Nissan has also introduced new models, such as the NX7, targeting the 150,000 to 200,000 yuan plug-in hybrid market, and has been focusing on attracting younger consumers who are transitioning from traditional fuel vehicles to new energy vehicles. Additionally, Nissan has been investing in its product development capabilities in China, with plans to introduce pure electric versions of its new products and to leverage its existing overseas sales and after-sales networks for global expansion.
-
-**「Impact on Nissan&\#x27;s Market Strategy」** Nissan&\#x27;s decision to adjust its sales expectations and invest in new models for the Chinese market is expected to have a significant impact on the company&\#x27;s market strategy. The introduction of new models like the NX7 and the expansion of the company&\#x27;s presence in the Chinese and global markets could potentially boost sales and improve the company&\#x27;s reputation in the Chinese market, which has been facing challenges. This strategic shift may also open up new opportunities for Nissan to export its products to other markets, thereby diversifying its revenue streams.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai/2026/04/06/samye-kachestvennye-jelektrokary-gibridy-2026/">В Китае назвали самые качественные электрокары и гибриды 2026 ...</a></li>
-<li><a href="https://global.chinadaily.com.cn/a/202504/24/WS6809ee49a3104d9fd3821595.html">Nissan accelerates NEV strategy in China - Chinadaily.com.cn</a></li>
-<li><a href="https://www.asahi.com/ajw/articles/16036376">Nissan sales rebound in China with low-cost, localized EV</a></li>
-<li><a href="https://www.carscoops.com/2026/08/nissan-development-time/">This Is How Nissan Copied China To Slash ... - Carscoops</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nissan`, `#Chinese Auto Market`, `#Investment`, `#New Models`, `#Global Expansion`
-
----
-
-<a id="item-cn-macro-15"></a>
-### [Potential 25bp or 50bp Rate Hike by Federal Reserve in December](https://wallstreetcn.com/member/articles/3785727) ⭐️ 7.0/10
-
-The U.S. economic data, including higher than expected CPI and core CPI figures, and strong non-farm employment data, indicates a potential for a 25bp or 50bp interest rate hike by the Federal Reserve in December. This is based on Federal Reserve officials&\#x27; statements and the deviation from market expectations.
-
-rss · 华尔街见闻 · Nov 14, 09:19
-
-**「Prior Economic Data and Policy Stance」** The recent economic data, including higher than expected CPI and core CPI figures in the United States, along with strong non-farm employment data, indicate a potential for policy changes by the Federal Reserve. This is in line with the Federal Reserve&\#x27;s previous stance of focusing on inflation control. The Federal Reserve has been raising interest rates to combat inflation, with the last rate decision in September 2026 raising the benchmark interest rate by 25 basis points to a target range of 3.75%-4%. The Federal Reserve has also held interest rates at this level in October 2026, reflecting a cautious approach to monetary policy.
-
-**「Impact」** The potential rate hike could lead to increased market volatility and could impact sectors sensitive to interest rate changes, such as real estate and consumer discretionary.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html">Fed rate decision September 2026 : Rates rise to 3.75%-4%</a></li>
-<li><a href="https://digg.com/world-business/9dt42dp2">Federal Reserve reportedly holds interest rates at 3.75% to 4.00...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Economic Data`, `#Federal Reserve`, `#Interest Rate Hike`, `#U.S. Economy`, `#Market Analysis`
-
----
-
-<a id="item-cn-macro-16"></a>
-### [Xi Jinping&\#x27;s Article on Building a Shared Future for the Asia-Pacific](https://www.cls.cn/detail/2534657) ⭐️ 7.0/10
-
-Chinese President Xi Jinping&\#x27;s article in &\#x27;Seeking Truth&\#x27; magazine emphasizes the importance of building a shared future for the Asia-Pacific region, highlighting economic cooperation and regional stability. The article discusses the role of the Asia-Pacific Economic Cooperation \(APEC\) in fostering growth and prosperity, and outlines China&\#x27;s commitment to promoting regional stability and economic integration.
-
-rss · 财联社电报 · Nov 15, 07:02
-
-**「Background on Asia-Pacific Economic Cooperation \(APEC\)」** The Asia-Pacific Economic Cooperation \(APEC\) is a forum that promotes economic growth, cooperation, trade, and investment among the regions of the Asia-Pacific. Established in 1989, APEC has become the most influential economic cooperation mechanism in the Asia-Pacific region, replacing the Cold War structure of the region. It focuses on fostering economic cooperation and integration among its member economies, which include major economies such as the United States, Japan, China, and Australia. APEC has been instrumental in promoting trade and investment liberalization and facilitation, supporting economic growth and prosperity, and addressing regional and global economic challenges. The organization&\#x27;s objectives align with the shared vision of building a community with a shared future for the Asia-Pacific region, as emphasized by Chinese President Xi Jinping in his recent article.
-
-**「Impact」** The article&\#x27;s emphasis on economic cooperation and regional stability is expected to positively influence investor sentiment in the Asia-Pacific region, particularly in sectors that benefit from regional integration and trade. Investors may see increased opportunities in areas such as infrastructure, trade, and technology, driven by the push for a more interconnected and cooperative Asia-Pacific economy.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zh.wikipedia.org/zh-hans/%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87">亚太经济合作组织 - 维基百科，自由的百科全书</a></li>
-<li><a href="http://intl.ce.cn/specials/zxxx/201309/30/t20130930_1573342.shtml">亚太经合组织的历史沿革和发展历程 _中国经济网——国家经济门户</a></li>
-<li><a href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/lhg_682278/jbqk_682280/">亚太经合组织概况_中华人民共和国外交部</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Chinese Economic Policy`, `#Asia-Pacific Economic Cooperation`, `#Regional Stability`, `#Globalization`, `#Trade Policy`
+**Tags**: `#Regulatory Announcement`, `#Tech IPOs`, `#A-share Market`, `#Policy Fine-tuning`, `#Market Regulation`
 
 ---
 
@@ -459,269 +112,255 @@ rss · 财联社电报 · Nov 15, 07:02
 <a id="item-global-market-1"></a>
 ### [Nvidia Turmoil and Democratic Congress Impact on AI Trade](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) ⭐️ 7.0/10
 
-Nvidia&\#x27;s turmoil, marked by the resignation of its CEO Jensen Huang, and the potential Democratic control of Congress could significantly reshape the AI trade. Experts predict shifts in market dynamics and investor behavior, with potential benefits for technology stocks outside of Big Tech.
+Nvidia&\#x27;s turmoil, including the resignation of its CEO Jensen Huang, and the Democratic Party&\#x27;s control of Congress could reshape the AI trade. Experts suggest this could benefit other technology stocks and AI chip players, with potential implications for the tech-heavy Nasdaq index.
 
 rss · CNBC Finance · Nov 14, 15:50
 
-**「Prior Market Dynamics and Policy Landscape」** The AI trade landscape has been shaped by the rapid growth of data centers, which have become a critical component of the AI industry. This growth has been fueled by major technology companies investing heavily in data center infrastructure. The midterm elections in 2026 brought to light concerns about the environmental impact and economic implications of data centers, leading to increased scrutiny from both political parties. Democrats, particularly, have expressed concerns about the overbuild of data centers and their potential impact on rural communities. These issues have become a focal point in the political discourse, influencing the regulatory environment and investor sentiment in the AI sector.
+**「Prior Market Dynamics and Policy Landscape」** The current analysis is rooted in the evolving landscape of the technology sector, particularly in the realm of artificial intelligence and chip manufacturing. Nvidia, a leading player in AI and GPU chips, has recently faced internal turmoil, including the resignation of its CEO, Jensen Huang. This event has sparked discussions about the potential reshaping of the AI trade. Additionally, the Democratic Party&\#x27;s gains in the 2026 midterm elections have led to a shift in fiscal policy and increased scrutiny on AI infrastructure investments. These developments have significant implications for the technology stocks and AI chip players, as well as for the broader market dynamics.
 
-**「Impact」** The market remains optimistic about other AI chip players like AMD and Alphabet in the face of Nvidia&\#x27;s challenges. The tech-heavy Nasdaq index posted its best week since August, reflecting the reshuffling of the AI trade landscape.
+**「Market Impact」** The turmoil at Nvidia and the Democratic Congress&\#x27;s pushback on data centers could lead to a reshaping of the AI trade. This could benefit other technology stocks and AI chip players, such as AMD and Broadcom, as they may gain market share in GPUs and custom AI chips. The compute demand is expected to increase in value, potentially leading to a bullish outlook for these companies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.businessinsider.com/the-data-center-boom-is-colliding-with-the-midterms-2026-6">The Data Center Boom Is Colliding With the Midterms - Business Insider</a></li>
-<li><a href="https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georgia-ohio/">Midterm Results Reflect AI, Data Center Concerns</a></li>
-<li><a href="https://www.yahoo.com/news/politics/articles/democrats-try-harness-data-center-040853672.html">Democrats try to harness data center backlash that&#x27;s dividing rural...</a></li>
+<li><a href="https://www.venturasecurities.com/news/stocks/us-midterm-election-results-what-changes-for-tech-stocks/">US Midterm Elections 2026: Impact on Tech Stocks and AI</a></li>
+<li><a href="https://www.morganstanley.com/insights/articles/2026-us-midterm-election-results-market-impact">What the Democratic Midterm Sweep Could Mean for Markets</a></li>
+<li><a href="https://money.usnews.com/investing/articles/how-2026-midterm-elections-impact-stock-market">How Will the 2026 Midterm Results Affect Investors? - U.S. News</a></li>
+<li><a href="https://www.cnbc.com/2026/11/13/nvidia-ceo-exit-amd-broadcom-and-ai-trade-fallout-.html">Nvidia CEO exit: AMD, Broadcom and AI trade fallout - CNBC</a></li>
+<li><a href="https://blockonomi.com/ai-chip-market-statistics-2026-nvidia-amd-broadcom-and-more/">AI Chip Market Statistics 2026: NVIDIA, AMD, Broadcom and ...</a></li>
+<li><a href="https://intellectia.ai/blog/nvidia-stock-ai-investment-analysis-2026">Nvidia Stock Analysis 2026: Is NVDA Still a Buy for AI Investors?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Trade`, `#Nvidia`, `#Technology Stocks`, `#Market Dynamics`, `#Congress Impact`
+**Tags**: `#AI Trade`, `#Nvidia`, `#Technology Stocks`, `#Congress`, `#Market Analysis`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [SpaceX Achieves Milestone with Starship Rocket Catch](https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories) ⭐️ 7.0/10
+### [SpaceX Achieves Milestone with Starship Rocket Capture](https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-SpaceX has reached a significant milestone by successfully catching its Starship rocket, a development that brings the company closer to achieving rapid reusability of rockets.
+SpaceX has successfully captured a Starship rocket, marking a significant milestone in the space industry. This achievement brings the company closer to achieving rapid reusability of rockets.
 
 rss · MarketWatch Top Stories · Nov 15, 00:33
 
-**「SpaceX&\#x27;s Founding and Starship Development」** SpaceX, founded by Elon Musk in 2002, has been at the forefront of transforming the aerospace industry with the goal of making spaceflight more affordable. The company&\#x27;s first rocket, the Falcon 1, was designed to send small satellites into orbit. SpaceX&\#x27;s Starship program aims to revolutionize space technology, with the ultimate goal of enabling people to live on other planets. The Starship spacecraft has made significant strides, including becoming the first rocket to orbit Earth and land on the same launchpad it took off from, marking a crucial step towards building fully reusable rockets.
+**「SpaceX Starship Background」** SpaceX&\#x27;s Starship is a two-stage, fully reusable, super heavy-lift launch vehicle. It is designed to be the successor to the Falcon 9 and Falcon Heavy rockets and is part of SpaceX&\#x27;s reusable launch system development program. The Starship is built and launched from Starbase in Texas and is intended for missions to Earth orbit, the Moon, Mars, and beyond. This milestone of successfully catching the Starship rocket is a significant step towards achieving rapid reusability in rocket technology.
 
-**「Impact」** This achievement is expected to have a positive impact on the space industry by reducing costs and increasing efficiency, as reusable rockets can be launched multiple times before requiring maintenance.
+**「Impact」** The successful capture of the Starship rocket by SpaceX is expected to drive advancements in rocket technology, potentially leading to more cost-effective space missions and increased market interest in space exploration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.britannica.com/money/SpaceX">SpaceX | Spacecraft, Rockets , xAI Acquisition... | Britannica Money</a></li>
-<li><a href="https://www.spacex.com/vehicles/starship?ref=goodoil.news">SpaceX - Starship</a></li>
-<li><a href="https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html">SpaceX Makes History With Successful Rocket Catch in Texas</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SpaceX_Starship">SpaceX Starship - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SpaceX_Starship_design_history">SpaceX Starship design history - Wikipedia</a></li>
+<li><a href="https://www.spacex.com/vehicles/starship">SpaceX - Starship</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SpaceX`, `#Starship`, `#Rocket`, `#Space Industry`, `#Rapid Reusability`
+**Tags**: `#SpaceX`, `#Rocket Technology`, `#Space Industry`, `#Rapid Reusability`, `#Space Exploration`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [US Aviation Shutdown Blamed on L3 Harris Router](https://reut.rs/4kQhJKi) ⭐️ 7.0/10
+### [Yemen Government Forces Withdraw from Bab el-Mandeb Strait Area](https://reut.rs/3Vpf14c) ⭐️ 7.0/10
 
-A major aviation shutdown in the United States has been attributed to a router installed by L3 Harris, leading to disruptions in global financial markets.
+Yemen government forces have withdrawn from the strategic Bab el-Mandeb Strait area, with the Houthi rebels now in control. This shift in control could impact global financial markets, particularly in terms of oil supply and geopolitical tensions.
 
-rss · 路透社 Reuters · Nov 14, 20:42
+rss · 路透社 Reuters · Nov 15, 11:49
 
-**「Background on L3 Harris and the Aviation Shutdown」** L3Harris Technologies, Inc. is an American technology company and defense contractor known for producing products for command and control systems, wireless equipment, tactical radios, avionics, and electronic systems. The company has a history of providing technology solutions for various sectors, including aviation. The recent aviation shutdown in the US, which affected global financial markets, is attributed to a router installed by L3 Harris. This incident highlights the critical role of technology in aviation and the potential impact of technical failures on broader economic systems.
+**「Background on Bab el-Mandeb Strait」** The Bab el-Mandeb Strait is a strategically significant waterway located between Yemen on the Arabian Peninsula and Djibouti and Eritrea in the Horn of Africa. It connects the Red Sea to the Gulf of Aden and the Indian Ocean, making it a crucial chokepoint for global oil markets. The strait has been a focal point for geopolitical tensions and has seen conflicts involving various interests, including international alliances formed to protect the vital corridor.
 
-**「Impact on Global Financial Markets」** The aviation shutdown in the US, attributed to a router installed by L3 Harris, has significant implications for global financial markets. This event could lead to supply chain disruptions and potential insurance implications, affecting various sectors and currencies.
+**「Impact」** The control of the Bab el-Mandeb Strait by the Houthis may lead to increased geopolitical tensions in the region, potentially affecting oil supply routes and global oil prices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/L3Harris">L3Harris - Wikipedia</a></li>
-<li><a href="https://www.l3harris.com/sites/default/files/2026-08/L3Harris_Company-Overview_August2026.pdf">L3Harris Company Overview</a></li>
-<li><a href="https://www.youtube.com/watch?v=cPtx86S9Yp8">Impact of US Shutdown : Aviation Trends in the US - YouTube</a></li>
-<li><a href="https://airpronews.com/2025/09/23/aviation-funding-stability-act-2025-protects-faa-during-shutdowns/">Aviation Funding Stability Act 2025 Protects FAA During Shutdowns</a></li>
-<li><a href="https://aviationweek.com/air-transport/aviation-industry-counts-cost-volcanic-ash-shutdown">Aviation industry counts the cost of volcanic ash shutdown</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bab_al-Mandab_Strait">Bab al-Mandab Strait - Wikipedia</a></li>
+<li><a href="https://www.ieee.es/Galerias/fichero/docs_opinion/2020/DIEEEO19_2020ANAAGU_BabMandeb_ENG.pdf">The Bab el-Mandeb strait: Geopolitical considerations of the ...</a></li>
+<li><a href="https://mepei.com/the-geopolitical-importance-of-bab-el-mandeb-strait-a-strategic-gateway-to-global-trade/">The Geopolitical Importance of Bab el-Mandeb Strait: A ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#aviation`, `#supply chain`, `#financial markets`, `#technology`, `#Reuters`
+**Tags**: `#Geopolitical Events`, `#Oil Supply`, `#Yemen Conflict`, `#Strategic Regions`, `#Global Financial Markets`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [UN Climate Chief Urges Speed at COP31 Amid Fossil Fuel Disagreements](https://reut.rs/48etmTY) ⭐️ 7.0/10
+### [菲律宾与中国在南海问题上的分歧加剧](https://reut.rs/4iSJ7oh) ⭐️ 7.0/10
 
-The United Nations climate chief has called for urgent action at the 31st Conference of the Parties \(COP31\) due to ongoing disagreements over the use of fossil fuels. The call for speed reflects the urgency of addressing climate change amidst differing views on fossil fuel usage.
+The Philippines and China are experiencing an escalation in their分歧 over the South China Sea, which could affect global financial markets.
 
-rss · 路透社 Reuters · Nov 14, 16:12
+rss · 路透社 Reuters · Nov 15, 10:45
 
-**「Background on COP31 and Fossil Fuel Disagreements」** The 31st Conference of the Parties \(COP31\) is a critical global summit focused on addressing climate change. This year&\#x27;s event is particularly significant as it confronts the ongoing debate over the use of fossil fuels. Turkey and Australia, the hosts of COP31, are major exporters of fossil fuels, which has led to a contentious debate at the summit. The UN climate chief has called for urgent action, emphasizing the need for a global fossil fuel transition. This discussion is part of a broader trend where countries are grappling with the challenge of balancing economic interests in fossil fuel production with the environmental imperative to reduce carbon emissions. The proposals at COP31 include recognizing a global fossil fuel transition roadmap developed by Brazil&\#x27;s COP30 presidency in 2025 and establishing a process for advancing its recommendations.
-
-**「Impact」** The disagreements at COP31 over fossil fuel usage could lead to policy stalemates, potentially affecting global energy markets and the transition to renewable energy sources.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.theguardian.com/environment/2026/nov/10/un-antonio-guterres-cop31-fossil-fuels-turkey-australia">UN chief urges Cop 31 hosts Turkey and Australia to turn fossil fuel ...</a></li>
-<li><a href="https://apnews.com/article/cop31-fossil-fuels-colombia-ireland-tuvalu-coal-09c81f8bc4afd44fb6a4c5a804b74cab">Fossil fuel transition coalition looks to Tuvalu after... | AP News</a></li>
-<li><a href="https://johnmenadue.com/post/2025/09/the-world-isnt-even-trying-to-phase-out-fossil-fuels/">The world isn&#x27;t even trying to phase out fossil fuels | Pearls and...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Climate Change`, `#COP31`, `#Fossil Fuels`, `#UN Climate Policy`, `#Global Financial Markets`
+**Tags**: `#Geopolitical Risk`, `#South China Sea`, `#Philippines`, `#China`, `#Global Markets`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [Canada and US Trade Deal Progress](https://reut.rs/4ex7qHd) ⭐️ 7.0/10
+### [US Aviation Shutdown Blamed on L3 Harris Router](https://reut.rs/4kQhJKi) ⭐️ 7.0/10
 
-Canada and the United States have reported progress on a trade deal, as indicated by a statement from Carney. This development is significant for global financial markets, particularly for those tracking central banks and equities.
+A major aviation shutdown in the US has been attributed to a router installed by L3 Harris, impacting global aviation systems.
 
-rss · 路透社 Reuters · Nov 14, 10:32
+rss · 路透社 Reuters · Nov 14, 20:42
 
-**「Historical Context of Canada-US Trade Relations」** The Canada-US trade relationship has a long history, dating back to the Canada – United States Free Trade Agreement, which laid the groundwork for a multilateral agreement between the United States, Mexico, and Canada. The North American Free Trade Agreement \(NAFTA\) came into effect on January 1, 1994. More recently, the United States-Mexico-Canada Agreement \(USMCA\), a revised version of NAFTA, was signed in 2020, focusing on stronger protections for workers and the digital economy, expanded markets for American farmers, and new rules to encourage auto manufacturing in North America. This history of trade agreements between Canada and the US sets the stage for the current progress reported by Carney.
+**「Background on L3 Harris and Aviation Technology」** L3 Harris Technologies, Inc. is an American technology company and defense contractor known for producing products for command and control systems, wireless equipment, tactical radios, avionics, and electronic systems. The company has a significant presence in the aviation sector, providing technology solutions that are critical for aviation systems. Prior to the recent aviation shutdown in the US, L3 Harris had a reputation for its involvement in various aviation technology projects, including the development of avionics and electronic systems. This incident highlights the importance of reliable technology in aviation and the role of companies like L3 Harris in ensuring the safety and efficiency of global aviation systems.
 
-**「Impact」** The progress in the trade deal between Canada and the US is expected to positively impact financial markets, potentially boosting investor confidence and affecting sectors reliant on cross-border trade.
+**「Impact」** The incident has raised concerns about aviation safety and the reliability of technology in aviation systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Canada%E2%80%93United_States_trade_relations">Canada – United States trade relations - Wikipedia</a></li>
-<li><a href="https://www.nytimes.com/2020/01/29/business/economy/usmca-trump.html">Trump Signs Trade Deal With Canada and Mexico (Published 2020)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/L3Harris">L 3 Harris - Wikipedia</a></li>
+<li><a href="https://sarasotaavionics.com/manufacturers/l-3-avionics">Avionics from L - 3 Harris - L - 3 Harris has been helping pilots fly for...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Trade Deal`, `#Canada`, `#US`, `#Financial Markets`, `#Central Banks`
+**Tags**: `#aviation`, `#technology`, `#corporate responsibility`, `#aviation safety`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [Southeast Asia&\#x27;s Renewable Energy Push Accelerates Amid Middle East Conflict](https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html) ⭐️ 7.0/10
+### [International Leaders&\#x27; Meeting Consideration](https://reut.rs/4kSBqRD) ⭐️ 7.0/10
 
-Southeast Asian countries are accelerating their shift towards renewable energy due to the Middle East conflict, which has disrupted fuel trade and heightened the need for energy diversification. This shift is in response to reduced fuel trade and fears of shortages, as nations seek alternative energy sources.
+International leaders Trump, Putin, and Xi are contemplating a significant meeting, with Chinese President Xi showing caution regarding hosting the event.
 
-rss · OilPrice · Nov 14, 20:00
+rss · 路透社 Reuters · Nov 14, 16:28
 
-**「Background on Southeast Asia&\#x27;s Renewable Energy Push」** The acceleration of renewable energy deployment in Southeast Asia is a response to the ongoing conflict in the Middle East, which has disrupted fuel trade and highlighted the need for energy diversification. The 2026 Iran war fuel crisis, marked by the closure of the Strait of Hormuz and attacks on energy infrastructure, has led to a significant disruption in global oil supplies. This crisis has been compounded by the increased costs and volatility in fuel prices due to geopolitical risks. The International Energy Agency \(IEA\) has previously identified Asia&\#x27;s potential to increase its renewable energy capacity, and the International Renewable Energy Agency \(IRENA\) has set targets for renewable energy adoption, further emphasizing the global shift towards renewable energy sources.
+**「Background on the Trump-Xi-Putin Summit」** The consideration of a meeting between former U.S. President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping is a significant international political event. Such a summit, if it were to take place, would mark the first-ever three-way meeting among these three leaders. The event is of particular interest due to its potential implications for global financial markets and geopolitical relations. Analysts have noted that a Trump-Xi-Putin meeting at the APEC summit would be a coup for Moscow, but Beijing&\#x27;s response has been lukewarm, indicating a cautious approach to hosting such a high-profile event.
 
-**「Impact」** The increased focus on renewable energy in Southeast Asia is expected to have a significant impact on global energy markets, potentially leading to a rise in demand for renewable energy technologies and a shift in investment patterns in the region.
+**「Impact」** The potential meeting between Trump, Putin, and Xi could lead to geopolitical shifts, impacting global financial markets and international relations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis">2026 Iran war fuel crisis - Wikipedia</a></li>
-<li><a href="https://www.breakthroughfuel.com/blog/middle-east-conflict-impact-on-global-fuel-costs/">Middle East Conflict: Impact on Fuel Costs &amp; Supply Chains</a></li>
-<li><a href="https://www.imf.org/en/blogs/articles/2026/03/30/how-the-war-in-the-middle-east-is-affecting-energy-trade-and-finance">How the War in the Middle East Is Affecting Energy, Trade ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/International_Renewable_Energy_Agency">International Renewable Energy Agency - Wikipedia</a></li>
-<li><a href="https://iea.blob.core.windows.net/assets/88a07dd9-42fe-4232-842e-9015b4b647f8/Renewables2024.pdf">Renewables 2024</a></li>
-<li><a href="https://www.irena.org/">IRENA – International Renewable Energy Agency</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt">What a Trump-Xi-Putin summit could mean – and what it wouldn’t</a></li>
+<li><a href="https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/">Trump, Putin and Xi Jinping expected to meet in first-ever ...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html">A Trump-Putin-Xi Summit? That Might Be Awkward for One of ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Renewable Energy`, `#Energy Diversification`, `#Geopolitical Events`, `#Energy Policy`, `#Commodity Markets`
+**Tags**: `#Geopolitical Events`, `#International Relations`, `#Financial Markets`, `#Leadership`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [Singapore&\#x27;s $65 Billion Investment in Gold](https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html) ⭐️ 7.0/10
+### [UN Climate Chief Urges Speed Amidst Fossil Fuel Divisions at COP31](https://reut.rs/48etmTY) ⭐️ 7.0/10
 
-Singapore&\#x27;s Monetary Authority has allocated $65 billion for a national currency vault capable of holding 500 tons of gold, open to foreign central banks and sovereign entities. This move, accompanied by tax breaks for wholesale gold trade, signifies a significant bet on the future of gold and is expected to attract investors from the Americas, Europe, and the Middle East.
+The United Nations climate chief has called for urgent action at the 31st Conference of the Parties \(COP31\), highlighting the significant disagreements over fossil fuel usage. These disagreements are impeding progress in addressing climate change.
 
-rss · OilPrice · Nov 14, 18:00
+rss · 路透社 Reuters · Nov 14, 16:12
 
-**「Singapore&\#x27;s Strategic Move in Gold Market」** In recent years, the focus in the gold market has shifted from who is buying to where the metal is stored. This shift is exemplified by Singapore&\#x27;s recent actions. The Monetary Authority of Singapore \(MAS\) has opened its national currency vault, capable of holding 500 tons of bullion, to foreign central banks and sovereign entities. To further encourage the storage of gold within the country, Singapore has also introduced tax breaks for wholesale gold trade. This strategic move by Singapore comes after reports that wealthy investors from the United States, Europe, and the Middle East have begun shipping their gold bars to the city-state. The MAS, along with the Singapore Bullion Market Association \(SBMA\), has established a Gold Market Development Working Group to set out key focus areas for the development of the gold market in Singapore.
+**「Background on COP31 and Fossil Fuel Disagreements」** The 31st Conference of the Parties \(COP31\) has been marked by significant disagreements over the use of fossil fuels. This follows the historical draft agreement from COP28, which for the first time mentioned reducing fossil fuel production. The transition from fossil fuels to renewable energy is a complex process, and the roadmap presented by Brazil’s COP30 presidency aimed to turn the COP28 Dubai agreement into practical national plans. Despite these efforts, fossil fuel disagreements remain unresolved, creating challenges for COP31. The reliance on fossil fuels, particularly coal and gas, has been a point of contention, with some viewing it as a form of climate theater.
 
-**「Impact on Global Gold Trade」** Singapore&\#x27;s decision to offer storage space for 500 tons of bullion in its national currency vault and tax breaks for wholesale gold trade is expected to challenge London and New York&\#x27;s dominance in the global gold trade. This move is likely to attract foreign central banks and sovereign entities, potentially reshaping the dynamics of the gold market.
+**「Impact」** The ongoing disagreements at COP31 are likely to delay international efforts to reduce fossil fuel dependence, potentially affecting global energy markets and the transition to renewable energy sources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/ethan-tan-aa1180_singapore-ramps-up-push-to-become-asia-pacific-activity-7443191202973310977-vFfH">Singapore Boosts Gold Trading Hub with Infrastructure... | LinkedIn</a></li>
-<li><a href="https://www.youtube.com/watch?v=7N1qHqSmaWE">&#x27;More Secure Than London &amp; New York&#x27;: Singapore ... - YouTube</a></li>
+<li><a href="https://www.btimesonline.com/articles/162628/20231213/cop28-enters-overtime-amid-serious-fossil-fuel-disagreements-and-rejected-draft-agreement.htm">COP28 Enters Overtime Amid Serious Fossil Fuel Disagreements ...</a></li>
+<li><a href="https://cyprus-mail.com/2026/11/11/cop31-is-realism-taking-hold-or-is-climate-action-being-postponed">COP 31 : is realism taking hold, or is climate action being... | Cyprus Mail</a></li>
+<li><a href="https://wattsupwiththat.com/2026/11/11/cop31-in-antalya-same-old-song-longer-lines/">COP 31 in Antalya: Same old song, longer lines - Watts Up With That?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Gold Market`, `#Singapore Economy`, `#Commodity Investment`, `#Central Bank Policy`, `#Currency Trade`
+**Tags**: `#Climate Change`, `#COP31`, `#Fossil Fuels`, `#Central Banks`, `#Commodities`
+
+---
+
+<a id="item-global-market-8"></a>
+### [European Union&\#x27;s Electrification Push Faces Challenges](https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html) ⭐️ 7.0/10
+
+European Union leaders&\#x27; push for maximum electrification faces challenges, with electricity prices surging over 600 euros per MWh due to a wind drought. Despite this, the EU still relies on hydrocarbons for over 70% of its final energy consumption.
+
+rss · OilPrice · Nov 15, 00:00
+
+**「European Union&\#x27;s Energy Policy Context」** The European Union has been actively pursuing policies aimed at reducing dependence on imported energy commodities through maximum electrification. The European Commission has been at the forefront of these initiatives, releasing plans to transform Europe into the first &\#x27;electro continent&\#x27; by increasing the share of electricity in the energy mix. This push for electrification is part of a broader strategy to ensure a just energy transition, engaging with and supporting citizens across the EU. The Energy Community, a platform for cooperation among EU member states and neighboring countries, also reflects the ongoing efforts to address energy challenges and promote a unified European energy market.
+
+**「Impact」** The unexpected surge in electricity prices indicates a deviation from expectations and has the potential to affect energy-related assets, impacting various sectors including central banks, equities, bonds, commodities, and currencies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/European_Union">European Union - Wikipedia</a></li>
+<li><a href="https://energy.ec.europa.eu/index_en">Energy - European Commission</a></li>
+<li><a href="https://www.energy-community.org/">Energy Community Homepage</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Energy Policy`, `#Electricity Prices`, `#European Union`, `#Energy Electrification`, `#Market Impact`
+
+---
+
+<a id="item-global-market-9"></a>
+### [Southeast Asia&\#x27;s Renewable Energy Push Accelerates Amid Iran Conflict](https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html) ⭐️ 7.0/10
+
+Southeast Asian countries are accelerating their shift towards renewable energy due to the ongoing Iran conflict, aiming to decrease reliance on fossil fuel imports and diversify their energy sources. This shift is a direct response to the reduced fuel trade in recent months, which has raised concerns about potential shortages as countries seek alternative suppliers and energy sources.
+
+rss · OilPrice · Nov 14, 20:00
+
+**「Background on Renewable Energy Deployment in Southeast Asia」** The push for renewable energy in Southeast Asia has been influenced by the International Renewable Energy Agency \(IRENA\), which aims to facilitate cooperation, advance knowledge, and promote the adoption of renewable energy. The International Energy Agency \(IEA\) has highlighted the significant potential of Asia to increase its renewable energy capacity. This trend has been further accelerated by the ongoing conflict in the Middle East, which has disrupted fuel trade and led to fears of shortages, prompting countries to seek alternative energy sources.
+
+**「Impact」** This accelerated push for renewable energy in Southeast Asia is expected to have a significant impact on global energy markets, potentially leading to increased demand for renewable energy technologies and affecting the prices of fossil fuels.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/International_Renewable_Energy_Agency">International Renewable Energy Agency - Wikipedia</a></li>
+<li><a href="https://iea.blob.core.windows.net/assets/88a07dd9-42fe-4232-842e-9015b4b647f8/Renewables2024.pdf">Renewables 2024</a></li>
+<li><a href="https://www.irena.org/news/articles/2016/Oct/IRENA-and-Central-Asia-Look-to-Advance-Renewable-Energy-in-the-Region">IRENA and Central Asia Look to Advance Renewable Energy in the...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Renewable Energy`, `#Geopolitical Events`, `#Energy Policy`, `#Commodity Markets`, `#Currency Fluctuations`
+
+---
+
+<a id="item-global-market-10"></a>
+### [Singapore&\#x27;s $65 Billion Gold Investment Impact](https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html) ⭐️ 7.0/10
+
+Singapore&\#x27;s Monetary Authority has allocated $65 billion to establish a gold vault capable of holding 500 tons of bullion, and has introduced tax breaks for gold trade, attracting investors from various regions.
+
+rss · OilPrice · Nov 14, 18:00
+
+**「Singapore&\#x27;s Gold Vaulting Service and Tax Breaks」** The Monetary Authority of Singapore \(MAS\) has recently announced the launch of a new gold custody service for foreign central banks, international financial institutions, and sovereign entities. This service, along with the introduction of tax breaks for wholesale gold trade, is part of Singapore&\#x27;s efforts to develop as a trusted and efficient gold trading center serving the Asia-Pacific region. The move follows a trend of increasing interest in gold as a safe haven investment, with significant amounts of gold being held in vaults in London and other global financial hubs. Singapore&\#x27;s initiative is seen as a significant step in bolstering its status as a precious metals hub in the Asia-Pacific region.
+
+**「Market Attraction and Growth」** Singapore&\#x27;s decision to allocate $65 billion for a gold vault and introduce tax breaks for gold trade is expected to significantly boost its position as a key player in the global gold market. This move is likely to attract a substantial flow of gold from investors worldwide, thereby enhancing Singapore&\#x27;s status as a trusted and efficient gold trading center in the Asia-Pacific region.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bankingnews.gr/diethni/articles/910901/global-earthquake-9-464-tons-of-gold-under-london-as-asia-rivals-the-west">Global earthquake: 9,464 tons of gold under London as Asia rivals the...</a></li>
+<li><a href="https://www.asiagoldconvention.com/post/how-singapore-is-bolstering-its-precious-metals-hub-status">How Singapore is bolstering its precious metals hub status</a></li>
+<li><a href="https://www.mas.gov.sg/news/media-releases/2026/mas-central-bank-gold-vaulting-services-enhanced-tax-framework-for-wholesale-gold-activities">MAS Launches Central Bank Gold Vaulting Service and Announces ...</a></li>
+<li><a href="https://goldsilverguide.sg/blog/gst-on-gold-silver-singapore-2026-guide">GST on Gold and Silver in Singapore: Complete 2026 Guide</a></li>
+<li><a href="https://jrotbart.com/gold-tax-guide-singapore/">Gold Tax in Singapore: The GST Exemption Explained</a></li>
+<li><a href="https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html">Singapore wants a bigger slice of the global gold market - CNBC</a></li>
+<li><a href="https://www.mas.gov.sg/news/media-releases/2026/mas-central-bank-gold-vaulting-services-enhanced-tax-framework-for-wholesale-gold-activities">MAS Launches Central Bank Gold Vaulting Service and Announces ...</a></li>
+<li><a href="https://www.etnownews.com/markets/breaking-singapore-launches-500-tonne-gold-vault-for-foreign-central-banks-announces-major-tax-relief-for-bullion-trade-article-156489046">Singapore Gold News: 500-tonne central bank vault launched ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Gold Market`, `#Singapore Economy`, `#Central Bank Policy`, `#Investment Strategy`, `#Commodities`
 
 ---
 
 ## AI Frontier
 
 <a id="item-ai-frontier-1"></a>
-### [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) ⭐️ 7.0/10
+### [LongMemEval-S Memory Retrieval Performance Analysis](https://www.reddit.com/r/MachineLearning/comments/1xwnloh/longmemevals_960_with_the_official_judge_and_what/) ⭐️ 8.0/10
 
-SpaceX successfully catches the Starship after Flight 15, marking a significant advancement in space technology and reusable spacecraft.
-
-hackernews · ls612 · Nov 14, 21:22 · [Discussion](https://news.ycombinator.com/item?id=50500963)
-
-**Tags**: `#SpaceX`, `#Starship`, `#Space Technology`, `#Reusable Spacecraft`, `#AI Infrastructure`
-
----
-
-<a id="item-ai-frontier-2"></a>
-### [Advancing science and engineering with Antigravity&\#x27;s /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ⭐️ 7.0/10
-
-Discussion on Antigravity&\#x27;s /teamwork feature, showcasing user experiences and references to technical research in AI and engineering.
-
-hackernews · acossta · Nov 14, 13:20 · [Discussion](https://news.ycombinator.com/item?id=50496811)
-
-**Tags**: `#AI Research`, `#AI Infrastructure`, `#Teamwork in AI`, `#User Experiences`
-
----
-
-<a id="item-ai-frontier-3"></a>
-### [KDE Documentary Reflects Development and Impact](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) ⭐️ 7.0/10
-
-The KDE documentary showcases the development and impact of the KDE project, highlighting its significance in the software community. The documentary delves into the challenges faced by the KDE team, such as building the basic blocks like Qt and maintaining a diverse community, while achieving remarkable achievements in desktop environment and software development.
-
-hackernews · mrkn1 · Nov 14, 13:43 · [Discussion](https://news.ycombinator.com/item?id=50496976)
-
-**「KDE Development and Community Engagement」** KDE, an international free software community, is known for developing a range of free software. The KDE Development Platform, a collection of libraries and software frameworks, has been instrumental in empowering various initiatives within the community. This platform provides tools and resources that facilitate collaborative work on KDE projects. The community has shown significant engagement and appreciation for KDE&\#x27;s achievements, reflecting the value and impact of the software on the software development landscape.
-
-**「Community Discussion」** Community members express admiration for KDE&\#x27;s achievements, noting its outstanding performance, design, and configurability. They also commend the project for competing effectively against major companies like Microsoft and Apple, despite limited resources. Additionally, some users share personal experiences, reflecting on the project&\#x27;s early days and their own engagement with KDE.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/KDE">KDE - Wikipedia</a></li>
-<li><a href="https://itsfoss.com/kde-facts-trivia.md">itsfoss.com/ kde -facts-trivia.md</a></li>
-<li><a href="https://develop.kde.org/">All the resources for developing using the KDE Platform</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#KDE`, `#Software Development`, `#Desktop Environment`, `#Community Engagement`, `#Open Source`
-
----
-
-<a id="item-ai-frontier-4"></a>
-### [AI Research Review on Decision Frameworks and Autonomy](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652743065&amp;idx=3&amp;sn=601af731d91f082037d24665847a7795) ⭐️ 7.0/10
-
-A new review on AI research focuses on three key decision frameworks: search direction, search space, and evaluation signal. The review, co-authored by Nankai University and Zhongguancun College, introduces the L0–L3 control source framework to analyze the autonomy of research in AI.
-
-rss · 新智元 · Nov 14, 09:06
-
-**「Background on AI Research and Decision Frameworks」** Artificial intelligence \(AI\) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. In the context of AI research, decision frameworks are crucial for guiding the development and evaluation of AI systems. These frameworks help in separating signal from noise, ensuring that the insights gained from AI-powered research are meaningful and actionable. Decision frameworks also play a vital role in human-AI decision research, particularly in scenarios where AI-supported systems are involved in decision-making processes.
-
-**「Impact」** The framework provides a clearer understanding of the roles and responsibilities of AI in research, potentially leading to more effective and ethical AI research practices.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence - Wikipedia</a></li>
-<li><a href="https://bluetangodesign.wixstudio.com/uxdesigncoach/post/measuring-ai-powered-design-research-separating-signal-from-noise">Measuring AI -Powered Design Research : Separating Signal from Noise</a></li>
-<li><a href="https://hoteldecisionlab.com/">AI in Hotels &amp; Human- AI Decision Research | Hotel Decision Lab</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Research`, `#Decision Frameworks`, `#AI Autonomy`, `#Technical Analysis`
-
----
-
-<a id="item-ai-frontier-5"></a>
-### [LongMemEval-S Results Analysis with gpt-4o-2024-08-06](https://www.reddit.com/r/MachineLearning/comments/1xwnloh/longmemevals_960_with_the_official_judge_and_what/) ⭐️ 7.0/10
-
-The analysis details the performance of gpt-4o-2024-08-06 on the LongMemEval-S benchmark, achieving a 96.0% accuracy rate. This result is compared with other models like Chronos, Hindsight, and gbrain, showcasing the trade-offs in retrieval changes and the effectiveness of temporal reasoning.
+The analysis details the memory retrieval performance in LongMemEval-S, achieving a 96.0% accuracy with the official judge. This result is compared to other models like Chronos, Hindsight, and gbrain, showcasing the trade-offs in retrieval changes. The study uses gpt-4o-2024-08-06 and emphasizes the importance of retrieval recall and temporal reasoning.
 
 reddit · r/MachineLearning · /u/remoteinspace · Nov 15, 05:40
 
-**「LongMemEval-S Benchmarking」** LongMemEval-S is a benchmarking tool designed to evaluate the long-term memory retention and multi-session reasoning capabilities of large language models \(LLMs\). It consists of a structured dataset featuring multi-modal dialogues and diverse reasoning challenges, such as temporal ordering and multi-hop inference. This benchmarking tool is crucial for understanding the performance of LLMs in retaining and utilizing long-term information across multiple interactions.
+**「LongMemEval-S Benchmark Suite」** LongMemEval-S is a benchmark suite designed to evaluate the long-horizon memory and retrieval capabilities of LLM-based conversational agents. It focuses on tasks requiring robust recall, integration, and temporal reasoning over lengthy, multi-session dialogues. The suite consists of 500 questions across three files, each with varying amounts of surrounding history, to test the systems&\#x27; memory recall and question-answering abilities. This benchmark is crucial for advancing the long-term memory capabilities of LLM-based chat assistants, aiming for more personalized and reliable conversational AI.
 
-**「Impact on AI Research and Large Language Models」** The detailed analysis of LongMemEval-S results using gpt-4o-2024-08-06 provides valuable insights into the performance of large language models in memory retrieval tasks. This research contributes to the understanding of trade-offs in retrieval changes, such as the balance between retrieval recall and the number of retrieved documents, which is crucial for developers and researchers working on AI research and large language models.
-
-**「Community Discussion」** No community comments available.
+**「Impact」** The high accuracy in LongMemEval-S memory retrieval suggests significant advancements in the field, potentially leading to more effective AI applications that rely on memory and temporal reasoning.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/xiaowu0162/LongMemEval">GitHub - xiaowu0162/LongMemEval: Benchmarking Chat Assistants ...</a></li>
-<li><a href="https://xiaowu0162.github.io/long-mem-eval/">LongMemEval - xiaowu0162.github.io</a></li>
-<li><a href="https://www.emergentmind.com/topics/locomo-and-longmemeval-_s-benchmarks">LoCoMo and LongMemEval_S Benchmarks - emergentmind.com</a></li>
-<li><a href="https://benchable.ai/models/openai/gpt-4o-2024-08-06">OpenAI: GPT-4o (2024-08-06) - AI Model Details &amp; Benchmarks</a></li>
-<li><a href="https://artificialanalysis.ai/models/gpt-4o-2024-08-06">GPT-4o (Aug &#x27;24) Intelligence, Performance &amp; Price Analysis</a></li>
-<li><a href="https://arxiv.org/abs/2412.11854">[2412.11854] Towards Understanding Systems Trade-offs in ...</a></li>
-<li><a href="https://arxiv.org/pdf/2412.11854">Towards Understanding Systems Trade-offs in Retrieval ...</a></li>
-<li><a href="https://www.linkedin.com/top-content/artificial-intelligence/retrieval-augmented-generation-guide/trade-offs-in-retrieval-augmented-generation/">Trade-Offs in Retrieval-Augmented Generation - LinkedIn</a></li>
+<li><a href="https://arxiv.org/html/2410.10813v1">LongMemEval: Benchmarking Chat Assist- ants on Long-Term ... LongMemEval-S Memory Benchmark - emergentmind.com LongMemEval: Scores, Settings and How to Run It (2026) LongMemEval: Benchmarking Chat Assist-ants on Long-Term ... LongMemEval Benchmark Leaderboard | AI Memory Scores Compared LONGMEMEVAL: Benchmarking Chat Assist- ants on Long-Term ... AI Agent Memory Benchmarks Explained (LongMemEval)</a></li>
+<li><a href="https://www.emergentmind.com/topics/longmemeval-s-benchmark">LongMemEval-S Memory Benchmark - emergentmind.com LongMemEval: Scores, Settings and How to Run It (2026) LongMemEval: Benchmarking Chat Assist-ants on Long-Term ... LongMemEval Benchmark Leaderboard | AI Memory Scores Compared LONGMEMEVAL: Benchmarking Chat Assist- ants on Long-Term ... AI Agent Memory Benchmarks Explained (LongMemEval)</a></li>
+<li><a href="https://www.sentra.app/articles/longmemeval-benchmark">LongMemEval: Scores, Settings and How to Run It (2026)</a></li>
 
 </ul>
 </details>
@@ -730,170 +369,373 @@ reddit · r/MachineLearning · /u/remoteinspace · Nov 15, 05:40
 
 ---
 
-## IT &amp; Open Source
+<a id="item-ai-frontier-2"></a>
+### [SpaceX Achieves Significant Milestone with Starship Capture](https://www.spacex.com/launches/starship-flight-15) ⭐️ 7.0/10
 
-<a id="item-it-opensource-1"></a>
-### [US Loses Measles Elimination Status](https://www.solidot.org/story?sid=85889) ⭐️ 7.0/10
+SpaceX successfully captures the Starship after its 15th test flight, marking a significant achievement in space technology. The Starship completed a 22.5-hour flight, orbiting Earth 14 times before returning to the launch site in Texas. This successful capture could lead to cheaper payloads to orbit and a new era in space flight.
 
-The United States has lost its measles elimination status due to a resurgence of the disease, with over 5400 cases reported in 2023, primarily in unvaccinated individuals. This status was lost as measles infections, caused by the same strain, have been spreading in Utah for over a year.
+hackernews · ls612 · Nov 14, 21:22 · [Discussion](https://news.ycombinator.com/item?id=50500963)
 
-rss · Solidot · Nov 14, 16:52
+**「SpaceX Starship Background」** The SpaceX Starship is a two-stage, fully reusable, super heavy-lift launch vehicle under development by American aerospace company SpaceX. It is designed to be the successor to the company&\#x27;s Falcon 9 and Falcon Heavy rockets. The Starship is intended for missions to Mars and beyond, featuring a fully reusable design and the capability to carry both crew and cargo to Earth orbit, the Moon, and Mars. This spacecraft is part of SpaceX&\#x27;s broader reusable launch system development program, aiming to revolutionize space travel and reduce the cost of accessing space.
 
-**「Background on Measles Elimination Status Loss」** The measles elimination status refers to the absence of endemic measles transmission in a country for at least 12 months. The United States was declared measles-free since 2000 due to high vaccination rates. However, with the decline in vaccination rates in recent years, measles has resurged, leading to the loss of the elimination status. This situation is a result of the persistence of measles outbreaks, particularly in states like Utah, where the same measles strain has been spreading for over a year. The increase in measles cases, with over 5400 reported in 2023, is a significant public health concern, especially as nearly all cases were in unvaccinated individuals or those with unknown vaccination status. This situation underscores the importance of maintaining high vaccination rates to prevent the reemergence of vaccine-preventable diseases.
+**「Impact」** The successful capture of the Starship by SpaceX could significantly reduce the cost of payloads to orbit, potentially opening new opportunities for space exploration and development.
 
-**「Impact on Public Health」** The resurgence of measles in the United States, due to declining vaccination rates, has led to the country losing its elimination status. This situation underscores the critical importance of maintaining high vaccination rates to prevent the reemergence of vaccine-preventable diseases and highlights the need for effective health policies and public education on the importance of vaccinations.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/SpaceX_Starship">SpaceX Starship - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SpaceX_Starship_%28spacecraft%29">SpaceX Starship (spacecraft) - Wikipedia SpaceX Starship: The Fully Reusable Megarocket Explained Starship Spacecraft Explained: SpaceX’s Reusable Rocket Built ... THE STARSHIP REPORT</a></li>
+<li><a href="https://www.spacex.com/vehicles/starship">SpaceX - Starship</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#SpaceX`, `#Starship`, `#Space Technology`, `#Reusable Spacecraft`, `#Space Flight`
+
+---
+
+<a id="item-ai-frontier-3"></a>
+### [PyPI&\#x27;s redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 7.0/10
+
+PyPI&\#x27;s redesigned project pages with enhanced security signals are now live, receiving mixed feedback from the community.
+
+hackernews · rbanffy · Nov 14, 15:40 · [Discussion](https://news.ycombinator.com/item?id=50497892)
+
+**Tags**: `#PyPI`, `#security`, `#AI infrastructure`, `#community feedback`, `#software updates`
+
+---
+
+<a id="item-ai-frontier-4"></a>
+### [DeepSeek V3 in JAX Implementation](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ⭐️ 7.0/10
+
+DeepSeek V3, a deep learning model, has been newly implemented in JAX, a high-performance numerical computing library. This implementation is notable for its concise codebase, requiring approximately 200 lines, and has garnered community interest and practical application, particularly for users with AMD GPUs like the RX 7600 XT.
+
+hackernews · VaibhaavTiwari · Nov 14, 15:04 · [Discussion](https://news.ycombinator.com/item?id=50497589)
+
+**「Background on DeepSeek V3 and JAX Implementation」** DeepSeek is a Chinese artificial intelligence company known for developing open weights large language models. DeepSeek V3 is a significant model in their portfolio, featuring a Mixture-of-Experts \(MoE\) architecture with a total of 671 billion parameters. The implementation of DeepSeek V3 in JAX, a Python framework for numerical computing, is notable as it showcases the model&\#x27;s adaptability to different computational environments. JAX is particularly favored in AI research for its ease of use and support for automatic differentiation, making it a suitable choice for implementing complex models like DeepSeek V3.
+
+**「Impact on Developers and Researchers」** The release of DeepSeek V3 implemented in JAX provides developers and researchers with a compact and efficient way to explore and understand deep learning models. This implementation, requiring only 200 lines of code, allows for easier experimentation and customization, potentially speeding up the development process and enabling more accessible research in the field of AI.
+
+**「Community Discussion」** The community has expressed enthusiasm about the new implementation, with users appreciating its simplicity and compatibility with AMD GPUs. One user reported successful end-to-end training on their RX 7600 XT, highlighting the practicality of the project. Another user expressed a desire for more resources to understand the model&\#x27;s architecture and its application in inference.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
+<li><a href="https://github.com/deepseek-ai/DeepSeek-V3">GitHub - deepseek -ai/ DeepSeek - V 3 · GitHub</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V3-Base">deepseek -ai/ DeepSeek - V 3 -Base · Hugging Face</a></li>
+<li><a href="https://dev.to/naveenmalothu/running-deepseek-v3-in-200-lines-of-pure-jax-a-hands-on-walkthrough-149i">Running DeepSeek‑V3 in ~200 Lines of Pure JAX - DEV Community</a></li>
+<li><a href="https://arxiv.org/pdf/2412.19437v2">DeepSeek-V3 Technical Report - arXiv.org</a></li>
+<li><a href="https://arxiv.org/abs/2412.19437">[2412.19437] DeepSeek-V3 Technical Report - arXiv.org DeepSeek-V3: Architecture and Optimizations-A Practical Review 7 Practical DeepSeek V3 Applications in 2026 - cloudspress.com Developer Rebuilds DeepSeek V3 in 190 Lines of Pure JAX [2412.19437] DeepSeek-V3 Technical Report</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#Deep Learning`, `#JAX`, `#Model Implementation`, `#Community Interest`
+
+---
+
+<a id="item-ai-frontier-5"></a>
+### [浙大VLA团队机器人状态变化处理新成果](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247944089&amp;idx=3&amp;sn=921607acca3d33beb525df750c81272b) ⭐️ 7.0/10
+
+The Zhejiang University VLA team has developed a new approach to improve robots&\#x27; ability to handle physical state changes, achieving a 98.4% success rate in tasks involving state transitions. This is based on a 2B-scale visual language backbone model, demonstrating significant progress in robotics technology.
+
+rss · 量子位 · Nov 15, 02:51
+
+**「Background on Physical State Transition in Robotics」** The field of robotics has been exploring the concept of physical state transition, which involves understanding how robots and objects interact and change states during tasks. This research aims to improve robots&\#x27; ability to handle physical state changes, ensuring that their actions lead to successful task completion. By focusing on the transition between states, such as the movement of objects or changes in the robot&\#x27;s own configuration, researchers can enhance the accuracy and efficiency of robotic tasks. This approach is particularly relevant in tasks that require complex manipulation and decision-making, such as picking up and placing objects.
+
+**「Impact on Robotics and AI Research」** The development of the VLA-Δ model by the Zhejiang University VLA team marks a significant advancement in robotics, particularly in the area of handling physical state changes. This model, based on a 2B-scale visual language backbone, achieves an impressive 98.4% success rate on the LIBERO benchmark and demonstrates a 68.0% average success rate across five real-robot tasks. This breakthrough provides developers and researchers with a more accurate and efficient tool for robot control, potentially leading to more sophisticated and reliable robotic systems.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.houstonpublicmedia.org/articles/news/health-science/2026/05/28/553094/as-texas-vaccination-rates-fall-vulnerable-children-face-growing-risk/">As Texas vaccination rates fall, vulnerable children face growing risk...</a></li>
-<li><a href="https://www.cbc.ca/news/health/vaccination-rates-are-slipping-around-the-world-canada-isn-t-immune-says-new-study-1.7570776">Vaccination rates are slipping around the world. | CBC News</a></li>
-<li><a href="https://abc17news.com/news/2025/07/09/the-diseases-that-could-return-as-vaccination-rates-decline-and-why-you-should-care/">The diseases that could return as vaccination rates decline — and...</a></li>
-<li><a href="https://www.kff.org/other-health/measles-elimination-status-what-it-is-and-how-the-u-s-could-lose-it/">Measles Elimination Status: What It Is and How the U.S ... - KFF</a></li>
-<li><a href="https://www.kff.org/quick-insights/a-step-back-for-u-s-public-health-the-u-s-is-likely-to-lose-its-measles-elimination-status/">A Step Back for U.S. Public Health: The U.S. Is Likely to ...</a></li>
-<li><a href="https://www.forbes.com/sites/judystone/2026/11/14/what-losing-measles-elimination-says-about-the-united-states/">What Losing Measles Elimination Says About The United States</a></li>
+<li><a href="https://arxiv.org/html/2610.21306">VLA-Δ: Learning Physical State Transition for Vision-Language ...</a></li>
+<li><a href="https://arxiv.org/pdf/2610.21306">VLA- : Learning Physical State Transition for Vision-Language ...</a></li>
+<li><a href="https://robottoday.com/industry-briefing/zhejiang-university-team-creates-visual-reasoning-system-that-lets-robots-think-with-their-eyes-22x-faster-than-text/5265">Zhejiang University Team Creates Visual Reasoning System That ...</a></li>
+<li><a href="https://arxiv.org/abs/2610.21306">[2610.21306] VLA-||Delta;$: Learning Physical State Transition for ...</a></li>
+<li><a href="https://arxiv.org/html/2610.21306">VLA-Δ: Learning Physical State Transition for Vision-Language ...</a></li>
+<li><a href="https://zju-omniai.github.io/VLA-Delta/">VLA-Δ: Learning Physical State Transition for Vision-Language ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Public Health`, `#Vaccination`, `#Measles`, `#Health Policy`, `#Technology and Society`
+**Tags**: `#Robotics`, `#AI Research`, `#Robotics Technology`, `#AI Infrastructure`
+
+---
+
+<a id="item-ai-frontier-6"></a>
+### [NeurIPS&\#x27;26｜无需训练+梯度：引导离散扩散模型设计DNA/蛋白质](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652743221&amp;idx=3&amp;sn=7705b49c8bacec95cf19df0b474ee36d) ⭐️ 7.0/10
+
+A new approach in AI research for designing DNA/proteins using discrete diffusion models without training and gradients is presented.
+
+rss · 新智元 · Nov 15, 05:52
+
+**Tags**: `#AI Research`, `#Discrete Diffusion Models`, `#DNA/Protein Design`, `#NeurIPS&\#x27;26`
+
+---
+
+<a id="item-ai-frontier-7"></a>
+### [BiRefNet-lite Optimization for Mobile Devices](https://www.reddit.com/r/MachineLearning/comments/1xwuvaz/birefnetlite_at_1024px_fully_on_a_phone_npu_237/) ⭐️ 7.0/10
+
+BiRefNet-lite, an AI model optimized for mobile devices, has been successfully implemented on the Snapdragon 8 Elite Gen 5 NPU, achieving a performance of 23.7 ms for a 1024×1024 mask on a Galaxy S26. This optimization involves architecture changes and graph rewrites to ensure compatibility and efficiency on mobile hardware.
+
+reddit · r/MachineLearning · /u/subhashg547 · Nov 15, 12:58
+
+**「Mobile AI Model Optimization」** The development of BiRefNet-lite, an AI model optimized for mobile devices, represents a significant advancement in mobile AI applications. This model, designed to run on the NPU of smartphones, showcases the challenges and solutions in optimizing deep learning models for mobile hardware. The optimization process involved rewriting the model&\#x27;s architecture, including changes from deformable convolutions to plain convolutions, and adapting the model to fit within the constraints of mobile hardware memory. This work highlights the importance of model optimization for achieving efficient and effective AI performance on mobile devices.
+
+**「Impact on AI Research and Mobile AI Applications」** The optimization of BiRefNet-lite for mobile devices demonstrates a significant advancement in AI model performance on mobile hardware. This development allows for real-time processing of high-resolution images on smartphones, which could lead to new applications in areas such as augmented reality, image editing, and real-time object detection. The improved efficiency and reduced latency of the optimized model make it more accessible for developers and researchers working on mobile AI solutions.
+
+**「Community Discussion」** No community comments available.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-gen-5">Snapdragon 8 Elite Gen 5 | Snapdragon - Qualcomm</a></li>
+<li><a href="https://www.cpu-monkey.com/en/cpu-qualcomm_snapdragon_8_elite_gen_5">Qualcomm Snapdragon 8 Elite Gen 5 - Benchmarks &amp; Specs</a></li>
+<li><a href="https://nanoreview.net/en/soc/qualcomm-snapdragon-8-elite-2">Qualcomm Snapdragon 8 Elite Gen 5: specs and benchmarks</a></li>
+<li><a href="https://github.com/ZhengPeng7/BiRefNet">GitHub - ZhengPeng7/ BiRefNet : [CAAI AIR&#x27;24] Bilateral Reference for...</a></li>
+<li><a href="https://huggingface.co/ZhengPeng7/BiRefNet_lite">ZhengPeng7/ BiRefNet _ lite · Hugging Face</a></li>
+<li><a href="https://fal.ai/models/fal-ai/birefnet">BiRefNet : Professional AI Background Removal Tool | fal</a></li>
+<li><a href="https://www.abbacustechnologies.com/ai-image-detection-integration-for-mobile-applications/">AI Image Detection Integration for Mobile Applications</a></li>
+<li><a href="https://reelmind.ai/blog/openai-local-model-ai-s-on-device-processing">OpenAI Local Model : AI &#x27;s On- Device Processing | ReelMind</a></li>
+<li><a href="https://www.linkedin.com/pulse/top-5-ai-model-optimization-techniques-faster-smarter-inference-upodc">Top 5 AI Model Optimization Techniques for Faster, Smarter Inference</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#Mobile AI`, `#Model Optimization`, `#Benchmarking`
+
+---
+
+<a id="item-ai-frontier-8"></a>
+### [Hackathon Project for MariaDB&\#x27;s Wikipedia Through Time Challenge](https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/) ⭐️ 7.0/10
+
+A hackathon project at Junction has developed a system to compare sentences across seven Wikipedia editions at any past date. The project uses embeddings and time travel queries to analyze historical content, storing every revision and splitting each into sentences. It employs the bge-m3 embedding model and an A100 GPU for processing, achieving a recall@10 of 0.997 for the database index.
+
+reddit · r/MachineLearning · /u/Loxbey · Nov 15, 12:03
+
+**「Hackathon Project Context」** The hackathon project in question was developed at Junction, a well-established hackathon organizer based in Espoo, Finland. Junction has been hosting hackathons since 2015 and has grown to become one of the largest hackathon organizers in Europe. The project utilizes the BGE-M3 embedding model, which is known for its state-of-the-art performance on various benchmarks and can serve as a replacement for other embedding models like DPR and BGE-v1.5. This model is particularly useful for embedding retrieval tasks, which is a key component of the project&\#x27;s functionality.
+
+**「Impact on AI Research and Applications」** The Parallax project demonstrates the potential of AI in analyzing and comparing historical content across multiple languages. This capability could significantly enhance research in AI and machine learning, particularly in the areas of natural language processing and historical data analysis. By providing a tool for comparing sentences across different Wikipedia editions at any past date, the project offers a valuable resource for researchers and developers working on AI-powered products that require understanding historical context.
+
+**「Community Discussion」** No community comments available.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Junction_%28hackathon%29">Junction ( hackathon ) - Wikipedia</a></li>
+<li><a href="https://2026.hackjunction.com/">Junction 2026 : Europe&#x27;s biggest hackathon</a></li>
+<li><a href="https://parallaxresearch.org/artificial-intelligence-machine-learning">Artificial Intelligence and Machine Learning | Parallax ...</a></li>
+<li><a href="https://parallaxresearch.org/our-impact">Our Impact | Parallax Advanced Research</a></li>
+<li><a href="https://parallx.ai/">Parallax</a></li>
+<li><a href="https://deepinfra.com/BAAI/bge-m3">Bge M 3 API - Demo - DeepInfra</a></li>
+<li><a href="https://huggingface.co/BAAI/bge-m3">BAAI/ bge - m 3 · Hugging Face</a></li>
+<li><a href="https://ar5iv.labs.arxiv.org/html/2402.03216">[2402.03216] BGE M 3 - Embedding : Multi-Lingual, Multi-Functionality...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Wikipedia`, `#AI Research`, `#AI Applications`, `#Natural Language Processing`, `#Historical Data Analysis`
+
+---
+
+<a id="item-ai-frontier-9"></a>
+### [Meituan Releases LongCat-2.5 with Chinese Chip Training](https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/) ⭐️ 7.0/10
+
+Meituan has released LongCat-2.5, a large language model designed for complex tasks, which was trained using Chinese chips, specifically Huawei&\#x27;s Ascend acceleration cards, without the use of NVIDIA GPUs. The model, with approximately 48 billion parameters per token, supports text, image, and video inputs, and is available for commercial use under the MIT license. It scored 88.4 on the Terminal Bench v2.1, slightly below Claude Opus 5&\#x27;s 89.1.
+
+telegram · zaihuapd · Nov 15, 11:08
+
+**「Background on LongCat-2.5」** LongCat-2.5 is a large language model developed by Meituan&\#x27;s LongCat team, designed to handle complex tasks such as programming. This model is notable for its ability to process text, images, and video inputs, and its training was conducted using Chinese chips, specifically Huawei&\#x27;s Ascend acceleration cards, without the use of NVIDIA GPUs. The model&\#x27;s architecture includes the representation of visual signals as multi-level discrete tokens, allowing for unified processing of visual and textual inputs. This development represents a significant step in AI research and infrastructure, particularly in the context of large language models and their training processes.
+
+**「Impact」** The release of LongCat-2.5 demonstrates a significant advancement in AI research and infrastructure, as it showcases the capability of Chinese chips in training large language models, potentially reducing dependency on foreign hardware and contributing to the development of domestic AI technology.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://longcat.ai/blog/longcat-2.5/">Introducing LongCat-2.5</a></li>
+<li><a href="https://longcat.ai/">LongCat - AI Coding Agent</a></li>
+<li><a href="https://www.longcatai.org/news/longcat-2-5">LongCat-2.5 Released: Meituan&#x27;s 1.6T Native Multimodal Agent ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#AI Infrastructure`, `#Large Language Models`, `#Model Training`
+
+---
+
+## IT &amp; Open Source
+
+<a id="item-it-opensource-1"></a>
+### [US Loses Measles Elimination Status](https://www.solidot.org/story?sid=85889) ⭐️ 7.0/10
+
+The United States has lost its measles elimination status due to a resurgence of the disease, with over 5400 cases reported this year, marking the highest number since 1991. This is attributed to declining vaccination rates, with nearly all reported cases occurring in unvaccinated individuals.
+
+rss · Solidot · Nov 14, 16:52
+
+**「Measles Elimination Status and Vaccination Rates」** The measles elimination status refers to the absence of endemic measles transmission in a specific geographic area. The United States was declared measles-free since 2000 due to high vaccination rates. However, with the decline in vaccination rates in recent years, measles has resurged, leading to the loss of this elimination status. This change is significant as it indicates a shift in the country&\#x27;s public health landscape, with implications for disease control and prevention strategies.
+
+**「Impact」** The resurgence of measles has significant implications for public health, as it highlights the consequences of declining vaccination rates and underscores the importance of maintaining high levels of immunity within the population.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.kff.org/other-health/measles-elimination-status-what-it-is-and-how-the-u-s-could-lose-it/">Measles Elimination Status: What It Is and How the U.S ... - KFF</a></li>
+<li><a href="https://publications.aap.org/aapnews/news/34515/Report-Declining-measles-vaccination-could-cost-7">Report: Declining measles vaccination could cost $7.8 billion ...</a></li>
+<li><a href="https://www.pnas.org/doi/10.1073/pnas.2605971123">The health and economic repercussions of declining MMR ... - PNAS</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Public Health`, `#Vaccination`, `#Measles`, `#Health Crisis`, `#Infectious Diseases`
 
 ---
 
 <a id="item-it-opensource-2"></a>
 ### [微软云服务宕机持续逾 24 小时](https://www.solidot.org/story?sid=85886) ⭐️ 7.0/10
 
-微软云服务发生重大中断，影响全球企业和政府使用的 Microsoft 365 应用，持续超过 24 小时。此次中断导致 Teams、Outlook 和 Copilot 等应用受到影响，数十个国家出现通信问题。微软将中断原因归咎于服务器故障，并已完成根本问题的解决。
+微软云服务发生超过24小时的全球性中断，影响了Microsoft 365应用，包括Teams、Outlook和Copilot等，导致数十个国家出现通信问题。微软将中断原因归咎于服务器故障，并已完成修复工作。
 
 rss · Solidot · Nov 14, 13:55
 
-**「Background on Microsoft Cloud Service Outage」** Microsoft has experienced a significant service disruption affecting Microsoft 365 applications, which lasted over 24 hours. This outage impacted businesses and governments globally, including major services like Teams, Outlook, and Copilot. The disruption was attributed to server failures, and it marked one of the longest outages in Microsoft&\#x27;s history. This event highlights the reliance on large tech companies and the potential risks associated with such dependencies.
+**「Background on Microsoft Cloud Service Outage」** The Microsoft cloud service outage that occurred in November 2026 was a significant event due to its duration of over 24 hours and its impact on numerous countries, including government entities. This outage affected various Microsoft 365 applications such as Teams, Outlook, and Copilot, leading to communication issues in over 70 countries. The incident was attributed to server failures, and it marked one of the longest outages in Microsoft&\#x27;s history. This outage highlighted the heavy reliance of governments and businesses on a few large technology companies, which poses risks to the open source ecosystem.
 
-**「Impact」** 此次服务中断凸显了各国政府和企业对少数大型科技公司的依赖，以及这种依赖可能带来的风险。
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developer.aliyun.com/article/122632">Google：Azure...</a></li>
-<li><a href="https://www.dealmoon.cn/guide/1215628">突发！ 微 软 Azure 宕 机 波及全球！ Costco、星巴克、Office 365...</a></li>
-<li><a href="https://rivers.chaitin.cn/blog/cqq55ap0lnec5jjugfp0">继全球蓝屏后， 微 软 Azure...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Microsoft`, `#Service Disruption`, `#Cloud Services`, `#Technology Outage`, `#Cybersecurity`
-
----
-
-<a id="item-it-opensource-3"></a>
-### [U.S. FAA Announces Third National Flight Grounding in History](https://www.solidot.org/story?sid=85884) ⭐️ 7.0/10
-
-The U.S. FAA has announced the third national flight grounding in its history, resulting in the cancellation of nearly 10,000 flights. The grounding, which lasted for 4.5 hours, was attributed to the reliance on outdated technology in the aviation industry, specifically the use of decades-old analog equipment in the air traffic control system.
-
-rss · Solidot · Nov 14, 13:24
-
-**「Background on the 2026 FAA Nationwide Ground Stop」** The Federal Aviation Administration \(FAA\) has a history of managing air traffic control, with its modern age beginning in 1903 with the first sustained, powered flight. The FAA&\#x27;s role in air traffic control has evolved over the years, but the recent nationwide flight grounding in 2026 highlights a significant challenge. This event marked the third such grounding in the FAA&\#x27;s history, following the 2001 9/11 event and a previous incident in January 2023. The grounding was attributed to the reliance on outdated technology in the aviation industry, specifically the use of decades-old simulation equipment in the air traffic control system. This equipment was deemed insufficient to meet the demands of the 21st century. Reports also suggested that the grounding was related to a failed software upgrade by L3Harris Technologies, which led to system restarts, crashes, and communication disruptions. The exact reasons for the grounding remain under investigation.
-
-**「Impact on Developers and Organizations」** The third national flight grounding in the U.S. aviation history, caused by reliance on outdated technology, underscores the critical need for modernization in the aviation industry. This event has direct implications for developers and organizations involved in aviation infrastructure and software, as it highlights the urgency to update systems to ensure safety, reliability, and efficiency in air travel.
+**「Impact on Developers and Organizations」** The prolonged outage of Microsoft&\#x27;s cloud services has significant implications for developers and organizations. It disrupted communication and workflow for numerous enterprises and government entities, highlighting the risks associated with heavy reliance on a single technology provider. This incident underscores the importance of diversifying technology dependencies and implementing robust backup systems to mitigate the impact of such outages.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_FAA_nationwide_ground_stop">2026 FAA nationwide ground stop - Wikipedia</a></li>
-<li><a href="https://www.faa.gov/about/history/brief_history">A Brief History of the FAA | Federal Aviation Administration</a></li>
-<li><a href="https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910">What we know so far about why US flights were grounded - ABC News</a></li>
-<li><a href="https://www.youtube.com/watch?v=1-m_Jjse-cs">The Airline Industry ’s Problem with Absolutely Ancient IT - YouTube</a></li>
-<li><a href="https://avgeeks.aero/outdated-airline-technology-a-looming-crisis/">Outdated Airline Technology : A Looming Crisis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage">Microsoft says services fully restored after global outage hits...</a></li>
+<li><a href="https://forklog.com/en/global-microsoft-365-outage-affects-governments-businesses-and-ai-firms/">Global Microsoft 365 Outage Affects Governments , Businesses ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://www.bsg.ox.ac.uk/node/10932">Companies around the world hit by Microsoft outage ...</a></li>
+<li><a href="https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause">What Caused the Microsoft 365 Outage of November 12, 2026</a></li>
+<li><a href="https://www.nine.com.au/australia-news/microsoft-services-down-in-global-outage-20261113-p61dup.html">Microsoft outage : Outlook email, Co-Pilot and Teams impacted amid...</a></li>
+<li><a href="https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050">Microsoft outage hits users worldwide, affecting Teams, Outlook and...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage">Microsoft says services fully restored after global outage hits...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#aviation`, `#technology`, `#infrastructure`, `#security`, `#FAA`
+**Tags**: `#Microsoft`, `#Cloud Services`, `#Outage`, `#Security`, `#Open Source`
 
 ---
 
 ## Tools &amp; Efficiency
 
 <a id="item-tools-windows-1"></a>
-### [mkw-recomp – Native Running of Mario Kart World on Windows/Linux](https://www.appinn.com/mkw-recomp/) ⭐️ 7.0/10
+### [Process Monitor 4.13 Update](https://www.52pojie.cn/thread-2137758-1-1.html) ⭐️ 7.0/10
 
-mkw-recomp enables the native running of Mario Kart World on Windows and Linux without the need for a Switch 2 simulator. This tool utilizes static recompilation to convert the game from ARM64 code to C code, which is then compiled into a PC executable. It supports 4K resolution, various aspect ratios, and a range of input devices, including keyboard, mouse, and game controllers. The project is free and open source, offering a seamless gaming experience on PC platforms.
+Process Monitor 4.13 is a minor yet significant update to the powerful file and registry monitoring tool by Sysinternals for Windows users. It provides real-time monitoring of file system and registry activities, serving as an advanced tool for system administrators and power users. The update may include bug fixes and improvements, though specific details on new features are not provided.
 
-rss · 小众软件 · Nov 14, 09:08
+rss · 吾爱精品软件区 · Nov 15, 02:15
 
-**「Background」** mkw-recomp is a tool that enables the native running of the game &\#x27;Mario Kart World&\#x27; on Windows and Linux without the need for a Switch 2 simulator. It achieves this by statically recompiling the game&\#x27;s ARM64 code into C code, which is then compiled into a PC executable. This method also utilizes Vulkan for the game&\#x27;s graphical functions. The tool is based on technology from &\#x27;totk-pc-recomp&\#x27; and has been extended to support the new hardware architecture of the Switch 2. It supports features like 4K resolution, various aspect ratios, multiple input devices, and modding capabilities.
+**「Background」** Process Monitor is a robust file and registry monitoring tool developed by Sysinternals, a Microsoft-owned software company. It is designed for Windows users who require advanced monitoring capabilities for file systems and registry entries. The tool serves as an updated version of Sysinternals&\#x27; classic Filemon and Regmon utilities, providing real-time monitoring of system activities. Process Monitor is known for its comprehensive features and is often used for troubleshooting and system analysis.
 
-**「Impact」** Gaming enthusiasts and PC users who prefer native gaming experiences on their platforms should adopt mkw-recomp. It provides a cost-effective and convenient way to play Mario Kart World without the need for a simulator, offering enhanced performance and compatibility with PC hardware. However, users should be aware of the technical requirements and installation process, which may be complex for some.
+**「Impact」** System administrators and power users who require advanced file and registry monitoring capabilities on Windows should adopt Process Monitor 4.13. The tool is particularly useful for troubleshooting and system analysis. There are no mentioned paid tiers or platform limits, and migration costs should be minimal as it is a software update.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/adriadam10/mkw-recomp/issues/363">FPS stability issues · Issue #363 · adriadam10/mkw-recomp</a></li>
-<li><a href="https://github.com/adriadam10/mkw-recomp">GitHub - adriadam10/mkw-recomp: Static recompilation of Mario ...</a></li>
-<li><a href="https://gamerbrowser.com/story/mkw-thwomp-mario-kart-world-recomp">Mario Kart World PC Recomp Status (2026): Not Playable Yet ...</a></li>
+<li><a href="https://learn.microsoft.com/en-us/sysinternals/">Sysinternals - Sysinternals | Microsoft Learn</a></li>
+<li><a href="https://www.wikidata.org/wiki/Q649655">Sysinternals - Wikidata</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Software`, `#Gaming`, `#Platform Compatibility`, `#Simulation`, `#Digital-Life Tools`
+**Tags**: `#Windows`, `#Sysinternals`, `#Process Monitoring`, `#Software Update`, `#File System`
 
 ---
 
 <a id="item-tools-windows-2"></a>
-### [Stela: Run macOS 27 on Intel and AMD PCs](https://www.appinn.com/stela/) ⭐️ 5.0/10
+### [BundleHunt 2026 Black Friday Software Sale](https://www.appinn.com/bundlehunt-26-black-friday/) ⭐️ 5.0/10
 
-Stela is an open-source project enabling Intel and AMD PCs to run Apple&\#x27;s macOS 27. It is designed for users who want to experience macOS on non-Apple hardware. Currently in an early stage, Stela offers a way to run ARM64 instructions on x86-64 processors, simulating Apple hardware and NVIDIA Metal drivers. The project is free and open-source, suitable for those who are curious about macOS and want to test it without purchasing Apple hardware.
+BundleHunt 2026 Black Friday software sale offers 44 Mac and Windows software options with discounts up to 91%. The sale features a variety of tools, including Mountain Duck for remote storage mounting, Hydra Dev Studio for database management, and Apple Notes Exporter Pro for Markdown export of notes. The event is available for both macOS and Windows users, with flexible purchasing options and additional discounts for purchases over $30.
 
-rss · 小众软件 · Nov 15, 07:12
+rss · 小众软件 · Nov 15, 12:43
 
-**「Background」** Stela is an open-source project that aims to enable Intel and AMD PCs to run Apple&\#x27;s macOS 27. This project is particularly interesting for users who want to experience macOS on non-Apple hardware. However, it is important to note that Stela is currently in its early stages and may face performance and compatibility issues. The project involves translating ARM64 instructions to be compatible with Intel and AMD processors, simulating Apple hardware, and incorporating NVIDIA Metal drivers. This approach allows a PC to mimic an M2 Mac mini, providing an alternative for those interested in trying macOS without purchasing Apple hardware. It is worth mentioning that Stela is still under development and may not support all features of macOS 27, such as Wi-Fi, Bluetooth, and sound.
+**「Problem Solved by BundleHunt 2026 Black Friday Software Sale」** The BundleHunt 2026 Black Friday software sale addresses the need for users to discover and purchase discounted software for both Mac and Windows platforms. It provides a convenient platform for users to access a variety of software options at reduced prices, which is particularly useful for those looking to upgrade or expand their software toolkit without breaking the bank. This event competes with other software sales and promotions by offering significantly lower prices and a wide range of choices, making it an attractive option for both individual users and businesses.
 
-**「Impact」** Stela is ideal for tech enthusiasts and individuals who are curious about macOS but do not wish to purchase Apple hardware. It is particularly useful for those who want to test macOS on their existing Intel or AMD PCs. However, due to its early stage, it may not be suitable for users who require high performance or full compatibility with macOS features.
+**「Impact」** Developers, IT professionals, and Mac and Windows users looking for cost-effective software solutions should consider this sale. The wide range of tools and significant discounts make it an attractive option for those seeking to enhance their productivity or manage their digital assets more efficiently. However, it&\#x27;s important to note that some tools may have specific platform limitations or require additional purchases for full functionality.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://support.apple.com/en-us/127255">macOS 27 Golden Gate is compatible with these computers</a></li>
-<li><a href="https://applescoop.org/story/macos-27-compatible-macs-full-list-intel-left-behind">macOS 27 Compatible Macs: Full List and Every Intel Mac Left ...</a></li>
-<li><a href="https://kvmzen.com/en/blog/articles/macos-27-supported-macs.html">Which Macs Support macOS 27? Complete Compatibility List</a></li>
+<li><a href="https://bundlehunt.com/">2026 - The Black Friday Bundle | BundleHunt - Up to 95% Off</a></li>
+<li><a href="https://www.appinn.com/bundlehunt-26-black-friday/">BundleHunt 2026 黑五软件特卖：8 款值得购买 - 小众软件</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#macOS`, `#Stela`, `#open-source`, `#PC`, `#Apple`
+**Tags**: `#Software Sale`, `#BundleHunt`, `#Black Friday`, `#Windows`, `#Mac`
 
 ---
 
 <a id="item-tools-windows-3"></a>
-### [让 Windows 11 在 iPhone Duo 上运行，使用 Gemini 开发，已开源｜WindowsiOS](https://www.appinn.com/windowsios-windows-11-iphone-duo-gemini-open-source/) ⭐️ 5.0/10
+### [Retro Computer Graphics Comparison](https://www.appinn.com/retro-computer-graphics-comparison/) ⭐️ 5.0/10
 
-A project enables Windows 11 to run on an iPhone Duo, offering a unique blend of Windows and iOS capabilities.
+The website &\#x27;Monkey Island Graphics Comparison&\#x27; showcases the evolution of computer graphics over three decades by comparing the same game across 13 different computer displays. It features 8 game versions and 156 screenshots in 13 display modes, covering platforms like IBM PC, Commodore Amiga, and Apple Macintosh. The site allows users to switch between display modes and even simulate CRT monitors for a nostalgic experience.
 
-rss · 小众软件 · Nov 14, 08:16
+rss · 小众软件 · Nov 15, 11:43
 
-**Tags**: `#Windows 11`, `#iOS`, `#Cross-platform`, `#Gemini`, `#Mobile computing`
+**「Problem Addressed」** The article highlights the evolution of computer graphics over three decades by comparing the graphics of the same game across 13 different computer displays. This showcases the significant advancements in technology and the diverse capabilities of various computer systems from the past. It addresses the historical context of how games were displayed on different computers, which can be informative for those interested in the evolution of technology and computer graphics.
 
----
-
-<a id="item-tools-windows-4"></a>
-### [Auto Task Scheduler and File Manager v2.0](https://www.52pojie.cn/thread-2137678-1-1.html) ⭐️ 5.0/10
-
-Auto Task Scheduler and File Manager v2.0 is a Windows utility designed for scheduling tasks and managing file data. It allows users to set up tasks to run at specific times and manage files, with features including INI file creation and color-coded installation logic. The tool is available for Windows platforms, but details on pricing and licensing are not provided.
-
-rss · 吾爱精品软件区 · Nov 14, 10:19
-
-**「Problem Addressed by the Tool」** The reviewed Windows utility aims to address the need for scheduling tasks and managing file data on Windows systems. It provides users with the ability to schedule tasks and manage file data, potentially offering more advanced features compared to the standard Windows Task Scheduler. This utility could be particularly useful for users who require more control over their system&\#x27;s automation and file management beyond what the default Task Scheduler provides.
-
-**「Impact」** Users who require automated task scheduling and file management on Windows platforms may find this utility beneficial. However, those looking for detailed information on pricing, licensing, and specific use cases may be disappointed due to the limited information available.
+**「Impact」** This tool is ideal for tech enthusiasts, computer history buffs, and anyone interested in the evolution of game graphics. It provides a unique perspective on how far technology has come and may inspire developers and designers to appreciate the challenges of early computer graphics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://jamsscheduler.com/product/platforms/windows">Windows Job Scheduler and Scheduling Software | JAMS</a></li>
-<li><a href="https://aimultiple.com/windows-job-scheduling-software">Top 7 Windows Job Scheduling Software - AIMultiple</a></li>
-<li><a href="https://windowsforum.com/news/master-windows-automation-with-task-scheduler-your-complete-guide.375175/">Master Windows Automation with Task Scheduler: Complete Guide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Timeline_of_early_3D_computer_graphics_hardware">Timeline of early 3D computer graphics hardware - Wikipedia</a></li>
+<li><a href="https://techhistorylab.com/history-of-computer-graphics-evolution/">History of Computer Graphics: 1960 to 2026</a></li>
+<li><a href="https://meta.buildincairo.com/blog/technology-evolution-1990-to-2026">How Technology Evolved from 1990 to 2026: Web to AI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Windows Utility`, `#Task Scheduler`, `#File Management`, `#Software Review`
+**Tags**: `#Technology Evolution`, `#Game Graphics`, `#Computer History`, `#Software Development`
+
+---
+
+<a id="item-tools-windows-4"></a>
+### [Stela: Run macOS 27 on Intel or AMD PCs](https://www.appinn.com/stela/) ⭐️ 5.0/10
+
+Stela is an open-source project enabling Intel and AMD PCs to run the Apple Silicon version of macOS 27. It is currently in an early stage, with slow performance and limited functionality, including issues with Wi-Fi, Bluetooth, and sound. The project is aimed at users who want to experience macOS on non-Apple hardware without purchasing Apple Silicon-based PCs.
+
+rss · 小众软件 · Nov 15, 07:12
+
+**「Problem Solved and Alternatives」** Stela addresses the challenge of running macOS on non-Apple hardware, specifically Intel and AMD PCs. This is particularly relevant as macOS 27, the latest version, only supports Apple Silicon. Stela acts as a bridge, translating ARM64 instructions into x86-64 instructions that Intel and AMD processors can execute. This allows users to experience macOS on their existing PC hardware, which is an alternative to purchasing a new Apple Silicon-based Mac. The project competes with the traditional Hackintosh approach, which involves more complex and often less stable setups.
+
+**「Impact」** Users interested in trying macOS on their existing Intel or AMD PCs should consider Stela, especially those who are curious about the Mac experience and want to test it before purchasing an Apple Silicon-based system. However, it requires technical expertise and is not recommended for beginners due to its current limitations and potential for system instability.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.apple.com/os/macos/">OS - macOS 27 Golden Gate - Apple</a></li>
+<li><a href="https://support.apple.com/en-us/127257">What&#x27;s new in the updates for macOS 27 Golden Gate - Apple ...</a></li>
+<li><a href="https://www.geeky-gadgets.com/macos-27-features-update/">macOS 27 Features and Top Updates for Apple Silicon - Geeky ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#macOS`, `#Stela`, `#Hackintosh`, `#Open Source`, `#PC Compatibility`
+
+---
+
+<a id="item-tools-windows-5"></a>
+### [VNC客户端1.0](https://www.52pojie.cn/thread-2137806-1-1.html) ⭐️ 5.0/10
+
+VNC客户端1.0 is a lightweight VNC client designed for Windows users, offering dual monitor support. This tool is characterized by its extremely small executable size of just 60KB, making it a compact and efficient choice for remote desktop access. It is available as a free download, suitable for users seeking a simple and resource-light VNC client solution.
+
+rss · 吾爱精品软件区 · Nov 15, 08:14
+
+**「Background」** VNC客户端1.0 is a lightweight VNC client introduced, offering dual monitor support. It aims to provide an alternative to existing VNC clients like RealVNC and TightVNC, focusing on a smaller executable size and additional features. The tool is designed for users who require a simple and efficient remote desktop solution, potentially for tasks such as remote system administration or technical support. It competes with established VNC clients by offering a more compact and potentially faster performance.
+
+**「Impact」** Users looking for a lightweight and efficient VNC client with dual monitor capabilities should consider adopting VNC客户端1.0. It is particularly beneficial for those with limited system resources or who require a straightforward remote desktop access tool without additional features.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.realvnc.com/en/connect/download/viewer/windows/">Download VNC Viewer for Windows by RealVNC</a></li>
+<li><a href="https://www.tightvnc.com/download.php">TightVNC - VNC -Compatible Remote Desktop Software</a></li>
+<li><a href="https://blog.csdn.net/weixin_32921023/article/details/151293969">VNC远程控制工具详解与实战应用 - CSDN博客</a></li>
+<li><a href="https://wenku.csdn.net/column/86rng99wdc">VNC实践应用：远程教学与远程办公场景案例分析 - CSDN文库</a></li>
+<li><a href="https://blog.csdn.net/weixin_42476987/article/details/151411625">VNC客户端工具原理与实战应用 - CSDN博客</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#VNC client`, `#Software release`, `#Lightweight software`, `#Dual monitor support`
 
 ---
