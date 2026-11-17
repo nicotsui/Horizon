@@ -5,1083 +5,1037 @@ date: 2026-11-17
 lang: en
 ---
 
-> From 279 items, 40 important content pieces were selected
+> From 329 items, 40 important content pieces were selected
 
 ---
 
 **China Macro &amp; A-Share**
-1. [Second China-Canada Economic and Financial Strategic Dialogue Achievements](#item-cn-macro-1) ⭐️ 9.0/10
-2. [Major Investors Adjust Holdings in AI and Semiconductor Sectors](#item-cn-macro-2) ⭐️ 7.0/10
-3. [Major Banks Sell AI Data Center Loans](#item-cn-macro-3) ⭐️ 7.0/10
-4. [Semiconductor Design Companies Face Price Hike Notifications](#item-cn-macro-4) ⭐️ 7.0/10
-5. [Anthropic&\#x27;s IPO Highlights AI Industry Potential and Concerns](#item-cn-macro-5) ⭐️ 7.0/10
-6. [Rising Demand for Diesel Generators in China&\#x27;s Data Center Construction](#item-cn-macro-6) ⭐️ 7.0/10
-7. [ICBC Discusses AI Integration in Banking Services](#item-cn-macro-7) ⭐️ 7.0/10
-8. [Morgan Stanley&\#x27;s 2027 China Stock Market Outlook](#item-cn-macro-8) ⭐️ 7.0/10
-9. [NVIDIA Faces Structural Challenges in AI Chip Industry](#item-cn-macro-9) ⭐️ 7.0/10
-10. [Impact of Strong US Dollar on Global Liquidity and Risk Assets](#item-cn-macro-10) ⭐️ 7.0/10
-11. [Goldman Sachs Predicts AI Investment Boom to Peak](#item-cn-macro-11) ⭐️ 7.0/10
-12. [OpenAI&\#x27;s $5 Billion Offer for Goodfire Startup Highlights AI Interpretability Value](#item-cn-macro-12) ⭐️ 7.0/10
-13. [NVIDIA CEO Departure Impacts New Cloud Industry Financing](#item-cn-macro-13) ⭐️ 7.0/10
-14. [Morgan Stanley&\#x27;s Economic Forecast and Market Strategy for 2027](#item-cn-macro-14) ⭐️ 7.0/10
-15. [Anthropic IPO: Key Event for AI Industry and Stock Market](#item-cn-macro-15) ⭐️ 7.0/10
-16. [US Inflation and Employment Data Impact on Federal Reserve Policy](#item-cn-macro-16) ⭐️ 7.0/10
-17. [China&\#x27;s MIIT Approves 6G Innovation Pilot Program in 8 Provinces and Municipalities](#item-cn-macro-17) ⭐️ 7.0/10
+1. [Former NY Fed President Dudley Criticizes Fed&\#x27;s &\#x27;Painless Disinflation&\#x27; Strategy](#item-cn-macro-1) ⭐️ 7.0/10
+2. [Fed Official Signals Multiple Rate Hikes Before Spring 2024](#item-cn-macro-2) ⭐️ 7.0/10
+3. [Chinese Ministry of Commerce Responds to U.S. Semiconductor Restrictions](#item-cn-macro-3) ⭐️ 7.0/10
+4. [China&\#x27;s October Economic Slowdown and US AI Market Impact](#item-cn-macro-4) ⭐️ 7.0/10
+5. [Market Shifts in AI and A-share Market](#item-cn-macro-5) ⭐️ 7.0/10
+6. [Longxin Technology&\#x27;s Q3 Performance: Strategic Partnerships and AI-Driven Growth](#item-cn-macro-6) ⭐️ 7.0/10
+7. [比亚迪海外扩张策略及对当地经济影响](#item-cn-macro-7) ⭐️ 7.0/10
+8. [Xiaomi&\#x27;s Battery Technology Development and Collaboration with Suppliers](#item-cn-macro-8) ⭐️ 7.0/10
+9. [China and Canada Extend Trade Exemptions and Enhance Economic Cooperation](#item-cn-macro-9) ⭐️ 7.0/10
+10. [Liyuanhong on AI Application and Market Impact](#item-cn-macro-10) ⭐️ 7.0/10
+11. [East China Securities Merger with Dongwu Securities Approved](#item-cn-macro-11) ⭐️ 7.0/10
+12. [Longxin Technology Reports on Continued Global DRAM Supply Shortages](#item-cn-macro-12) ⭐️ 7.0/10
+13. [Xpeng&\#x27;s Revenue Growth and Overseas Expansion Plans](#item-cn-macro-13) ⭐️ 7.0/10
+14. [Pangdonglai&\#x27;s Sales Growth and Profit Distribution Strategies](#item-cn-macro-14) ⭐️ 7.0/10
+15. [Warren Buffett&\#x27;s $5.5 Billion Stock Donation](#item-cn-macro-15) ⭐️ 7.0/10
+16. [Chinese Economy Stable and Improving in First Ten Months](#item-cn-macro-16) ⭐️ 7.0/10
+17. [KPMG Identifies AI Industry as Key Driver of China&\#x27;s Economic Recovery](#item-cn-macro-17) ⭐️ 7.0/10
 
 **Global Market**
-1. [China Highlights Groundbreaking Significance of Xi-Putin-Trump Meeting](#item-global-market-1) ⭐️ 9.0/10
-2. [Fed Chairman Kevin Warsh on AI&\#x27;s Economic Impact](#item-global-market-2) ⭐️ 7.0/10
-3. [U.S. Crude Oil Price Decline](#item-global-market-3) ⭐️ 7.0/10
-4. [Nvidia Turmoil and Democratic Congress Impact on AI Trade](#item-global-market-4) ⭐️ 7.0/10
-5. [FDA Denies Approval for Cancer Drug, Biotech Stock Plummets](#item-global-market-5) ⭐️ 7.0/10
-6. [India Considering Restrictions on Leveraged Stock Trading](#item-global-market-6) ⭐️ 7.0/10
-7. [France and Malaysia Discuss Defense and Rare Earths Cooperation](#item-global-market-7) ⭐️ 7.0/10
-8. [Exclusive: China Uses US AI Models Amidst Chip Restrictions](#item-global-market-8) ⭐️ 7.0/10
-9. [Visa and Mastercard Swipe Fee Settlement](#item-global-market-9) ⭐️ 7.0/10
-10. [Gold Prices Reach One-Year Low Amid Strong U.S. Treasury Yields and Dollar Strength](#item-global-market-10) ⭐️ 7.0/10
-11. [EU Foreign Policy Chief Discusses Market Impacts](#item-global-market-11) ⭐️ 7.0/10
-12. [Iranian Leaders Concerned Over Public Mood Amid Gas Shortages and War](#item-global-market-12) ⭐️ 7.0/10
-13. [Record Foreign Inflows Boost Indian Stocks in November](#item-global-market-13) ⭐️ 7.0/10
-14. [US to Impose Restrictions on China&\#x27;s AI Chip Access](#item-global-market-14) ⭐️ 7.0/10
-15. [Fed&\#x27;s Barr Warns on AI Risks to Financial System](#item-global-market-15) ⭐️ 7.0/10
-16. [U.S. Army&\#x27;s Move to Break China&\#x27;s Rare Earth Monopoly](#item-global-market-16) ⭐️ 7.0/10
-17. [Venezuela&\#x27;s Oil Recovery Threatened by US Policy Shift](#item-global-market-17) ⭐️ 7.0/10
-18. [Europe&\#x27;s Gas Storage Concerns](#item-global-market-18) ⭐️ 7.0/10
+1. [Fed Chairman Kevin Warsh on AI&\#x27;s Economic Impact](#item-global-market-1) ⭐️ 7.0/10
+2. [U.S. Crude Oil Price Decline](#item-global-market-2) ⭐️ 7.0/10
 
 **AI Frontier**
-1. [Marimba: A System One Model for Speech](#item-ai-frontier-1) ⭐️ 8.0/10
+1. [vllm-project/vllm v0.34.0 Release](#item-ai-frontier-1) ⭐️ 7.0/10
+2. [Carnegie Mellon Offers Free Computer Science Courses on YouTube](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [Long Video Inference Compression Method Proposed by Sun Yat-sen and Hong Kong Polytechnic Universities](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [AI Model Achieves Global Ranking with Full-Size Open-Source Release](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [OpenAI&\#x27;s GPT-6 Astra in Particle Physics Standard Model Breakthrough](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [Analysis of 127k Papers&\#x27; Ablations Reveals 26% Unhelpful Changes](#item-ai-frontier-7) ⭐️ 7.0/10
+8. [Comprehensive Resources for Distributed Training of LLMs](#item-ai-frontier-8) ⭐️ 7.0/10
+9. [Marimba: A System One Model for Speech](#item-ai-frontier-9) ⭐️ 7.0/10
+10. [Chinese AI Firms Limit Offensive Cyber Capabilities in New Models](#item-ai-frontier-10) ⭐️ 7.0/10
+11. [Google to Provide Advanced AI Models for Network Defense in Japan](#item-ai-frontier-11) ⭐️ 7.0/10
+12. [China Achieves Record-Breaking 27 Gbps Wireless Communication in Q/V Band](#item-ai-frontier-12) ⭐️ 7.0/10
 
 **IT &amp; Open Source**
-1. [微软Windows Bug引发宕机事故](#item-it-opensource-1) ⭐️ 8.0/10
-2. [U.S. Large-Scale Data Centers&\#x27; Energy Consumption Equivalent to Some States](#item-it-opensource-2) ⭐️ 7.0/10
-3. [微软下一代Xbox支持PC游戏](#item-it-opensource-3) ⭐️ 7.0/10
-4. [Internet Archive Launches Salon Explorer](#item-it-opensource-4) ⭐️ 7.0/10
+1. [Ling Sheng Supercomputer Tops November 2026 Top500 List](#item-it-opensource-1) ⭐️ 9.0/10
+2. [微软 Windows Bug 导致 Microsoft 365 服务宕机](#item-it-opensource-2) ⭐️ 8.0/10
+3. [Caltech Professor Stops Grading Homework Based on Correctness Due to AI](#item-it-opensource-3) ⭐️ 7.0/10
+4. [Carnegie Mellon Free Open Computer Science Courses](#item-it-opensource-4) ⭐️ 7.0/10
+5. [富岳运行系统遭非法访问](#item-it-opensource-5) ⭐️ 7.0/10
+6. [FBI Warns of Artex AI-Driven Tool for Rapid Network Intrusions](#item-it-opensource-6) ⭐️ 7.0/10
+7. [Windows Collects User Programming Activity Data](#item-it-opensource-7) ⭐️ 7.0/10
+8. [US Large-Scale Data Centers&\#x27; Energy Consumption Equivalent to Some States](#item-it-opensource-8) ⭐️ 7.0/10
+9. [微软下一代Xbox支持跨平台游戏](#item-it-opensource-9) ⭐️ 7.0/10
 
 ---
 
 ## China Macro &amp; A-Share
 
 <a id="item-cn-macro-1"></a>
-### [Second China-Canada Economic and Financial Strategic Dialogue Achievements](https://wallstreetcn.com/articles/3786087) ⭐️ 9.0/10
+### [Former NY Fed President Dudley Criticizes Fed&\#x27;s &\#x27;Painless Disinflation&\#x27; Strategy](https://wallstreetcn.com/articles/3786117) ⭐️ 7.0/10
 
-China and Canada held the second Economic and Financial Strategic Dialogue, resulting in significant policy agreements and cooperation initiatives. The dialogue covered a range of topics including global economic prospects, financial regulation, and investment cooperation. Key agreements include enhancing macro policy communication, promoting green and sustainable finance, and facilitating bilateral trade and investment.
+Former New York Fed President Bill Dudley criticizes the Federal Reserve&\#x27;s &\#x27;painless disinflation&\#x27; strategy, arguing that it lacks historical precedent and logical consistency. He points out that inflation has been above the Fed&\#x27;s target for nearly six years, yet monetary policy has not been restrictive. Dudley warns that without substantial tightening, inflation expectations could rise rather than fall as officials hope.
 
-rss · 华尔街见闻 · Nov 17, 05:51
+rss · 华尔街见闻 · Nov 17, 13:07
 
-**「Background on the Second China-Canada Economic and Financial Strategic Dialogue」** The second China-Canada Economic and Financial Strategic Dialogue \(EFSD\) was held in Vancouver from November 8 to 9, 2026. This dialogue, co-chaired by Chinese Vice Premier He Lifeng and Canadian Minister of Finance and International Trade Minister Sikder, involved senior representatives from both countries&\#x27; financial regulatory and monetary policy departments, as well as high-level officials responsible for economic, investment, and trade policies. The dialogue aimed to deepen bilateral economic and financial relations and promote practical cooperation in areas of mutual interest, contributing to the construction of a new type of strategic partnership between China and Canada. This follows the consensus reached by the leaders of both countries in January 2026.
+**「Background on Federal Reserve&\#x27;s Inflation Strategy」** The Federal Reserve has been a central topic in economic discussions, particularly regarding its approach to managing inflation. Historically, the Federal Reserve has been criticized for its approach to managing inflation, perceived lack of transparency, and its role in economic downturns. The concept of &\#x27;painless disinflation&\#x27; has been a recent strategy discussed by the Federal Reserve, aiming to anchor inflation expectations without causing significant disruption to the labor market. This strategy has been met with both support and criticism, with some arguing that it lacks historical precedent and logical consistency.
 
-**「Impact」** The agreements are expected to boost China&\#x27;s capital market by attracting long-term funds from Canadian pension funds and other qualified institutional investors. This could lead to increased investment in the A-share market and contribute to the development of China&\#x27;s financial sector.
+**「Impact on Investors and Markets」** The criticism by former New York Fed President Bill Dudley regarding the Federal Reserve&\#x27;s &\#x27;painless disinflation&\#x27; strategy could lead to increased uncertainty in the markets. Investors may become wary of the Federal Reserve&\#x27;s ability to control inflation, potentially leading to a sell-off in stocks and a shift towards safer assets. This could also impact the A-share market, as investors may adjust their portfolios in response to the broader economic outlook.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://static.cdsb.com/micropub/Articles/202604/f9128047e5b006ff066ed1343546cc76.html">何立峰会见 加 拿大 财 政部部长商鹏飞</a></li>
-<li><a href="https://www.163.com/dy/article/KPPHKRC70556BTIW.html">163.com/dy/article/KPPHKRC70556BTIW.html</a></li>
+<li><a href="https://en.wikipedia.org/wiki/William_C._Dudley">William C. Dudley - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Federal_Reserve">Federal Reserve - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Federal_Reserve">Federal Reserve - Wikipedia</a></li>
+<li><a href="https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/hits-and-misses-of-the-feds-inflation-strategy/">Hits and Misses of the Fed’ s Inflation Strategy - Knowledge at Wharton</a></li>
+<li><a href="https://www.linkedin.com/posts/tedmcgrath_federalreserve-inflation-economics-activity-7449960785486843905-F2Xr"># federalreserve # inflation #economics #marketanalysis #interestrates...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Chinese Economy`, `#A-share Market`, `#International Cooperation`, `#Policy Shift`, `#Financial Regulation`
+**Tags**: `#Inflation`, `#Federal Reserve`, `#Economic Policy`, `#Market Analysis`, `#A-share Market`
 
 ---
 
 <a id="item-cn-macro-2"></a>
-### [Major Investors Adjust Holdings in AI and Semiconductor Sectors](https://wallstreetcn.com/articles/3786088) ⭐️ 7.0/10
+### [Fed Official Signals Multiple Rate Hikes Before Spring 2024](https://wallstreetcn.com/articles/3786116) ⭐️ 7.0/10
 
-Major investors have made significant adjustments to their holdings in the AI and semiconductor sectors. Bridgewater and Soros reduced their holdings in Nvidia, while &\#x27;Woodstock&\#x27; and Tepper increased their stakes. Druckenmiller sold off semiconductor stocks and shifted to gold and SpaceX. Berkshire Hathaway continued to move away from technology, focusing on real estate and aviation.
+Federal Reserve official Alberto Musalem indicated the need for multiple interest rate hikes before spring 2024 to control inflation. He suggested that without further monetary policy tightening, inflation could remain significantly above the Fed&\#x27;s 2% target for the next 18 months, potentially requiring a 100 basis point increase in the actual policy rate.
 
-rss · 华尔街见闻 · Nov 17, 07:17
+rss · 华尔街见闻 · Nov 17, 12:32
 
-**「Investment Strategy Shifts in AI and Semiconductor Sectors」** Prior to the recent adjustments in holdings by major investors, the AI and semiconductor sectors were experiencing significant growth. Investors were heavily invested in technology giants, with a focus on AI hardware and semiconductor stocks. However, recent 13F filings reveal a strategic shift, with some investors reducing their holdings in tech giants and reallocating funds to AI chip hardware, storage, and energy sectors. This shift is indicative of a broader market trend towards diversification and a focus on more stable sectors.
+**「Federal Reserve&\#x27;s Monetary Policy Background」** The Federal Reserve has been implementing a tight monetary policy to control inflation. This includes raising interest rates and reducing the money supply. The Federal Reserve&\#x27;s target inflation rate is 2%, and it has been taking aggressive measures to achieve this goal. The recent decision to raise interest rates further reflects the Federal Reserve&\#x27;s commitment to controlling inflation. This policy stance has significant implications for global financial markets, including those in China.
 
-**「Impact」** This shift in investment strategy reflects a broader market trend towards AI hardware and storage devices. Investors are increasingly focusing on these areas, indicating a potential growth opportunity in the AI and semiconductor sectors.
+**「Impact」** The possibility of multiple rate hikes by the Federal Reserve could lead to increased borrowing costs and potentially impact global financial markets, including those in China, as investors adjust their strategies in response to the expected monetary policy tightening.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/RoutineMiku/apkstart/releases">Releases · RoutineMiku/apkstart · GitHub</a></li>
-<li><a href="https://www.hlwzxsz.wiki/">黑料网 - 今日黑料爆料 资 讯平台｜全网热门反差黑料与大瓜实时更新</a></li>
-<li><a href="https://www.youtube.com/watch?v=uorEebrfuGQ">youtube.com/watch?v=uorEebrfuGQ</a></li>
+<li><a href="https://www.stcn.com/article/detail/3344593.html">25个基点！ 美 联 储 降息了，然后呢？ 历 次降息后各类资产表现真相</a></li>
+<li><a href="https://m.gelonghui.com/p/277126">揭秘 美 联 储 ：纵观百年激荡，探寻货币 政 策 制定框架走势</a></li>
+<li><a href="http://www.iwep.org.cn/xscg/xscg_sp/202401/t20240112_5727940.shtml">iwep.org.cn/xscg/xscg_sp/202401/t20240112_5727940.shtml</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Investment Strategy`, `#Market Trends`, `#AI Hardware`, `#Semiconductor`, `#Investor Activity`
+**Tags**: `#Federal Reserve`, `#Interest Rate Hikes`, `#Inflation`, `#Economic Policy`, `#Global Financial Markets`
 
 ---
 
 <a id="item-cn-macro-3"></a>
-### [Major Banks Sell AI Data Center Loans](https://wallstreetcn.com/articles/3786090) ⭐️ 7.0/10
+### [Chinese Ministry of Commerce Responds to U.S. Semiconductor Restrictions](https://wallstreetcn.com/articles/3786115) ⭐️ 7.0/10
 
-Major banks, including ING and Societe Generale, are selling up to $800 million in loans related to AI data centers, reflecting heightened regulatory and market concerns in the sector. This action, which has been ongoing for several months, is accelerated by post-midterm election market speculation on stricter U.S. data center regulation and regulatory reviews by the Bank of England and the European Central Bank.
+The Chinese Ministry of Commerce has expressed strong opposition to the U.S. Department of Commerce&\#x27;s restrictions on advanced semiconductor access, stating that the U.S. is misusing national security concepts and export controls to interfere with normal trade cooperation between Chinese and other international enterprises. The Chinese government emphasizes the importance of maintaining market rules and the international trade order, and warns of potential countermeasures if the U.S. continues its current stance.
 
-rss · 华尔街见闻 · Nov 17, 06:55
+rss · 华尔街见闻 · Nov 17, 12:28
 
-**「Background on AI Data Center Debt Sales by Banks」** The sale of AI data center loans by major banks reflects a growing concern about the concentration of risk in the AI infrastructure sector. This trend is influenced by regulatory and market developments. The U.S. midterm elections, which resulted in a Democratic victory, have heightened concerns about stricter regulation of data centers in the U.S. Additionally, both the Bank of England and the European Central Bank have initiated reviews of banks&\#x27; exposure to data center loans, further intensifying regulatory pressure. These factors have prompted banks to accelerate the process of clearing their balance sheets before the end of the year.
+**「Prior Context of U.S. Export Controls on Advanced Semiconductors」** The U.S. Department of Commerce has implemented export controls on advanced semiconductors, aiming to restrict access by certain foreign actors, particularly the People&\#x27;s Republic of China \(PRC\), to technologies that could threaten U.S. national security and foreign policy interests. These controls are part of a broader strategy to limit the PRC&\#x27;s ability to produce advanced chips and access related computing and AI applications. The U.S. government has been strengthening its export controls on advanced semiconductors since 2018, with the intention of both restricting the PRC&\#x27;s access to these technologies and maintaining U.S. leadership in the field.
 
-**「Impact on Investors and Companies」** The sale of AI数据中心 loans by major banks, such as ING and Societe Generale, indicates a heightened risk aversion in the sector. This could lead to a decrease in investment in AI infrastructure projects, affecting companies involved in this sector. Investors should be cautious as the potential for default on these loans increases, which could impact the financial performance of the companies involved.
+**「Impact」** The restrictions could disrupt the global semiconductor supply chain and impact international trade relations, potentially leading to increased tensions between China and the U.S. Investors in the semiconductor and related sectors may need to be cautious due to the uncertainty and potential for countermeasures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sohu.com/a/1097370807_313745">中选后的美国：政治拉锯升级，美股美债美元怎么走_特朗普_民主党_关税</a></li>
-<li><a href="https://stock.10jqka.com.cn/20260921/c680116107.shtml">美联储 和 英 国 央 行 加强 对 银 行 对 交易公司风险 敞 口 的 审 查 | 同花顺财经</a></li>
-<li><a href="https://www.msn.com/zh-cn/money/other/%E6%AC%A7%E6%B4%B2%E5%A4%AE%E8%A1%8C%E5%90%AF%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E9%93%B6%E8%A1%8C%E7%A7%81%E5%8B%9F%E4%BF%A1%E8%B4%B7%E6%95%9E%E5%8F%A3%E6%A3%80%E6%9F%A5/ar-AA1ZkFl7">欧 洲 央 行 启动新一轮 银 行 私募信 贷 敞 口 检 查</a></li>
-<li><a href="https://www.sohu.com/a/1078646070_122387568">甲骨文180亿美元数据中心银团贷款折价出售，揭示AI产业融资困境与评级...</a></li>
-<li><a href="https://zeli.app/zh/story/50092664">银行正甩卖刚承销的AI数据中心债务 — Banks are now trying to offloa...</a></li>
-<li><a href="https://news.qq.com/rain/a/20260805A0BJJ600">AI基建债成了烫手山芋？大摩拟转售150亿美元数据中心银行贷款，在债券...</a></li>
+<li><a href="https://kpmg.com/us/en/taxnewsflash/news/2026/11/commerce-advanced-semiconductor-export-controls.html">U.S. Commerce restricts remote access to advanced ...</a></li>
+<li><a href="https://www.gao.gov/assets/gao-25-107386.pdf">Export Controls: Commerce Implemented Advanced Semiconductor ...</a></li>
+<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R48642/R48642.5.pdf">U.S. Export Controls and China: Advanced Semiconductors</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Infrastructure`, `#Banking`, `#Market Developments`, `#Regulatory Changes`, `#Loan Sales`
+**Tags**: `#semiconductor`, `#trade restrictions`, `#international trade`, `#regulatory announcement`, `#China-US relations`
 
 ---
 
 <a id="item-cn-macro-4"></a>
-### [Semiconductor Design Companies Face Price Hike Notifications](https://wallstreetcn.com/livenews/3201051) ⭐️ 7.0/10
+### [China&\#x27;s October Economic Slowdown and US AI Market Impact](https://wallstreetcn.com/member/articles/3786114) ⭐️ 7.0/10
 
-Semiconductor design companies have received price increase notifications from wafer fabs such as TSMC, with potential price hikes ranging from 10% to over 20%. If the selling prices are not adjusted, the gross margin could be affected by approximately 4 to 5 percentage points. Industry insiders revealed that next year, wafer fabs including TSMC will adjust prices, while semiconductor packaging and testing has not seen further increases yet, but whether it will follow suit remains a variable in cost changes.
+In October, China&\#x27;s economic indicators showed a marginal slowdown, with industrial production and retail sales declining. The US AI market and oil prices impacted the domestic fuel vehicle market. The industrial production and retail sales growth fell to 4.8% and 0.4% respectively, while fixed asset investment for the first ten months decreased by 8.1%. The US AI market and oil prices affected the domestic fuel vehicle market.
 
-rss · 华尔街见闻 · Nov 17, 06:11
+rss · 华尔街见闻 · Nov 17, 12:27
 
-**「Background on Semiconductor Industry Price Increases」** The semiconductor industry has been experiencing a period of intense competition and fluctuating market dynamics. In recent years, the industry has faced challenges such as technological advancements and policy changes, which have influenced pricing and profitability. For instance, the introduction of new manufacturing processes like 2nm and 3nm has led to increased competition, affecting the pricing strategies of wafer fabs like TSMC. Additionally, external factors such as economic conditions and policy environments have played a significant role in shaping the semiconductor industry&\#x27;s price landscape. These factors collectively contribute to the current situation where semiconductor design companies are receiving notices of price increases from wafer fabs.
+**「Economic Indicators and Market Developments」** In October, China experienced a marginal slowdown in its economy, with industrial production and retail sales showing a decline. The country&\#x27;s fixed asset investment also decreased, indicating a weakening in consumption and investment. Meanwhile, the US AI market and global oil prices have been impacting the domestic fuel vehicle market. These developments are significant for understanding the current state of China&\#x27;s economy and stock market.
 
-**「Impact」** The price increase notifications could impact the profitability of semiconductor design companies, potentially leading to a reduction in gross margins if they are unable to adjust their selling prices accordingly.
+**「Impact」** The slowdown in China&\#x27;s economy and the impact of the US AI market and oil prices on the domestic fuel vehicle market may lead to a decrease in investment and consumer spending, affecting the overall economic growth and stock market performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="http://files.chinaaet.com/files/2025/01/03/20250103145640-65325.pdf">GPT-4o</a></li>
-<li><a href="https://hauntorama.com/news_zszx/36.html">半 导 体 行 业 价格大全与 影 响 因素解析 - 九游会</a></li>
-<li><a href="https://m.elecfans.com/article/2390732.html">半 导 体 行 业 能否走出低谷，中国 影 响 几何？ -电子发烧友网</a></li>
+<li><a href="https://www.zoom.com/en/about/analyst-coverage/2026-idc-marketscape-agentic-ccaas-platforms/">2026 IDC MarketScape Agentic CCaaS Platforms | Zoom</a></li>
+<li><a href="https://www.youtube.com/watch?v=gSAvL3FbSfU">How to use ChatGPT for Stock Analysis | AI for Stock Market Research</a></li>
+<li><a href="https://www.iea.org/reports/oil-market-report-november-2026">Oil Market Report - November 2026 - IEA</a></li>
+<li><a href="https://www.iea.org/reports/oil-market-report-october-2026">Oil Market Report - October 2026 - IEA</a></li>
+<li><a href="https://crudeoilprice.org/oil-price-history/2026/">Oil Prices in 2026: Brent &amp; WTI Month by Month</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor industry`, `#price increase`, `#TSMC`, `#economic trends`, `#market dynamics`
+**Tags**: `#Chinese Economy`, `#A-share Market`, `#Industrial Production`, `#Retail Sales`, `#Investment`, `#US AI Market`, `#Oil Prices`
 
 ---
 
 <a id="item-cn-macro-5"></a>
-### [Anthropic&\#x27;s IPO Highlights AI Industry Potential and Concerns](https://wallstreetcn.com/member/articles/3786047) ⭐️ 7.0/10
+### [Market Shifts in AI and A-share Market](https://wallstreetcn.com/articles/3786109) ⭐️ 7.0/10
 
-Anthropic&\#x27;s IPO, along with a simultaneous private placement of seven computing power suppliers, could raise over 90 billion USD, valuing the company at nearly 1.4 trillion USD. The company&\#x27;s revenue has seen a rapid growth, from 41 million USD in 2023 to 3.32 billion USD in the first nine months of 2026, an 800-fold increase in three years. However, concerns have been raised about the narrow foundation of the business.
+The AI market is facing its most severe stress test since its boom, with significant sell-offs and valuation declines in the semiconductor sector. This has led to a shift in global capital flows, with Asian chip trade surplus dollars flowing into US stocks instead of US Treasuries, strengthening the dollar and creating an &\#x27;AI-Dollar&\#x27; feedback loop. The European stock market, with its low exposure to AI, is becoming an attractive diversification destination.
 
-rss · 华尔街见闻 · Nov 17, 05:57
+rss · 华尔街见闻 · Nov 17, 12:15
 
-**「Background on Anthropic&\#x27;s Financial Growth and IPO」** Anthropic, a prominent AI company, has experienced significant financial milestones and growth projections. The company&\#x27;s IPO and rapid revenue growth highlight the potential of the AI industry. In 2023, Anthropic reported revenue of 41 million USD, which increased to 386 million USD in 2024, and further to 4.6 billion USD in 2025. By the first nine months of 2026, the company achieved 33.2 billion USD in revenue, marking an 800-fold increase over three years. This growth has been attributed to the company&\#x27;s innovative approach of using AI to write and sell AI, with Claude, their AI codebase, contributing to over 90% of the code in their own repository. The company&\#x27;s valuation has reached an impressive 1.4 trillion USD, with a strong market response, as indicated by the sixfold oversubscription in the IPO roadshow. These developments underscore the extraordinary pace of growth in the AI industry and its potential impact on the stock market.
+**「Market Background」** The AI market has been experiencing significant volatility, with major players like NVIDIA facing challenges and the semiconductor sector witnessing a notable decline in valuations. This has led to a shift in global capital flows, with Asian chip trade surplus dollars flowing into US stock markets rather than US government bonds, strengthening the US dollar. Meanwhile, European stock markets, with their low exposure to the AI sector, are becoming an attractive diversification destination. This shift in capital flows and market dynamics is a result of the AI boom and its impact on global economies.
 
-**「Impact」** The rapid growth of Anthropic&\#x27;s revenue and its significant valuation highlight the potential of the AI industry. However, investors should be cautious about the narrow foundation of the business, which could pose risks in the long term.
+**「Impact on Investors」** The rapid sell-off in the AI market is causing investors to reassess their portfolios. The uncertainty surrounding the long-term prospects of AI companies, coupled with the high valuation multiples and increased volatility, is prompting investors to seek diversification and potentially exit positions in AI-related stocks. This shift could lead to a reevaluation of investment strategies, with a focus on sectors that are less exposed to AI market volatility.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1">Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030</a></li>
-<li><a href="https://futuresearch.ai/anthropic-financial-forecast/">Anthropic Revenue, ARR and Valuation Forecast, 2026 to 2027</a></li>
-<li><a href="https://www.deepresearchglobal.com/p/anthropic-company-analysis-outlook-report">Anthropic - Company Overview, Analysis and Outlook Report (2026)</a></li>
+<li><a href="https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents">Gartner Predicts Search Engine Volume Will Drop 25% by 2026 , Due...</a></li>
+<li><a href="https://www.worldbank.org/en/publication/global-economic-prospects">Global Economic Prospects</a></li>
+<li><a href="https://www.hkex.com.hk/News/Regulatory-Announcements?sc_lang=en">Regulatory Announcements - HKEX</a></li>
+<li><a href="https://www.lw.com/en/insights/key-regulatory-updates-for-hong-kong-listed-companies-july-august-2026">Key Regulatory Updates for Hong Kong Listed Companies — July ...</a></li>
+<li><a href="https://www.lw.com/en/insights/key-regulatory-updates-for-hong-kong-listed-companies-may-june-2026">Key Regulatory Updates for Hong Kong Listed Companies May ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Industry`, `#IPO`, `#Financial Growth`, `#Stock Market`, `#Anthropic`
+**Tags**: `#AI Market`, `#Global Capital Flows`, `#A-share Market`, `#Economic Trends`, `#Regulatory Announcements`
 
 ---
 
 <a id="item-cn-macro-6"></a>
-### [Rising Demand for Diesel Generators in China&\#x27;s Data Center Construction](https://wallstreetcn.com/articles/3786085) ⭐️ 7.0/10
+### [Longxin Technology&\#x27;s Q3 Performance: Strategic Partnerships and AI-Driven Growth](https://wallstreetcn.com/articles/3786112) ⭐️ 7.0/10
 
-The rapid expansion of data center construction in China is fueling a surge in demand for diesel generators, with orders extending into 2027. This trend is expected to drive significant growth in the market, with orders for diesel generators reaching 600 units annually and a projected average annual growth rate of at least 30% over the next few years.
+Longxin Technology has entered into long-term supply agreements with several leading customers and expects stable gross margins in the fourth quarter. The company&\#x27;s focus on AI-driven demand for DRAM and strategic partnerships is seen as a key driver for expansion.
 
-rss · 华尔街见闻 · Nov 17, 05:34
+rss · 华尔街见闻 · Nov 17, 12:03
 
-**「Background on Data Center Construction and Diesel Generator Market Growth」** The rapid expansion of data center construction in China has been fueled by the AI boom, leading to a surge in demand for diesel generators. This trend is driven by the increasing reliance on data centers for backup power supply and the growing need for high-performance and stable power solutions. The demand for diesel generators in data centers is higher than that for standard models due to stricter requirements for equipment performance and power supply stability. This shift has been influenced by the rise of AI-generated content and the exponential increase in word calls, which have led to a significant rise in the procurement needs of diesel generators for data centers. The market for data center diesel generators is expected to exceed 60,000 units by 2026, with a market size of over 100 billion yuan. This growth is also impacting upstream component manufacturers, with orders for parts like diesel engine crankshafts stretching into 2028.
+**「Market Context and Company Strategy」** Longxin Technology, a key player in the Chinese DRAM market, has been experiencing a surge in demand for AI-driven DRAM due to the rapid growth of AI technology. This demand has led to a tense supply and demand situation in the global DRAM market. The company has been actively negotiating long-term supply agreements \(LTA\) with major clients to secure long-term demand and position itself as a core memory manufacturer in the AI era. This strategic move reflects the industry&\#x27;s shift towards stable customer cooperation as a crucial factor for navigating through market cycles. Additionally, Longxin Technology has been focusing on expanding its product portfolio, including the launch of its first LPDDR6 product, which is set to be used in flagship mobile phones, and the advancement of its 6th generation DRAM technology platform. These efforts are part of the company&\#x27;s strategy to adapt to the evolving market trends and enhance its competitive position.
 
-**「Impact on the Diesel Generator Market」** The surge in data center construction in China is significantly boosting the demand for diesel generators, with orders extending into 2027. This trend is expected to have a substantial impact on the diesel generator market, potentially leading to a market size exceeding 100 billion yuan by 2026. The increased demand is driven by the higher power density requirements of AI data centers and the shift in total load from megawatt-scale to gigawatt-scale, making diesel generators a standard rather than an optional component in data center power supply. This shift could lead to a structural shortage in the market, with the export of high-power diesel generators also experiencing a significant increase.
+**「Impact on Investors and Companies」** The sustained demand for AI-driven DRAM and the company&\#x27;s strategic partnerships with key clients are expected to positively impact investors and companies in the sector. The continuation of the supply紧缺格局 for DRAM products and the stable gross margin forecast for the fourth quarter suggest a favorable outlook for Longxin Technology. This could lead to increased investor confidence and potentially higher stock valuations for the company, benefiting both investors and the broader DRAM market.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=goiVFy4jqPA">AI... - YouTube</a></li>
-<li><a href="https://www.youtube.com/watch?v=bdm2UbqB2M4">youtube.com/watch?v=bdm2UbqB2M4</a></li>
+<li><a href="https://news.qq.com/rain/a/20261101A03MJH00">硬 科 技 早报| 长 鑫 与头部客户签 长 协；DeepSeek新架构；美国AI...</a></li>
+<li><a href="https://m.bjnews.com.cn/detail/1788777236129897.html">长 鑫 科 技 业 绩 说 明 会 回应国产光刻机、与苹果合作进展</a></li>
+<li><a href="https://guba.eastmoney.com/news,601995,1790216175.html">三 季 度 上市券商集体“降温”！ 34...</a></li>
+<li><a href="https://original.ifeng.com/c/8y8As0ikL5d">长鑫科技：2026年前三季度全球DRAM产品供给紧缺格局延续</a></li>
+<li><a href="https://www.vzkoo.com/read/11522343973600010301c7a59714.html">长鑫科技：国产DRAM破局与AI算力驱动下的产业重塑 - 报告精读 - 未来...</a></li>
+<li><a href="https://www.vzkoo.com/read/1147251465820001a8539973a0cb.html">长鑫科技深度：AI驱动DRAM量价齐升与HBM技术突破</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Data Center Construction`, `#Diesel Generator Market`, `#Chinese Economy`, `#Stock Market Trends`
+**Tags**: `#AI in Tech`, `#DRAM Market`, `#Longxin Technology`, `#Economic Outlook`, `#Stock Market`
 
 ---
 
 <a id="item-cn-macro-7"></a>
-### [ICBC Discusses AI Integration in Banking Services](https://wallstreetcn.com/articles/3786082) ⭐️ 7.0/10
+### [比亚迪海外扩张策略及对当地经济影响](https://wallstreetcn.com/articles/3786111) ⭐️ 7.0/10
 
-ICBC has integrated AI into its banking services, impacting customer service, risk management, and operational efficiency. The bank has implemented AI in transaction processing, customer service, and credit review, with significant advancements in these areas. ICBC&\#x27;s AI applications have led to increased efficiency in business processes and decision-making, with a focus on productivity, risk management, and sustainable investment.
+比亚迪董事长王传福在亚太经合组织工商领导人峰会上强调比亚迪在海外市场的本地化生产和就业创造，指出‘我赢你输’的生意模式不可长期持续。比亚迪在泰国、印尼和巴西的工厂带动了当地约1.8万个就业岗位，并在泰国实现了超过50%的本地化采购。
 
-rss · 华尔街见闻 · Nov 17, 05:01
+rss · 华尔街见闻 · Nov 17, 11:45
 
-**「Background on AI Integration in Banking Services」** The integration of AI in banking services has been a significant trend in recent years. Banks have been increasingly adopting AI technologies to enhance customer service, risk management, and operational efficiency. This includes the use of AI in customer service through chatbots and virtual assistants, in risk management for fraud detection and credit scoring, and in operational processes for automation and decision-making support. The adoption of AI in banking has been driven by the need to improve customer experience, reduce costs, and manage risks more effectively. As of 2026, several banks have already implemented AI solutions in various aspects of their operations, showcasing the potential of AI in transforming the banking industry.
+**「Background on BYD&\#x27;s Global Expansion and Localization Strategy」** In recent years, BYD has been actively expanding its global presence, focusing on localization of production and job creation in overseas markets. This strategy is in line with the Chinese government&\#x27;s push for &\#x27;Made in China 2025&\#x27; and the global shift towards sustainable development. BYD&\#x27;s approach includes localizing procurement of components, hiring local talent, and investing in local research and development. This has been evident in countries like Thailand, Indonesia, and Brazil, where BYD has established factories and created numerous jobs. The company&\#x27;s emphasis on sustainable practices, such as using local resources and reducing carbon emissions, aligns with global trends towards environmental responsibility and clean energy.
 
-**「Impact on Banking Operations and Efficiency」** The integration of AI in ICBC&\#x27;s operations has led to significant improvements in customer service, risk management, and operational efficiency. The AI-powered systems have streamlined processes such as customer service, risk management, and credit review, leading to increased productivity and reduced operational costs. For instance, the AI-driven smart dialogue trading system has covered the entire process from customer entry to risk exposure management, with an intelligent quotation trading ratio exceeding 96%. This has not only enhanced customer experience but also optimized the use of resources within the bank.
+**「Impact」** 比亚迪的海外扩张策略有助于推动当地新能源汽车产业的发展，并为当地创造就业机会。这一策略可能对当地汽车制造商产生竞争压力，但同时也为当地企业提供了转型和发展的机会。
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thinking.inc/en/industry-service/ai-in-financial-services/">AI in Financial Services — Complete 2026 Guide</a></li>
-<li><a href="https://intcore.com/en/blog/ai-in-banking-apps-2026-transforming-the-future-of-digital-banking">AI in Banking Apps (2026): Transforming the Future | Intcore</a></li>
-<li><a href="https://www.backbase.com/blog/ai-applications-in-banking">AI in banking: 6 use cases with real results (2026)</a></li>
-<li><a href="https://www.youtube.com/watch?v=snJpnaIZMLo">Productivity and Jobs Task Force Conference - YouTube</a></li>
-<li><a href="https://edition.cnn.com/2026/11/16/economy/ai-bubble-anthropic-ipo-recession">AI bubble will likely burst and cause a recession by 2028 election, Wall...</a></li>
+<li><a href="https://news.sina.cn/ai/2026-05-15/detail-inhxyimh8097094.d.html?vt=4">比 亚 迪 寻求收购Stellantis欧洲工厂， 海 外 扩 张 加速|零跑b10|腾势Z9GT...</a></li>
+<li><a href="https://youjia-pc.bdstatic.com/article/9979714076770930435.html">据报 比 亚 迪 将2026年汽车出口目标上调15%至150...</a></li>
+<li><a href="https://caifuhao.eastmoney.com/news/20251109001937659837450">围绕 比 亚 迪 三季报的核心观点整理（针对整车业务）_财富号_东方财富网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI in Banking`, `#ICBC`, `#Financial Technology`, `#Risk Management`, `#Customer Service`
+**Tags**: `#Chinese Economy`, `#A-share Market`, `#Automotive Industry`, `#Sustainable Development`, `#Global Expansion`
 
 ---
 
 <a id="item-cn-macro-8"></a>
-### [Morgan Stanley&\#x27;s 2027 China Stock Market Outlook](https://wallstreetcn.com/articles/3786078) ⭐️ 7.0/10
+### [Xiaomi&\#x27;s Battery Technology Development and Collaboration with Suppliers](https://wallstreetcn.com/articles/3786110) ⭐️ 7.0/10
 
-Morgan Stanley has released a 2027 China stock market outlook report, contrasting with Goldman Sachs&\#x27; views. The report maintains an MSCI China equal-weight rating and explicitly prefers A-share markets over offshore markets, citing stronger representation in emerging frontier industries and capital support. Morgan Stanley&\#x27;s strategist Laura Wang sets a year-end target for key indices, highlighting moderate earnings improvement, a slight appreciation of the RMB, and a reasonable valuation. However, domestic demand weakness, policy caution, and escalating Sino-US tech friction limit upward index space.
+Xiaomi has released its &\#x27;Longjia&\#x27; battery, with cells supplied by Zhenfeng New Energy and Xinwangda Power. Xiaomi has taken a more active role in battery development, including material selection and production processes, indicating a shift in the relationship between car manufacturers and battery suppliers.
 
-rss · 华尔街见闻 · Nov 17, 03:56
+rss · 华尔街见闻 · Nov 17, 11:43
 
-**「Morgan Stanley&\#x27;s Outlook on China&\#x27;s Stock Market」** Morgan Stanley&\#x27;s 2027 China stock market outlook reflects a contrasting view with Goldman Sachs. The report highlights the preference for A-share over offshore markets, particularly Hong Kong, due to A-share&\#x27;s stronger representation in emerging frontier industries and supportive funding. The report also discusses the challenges faced by Hong Kong&\#x27;s stock market, including liquidity concerns and rising technology control risks. Additionally, it analyzes the current valuation of Chinese stocks, predicting a moderate improvement in earnings and a slight appreciation of the renminbi, which are expected to support the stock market.
+**「Background on Xiaomi&\#x27;s Battery Technology Development」** Xiaomi, a prominent Chinese technology company, has been actively involved in the development of battery technology for the automotive industry. In July 2026, Xiaomi officially launched the &\#x27;Xiaomi Longjia&\#x27; battery system, a comprehensive solution for power batteries in vehicles. Xiaomi takes charge of the product definition, leads the design and development of battery packs, participates in the design and development of cells, and implements full-process quality control. This system represents a significant case in China&\#x27;s new energy vehicle industry where automakers are taking the lead in battery technology, often referred to as the &\#x27;patronymic movement&\#x27; in the industry.
 
-**「Impact on Investors」** Investors in the Chinese stock market should consider the differing outlooks from Morgan Stanley and Goldman Sachs. Morgan Stanley&\#x27;s preference for A-share over offshore markets suggests a focus on domestic emerging industries and technology sectors, which could benefit from government support and structural转型. However, concerns about Hong Kong&\#x27;s liquidity challenges and the potential for increased technology control risks may lead to cautiousness in the Hong Kong stock market. Investors may want to rebalance their portfolios accordingly, with a focus on sectors that are expected to benefit from the government&\#x27;s support and technological advancements.
+**「Impact on Battery Technology and Automotive Industry」** The collaboration between Xiaomi and its battery suppliers, particularly the development of the &\#x27;Longjia&\#x27; battery, signifies a shift towards greater involvement of automakers in battery technology. This trend could lead to more customized battery solutions for specific vehicle models, enhancing performance and safety. Investors in battery technology and automotive companies should monitor this development closely, as it may open new opportunities for innovation and differentiation in the market.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://finwire.io/news/stock-markets-news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish">investingLive Asia-Pacific market news: RBA minutes lean... | finwire.io</a></li>
-<li><a href="https://www.financialexpress.com/market/sensex-to-89000-morgan-stanley-picks-7-stocks-to-ride-indias-next-capex-cycle-4239548/">Sensex at 89,000 by June 2027 ? Morgan Stanley picks 7 stocks to...</a></li>
-<li><a href="https://www.cnbc.com/markets/">Markets : Indexes, Bonds, Forex, Key Commodities, ETFs</a></li>
-<li><a href="https://www.nashnova.com/zh/feed/special/shenwan-hongyuan-hong-kong-stock-liquidity-to-improve-by-2027-hang-seng-index-17550">Shenwan Hongyuan: Hong Kong Stock Liquidity to Improve by ...</a></li>
-<li><a href="https://www.webull.com/news/15868451082705920">CITIC Securities released the 2027 Hong Kong Stock Market ...</a></li>
-<li><a href="https://impact.hkubs.hku.hk/reviving-hong-kongs-stock-market-key-challenges-and-strategic-solutions/">Reviving Hong Kong’s Stock Market: Key Challenges and ...</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%B0%8F%E7%B1%B3%E9%BE%99%E7%94%B2%E7%94%B5%E6%B1%A0%E4%BD%93%E7%B3%BB/68400314">小米龙甲电池体系_百度百科</a></li>
+<li><a href="https://auto.sina.com.cn/jishu/2026-11-17/detail-iniyyzyp7781933.shtml">打卡小米龙甲电池产线 顶流电池的“全链路自证”-新浪汽车</a></li>
+<li><a href="https://www.news.cn/auto/20260907/150466d1d3d644beaef1db277e1cfc56/c.html">小米龙甲电池发布会：从设计源头到产线末端全面穿透 为电池安全全链路...</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%B0%8F%E7%B1%B3%E9%BE%99%E7%94%B2%E7%94%B5%E6%B1%A0%E4%BD%93%E7%B3%BB/68400314">小米龙甲电池体系_百度百科</a></li>
+<li><a href="https://auto.sina.com.cn/jishu/2026-11-17/detail-iniyyzyp7781933.shtml">打卡小米龙甲电池产线 顶流电池的“全链路自证”-新浪汽车</a></li>
+<li><a href="https://www.xinhuanet.com/auto/20260907/150466d1d3d644beaef1db277e1cfc56/c.html">小米龙甲电池发布会：从设计源头到产线末端全面穿透 为电池安全全链路...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Chinese Stock Market`, `#Morgan Stanley`, `#Goldman Sachs`, `#A-share`, `#Hong Kong Stock Market`, `#Market Outlook`
+**Tags**: `#Xiaomi`, `#Battery Technology`, `#Automotive Industry`, `#Collaboration`, `#Regulatory Announcements`
 
 ---
 
 <a id="item-cn-macro-9"></a>
-### [NVIDIA Faces Structural Challenges in AI Chip Industry](https://wallstreetcn.com/articles/3786076) ⭐️ 7.0/10
+### [China and Canada Extend Trade Exemptions and Enhance Economic Cooperation](https://wallstreetcn.com/articles/3786107) ⭐️ 7.0/10
 
-NVIDIA is facing structural challenges in the AI chip industry, including customer diversification and regulatory pressures. The company&\#x27;s market position is being impacted as its share in compute contracts after 2026 dropped to 28%, down from 80-90% in 2024-2025. Additionally, NVIDIA&\#x27;s CUDA software ecosystem, a key competitive advantage, is facing erosion as model migration to AMD GPUs now takes only 3 days compared to 6-12 months previously.
+China and Canada have agreed to extend trade exemptions for two years, with Canada expanding the exemption scope for Chinese steel and aluminum products. In response, China will adjust anti-discrimination measures for certain Canadian agricultural and aquatic products. Both sides have also reached a positive consensus on e-commerce cooperation, Chinese banks setting up branches in Canada, and optimizing the business environment.
 
-rss · 华尔街见闻 · Nov 17, 03:46
+rss · 华尔街见闻 · Nov 17, 11:27
 
-**「Market Dynamics and Regulatory Challenges Facing NVIDIA」** NVIDIA, a leading player in the AI chip industry, has been facing structural challenges due to shifts in customer preferences and regulatory pressures. The company&\#x27;s market position has been impacted by the diversification of customers and increased regulatory scrutiny. In the past, NVIDIA held a significant share of the AI chip market, but this has changed as other companies like AMD, Google, and Amazon have gained market share. Additionally, the regulatory environment has become more challenging for NVIDIA, particularly in the context of open-source model ecosystems. These factors have contributed to a shift in the competitive landscape for NVIDIA, affecting its market position and growth prospects.
+**「Prior Trade Relations and Policy Stance」** The agreement to extend trade exemptions and enhance economic cooperation between China and Canada is a continuation of the ongoing efforts to stabilize and strengthen bilateral trade relations. This follows previous rounds of consultations and negotiations aimed at addressing trade imbalances and promoting mutual economic benefits. The extension of tariff exemptions and the expansion of market access are in line with the policy stance of both countries to foster a more open and cooperative trade environment.
 
-**「Impact on Investors and Companies」** The shift in market dynamics for NVIDIA, including the diversification of customers and regulatory challenges, poses a significant risk for investors. The decline in NVIDIA&\#x27;s market share in the AI chip industry, from 80% to 90% in 2024-2025 to 28% post-2026, indicates a potential decline in the company&\#x27;s revenue and profitability. This, coupled with the increasing competition from AMD and other suppliers, raises concerns for investors about the sustainability of NVIDIA&\#x27;s high valuation. Additionally, the regulatory pressures on NVIDIA&\#x27;s open-source market exposure could further impact its business operations.
+**「Market Impact」** The extension of trade exemptions and enhanced economic cooperation between China and Canada is expected to positively impact Canadian exports to China, particularly in sectors such as oil seeds, minerals, cereals, copper, and pharmaceuticals. This could lead to increased investment and trade flows, benefiting both economies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html">Nvidia warns chip buyers of legal risks tied to China access: sources</a></li>
-<li><a href="https://www.globaltimes.cn/page/202611/1374387.shtml">US Treasury chief presses Nvidia over alleged chip... - Global Times</a></li>
-<li><a href="https://www.youtube.com/watch?v=HeXMg7_BM6A">Nvidia &#x27;s Spy Scandal: Where Did $7.5 Billion in Chips Go? - YouTube</a></li>
-<li><a href="https://hmc-tech.com/gpus/amd-instinct-mi455x-vs-nvidia-gb300">AMD Instinct MI455X vs NVIDIA GB300 Full Specs - HMC</a></li>
-<li><a href="https://getdeploying.com/gpus/amd-mi455x-vs-nvidia-gb300">AMD MI455X vs Nvidia GB300: Specs &amp; Rental Prices</a></li>
-<li><a href="https://neevcloud.com/blogs/amd-mi455x-vs-nvidia-b300-which-wins-on-inference-cost">AMD MI455X vs B300: Which Wins on Inference Cost</a></li>
-<li><a href="https://inferencex.semianalysis.com/compare/kimi-k3-gb300-vs-tpuv7">GB300 NVL72 vs TPU7x: Kimi K3 Benchmark | InferenceX</a></li>
-<li><a href="https://inferencex.semianalysis.com/compare-per-dollar/kimi-k3-gb300-vs-tpuv7">Kimi K3 2.8T — GB300 NVL72 vs TPU7x Performance per Dollar</a></li>
-<li><a href="https://cryptobriefing.com/google-tpuv7-agentic-inference-benchmarks-nvidia/">Google TPUv7 posts strong agentic inference results against ...</a></li>
+<li><a href="https://www.globaltimes.cn/page/202611/1374471.shtml">China, Canada agree to extend tariff exemptions for 2 years ...</a></li>
+<li><a href="https://www.chinadaily.com.cn/a/202611/17/WS6afc5d0ae4b03ebf8519cfc2.html">China, Canada agree to 2-year extension of exemptions under ...</a></li>
+<li><a href="https://en.sedaily.com/world/2026/11/05/china-canada-extend-tariff-exemptions-for-two-more-years">China, Canada Extend Tariff Exemptions for Two More Years</a></li>
+<li><a href="https://www.china-briefing.com/news/china-canada-relations-boosting-economic-dynamics-amid-challenges/">China - Canada Relations: Boosting Economic Ties Amid Challenges</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#Market Dynamics`, `#AI Chip Industry`, `#Regulatory Challenges`, `#A-share Market`
+**Tags**: `#Trade Policy`, `#Economic Cooperation`, `#China-Canada Relations`, `#Market Impact`, `#Regulatory Changes`
 
 ---
 
 <a id="item-cn-macro-10"></a>
-### [Impact of Strong US Dollar on Global Liquidity and Risk Assets](https://wallstreetcn.com/member/articles/3786020) ⭐️ 7.0/10
+### [Liyuanhong on AI Application and Market Impact](https://wallstreetcn.com/articles/3786105) ⭐️ 7.0/10
 
-The US dollar has reached a new high, pushing up interest rates and causing a significant impact on global liquidity. The 2-year US Treasury yield surged by 35 basis points, and the 10-year yield returned to a high of 5.15%. Risk assets, including gold and cryptocurrencies, have experienced substantial declines due to the strong dollar and high interest rates. The Federal Reserve&\#x27;s policy path, energy prices, AI capital expenditures, and geopolitical risks are key factors in current market pricing.
+Liyuanhong, the founder of Baidu, emphasizes the importance of AI application, stating that AI&\#x27;s value lies in its application layer. He highlights the need for real-world application scenarios to prevent AI from becoming a bubble, citing the example of autonomous driving and the need for efficient global resource matching in AI development.
 
-rss · 华尔街见闻 · Nov 17, 03:08
+rss · 华尔街见闻 · Nov 17, 11:21
 
-**「Background on the Impact of Strong US Dollar and High Interest Rates」** The current market conditions are influenced by the strong US dollar and high interest rates, which have been a result of the US Federal Reserve&\#x27;s policy path. The Federal Reserve&\#x27;s decisions on interest rates and monetary policy have significant implications for global liquidity and risk assets. The rise in the US dollar index and the increase in US bond yields have led to a tightening of financial conditions, affecting both risk assets and safe-haven assets. This situation has been further compounded by the expectations of further rate hikes by the Federal Reserve, which have been priced into the market.
+**「Background on AI Development and Market Impact」** The discussion on AI application and its potential impact on the market is rooted in the rapid advancements in AI technology over the past few years. AI has seen significant progress in areas such as chip technology, cloud computing, and large models. However, the real value of AI lies in its application layer, where it is integrated into real-world scenarios across various sectors. This perspective is particularly relevant in the context of the APEC Business Leaders Summit, where discussions on AI&\#x27;s practical application and its role in economic development are central. The emphasis on finding suitable application scenarios for AI is crucial to avoid the risk of AI becoming a bubble, as highlighted by Li Yanhong, the founder and CEO of Baidu.
 
-**「Impact」** The substantial tightening of financial conditions has led to a significant delay in the entry window for risk assets. The rise in interest rates and the strong dollar have increased the cost of borrowing for non-US entities and raised the risk of valuation compression and leverage reduction for assets that previously relied on low financing costs and high valuations.
+**「Impact on AI Industry and Market」** The low penetration of AI in application layers, as highlighted by Li Yanhong, poses a significant concern for the AI industry. This situation could lead to AI becoming a bubble if not addressed promptly. The lack of real-world application scenarios means that the potential value of AI technology may not be fully realized, impacting both investors and companies in the sector. Investors should be cautious about the long-term prospects of AI stocks, especially those that have not yet found effective application scenarios.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://roboforex.com/beginners/analytics/forex-forecast/forex-technical-analysis/technical-forecast-weekly-2026-11-16/">Weekly Forex Forecast 16–20 November 2026 : EURUSD... - RoboForex</a></li>
-<li><a href="https://www.investing.com/economic-calendar/interest-rate-decision-168">United States Federal Reserve Interest Rate Decision</a></li>
-<li><a href="https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm">Speech by Governor Barr on some potential... - Federal Reserve Board</a></li>
+<li><a href="https://finance.sina.com.cn/hy/hyjz/2026-11-17/doc-iniyyzyp7757484.shtml">李彦宏：AI的终极价值来自应用层_新浪财经_新浪网</a></li>
+<li><a href="https://www.ithome.com/1/028/225.htm">百度李彦宏警告 AI 泡沫风险：当前 AI 行业上层应用落地成效不及预期...</a></li>
+<li><a href="https://www.thepaper.cn/newsDetail_forward_34491819">李彦宏：AI在应用层渗透低于预期，不解决可能变成泡沫，这是今年最紧...</a></li>
+<li><a href="https://www.iim.net.cn/2295/view-462393-1.html">中国教育科技行业发展与 市 场 调查分析报告（ 2026 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#US Dollar`, `#Interest Rates`, `#Global Liquidity`, `#Risk Assets`, `#Federal Reserve Policy`
+**Tags**: `#AI Development`, `#Market Impact`, `#Technology Application`, `#Economic Insights`, `#Industry Trends`
 
 ---
 
 <a id="item-cn-macro-11"></a>
-### [Goldman Sachs Predicts AI Investment Boom to Peak](https://wallstreetcn.com/articles/3786075) ⭐️ 7.0/10
+### [East China Securities Merger with Dongwu Securities Approved](https://wallstreetcn.com/articles/3786103) ⭐️ 7.0/10
 
-Goldman Sachs predicts that the AI investment boom is nearing its peak, with potential significant impacts on financial markets but limited effects on the macroeconomy. The bank forecasts that AI investment will grow from $1.1 trillion in 2026 to $1.8 trillion in 2027, with the growth primarily driven by U.S. hardware spending over $500 billion. However, it warns that the peak of AI investment growth will have a greater impact on financial markets than on the economy.
+The Shanghai Stock Exchange&\#x27;s Mergers and Reorganization Committee has approved Dongwu Securities&\#x27; application to issue shares and pay cash to acquire 83.68% of East China Securities&\#x27; shares. This marks the first inter-city state-owned securities integration in Jiangsu province and the first such merger case in the country. The merger is expected to change the landscape of the securities industry in Jiangsu.
 
-rss · 华尔街见闻 · Nov 17, 03:07
+rss · 华尔街见闻 · Nov 17, 10:43
 
-**「Background on Goldman Sachs&\#x27; AI Investment Analysis」** Goldman Sachs has recently published a series of reports analyzing the AI investment landscape. These reports indicate that while AI investment is still expanding, its growth rate is expected to peak in the first half of 2027. This trend is expected to have limited impact on the macroeconomy but could pose a more significant challenge to financial markets. The reports highlight the increasing role of AI in driving market gains, with AI contributing 21% to U.S. GDP growth and 62% to S&amp;P 500 earnings growth. They also discuss the potential implications for various sectors, including a projected halving of U.S. corporate profit growth and the rise of credit spreads. Additionally, the reports suggest that bonds may regain their role as an effective hedge tool and that the dollar may weaken, with the yen becoming a preferred tool for hedging AI risks.
+**「Background on East China Securities&\#x27; Merger with Dongwu Securities」** The merger between East China Securities and Dongwu Securities is significant in the context of the Chinese A-share market and the securities industry in Jiangsu province. This is the first such merger within Jiangsu province involving cross-city state-owned securities firms, and it represents a major step in the integration of the securities industry in the region. The merger is expected to enhance the competitiveness of both firms and contribute to the overall development of the regional economy. Previous mergers in the securities industry have typically involved同城 integration or central enterprise-led acquisitions, making this case a notable exception.
 
-**「Impact」** The prediction suggests that AI-related stocks have incorporated a significant portion of the expected macro productivity gains into their valuations. Any downward revision in growth expectations could expose their vulnerability. Goldman Sachs advises investors to consider hedging strategies, particularly in the credit market, as AI-related debt financing may lead to wider credit spreads.
+**「Impact」** The merger is likely to enhance the competitiveness of Dongwu Securities, positioning it as the second-largest securities firm in Jiangsu province after Huatai Securities, with a total asset of over 3139.88 billion yuan. This could lead to increased market share and influence in the region for the merged entity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://247wallst.com/personal-finance/2026/10/27/goldman-sachs-says-investors-are-fleeing-ai-stocks-at-63-she-discovers-her-900000-401k-is-riding-the-same-trade/">Goldman Sachs Sees Investors De-Risking From AI ... - 24/7 Wall St.</a></li>
-<li><a href="https://www.thestreet.com/employment/goldman-sachs-american-ai-impact-jobs-employment-unemployment">Goldman Sachs sends strong wake-up call on American... - TheStreet</a></li>
-<li><a href="https://www.linkedin.com/posts/emily-nunez-71212b221_ai-contributed-basically-zero-to-the-us-activity-7434213439369228290-gai9">Goldman Sachs : AI &#x27;s Economic Impact Falls Short | LinkedIn</a></li>
+<li><a href="https://www.21jingji.com/article/20260302/herald/8749f8833d9be2b4c7b65ee55793925d.html">“苏超 证 券 ”要来了？ 今年首例 券 业 并 购 ， 东 吴 证 券 拟控股 东 海 证 券 - 21...</a></li>
+<li><a href="https://static.cdsb.com/micropub/Articles/202609/f6aaf6fe38679679a937530c7a0654d2.html">又一起 券 商 并 购 加速！ 东 吴 证 券 收 购 东 海 证 券 83.68%股份获 证 监会受理</a></li>
+<li><a href="https://finance.sina.cn/2026-03-14/detail-inhqxfkv3588564.d.html?vt=4&amp;wm=1184?p">整合方案出炉！ 东 吴 证 券 拟收 购 东 海 证 券 83%股权，下周一复牌</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Investment`, `#Market Analysis`, `#Economic Forecast`, `#Financial Markets`, `#Goldman Sachs`
+**Tags**: `#Securities Merger`, `#A-share Market`, `#Regulatory Announcement`, `#Market Landscape`, `#Jiangsu Province`
 
 ---
 
 <a id="item-cn-macro-12"></a>
-### [OpenAI&\#x27;s $5 Billion Offer for Goodfire Startup Highlights AI Interpretability Value](https://wallstreetcn.com/articles/3786072) ⭐️ 7.0/10
+### [Longxin Technology Reports on Continued Global DRAM Supply Shortages](https://wallstreetcn.com/livenews/3201246) ⭐️ 7.0/10
 
-OpenAI&\#x27;s offer to acquire Goodfire, a startup focusing on AI interpretability, for over $5 billion underscores the high value placed on AI security and interpretability in the AI sector. This offer, nearly four times Goodfire&\#x27;s valuation from February, reflects the increasing importance of AI safety and the ability to understand and control AI models.
+Longxin Technology reports that the global DRAM supply shortage has continued into the third quarter of 2026, driven by surging demand, particularly for AI applications. This has led to a significant increase in prices for DRAM products.
 
-rss · 华尔街见闻 · Nov 17, 02:44
+rss · 华尔街见闻 · Nov 17, 10:33
 
-**「Background on AI Interpretability and OpenAI&\#x27;s Acquisition Interest」** The focus on AI interpretability, as demonstrated by Goodfire&\#x27;s work, is a response to the growing need for understanding and controlling AI models. This need has been heightened by several security incidents involving AI models, such as those reported by OpenAI. These incidents have highlighted the importance of being able to interpret and control AI systems, leading to increased interest in companies like Goodfire that specialize in this area. Additionally, the rapid growth in Goodfire&\#x27;s valuation from its initial funding round to the point of OpenAI&\#x27;s offer reflects the market&\#x27;s recognition of the value of AI interpretability technology.
+**「Market Context for DRAM Supply Shortages」** The global DRAM supply shortage has been a significant market trend in recent years. This situation has been exacerbated by the rapid growth in AI demand, which has driven the storage market to expand rapidly. The increased demand for storage products that can efficiently execute AI workloads has created an unprecedented need for diversity and capacity in storage solutions. As a result, the global DRAM product supply has been unable to meet demand, leading to a substantial increase in prices. This trend has been particularly pronounced in 2026, with the supply shortage continuing into the first three quarters of the year.
 
-**「Impact on AI Sector」** The $5 billion offer from OpenAI for Goodfire underscores the growing importance of AI interpretability in the AI sector. This indicates a significant shift in the market&\#x27;s perception of the value of AI security and the need for understanding AI model behavior. Investors in AI companies should consider the increasing demand for AI interpretability technologies and the potential for companies specializing in this area to see substantial growth.
+**「Impact」** The continued supply shortage of DRAM products is expected to drive significant growth in the storage market, benefiting companies like Longxin Technology that are able to meet the increased demand for high-capacity and diverse storage products for AI workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://axis-intelligence.com/openai-security-data-breach-review/">OpenAI Security Data Breach: Every Incident Documented (2023 ...</a></li>
-<li><a href="https://wald.ai/blog/chatgpt-data-leaks-and-security-incidents-20232024-a-comprehensive-overview">ChatGPT Data Leaks and Security Incidents (2023-2026) - wald.ai</a></li>
-<li><a href="https://vorplabs.com/ai-threat-monitoring/companies/openai">OpenAI Security Incidents &amp; Regulatory Record 2023–2026 ...</a></li>
-<li><a href="https://www.goodfire.com/research">Latest research - Goodfire</a></li>
-<li><a href="https://www.goodfire.com/">Goodfire | AI Interpretability Research Lab</a></li>
-<li><a href="https://www.mindstudio.ai/blog/goodfire-ai-interpretability-research">Goodfire&#x27;s AI Interpretability Research: Why It Matters for ...</a></li>
+<li><a href="https://stock.10jqka.com.cn/20260828/c679409300.shtml">长鑫科技：下半年 全 球 DRAM 产 品 供 给 紧 缺 格局仍将持续 | 同花顺财经</a></li>
+<li><a href="https://news.qq.com/rain/a/20260828V0BBX100">长鑫科技上半年业绩 净利润776.05亿，同比扭亏为盈， 全 球 DRAM ...</a></li>
+<li><a href="https://m.ithome.com/html/999393.htm">长鑫科技黄丹阳：展望 2026 年下半年， 全 球 DRAM ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Interpretability`, `#OpenAI`, `#Startup Acquisition`, `#Market Value`, `#AI Security`
+**Tags**: `#Market Trends`, `#DRAM Supply`, `#AI Demand`, `#Longxin Technology`, `#Economic Analysis`
 
 ---
 
 <a id="item-cn-macro-13"></a>
-### [NVIDIA CEO Departure Impacts New Cloud Industry Financing](https://wallstreetcn.com/articles/3786063) ⭐️ 7.0/10
+### [Xpeng&\#x27;s Revenue Growth and Overseas Expansion Plans](https://wallstreetcn.com/articles/3786102) ⭐️ 7.0/10
 
-The departure of NVIDIA&\#x27;s CEO, Jensen Huang, has led to a shake-up in the new cloud industry, affecting the financing of new cloud companies and market sentiment. This follows a decline in new cloud service companies&\#x27; stocks and an increase in bond yields, indicating financial strain. The impact is magnified by the industry&\#x27;s heavy debt burden and the tightening of credit support from key players like NVIDIA.
+Xpeng reported a 19.1% year-on-year increase in revenue to 24.28 billion yuan in the third quarter, with a net loss of 870 million yuan, narrower than the previous quarter. The company expects its overseas sales to exceed 100,000 vehicles this year, doubling next year, with higher profit margins in overseas markets compared to domestic ones.
 
-rss · 华尔街见闻 · Nov 17, 02:15
+rss · 华尔街见闻 · Nov 17, 10:32
 
-**「Background on the Departure of Jensen Huang and Its Impact on the Cloud Industry」** Jensen Huang, the CEO of NVIDIA, resigned, which has sent shockwaves through the new cloud industry. This industry has been facing challenges, including heavy debt burdens and delays in project progress. Huang&\#x27;s departure comes at a time when the industry is already under pressure, with the incoming Democratic Congress in the US emphasizing restrictions on data center construction. Huang&\#x27;s tenure at NVIDIA involved systematically injecting financial resources into the new cloud ecosystem, creating a complex network of financial support. His departure may lead to a tightening of credit support for new cloud companies, as many data center operators are already tightening capacity leases for these companies. This situation is further compounded by the fact that NVIDIA has started to gradually tighten its financing tap, with each new transaction now requiring approval from the management team and the board.
+**「Background on Xpeng&\#x27;s Financial Performance and Expansion Plans」** Xpeng, a major player in the Chinese automotive market, has been experiencing significant revenue growth. The company reported a third-quarter revenue of 242.8 billion yuan, a 19.1% increase year-on-year, with a net loss of 8.7 billion yuan, an expansion from the previous quarter but a narrowing of 35.1% compared to the second quarter. This performance deviated from market expectations, with higher revenue and a smaller loss than anticipated. Xpeng has outlined aggressive overseas expansion plans, aiming to double its overseas sales in the next year, with a focus on markets like Australia, the UK, and Europe. The company&\#x27;s financial performance and expansion strategies are crucial for understanding the current state of China&\#x27;s economy and stock market.
 
-**「Impact on New Cloud Companies」** The departure of Jensen Huang, CEO of NVIDIA, has led to a significant impact on new cloud companies. These companies, already burdened with heavy debt and project delays, are now facing increased challenges in securing financing. The reduction in NVIDIA&\#x27;s credit support and担保 for new cloud companies has led to a tightening of credit conditions, making it more difficult for these companies to secure leases and loans. This situation has resulted in a negative chain reaction in the market, with some new cloud companies experiencing significant stock declines and increased credit risk.
+**「Impact on Investors and Companies」** The aggressive overseas expansion plans of Xpeng, including the launch of the MONA L03, are expected to significantly boost the company&\#x27;s revenue and profitability. This could positively impact investors by increasing the stock price of Xpeng. However, it also raises concerns about the company&\#x27;s ability to manage increased expenses related to new product launches and overseas expansion, which could put pressure on profitability in the short term.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.gate.com/blog/nvidia-after-jensen-huang-impact-on-nvda-stock">NVIDIA After Jensen Huang : What Could It Mean for... | Gate Blog</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo">Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen ...</a></li>
-<li><a href="https://en.as.com/latest_news/tied-by-their-shared-fortune-how-jensen-and-lori-huang-keep-major-nvidia-power-and-cant-easily-sell-stock-after-his-affair-driven-exit-f202611-n/">Tied by their shared fortune: How Jensen and Lori Huang keep major...</a></li>
-<li><a href="https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html">Is Jensen Huang Plotting a Comeback? - The New York Times</a></li>
-<li><a href="https://www.techmeme.com/261113/p9">Source: at an August 2026 finance meeting, Jensen Huang ...</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo">Trump backs calls for reinstatement of Jensen Huang ... | The Guardian</a></li>
-<li><a href="https://www.gate.com/blog/nvidia-after-jensen-huang-impact-on-nvda-stock">NVIDIA After Jensen Huang : What Could It Mean for... | Gate Blog</a></li>
-<li><a href="https://www.huffpost.com/entry/jensen-huang-steps-down-nvidia_n_6af5c608e4b06534290580f1">Nvidia CEO Jensen Huang Resigns In Blow To... | HuffPost Latest News</a></li>
-<li><a href="https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html">Is Jensen Huang Plotting a Comeback? - The New York Times</a></li>
+<li><a href="https://post.smzdm.com/p/adon600z/">小 鹏 汽 车 海 外 扩 张 是否损害国内 车 主权益？ 159+...</a></li>
+<li><a href="https://www.163.com/dy/article/J2GDNO9F0550B1DU.html">163.com/dy/article/J2GDNO9F0550B1DU.html</a></li>
+<li><a href="https://www.52by.com/article/185190">小 鹏 汽 车 欧洲布局，新能源 汽 车 出 海 ：ODI...</a></li>
+<li><a href="https://quote.eastmoney.com/us/XPEV.html">小鹏集团 (XPEV)最新价格_行情_走势图—东方财富网</a></li>
+<li><a href="https://xueqiu.com/S/XPEV">小鹏集团 (XPEV) 股票股价_股价行情_财报_数据报告 - 雪球</a></li>
+<li><a href="https://cn.investing.com/equities/xpeng-inc-chart">小鹏汽车(XPEV)股票走势图_今日行情走势实时分析_英为财情Investing.c...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Technology`, `#Market News`, `#Economic Impact`, `#Cloud Computing`
+**Tags**: `#Xpeng`, `#Automotive Industry`, `#Chinese Stock Market`, `#Economic Growth`, `#Market Strategy`
 
 ---
 
 <a id="item-cn-macro-14"></a>
-### [Morgan Stanley&\#x27;s Economic Forecast and Market Strategy for 2027](https://wallstreetcn.com/articles/3786068) ⭐️ 7.0/10
+### [Pangdonglai&\#x27;s Sales Growth and Profit Distribution Strategies](https://wallstreetcn.com/articles/3786100) ⭐️ 7.0/10
 
-Morgan Stanley&\#x27;s global cross-asset strategy chief, Serena Tang, has emphasized the importance of risk assets and adjusted asset allocations for 2027. She notes that risk asset valuations have generally decreased over the past six months, while macro fundamentals remain resilient. The firm has increased its global stock allocation to +15% relative to the benchmark, while reducing allocations to high-yield bonds, commodities, and cash. Tang also predicts that AI capital expenditures will reach approximately $1.5 trillion in 2027, with $900 billion in related financing expected.
+Pangdonglai, a notable retail company in China, has seen its sales surge by 26.34% year-on-year to 258.42 billion yuan by November 15, 2026, surpassing the full-year sales of 235.31 billion yuan in 2025. The company has not opened any new stores this year, maintaining a total of 14 stores, with growth driven by major stores in mature regions. The company&\#x27;s profit distribution strategy includes significant rewards for employees, which may impact its profitability in the long term.
 
-rss · 华尔街见闻 · Nov 17, 01:42
+rss · 华尔街见闻 · Nov 17, 10:19
 
-**「Morgan Stanley&\#x27;s Market Analysis and Economic Forecasts」** Morgan Stanley&\#x27;s global cross-asset strategy chief, Serena Tang, has provided insights on market trends, AI capital expenditures, and economic forecasts for 2027. The analysis highlights the importance of risk assets and adjusting asset allocations accordingly. The report indicates that major risk catalysts have passed, and risk assets have become more affordable over the past six months. It also discusses the expected economic growth, inflation pressures, and monetary policy changes in 2027.
+**「Background on Pangdonglai and its Retail Strategy」** Pangdonglai, founded in 1995 by Yu Donglai, is a well-known retail corporation in China, operating a chain of malls and grocery stores. The company is recognized for its exceptional customer service and emphasis on work-life balance for its employees. Historically, Pangdonglai has focused on strategic expansion and cost management, which has been a key factor in its growth and profitability. This includes a unique approach to profit distribution and employee welfare, which has become a hallmark of the company&\#x27;s business strategy.
 
-**「Impact on Investors and Sectors」** Investors in global stocks should consider increasing their exposure, as Morgan Stanley&\#x27;s report suggests a positive outlook for risk assets. The firm&\#x27;s decision to top-up global stock allocations by 15% indicates a strong belief in the market&\#x27;s potential. This could benefit sectors like technology and finance, which are expected to see increased investment due to AI capital expenditures. However, investors should also be cautious about inflationary pressures and the potential for interest rate hikes, which could impact bond markets and high-yield debt.
+**「Impact on Investors and Retail Sector」** The significant sales growth and profit distribution strategies of Pange Liangdai, along with its cautious expansion and cost management, present a unique model for investors to consider in the retail sector. The company&\#x27;s focus on employee welfare and non-participation in price wars could lead to higher operational costs but also foster customer loyalty and retention, potentially affecting the overall profitability and growth prospects of the retail sector. Investors should monitor the company&\#x27;s ability to maintain its profit margins and expand successfully in new markets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ainvest.com/news/morgan-stanley-maximum-overweight-call-rests-13-8-earnings-growth-2611/">Morgan Stanley&#x27;s &quot;Maximum Overweight&quot; Call Rests on 13.8% ...</a></li>
-<li><a href="https://thedarksideoftheboom.substack.com/p/morgan-stanleys-2027-stock-call-heads">Morgan Stanley’s 2027 Stock Call: Heads You Win at 8,700 ...</a></li>
-<li><a href="https://podcasts.apple.com/ca/podcast/thoughts-on-the-market/id1466686717">Thoughts on the Market - Podcast - Apple Podcasts Cross-Asset Strategy: Thoughts on the Market | Morgan Stanley Why Morgan Stanley says it&#x27;s time to go &#x27;max&#x27; overweight on ... What Goldman Sachs and Morgan Stanley expect for markets in 2027 Investors’ Focus Shifts to Rates and AI | Morgan Stanley</a></li>
-<li><a href="https://globalinsightwire.com/global-growth-what-2027-economic-forecasts-reveal/">2027 Global Economic Forecasts: What to Expect</a></li>
-<li><a href="https://tradingeconomics.com/forecast/inflation-rate">Inflation Rate Forecast 2026/ 2027</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pangdonglai">Pangdonglai - Wikipedia</a></li>
+<li><a href="https://www.forexfactory.com/?*">Forex Factory | Global markets for the smart money.</a></li>
+<li><a href="https://iide.co/case-studies/marketing-strategy-of-tanishq/">Tanishq Marketing Strategy Case Study 2026 | Branding, Digital...</a></li>
+<li><a href="https://cryptobubbles.net/">Crypto Bubbles – Live Crypto Heatmap, Prices &amp; Market Cap</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Economic Forecast`, `#Market Trends`, `#AI Capital Expenditure`, `#Asset Allocation`, `#Morgan Stanley`
+**Tags**: `#Retail`, `#Economic Growth`, `#A-share Market`, `#Company Strategy`, `#Profit Distribution`
 
 ---
 
 <a id="item-cn-macro-15"></a>
-### [Anthropic IPO: Key Event for AI Industry and Stock Market](https://wallstreetcn.com/articles/3786067) ⭐️ 7.0/10
+### [Warren Buffett&\#x27;s $5.5 Billion Stock Donation](https://wallstreetcn.com/articles/3786089) ⭐️ 7.0/10
 
-Anthropic&\#x27;s IPO is expected to be one of the largest in history, with strong market demand. Its valuation and stock performance will be crucial in validating the AI industry and cloud computing investment logic. However, concerns remain about Anthropic&\#x27;s profitability and the potential conflict between safety priorities and shareholder demands.
+Warren Buffett donated approximately $5.5 billion in Berkshire Hathaway stocks to his family foundations, marking a significant increase from last year&\#x27;s donation of $1.35 billion. This donation is part of his accelerated wealth distribution plan, aiming to allocate over $160 billion to charitable causes by 2034.
 
-rss · 华尔街见闻 · Nov 17, 01:11
+rss · 华尔街见闻 · Nov 17, 08:04
 
-**「Background on Anthropic&\#x27;s IPO and its Implications」** Anthropic, a key AI developer, is set to complete its IPO, which is expected to be one of the largest in history. This event is significant as it represents a real market test for investor enthusiasm in AI. The company&\#x27;s valuation and stock performance will have implications for the stock market and economic outlook. Anthropic&\#x27;s IPO is unique as it provides a first-of-its-kind public market valuation for a U.S. leading AI developer, independent of other non-related businesses. The involvement of Alphabet, Amazon, and Microsoft as investors, clients, and cloud computing providers adds complexity and importance to the IPO&\#x27;s pricing outcome. Despite the high growth rate in revenue, questions about profitability remain, as the company experienced a shift from profit to loss in recent quarters. The IPO&\#x27;s success could potentially reinforce market confidence in AI growth and technology infrastructure investments.
+**「Warren Buffett&\#x27;s Philanthropic Activities and Berkshire Hathaway&\#x27;s Performance」** Warren Buffett, the renowned investor, has been actively involved in philanthropy, particularly through his wealth distribution plan. He has pledged to donate a significant portion of his wealth to charitable causes. This commitment is reflected in his recent donation of $5.5 billion in stocks to family foundations, marking an acceleration in his wealth distribution strategy. Additionally, Berkshire Hathaway, the company Buffett has led for decades, has seen strong performance in the stock market, with its shares rising over 19% year-to-date, outperforming the S&amp;P 500 index. This success has been a testament to Buffett&\#x27;s investment acumen and the company&\#x27;s robust business model.
 
-**「Impact on AI Investment and Tech Sector」** The IPO of Anthropic, a key AI developer, is expected to have a significant impact on the AI investment landscape and the technology sector. A successful valuation and strong stock performance could reinforce market confidence in AI investments and technology infrastructure spending, potentially leading to a new cycle of investment in the sector. However, the company&\#x27;s profitability concerns and the potential conflict between its &\#x27;safety-first&\#x27; principle and shareholder demands could pose challenges. This situation is particularly relevant given the cautious sentiment in the tech stock market and the ongoing concerns about companies like Nvidia.
+**「Impact」** The donation reflects Buffett&\#x27;s commitment to philanthropy and may influence investor perceptions of Berkshire Hathaway&\#x27;s long-term strategy. It could also prompt discussions on wealth distribution and corporate social responsibility.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.fool.com/investing/2026/09/19/anthropic-ipo-coming-what-means-sp-500/">Anthropic&#x27;s IPO Is Coming. Here&#x27;s What That Means for S&amp;P 500 ...</a></li>
-<li><a href="https://www.businessinsider.com/anthropic-stock-ant-ipo-trillion-valuation-market-risk-2026-10">Anthropic Stock: Why Massive IPO Sparks Fears of Market ...</a></li>
-<li><a href="https://www.finanzaseconomia.com/en/anthropic-ipo-2026-impact/">Anthropic IPO in 2026 and Its Impact on Your Pocket</a></li>
-<li><a href="https://blofin.com/en/academy/education/what-is-anthropic-ipo">Anthropic IPO : What to Know Before the $1 Trillion AI Safety... | BloFin</a></li>
-<li><a href="https://www.businessinsider.com/big-short-michael-burry-anthropic-ipo-filing-ai-claude-tokens-2026-10">Burry: Anthropic IPO Filing Shows AI Is... - Business Insider</a></li>
-<li><a href="https://firstpagesage.com/seo-blog/anthropic-profitability-analysis-statistics/">Anthropic Profitability Analysis &amp; Statistics: 2026 Report</a></li>
-<li><a href="https://corpdigest.com/company/anthropic/financials">Anthropic Revenue Breakdown &amp; Financial Statements (2026)</a></li>
-<li><a href="https://www.indmoney.com/blog/us-stocks/anthropic-ipo-42-billion-loss-explained">Anthropic IPO: Why It Lost $42B on just a $4.6B Revenue</a></li>
+<li><a href="https://impactwealth.org/warren-buffett-philanthropy-2024-making-a-difference-with-impact-values-and-compassion/">Warren Buffett Philanthropy 2024: Making a Difference with ...</a></li>
+<li><a href="https://acquirersmultiple.com/2025/06/warren-buffetts-philanthropic-legacy-and-the-power-of-strategic-giving/">Warren Buffett’s Philanthropic Legacy and the Power of ...</a></li>
+<li><a href="https://apnews.com/article/warren-buffett-berkshire-hathaway-thanksgiving-philanthropy-87fdbf321cffc98ecb9b1f7242ba2437">Buffett donates $5.5B in Berkshire shares to family ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI IPO`, `#Stock Market`, `#Economic Outlook`, `#Anthropic`, `#Technology`
+**Tags**: `#Warren Buffett`, `#Philanthropy`, `#Berkshire Hathaway`, `#Stock Market`, `#Wealth Distribution`
 
 ---
 
 <a id="item-cn-macro-16"></a>
-### [US Inflation and Employment Data Impact on Federal Reserve Policy](https://wallstreetcn.com/member/articles/3785727) ⭐️ 7.0/10
+### [Chinese Economy Stable and Improving in First Ten Months](https://news.google.com/rss/articles/CBMid0FVX3lxTE91MnBva0FueXBtN3lnaHF3OVY3dEFYTTl3Q3hmOENqcXAzZDR3ZVgyS3RUSk1HNktQXzJFbEhlWlFTdzAxcGsxVnJ2U3RoZDhMVGptdGJYUUsyYzU0alkxdE5wbUxDaGxzZkUxUzAtdU5CSUhBdHFR?oc=5) ⭐️ 7.0/10
 
-The US saw unexpected inflation and strong employment data in October, with the overall CPI rising 0.4% and core CPI rising 0.30% above expectations. The strong non-farm employment data, with 16.5 thousand jobs added, surpassing the market&\#x27;s expectation of 70 thousand, and the unemployment rate dropping to 4.14%, has led to increased market expectations for a significant policy response from the Federal Reserve, potentially including a 50bp rate hike in December.
+The first ten months of data indicate that the Chinese economy is stable and improving, according to a summary by Xinhua News. This is significant for readers tracking China&\#x27;s economy and stock market.
 
-rss · 华尔街见闻 · Nov 17, 00:11
+google\_news · 新华网 · Nov 17, 06:20
 
-**「Prior Economic Data and Policy Stance」** The unexpected rise in inflation and strong employment data in the US have been a concern for the Federal Reserve. The October CPI data showed a higher than expected increase in both overall and core CPI, indicating persistent inflationary pressures. Additionally, the robust non-farm employment data, with job additions exceeding market expectations, further emphasized the need for the Federal Reserve to consider tighter monetary policy. This context has led to discussions about the possibility of a significant policy response, including the potential for a 50bp rate increase in December.
+**「Historical Economic Performance and Policy Stance」** The Chinese economy has been experiencing a period of stability and improvement, as indicated by the data from the first ten months of the year. This trend is in line with the government&\#x27;s policy stance, which has been focused on fostering new economic drivers and promoting structural reforms. In the past, the Chinese economy has shown resilience in the face of both domestic and international challenges, with a particular emphasis on the development of high-tech industries and the integration of new technologies into various sectors. These efforts have been supported by policies aimed at stimulating innovation and investment in emerging industries.
 
-**「Impact」** The unexpected inflation and robust employment figures have put the Federal Reserve under significant pressure to tighten monetary policy. This has led to a rapid increase in market pricing for a rate hike, with a 50bp hike in December becoming a more likely scenario.
+**「Impact」** The stability and improvement in the Chinese economy could lead to increased investor confidence, particularly in sectors closely tied to domestic consumption and infrastructure development.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.federalreserve.gov/">The Federal Reserve Board of Governors in Washington DC.</a></li>
-<li><a href="https://digg.com/world-business/9dt42dp2">Federal Reserve reportedly holds interest rates at 3.75% to 4.00...</a></li>
-<li><a href="https://www.cnbc.com/federal-reserve/">Latest news and headlines related to the Federal Reserve .</a></li>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-11-17/doc-inizacmz7483738.shtml">毕马威发布四季度中国经济观察：增长动能边际企稳，AI产业成关键驱动...</a></li>
+<li><a href="http://www1.xinhuanet.com/20261116/d5a1be6fd06e4c7686aaba28f8e41382/c.html">权威解读｜从前10个月数据看中国经济向新向优-新华网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Inflation`, `#Employment Data`, `#Federal Reserve Policy`, `#Market Expectations`
+**Tags**: `#Chinese economy`, `#economic performance`, `#Xinhua News`, `#macroeconomic trends`, `#stock market`
 
 ---
 
 <a id="item-cn-macro-17"></a>
-### [China&\#x27;s MIIT Approves 6G Innovation Pilot Program in 8 Provinces and Municipalities](https://www.cls.cn/detail/2536513) ⭐️ 7.0/10
+### [KPMG Identifies AI Industry as Key Driver of China&\#x27;s Economic Recovery](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoakE3NEhsVUsyc3ItOFBKTEx4UWRjS1ByNzNwdUV6SGdGejZubW9qb0t1M3h3RTdpc2lrOXZzQldUX1lHcGFtdXZPbUlTTVJwSVItSmtVeVBNb1dJY2JTRF93?oc=5) ⭐️ 7.0/10
 
-The Ministry of Industry and Information Technology \(MIIT\) has approved a 6G innovation pilot program in eight Chinese provinces and municipalities, including Beijing, Hebei, Shanghai, Jiangsu, Zhejiang, Anhui, Hubei, and Guangdong. The program aims to facilitate the development and commercial application of 6G technology, with enterprises required to obtain relevant telecommunications business licenses before engaging in commercial exploration.
+KPMG has identified the AI industry as a key driver of China&\#x27;s economic recovery in the third quarter. This development signifies a shift in focus within the Chinese economy, highlighting the growing importance of AI in the nation&\#x27;s economic landscape.
 
-rss · 财联社电报 · Nov 17, 07:10
+google\_news · 观点网 · Nov 17, 12:37
 
-**「Background on 6G Technology and its Potential Impact」** The development of 6G technology is a significant step forward in the telecommunications industry, expected to bring transformative changes across various sectors. 6G technology is anticipated to offer advancements in communication capabilities, data processing, and network management, potentially revolutionizing fields such as AI, industrial automation, IoT, immersive applications, and edge computing. As of now, the transition from 5G to 6G is expected to drive transformative changes, and the potential of 6G in enhancing global connectivity has become increasingly apparent. This background information provides context for understanding the significance of the Ministry of Industry and Information Technology&\#x27;s decision to initiate a 6G innovation pilot program in eight provinces and municipalities in China.
+**「Background on China&\#x27;s AI Industry Growth」** The AI industry in China has been experiencing rapid development, with the core AI industry reaching 580 billion yuan \($80.23 billion\) in 2023, marking an 18 percent year-on-year increase. This growth is evident across various sectors, including cars, phones, and hospitals, as Chinese companies integrate AI technologies into their products and services. This surge in AI adoption is part of a broader economic shift, as China seeks to sustain growth through a new industrial revolution and demand-centric reflation.
 
-**「Impact」** This initiative is expected to significantly boost the technology sector in China, potentially leading to increased investments and advancements in 6G technology. Investors in the technology sector may see this as an opportunity for growth, particularly in companies involved in 6G research and development.
+**「Impact」** The rise of the AI industry as a key driver of economic recovery suggests a potential boost for technology and innovation sectors in China. Investors may consider increasing their exposure to AI-related stocks, while also keeping an eye on the broader implications for the Chinese economy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://appinventiv.com/blog/6g-technology-transforming-enterprises/">6G Technology: Trends, Benefits and Enterprise Use Cases</a></li>
-<li><a href="https://spectrum.ieee.org/examining-the-impact-of-6g-telecommunications-on-society">Examining the Impact of 6G Telecommunications on Society</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S1389128625006309">Navigating the 6G landscape: A systematic review of ...</a></li>
+<li><a href="https://www.globaltimes.cn/page/202403/1309421.shtml">China ’ s Moonshot AI fuels domestic large model app... - Global Times</a></li>
+<li><a href="https://restofworld.org/2025/china-embeds-deepseek-ai-in-everything/">China embeds DeepSeek AI in everything from cars to... - Rest of World</a></li>
+<li><a href="https://www.scmp.com/economy/china-economy/article/3371109/robin-xing-how-chinas-two-speed-economy-can-solve-contrasting-problems">Open Questions | Robin Xing on how China ’ s ‘two-speed’ economy ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#6G Technology`, `#Policy Announcement`, `#Technology Sector`, `#Stock Market`, `#Regulatory Reform`
+**Tags**: `#AI Industry`, `#Chinese Economy`, `#Economic Recovery`, `#KPMG`, `#Economic Development`
 
 ---
 
 ## Global Market
 
 <a id="item-global-market-1"></a>
-### [China Highlights Groundbreaking Significance of Xi-Putin-Trump Meeting](https://reut.rs/3Xc5gH3) ⭐️ 9.0/10
-
-China has emphasized the &\#x27;groundbreaking significance&\#x27; of the meeting between Xi Jinping, Vladimir Putin, and Donald Trump, indicating a major event with the potential to reprice global assets.
-
-rss · 路透社 Reuters · Nov 16, 08:31
-
-**「Historical Context of Xi-Putin-Trump Meeting」** The meeting between Chinese President Xi Jinping, Russian President Vladimir Putin, and former US President Donald Trump is a significant event in international relations. It marks the first three-way summit of these leaders, with previous interactions including a visit by Putin to Alaska in August 2025 and multiple bilateral meetings between Xi and Trump. This gathering is unprecedented, bringing together the leaders of three major world powers, and is expected to have a substantial impact on global geopolitical dynamics and financial markets.
-
-**「Impact」** The meeting is likely to have a concrete impact on global financial markets, potentially leading to significant revaluation of global assets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html">China confirms Xi - Trump - Putin meeting in first three-way summit</a></li>
-<li><a href="https://www.youtube.com/watch?v=RIPV_rDM8Gg">HISTORIC MEETING : Trump to meet with both Xi &amp; Putin - YouTube</a></li>
-<li><a href="https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1">Yalta 2.0? Trump , Xi and Putin lead Asia’s week of high-stakes...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Geopolitical Events`, `#Global Financial Markets`, `#Leadership Meeting`, `#International Relations`, `#Central Banks`
-
----
-
-<a id="item-global-market-2"></a>
 ### [Fed Chairman Kevin Warsh on AI&\#x27;s Economic Impact](https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html) ⭐️ 7.0/10
 
-Federal Reserve Chairman Kevin Warsh emphasized the significant economic impact of artificial intelligence \(AI\), acknowledging its potential to boost productivity and economic growth while cautioning about the risks of job displacement and economic slowdowns. He highlighted three scenarios: AI-driven productivity gains, job displacement through automation, and the possibility of AI failing to meet expectations, potentially leading to economic downturns.
+Federal Reserve Chairman Kevin Warsh highlighted the potential economic benefits of artificial intelligence \(AI\), warning that it could also lead to job losses or fail to meet expectations. He emphasized AI&\#x27;s significant impact on the economy and its implications for monetary policy, noting the potential for productivity gains and job displacement through automation.
 
 rss · CNBC Finance · Nov 16, 18:46
 
-**「Background on Kevin Warsh and the Federal Reserve&\#x27;s Stance on AI」** Kevin Warsh, the 17th chair of the Federal Reserve and a member of the Federal Reserve Board of Governors since 2026, has been emphasizing the importance of AI and its potential impact on the economy. Warsh&\#x27;s focus on AI has been consistent since he took office, highlighting its potential to improve productivity and act as a disinflationary force. The Federal Reserve&\#x27;s examination of AI&\#x27;s role in the economy is part of a broader discussion on productivity and employment, reflecting the central bank&\#x27;s interest in the long-term economic implications of technological advancements. This stance aligns with the broader trend of central banks worldwide considering the impact of emerging technologies on monetary policy and economic stability.
+**「Background on Kevin Warsh and the Federal Reserve&\#x27;s Focus on AI」** Kevin Warsh, the 17th chair of the Federal Reserve, has been emphasizing the importance of artificial intelligence \(AI\) since taking office. Warsh, who served as a member of the Federal Reserve Board of Governors from 2006 to 2011 and again since 2026, has highlighted AI&\#x27;s potential to improve productivity and act as a disinflationary force on the economy. The Federal Reserve&\#x27;s focus on AI is part of a broader examination of productivity and employment, reflecting the growing recognition of AI&\#x27;s impact on economic life and society. This focus is consistent with the Federal Reserve&\#x27;s role in monitoring and influencing economic trends and policies.
 
-**「Market Impact」** The emphasis on AI&\#x27;s potential economic impact by Fed Chairman Kevin Warsh could lead to increased investment in AI technologies, driving stock market valuations higher. However, the risk of job displacement and economic slowdowns due to AI&\#x27;s failure to meet expectations could also lead to a notable rise in unemployment and a potential economic downturn.
+**「Market Impact」** The emphasis on AI&\#x27;s potential economic benefits and risks by Federal Reserve Chairman Kevin Warsh could lead to increased investment in AI technologies. This could drive stock market valuations higher and encourage companies to raise capital for competition, potentially leading to economic growth and job creation. However, the risk of AI failing to meet expectations or causing widespread job losses through automation could result in economic slowdowns and increased unemployment, negatively impacting equity valuations.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Kevin_Warsh">Kevin Warsh - Wikipedia</a></li>
 <li><a href="https://www.federalreserve.gov/aboutthefed/bios/board/warsh.htm">Federal Reserve Board - Kevin Warsh, Chairman</a></li>
-<li><a href="https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html">Fed Chairman Kevin Warsh stresses importance of AI to economy ...</a></li>
+<li><a href="https://www.cbre.com/insights/reports/ais-impact-on-the-economy-employment-and-productivity">AI’s Impact on the Economy, Employment &amp; Productivity - CBRE</a></li>
+<li><a href="https://www.bls.gov/emp/factsheets/ai-impacts.htm">Artificial Intelligence (AI) impacts on employment projections</a></li>
+<li><a href="https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs">Evaluating the Impact of AI on the Labor Market: Current ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI in Economy`, `#Federal Reserve`, `#Economic Trends`, `#Job Displacement`, `#Productivity`
+**Tags**: `#Artificial Intelligence`, `#Economic Policy`, `#Monetary Policy`, `#Productivity`, `#Employment`
 
 ---
 
-<a id="item-global-market-3"></a>
+<a id="item-global-market-2"></a>
 ### [U.S. Crude Oil Price Decline](https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html) ⭐️ 7.0/10
 
-U.S. crude oil prices fell to $85 a barrel as Middle East exports recover and Russia&\#x27;s production increases. Brent crude dropped 3.55% to $92.44 per barrel, while West Texas Intermediate crude futures settled down 3.58% to $85.39 a barrel. The International Energy Agency expects global supply to exceed 1.7 million barrels a day in the fourth quarter of 2026, reversing its earlier forecast for a deficit.
+U.S. crude oil prices fell to $85 a barrel on Monday, driven by the recovery of Middle East exports and increased Russian production. Brent crude dropped 3.55% to $92.44 per barrel, while West Texas Intermediate crude futures settled down 3.58% to $85.39 a barrel. The International Energy Agency \(IEA\) expects global supply to exceed 1.7 million barrels a day in the fourth quarter of 2026, reversing its earlier forecast for a deficit.
 
 rss · CNBC Finance · Nov 16, 22:19
 
-**「Market Context」** The decline in crude oil prices is attributed to the recovery of Middle East exports and the increase in Russia&\#x27;s crude oil production. The International Energy Agency \(IEA\) reported that global supply is expected to exceed 1.7 million barrels a day in the fourth quarter of 2026, reversing its earlier forecast for a deficit. This is due to the faster recovery of Middle East exports than global demand and ongoing shipping attacks. Additionally, Russia&\#x27;s crude oil production surged to 8.73 million barrels a day in October, marking a significant increase. Goldman Sachs has projected that Brent crude will average $88 a barrel in 2027 and fall to $78 by December 2027 as the market returns to a surplus.
+**「Market Context」** The decline in crude oil prices is attributed to the recovery of Middle East exports and the increase in Russia&\#x27;s oil production. The International Energy Agency \(IEA\) reported that global supply is expected to exceed 1.7 million barrels a day in the fourth quarter of 2026, reversing its earlier forecast for a deficit. This is due to the faster recovery of Middle East exports than global demand, despite ongoing shipping attacks. Additionally, Russia&\#x27;s crude oil production surged to 8.73 million barrels a day in October, marking a significant increase. Goldman Sachs has forecasted that Brent crude will average $88 a barrel in 2027 and fall to $78 by December 2027, as the market moves towards a surplus.
 
-**「Market Impact」** The decline in crude oil prices is expected to put downward pressure on energy-related stocks and could lead to a reduction in inflationary pressures globally. This is due to the increased supply from the Middle East and Russia, which is expected to exceed global demand, according to the International Energy Agency and Goldman Sachs.
+**「Impact」** The decline in crude oil prices is expected to impact global financial markets, particularly in the energy sector, as the market returns to a surplus due to the increased supply from the Middle East and Russia.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.iea.org/reports/oil-market-report-october-2026">Oil Market Report - October 2026 - IEA</a></li>
-<li><a href="https://www.iea.org/reports/oil-market-report-june-2026">Oil Market Report - June 2026 - IEA</a></li>
 <li><a href="https://gulfnews.com/business/energy/246-million-barrels-of-oil-per-day-mid-east-oil-finds-a-way-around-war-but-fuel-supplies-still-lag-1.500718415">Middle East Oil Exports Surge to 24.6 Million Barrels Daily ...</a></li>
-<li><a href="https://www.globalfirepower.com/oil-production-by-country.php">Crude Oil Production by Country ( 2026 )</a></li>
-<li><a href="https://worldpopulationreview.com/country-rankings/oil-production-by-country">Oil Production by Country 2026</a></li>
-<li><a href="https://investingnews.com/daily/resource-investing/energy-investing/oil-and-gas-investing/top-oil-producing-countries/">10 Top Oil - producing Countries | INN</a></li>
-<li><a href="https://www.iea.org/reports/oil-market-report-september-2026">Oil Market Report - September 2026 - IEA</a></li>
-<li><a href="https://www.iea.org/reports/oil-market-report-october-2026">Oil Market Report - October 2026 - IEA</a></li>
-<li><a href="https://www.goldmansachs.com/insights/articles/will-oil-prices-decline-as-middle-east-supply-recovers">Will Oil Prices Decline as Middle East Supply Recovers?</a></li>
+<li><a href="https://investinglive.com/commodities/goldman-sees-brent-at-78-by-end-2027-as-oil-surplus-returns-flags-near-term-upside-risk/">Goldman sees Brent at $78 by end- 2027 as oil surplus returns, flags...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Crude Oil Prices`, `#Middle East Exports`, `#Russia Oil Production`, `#Market Trends`, `#Energy Policy`
-
----
-
-<a id="item-global-market-4"></a>
-### [Nvidia Turmoil and Democratic Congress Impact on AI Trade](https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html) ⭐️ 7.0/10
-
-The turmoil at Nvidia, including the resignation of CEO Jensen Huang, could reshape the AI trade, benefiting other technology stocks. A Democratic-controlled Congress may push back on data centers, potentially slowing down the buildout but not affecting the overall demand for compute resources, which remains high.
-
-rss · CNBC Finance · Nov 16, 12:13
-
-**「Prior Market Dynamics and Policy Landscape」** The AI industry has been experiencing significant growth, with technology stocks, particularly those linked to AI, poised for potential gains amidst market shifts. Nvidia, a key player in the AI chip market, faced turmoil with the resignation of its CEO, which could lead to a reevaluation of chip demand and investment in alternative sources. The U.S. midterm elections in November 2026 resulted in a Democratic-controlled Congress, which may influence policies regarding data centers and AI infrastructure investments. These events have created an environment where market dynamics are shifting, with potential implications for tech stocks and the AI trade.
-
-**「Market Impact」** The turmoil at Nvidia and the Democratic Congress&\#x27;s pushback on data centers could lead to a reshaping of the AI trade. This could benefit other technology stocks, as investors seek alternative sources for AI chips. The compute demand may increase in value due to potential slowdowns in data-center buildouts, making existing compute resources more indispensable.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.venturasecurities.com/news/stocks/us-midterm-election-results-what-changes-for-tech-stocks/">US Midterm Elections 2026: Impact on Tech Stocks and AI</a></li>
-<li><a href="https://www.morganstanley.com/insights/articles/2026-us-midterm-election-results-market-impact">What the Democratic Midterm Sweep Could Mean for Markets</a></li>
-<li><a href="https://money.usnews.com/investing/articles/how-2026-midterm-elections-impact-stock-market">How Will the 2026 Midterm Results Affect Investors? - U.S. News</a></li>
-<li><a href="https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html">Nvidia AI trade : Huang exit, Congress reshape Big Tech stock outlook</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Trade`, `#Nvidia`, `#Market Analysis`, `#Technology Stocks`, `#Congress`
-
----
-
-<a id="item-global-market-5"></a>
-### [FDA Denies Approval for Cancer Drug, Biotech Stock Plummets](https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories) ⭐️ 7.0/10
-
-The FDA has declined to approve a lung-cancer drug developed by Summit Therapeutics, resulting in a substantial drop in the company&\#x27;s stock. This decision indicates that the drug must demonstrate its ability to extend patients&\#x27; lives, affecting both the company and the broader biotech market.
-
-rss · MarketWatch Top Stories · Nov 16, 22:21
-
-**「Prior FDA Decisions and Market Impact」** The FDA&\#x27;s decision to decline approval of a cancer drug by Summit Therapeutics follows a trend of the regulator being cautious with novel drug approvals. In the past, the FDA has rejected cancer drugs, highlighting the stringent standards set by the agency for new medications. These rejections often lead to significant market reactions, as seen with the stock drop of Summit Therapeutics, indicating the high stakes involved in FDA approvals for biotech companies. This situation is also reflective of the broader challenges biotech companies face in proving the efficacy of their drugs, especially in international markets.
-
-**「Impact」** The stock drop of Summit Therapeutics following the FDA&\#x27;s denial of approval for its cancer drug underscores the significant market impact of regulatory decisions in the biotech sector.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html">F.D.A. Rejects Closely Watched Lung Cancer Drug From China</a></li>
-<li><a href="https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc">FDA rejects Summit ’s PD-1xVEGF ivonescimab in NSCLC</a></li>
-<li><a href="https://www.statnews.com/2025/09/07/summit-therapeutics-lung-cancer-ivonescimab/">Summit Therapeutics hits possible snag on lung cancer drug seen...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#FDA Approval`, `#Biotech Stock`, `#Cancer Drug`, `#Market Impact`, `#Equities`
-
----
-
-<a id="item-global-market-6"></a>
-### [India Considering Restrictions on Leveraged Stock Trading](https://reut.rs/4iWciqu) ⭐️ 7.0/10
-
-India is contemplating imposing restrictions on leveraged stock trading as a measure to reduce market volatility, according to unnamed sources. This potential regulatory action could have significant implications for the country&\#x27;s stock market.
-
-rss · 路透社 Reuters · Nov 17, 07:22
-
-**「Background on Indian Securities Market Regulations」** The Indian securities market has undergone significant regulatory evolution. Its origins can be traced back to the Joint Stock Companies Act of 1850, which was influenced by English Corporate Law. Over time, the legislation evolved with the Companies Act of 1857 and 1866, introducing significant advancements like limited liability. The Securities and Exchange Board of India \(SEBI\) was formed in 1988 and has since played a critical role in regulating the securities market. This includes major regulatory reforms and pivotal legal battles that have shaped its trajectory and impact on India&\#x27;s financial market regulation.
-
-**「Impact」** If implemented, these restrictions could lead to a decrease in speculative trading and potentially stabilize the Indian stock market, benefiting long-term investors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://alltimetrader.com/learn/regulatory-evolution-in-india">SEBI Regulatory Evolution in India | Market Reforms</a></li>
-<li><a href="https://mism.org/pointer/the-roots-of-indian-securities">The Roots of Indian Securities Market Regulations - MISM</a></li>
-<li><a href="https://the1991project.com/sites/default/files/2024-10/242-130580_01_Project_1991-rev_compressed.pdf">EVOLUTION OF THE INDIAN SECURITIES MARKET REGULATOR</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#India`, `#Stock Market`, `#Regulation`, `#Financial News`, `#Central Bank`
-
----
-
-<a id="item-global-market-7"></a>
-### [France and Malaysia Discuss Defense and Rare Earths Cooperation](https://reut.rs/4t4r4jS) ⭐️ 7.0/10
-
-During President Macron&\#x27;s visit to Kuala Lumpur, France and Malaysia have engaged in discussions regarding defense and rare earths cooperation. This collaboration could have significant implications for global markets, particularly in the defense and technology sectors.
-
-rss · 路透社 Reuters · Nov 17, 06:03
-
-**「Background on France and Malaysia&\#x27;s Defense and Rare Earths Cooperation」** The cooperation between France and Malaysia in the defense and rare earths sectors is significant due to the strategic importance of these areas. Malaysia is known for its rich deposits of rare earth elements, which are crucial for various high-tech industries. The country has been working on developing its rare earth industry, and this has attracted international interest, including from China. France, as a major global power, has been actively seeking to expand its defense and strategic partnerships. The visit of French President Macron to Kuala Lumpur provided a platform for discussing potential collaborations in these critical sectors.
-
-**「Impact」** The potential cooperation in the rare earths sector could affect global supply chains, as rare earths are crucial for various high-tech industries. This could lead to changes in pricing and availability of these materials, impacting both manufacturers and consumers worldwide.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://m.163.com/dy/article/L5GPQDUK0514E30D.html">马来西亚稀土全产业链布局加速成型 中企可加速布局|中企|产业链|合金|...</a></li>
-<li><a href="https://www.sohu.com/a/1069279892_385826">马来西亚稀土全产业链布局加速成型 中企可加速布局</a></li>
-<li><a href="https://www.siudz.com/news/jie-mi-ma-lai-xi-ya-xi-tu-zi-yuan-chu-liang-feng-fu-quan-qiu-gong-ying-lian-guan-jian-yi-huan.html">揭秘马来西亚稀土资源：储量丰富，全球供应链关键一环 - 岁序智库</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#International Cooperation`, `#Defense`, `#Rare Earths`, `#Macron Visit`, `#Global Markets`
-
----
-
-<a id="item-global-market-8"></a>
-### [Exclusive: China Uses US AI Models Amidst Chip Restrictions](https://reut.rs/4zQ8H4C) ⭐️ 7.0/10
-
-China is utilizing American AI models to train domestic competitors in response to escalating chip restrictions. This move comes as the US tightens its control over AI technology exports.
-
-rss · 路透社 Reuters · Nov 17, 04:58
-
-**「Background on China&\#x27;s Use of US AI Models and Chip Restrictions」** The increasing chip restrictions imposed on China have led to a significant shift in the country&\#x27;s approach to technology development. In response to these restrictions, China has been actively seeking alternative methods to advance its AI capabilities. This includes the utilization of US AI models to train domestic competitors. The backdrop to this development involves the broader context of global technology competition and the implications of national security concerns on international trade and technology transfer.
-
-**「Impact」** The increased reliance on US AI models for training domestic competitors could lead to a surge in China&\#x27;s AI sector, potentially impacting global technology markets and supply chains.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-ai-buildout-and-the-economy-publicly-available-data-to-assess-ais-impact-20260717.html">The Fed - The AI Buildout and the Economy: Publicly Available ...</a></li>
-<li><a href="https://business.columbia.edu/insights/ai-transformative-tech/real-economic-impact-ai-just-beginning">The real economic impact of AI is just beginning</a></li>
-<li><a href="https://hai.stanford.edu/ai-index/2026-ai-index-report/economy">Economy | The 2026 AI Index Report | Stanford HAI</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Technology`, `#AI`, `#Global Economy`, `#Geopolitical Implications`, `#Economic Policy`
-
----
-
-<a id="item-global-market-9"></a>
-### [Visa and Mastercard Swipe Fee Settlement](https://reut.rs/4eEJHow) ⭐️ 7.0/10
-
-Visa and Mastercard are urging the approval of a $38 billion swipe fee settlement, which could have significant implications for the global payment industry.
-
-rss · 路透社 Reuters · Nov 16, 22:23
-
-**「Background on Visa and Mastercard Swipe Fee Settlement」** The swipe fee settlement between Visa and Mastercard has been a long-standing issue in the payment industry. Over the years, there have been numerous discussions and legal battles regarding the interchange fees and credit card processing fees charged by these card networks. The recent $38 billion settlement is a significant development that aims to reduce processing fees for merchants and could potentially impact rewards cards and allow merchants to pass costs to customers. This settlement follows a 20-year legal battle and is considered one of the most significant developments in the payments industry in recent decades.
-
-**「Impact」** The approval of this settlement could lead to changes in刷卡手续费 \(swipe fees\) across the industry, potentially affecting the profitability of merchants and the revenue streams of payment processors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://economictimes.indiatimes.com/news/international/us/visa-and-mastercard-38-billion-swipe-fee-settlement-gets-preliminary-approval-after-20-year-legal-battle-what-it-means-for-merchants-credit-card-fees-and-consumers/articleshow/131643425.cms">Visa Mastercard swipe fee settlement explained: Visa and ...</a></li>
-<li><a href="https://www.cnbc.com/2025/11/10/visa-mastercard-reach-revised-swipe-fee-settlement-with-merchants-.html">Visa, Mastercard reach new swipe fee settlement with merchants</a></li>
-<li><a href="https://www.redbridgedta.com/us/market-intelligence/the-visa-mastercard-38-billion-swipe-fee-settlement/">The Visa &amp; Mastercard $38 Billion Swipe Fee Settlement: What ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Financial News`, `#Payment Industry`, `#Equities`, `#Bonds`
-
----
-
-<a id="item-global-market-10"></a>
-### [Gold Prices Reach One-Year Low Amid Strong U.S. Treasury Yields and Dollar Strength](https://reut.rs/3WQnQ7s) ⭐️ 7.0/10
-
-Gold prices have plummeted to a one-year low, influenced by strong U.S. Treasury yields and the dollar&\#x27;s strength, potentially marking the worst annual performance for gold since 2015.
-
-rss · 路透社 Reuters · Nov 16, 20:16
-
-**「Background on Gold Price Decline」** The decline in gold prices can be attributed to the strong performance of U.S. Treasury yields and the dollar. This trend has been influenced by various factors, including the anticipation of another Federal Reserve interest rate hike, as indicated by the rise in Treasury yields. Additionally, the market has been digesting the Treasury&\#x27;s debt buyback plan, which has also contributed to the increase in yields. These factors have collectively impacted the gold market, leading to its current low point and potentially marking the worst annual performance since 2015.
-
-**「Impact」** This decline in gold prices could have a significant impact on investors in the commodities market, as it reflects broader trends in the global financial landscape influenced by U.S. monetary policy and currency dynamics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tradingview.com/symbols/TVC-US10Y/">10 Year Treasury Yield ( US 10Y) Price and Chart — TradingView</a></li>
-<li><a href="https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html">Treasury yields wipe out decline following Bessent&#x27; s intervention</a></li>
-<li><a href="https://www.nytimes.com/2026/09/23/business/bonds-interest-rates.html">Bond Yields Soar as Investors Foresee Another Fed Interest Rate...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Gold Market`, `#Treasury Yields`, `#Dollar Strength`, `#Commodities`, `#Financial Markets`
-
----
-
-<a id="item-global-market-11"></a>
-### [EU Foreign Policy Chief Discusses Market Impacts](https://www.youtube.com/live/NFXnux0KxTw) ⭐️ 7.0/10
-
-EU foreign policy chief Kaja Kallas held a press conference, addressing potential impacts on global financial markets. The discussion focused on geopolitical and economic policies, which are expected to influence market dynamics.
-
-rss · 路透社 Reuters · Nov 16, 17:51
-
-**「Background on EU Foreign Policy Chief Kaja Kallas」** Kaja Kallas, the current High Representative of the European Union for Foreign Affairs and Security Policy, brings a significant background to her role. She served as the Prime Minister of Estonia from 2021 to 2024, during which time she gained experience in handling geopolitical and economic policies. Known for her strong stance on Russia and unwavering support for Ukraine, Kallas&\#x27; appointment as the EU&\#x27;s foreign policy chief is expected to have a profound impact on the EU&\#x27;s foreign policy direction. Her experience as a former prime minister and her hawkish approach to international relations provide a context for understanding her recent press conference and its potential implications for global financial markets.
-
-**「Impact on Global Financial Markets」** The press conference held by EU foreign policy chief Kaja Kallas is expected to have significant implications for global financial markets. Her discussions on geopolitical and economic policies could lead to shifts in market sentiment and investment strategies, particularly in light of the EU&\#x27;s role as a major economic power.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Kaja_Kallas">Kaja Kallas - Wikipedia</a></li>
-<li><a href="https://www.osint613.com/person/kaja-kallas">Kaja Kallas – Minister / Cabinet Member - OSINT613</a></li>
-<li><a href="https://foreignpolicy.com/2025/10/07/kaja-kallas-europe-foreign-minister-diplomacy-eu/">Kaja Kallas , Europe ’s Top Diplomat, Isn&#x27;t Diplomatic Enough</a></li>
-<li><a href="https://en.wikipedia.org/wiki/European_Union">European Union - Wikipedia</a></li>
-<li><a href="https://foreignpolicy.com/2012/05/23/dont-fear-the-grexit/">Don’t Fear the Grexit – Foreign Policy</a></li>
-<li><a href="https://www.academia.edu/108455831/Walking_the_Tightrope_A_First_Glance_on_the_Impact_of_the_Recent_Global_Financial_Market_Turbulence_on_Central_Eastern_and_Southeastern_Europe">(PDF) Walking the Tightrope: A First Glance on the Impact of the...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#EU foreign policy`, `#press conference`, `#global financial markets`, `#geopolitical`, `#economic policy`
-
----
-
-<a id="item-global-market-12"></a>
-### [Iranian Leaders Concerned Over Public Mood Amid Gas Shortages and War](https://reut.rs/4kf6F9r) ⭐️ 7.0/10
-
-Iranian leaders are expressing concern over the public mood amidst severe gas shortages and the ongoing war. The situation has intensified due to the gas shortages, which are exacerbating the challenges posed by the war.
-
-rss · 路透社 Reuters · Nov 16, 15:43
-
-**「Background on Iran&\#x27;s Gas Shortages and Ongoing War」** Iran has been facing significant gasoline shortages due to the US blockade, which restricts imports. This blockade, along with damage to energy facilities from Israeli strikes, has led to a supply crunch. The situation has been exacerbated as Iran prepares for the winter season, with the country showing no signs of making concessions in the war with the US. The blockades on its ports and the damage to infrastructure have further weakened Iran&\#x27;s ability to manage the energy crisis.
-
-**「Impact」** The gas shortages are likely to have a significant impact on the public mood, potentially leading to social unrest and affecting the overall stability of the country.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.mees.com/2026/8/14/refining-petrochemicals/iran-gasoline-shortage-deepens-as-import-options-narrow/7ca088a0-97df-11f1-9211-2b08af65660b">Iran Gasoline Shortage Deepens As Import Options Narrow</a></li>
-<li><a href="https://www.jpost.com/middle-east/iran-news/article-915095">Iran faces winter gas crisis after US war damages energy plants</a></li>
-<li><a href="https://www.alexjoneslive.com/2026/08/30/iranian-gasoline-shortages-grow-as-us-blockade-bites/">Iranian Gasoline Shortages Grow As US Blockade... - Alex Jones Live</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Iran`, `#Gas Shortages`, `#Geopolitical Events`, `#Public Mood`, `#Central Bank Policies`
-
----
-
-<a id="item-global-market-13"></a>
-### [Record Foreign Inflows Boost Indian Stocks in November](https://reut.rs/4C6Snhk) ⭐️ 7.0/10
-
-Record foreign inflows have propelled the Indian stock market to a significant surge in November. This development is particularly noteworthy for global financial market watchers.
-
-rss · 路透社 Reuters · Nov 16, 14:55
-
-**「Historical Context of Indian Stock Market Performance」** The Indian stock market has been experiencing a period of growth, with key equity benchmarks showing positive trends. This growth has been attributed to various factors, including increased foreign investment and a favorable economic environment. The Sensex and Nifty, two of the major indexes, have seen significant surges, reflecting the overall market sentiment. This context is crucial in understanding the recent surge in the Indian stock market driven by record foreign inflows.
-
-**「Impact」** The surge in foreign investment has directly contributed to the upward trend in the Indian stock market, reflecting a strong confidence in the Indian economy among international investors.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.linkedin.com/posts/suhil-kumar-749a211a6_indianmarkets-stockmarket2026-datadriveninvesting-activity-7414088620900417536-K3pw">India Stock Market Sentiment 2026 : Optimism Backed by... | LinkedIn</a></li>
-<li><a href="https://www.youtube.com/watch?v=HD_rWPJzkOo">Sensex Surges 905 Points, Nifty Reclaims 22,900 | Markets ... - YouTube</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#India Stock Market`, `#Foreign Investment`, `#Financial News`, `#Market Trends`, `#Central Bank Policy`
-
----
-
-<a id="item-global-market-14"></a>
-### [US to Impose Restrictions on China&\#x27;s AI Chip Access](https://reut.rs/4zQaPcA) ⭐️ 7.0/10
-
-The United States is set to impose restrictions on China&\#x27;s access to artificial intelligence \(AI\) chips during former President Trump&\#x27;s upcoming visit to Asia. This policy decision is expected to have significant implications for global technology markets.
-
-rss · 路透社 Reuters · Nov 16, 14:23
-
-**「Background on U.S.-China Relations and Technology Policy」** The recent decision by the U.S. to impose restrictions on China&\#x27;s access to AI chips is part of a broader trend in technology policy between the two nations. In October 2025, President Trump and Chinese President Xi met in Busan, South Korea, where Xi emphasized the importance of the U.S.-China business relationship and expressed China&\#x27;s desire to be partners and friends with the U.S. However, tensions remain, and the relationship is complex, as evidenced by the annual U.S.-China Track II meetings, which aim to assess the state of bilateral relations and identify opportunities to reduce the risks of long-term strategic competition. The current move to limit China&\#x27;s access to AI chips reflects ongoing geopolitical and technological tensions between the two countries.
-
-**「Market Impact」** The imposition of restrictions on China&\#x27;s access to AI chips by the U.S. during Trump&\#x27;s Asia visit is expected to have a significant impact on global technology markets. These restrictions could lead to a slowdown in China&\#x27;s AI development and innovation, potentially affecting sectors such as robotics, autonomous vehicles, and data analytics. Additionally, it may lead to increased competition among other countries to secure advanced AI chip technology.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.congress.gov/crs_external_products/IF/PDF/IF10119/IF10119.122.pdf">China Primer: U.S.-China Relations - Congress.gov</a></li>
-<li><a href="https://ncafp.org/wp-content/uploads/2026/06/US-China-Report-2026.pdf">The U.S.-China Relationship Heads Toward Stabilization</a></li>
-<li><a href="https://chinapower.csis.org/survey-experts-us-china-relations-2026/">Surveying the Experts: The State of U.S.-China Relations ...</a></li>
-<li><a href="https://introl.com/blog/ai-export-controls-navigating-chip-restrictions-globally-2025">AI Export Controls: Navigating Chip Restrictions Globally | Introl Blog</a></li>
-<li><a href="https://www.cnbc.com/2025/05/01/nvidia-and-anthropic-clash-over-us-ai-chip-restrictions-on-china.html">Nvidia and Anthropic clash over U.S. AI chip restrictions on China</a></li>
-<li><a href="https://www.linkedin.com/posts/kevin-louzingou-a51173275_nvidia-says-anthropic-is-telling-tall-tales-activity-7323735285236645888-toZJ">AI chip restrictions : Are they too restrictive ? | LinkedIn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#US-China relations`, `#Technology policy`, `#AI chips`, `#Global markets`, `#Geopolitical events`
-
----
-
-<a id="item-global-market-15"></a>
-### [Fed&\#x27;s Barr Warns on AI Risks to Financial System](https://reut.rs/3UYZUOy) ⭐️ 7.0/10
-
-Federal Reserve official Barr has issued a warning about the risks posed by artificial intelligence to the financial system. This comes as a significant concern for the industry, potentially affecting various financial markets.
-
-rss · 路透社 Reuters · Nov 16, 11:11
-
-**「Background on AI Risks in Financial System」** The Federal Reserve has been actively discussing the risks associated with artificial intelligence in the financial system. Governor Barr&\#x27;s speech highlighted the potential issues with AI systems, such as reliance on incomplete or biased data, generation of inaccurate information, and recommendations that may not align with an investor&\#x27;s risk tolerance or financial circumstances. Additionally, there is a concern that the financial system could become overly dependent on AI services provided by a few technology companies, which could lead to systemic risks beyond the traditional financial sector supervision. These discussions are part of a broader effort to understand and mitigate the risks posed by AI in the financial industry.
-
-**「Impact」** The warning from Barr may lead to increased regulatory scrutiny over the use of AI in financial systems, potentially impacting the adoption and implementation of AI technologies in the sector.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm">Speech by Governor Barr on some potential... - Federal Reserve Board</a></li>
-<li><a href="https://www.libertify.com/interactive-library/federal-reserve-ai-scenarios-banking/">Federal Reserve AI Scenarios: What Two Futures Mean for Banking...</a></li>
-<li><a href="https://komonews.com/news/nation-world/treasury-secretary-janet-yellen-warns-ai-poses-risks-financial-system-artificial-intelligence-practice-insight-machine-learning-jpmorgan-chase-security-scams">Treasury Secretary Janet Yellen warns AI poses risks to financial ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI in Finance`, `#Central Bank`, `#Financial Risk`, `#Market Analysis`, `#Regulatory Concerns`
-
----
-
-<a id="item-global-market-16"></a>
-### [U.S. Army&\#x27;s Move to Break China&\#x27;s Rare Earth Monopoly](https://oilprice.com/Energy/Energy-General/The-Army-Just-Did-Something-Extraordinary-To-Break-Chinas-Rare-Earth-Monopoly.html) ⭐️ 7.0/10
-
-The U.S. Army has signed a non-binding term sheet to host a commercial rare earth metal plant on a military base in Utah, marking a significant step to break China&\#x27;s monopoly on rare earth elements. The lease agreement, which could extend beyond the year 2100, is with REalloys, a company specializing in converting rare earths into metal outside of China.
-
-rss · OilPrice · Nov 17, 02:00
-
-**「Background on REalloys and the Rare Earth Market」** REalloys Inc. is a U.S. company focused on rebuilding domestic supply chain resilience for Rare Earth Elements and Rare Earth Magnets. The company operates through fully integrated processes, including recycling, mining, oxide production, metallization, alloying, and magnet manufacturing. This comprehensive approach allows REalloys to provide critical materials for defense, electrification, and renewable energy sectors. The collaboration between the U.S. Army and REalloys represents a significant shift in the rare earth market, aiming to reduce dependence on China, which has historically held a monopoly over these elements.
-
-**「Market Impact」** The establishment of rare earth processing plants on U.S. military bases by the U.S. Army, as part of a long-term collaboration with REalloys, is expected to reduce dependence on China&\#x27;s critical minerals. This move could potentially disrupt China&\#x27;s monopoly on rare earth elements, affecting global supply and geopolitical dynamics in the rare earth market.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://stockanalysis.com/stocks/aloy/company/">REalloys (ALOY) Company Profile &amp; Description - Stock Analysis REalloys, Inc.-About REalloys Home REalloys Inc. (ALOY) Company Profile &amp; Facts - Yahoo Finance Realloys Inc. (ALOY) — American Company Profile REalloys Inc. ALOY - Quotes, Financials, News, Charts and ... REalloys - Crunchbase Company Profile &amp; Funding</a></li>
-<li><a href="https://realloys.com/About/">REalloys, Inc.-About</a></li>
-<li><a href="https://realloys.com/">REalloys Home</a></li>
-<li><a href="https://www.wionews.com/world/us-army-rare-earth-processing-military-bases-1782471550958">US Army to build rare earth processing plants on military ...</a></li>
-<li><a href="https://oilprice.com/Energy/Energy-General/The-Army-Just-Did-Something-Extraordinary-To-Break-Chinas-Rare-Earth-Monopoly.html">The Army Just Did Something Extraordinary To Break China’s ...</a></li>
-<li><a href="https://finance.yahoo.com/energy/articles/u-army-just-took-historic-000000879.html?fr=sycsrp_catchall">The U.S. Army Just Took a Historic Step to Break China&#x27;s Rare ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Rare Earths`, `#Geopolitical`, `#Market Dynamics`, `#Military-Industry Collaboration`
-
----
-
-<a id="item-global-market-17"></a>
-### [Venezuela&\#x27;s Oil Recovery Threatened by US Policy Shift](https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html) ⭐️ 7.0/10
-
-Venezuela&\#x27;s efforts to recover its oil sector face a new challenge following the Democratic victory in the 2026 US midterm elections, which could limit President Trump&\#x27;s domestic agenda but not his foreign policy. This includes recent interventions in Venezuela, such as the capture of Nicolas Maduro and the reopening of the country&\#x27;s oil sector, highlighting the close relationship between Venezuela&\#x27;s oil recovery and US decisions.
-
-rss · OilPrice · Nov 16, 17:00
-
-**「Background on Venezuela&\#x27;s Oil Recovery and US Foreign Policy」** The Democratic victory in the 2026 US midterm elections has shifted control of Congress to the Democrats, potentially impacting President Trump&\#x27;s domestic agenda starting from January 2027. Despite this, foreign policy remains largely within the president&\#x27;s domain. This has been evident in the recent interventions in Venezuela, including the capture of Nicolas Maduro and the reopening of the country&\#x27;s oil sector. These actions underscore the close relationship between Venezuela&\#x27;s oil recovery and decisions made in Washington. The US has been actively involved in shaping Venezuela&\#x27;s energy sector, as seen in the oil agreement between the two countries and the subsequent amendments to OFAC&\#x27;s Venezuela-related General Licenses. These developments have set the stage for a new phase of investment in Venezuela&\#x27;s energy sector.
-
-**「Impact」** The potential changes in US foreign policy towards Venezuela could negatively impact global oil markets, affecting equities, bonds, commodities, and currencies.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://apnews.com/projects/elections-2026/">2026 Midterm Election Results : Senate, House and... | AP News</a></li>
-<li><a href="https://www.270towin.com/">270toWin - 2026 Election Results &amp; Interactive Maps</a></li>
-<li><a href="https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results">Democrats poised to flip House in midterm elections ... | The Guardian</a></li>
-<li><a href="https://en.wikipedia.org/wiki/2026_United_States_intervention_in_Venezuela">2026 United States intervention in Venezuela - Wikipedia</a></li>
-<li><a href="https://nypost.com/2026/01/03/world-news/how-us-forces-captured-venezuelas-maduro-in-extraordinary-raid/">How US forces captured Venezuela’s Maduro in &#x27;extraordinary&#x27; raid</a></li>
-<li><a href="https://www.foxnews.com/us/us-military-details-timeline-operation-capture-maduro-revealing-more-than-150-aircraft-involved">How US forces detained Venezuela’s Maduro in ‘Operation... | Fox News</a></li>
-<li><a href="https://www.seyfarth.com/news-insights/venezuelas-energy-reopening-new-usvenezuela-oil-agreement-and-ofac-amendments-what-businesses-and-investors-should-watch.html">Venezuela’s Energy Reopening: New U.S.–Venezuela Oil ...</a></li>
-<li><a href="https://www.hklaw.com/-/media/files/insights/publications/2026/09/venezuela-update/09_en_hk.pdf">The New Licensing Framework and the Reopening of Venezuela&#x27;s ...</a></li>
-<li><a href="https://www.jdsupra.com/legalnews/venezuela-s-commercial-reopening-new-6867241/">Venezuela’s Commercial Reopening: New Oil Regulations ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Venezuela`, `#US Foreign Policy`, `#Oil Markets`, `#Geopolitical Events`, `#Energy Policy`
-
----
-
-<a id="item-global-market-18"></a>
-### [Europe&\#x27;s Gas Storage Concerns](https://oilprice.com/Latest-Energy-News/World-News/Europe-Has-Already-Drained-10-of-Its-Summer-Gas-Injections.html) ⭐️ 7.0/10
-
-Europe has withdrawn 10% of its summer gas injections, reaching a level of 10% of the 51.2 billion cubic meters of gas injected into storage sites. This withdrawal, occurring at the start of the heating season, raises concerns about energy supply amidst potentially extreme cold winter weather.
-
-rss · OilPrice · Nov 16, 16:30
-
-**「Europe&\#x27;s Gas Storage Levels and Heating Season Concerns」** Europe is facing significant challenges with its gas storage levels as it enters the heating season. The region has withdrawn 10% of the natural gas injected during the summer filling season, leaving storage levels at their lowest in decades. This situation is particularly concerning given the potential for extreme cold winter weather, which could further deplete gas reserves. The data indicates a notable deviation from expectations and has led to increased attention on energy security. European gas storage levels were at 72.4% full as of November 9, 2026, which is the lowest level for this time of year in the 2017-2025 range and significantly below both the 2025 level and the 2017-2025 average.
-
-**「Impact」** The early withdrawal of gas from storage sites in Europe could lead to increased attention on energy security, potentially influencing policy decisions and affecting energy markets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://energyscan.engie.com/europe-gas-storage-levels-weekly-fullness-rate-tracker-and-analysis/">Europe gas storage levels: weekly fullness rate tracker and ...</a></li>
-<li><a href="https://voltstack.energy/insights/eu-gas-storage-tracker-winter-2026">EU Gas Storage Tracker: Winter 2026/27 Readiness</a></li>
-<li><a href="https://energyscan.engie.com/trackers/europe-gas-storage-levels-weekly-fullness-rate-tracker-and-analysis/">Europe gas storage levels: weekly fullness rate tracker and ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Energy Market`, `#Gas Storage`, `#Europe`, `#Energy Security`, `#Heating Season`
+**Tags**: `#Crude Oil Prices`, `#Middle East Exports`, `#Energy Market`, `#Russia&\#x27;s Oil Production`, `#Goldman Sachs Forecast`
 
 ---
 
 ## AI Frontier
 
 <a id="item-ai-frontier-1"></a>
-### [Marimba: A System One Model for Speech](https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/) ⭐️ 8.0/10
+### [vllm-project/vllm v0.34.0 Release](https://github.com/vllm-project/vllm/releases/tag/v0.34.0) ⭐️ 7.0/10
 
-Marimba, a new speech processing model, demonstrates promising performance on various benchmarks, achieving competitive results and introducing novel approaches. The model utilizes a frozen Qwen3-ASR-0.6B encoder pass for each 8-second audio window and showcases strengths in term spotting, language identification, and speaker change detection. However, it has limitations in turn-end detection and generalization to unseen tasks.
+vllm-project/vllm released version 0.34.0, introducing 10 new models, performance enhancements, and changes to the default block size and cache configuration. Notable improvements include speedups on Blackwell and MI355X hardware, and the removal of Model Runner V1 in favor of V2.
 
-reddit · r/MachineLearning · /u/solanotodesch · Nov 16, 15:47
+github · khluu · Nov 16, 23:22
 
-**「Background on Marimba: A System One Model for Speech」** Marimba is a novel speech processing model designed to handle decisions about term presence, turn completion, and language within an audio window. It is built upon the frozen Qwen3-ASR 0.6B features. This approach allows Marimba to provide typed speech decisions. The concept of using frozen features in speech processing models is not new, as it has been explored in the context of transferring training between music and speech, suggesting common processes and anatomical resources shared between the two domains. Additionally, the field of automatic speech recognition and natural language processing has long divided models into acoustic and language models, with the acoustic model focusing on converting sound signals into phonetic representations.
+**「Background on vllm-project/vllm v0.34.0 Release」** The vllm-project/vllm v0.34.0 release represents a significant update to the AI model and infrastructure. This release introduces 10 new models, including Mistral Large 4, MiniMax-M3.1-Flash, and Nemotron-3.5-Transcribe, among others. It also includes performance enhancements such as an extensible KV cache for higher throughput and the removal of Model Runner V1 in favor of Model Runner V2. These changes are part of ongoing efforts to improve the efficiency and capabilities of the vllm platform.
 
-**「Impact」** The introduction of Marimba provides developers and researchers with a new tool for speech processing tasks, potentially leading to advancements in areas such as automated question answering and speaker recognition. Its novel approach may inspire further research and development in the field of speech AI.
+**「Impact」** The release of v0.34.0 provides developers with access to new models and performance improvements, which can lead to more efficient and powerful AI applications. The changes in cache configuration and removal of Model Runner V1 may require adjustments in existing setups, but they also pave the way for better resource utilization and performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.alphaxiv.org/abs/2611.18330">Marimba : A System One Model for Speech | alphaXiv</a></li>
-<li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2011.00094/full">Frontiers | Transfer of Training between Music and Speech : Common...</a></li>
-<li><a href="https://www.analyticsvidhya.com/blog/2021/01/introduction-to-automatic-speech-recognition-and-natural-language-processing/">Automatic Speech Recognition and Natural Language Processing</a></li>
+<li><a href="https://newreleases.io/project/github/vllm-project/vllm/release/v0.34.0">vllm-project/vllm v0.34.0 on GitHub - NewReleases.io</a></li>
+<li><a href="https://github.com/vllm-project/vllm/releases">Releases · vllm-project/vllm · GitHub</a></li>
+<li><a href="https://freedom.tech/posts/2026-11-16-vllm-0-34-0/">vLLM 0.34.0 - freedom.tech</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Speech Processing`, `#AI Research`, `#Model Release`, `#Benchmarking`
+**Tags**: `#AI Model Release`, `#Performance Improvement`, `#Software Update`, `#AI Research`, `#AI Infrastructure`
+
+---
+
+<a id="item-ai-frontier-2"></a>
+### [Carnegie Mellon Offers Free Computer Science Courses on YouTube](https://www.cs.cmu.edu/learn/) ⭐️ 7.0/10
+
+Carnegie Mellon University has launched a new initiative, CS Learn, offering free computer science courses on YouTube. This initiative includes full semesters of lectures across various topics, with new courses premiering daily. The content is aimed at AI enthusiasts and researchers, providing valuable educational resources.
+
+hackernews · pcompeau · Nov 16, 20:43 · [Discussion](https://news.ycombinator.com/item?id=50522980)
+
+**「Carnegie Mellon University&\#x27;s Computer Science Education」** Carnegie Mellon University, a leading institution in computer science education, has a long-standing history of excellence in the field. Established in 1988, the School of Computer Science at CMU is renowned for its rigorous academic programs and innovative research. The university&\#x27;s commitment to education is further demonstrated through initiatives like CS Learn, which offers comprehensive computer science courses online, making them accessible to a global audience. This approach aligns with the university&\#x27;s mission to advance the field of computer science and to prepare students for the challenges of the modern technological landscape.
+
+**「Community Discussion」** Community members have expressed excitement about the new initiative, with one alumna highlighting the availability of Tianqi Chen&\#x27;s ML Systems course. However, there have been concerns raised about technical issues, such as audio quality during lectures.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Computer_Science">Carnegie Mellon School of Computer Science - Wikipedia</a></li>
+<li><a href="https://www.youtube.com/@CMULearn">CS Learn at Carnegie Mellon - YouTube</a></li>
+<li><a href="https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/">Computer Science Program &lt; Carnegie Mellon University</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Education`, `#AI Research`, `#Computer Science`, `#Online Learning`, `#Carnegie Mellon`
+
+---
+
+<a id="item-ai-frontier-3"></a>
+### [物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247944324&amp;idx=1&amp;sn=884bda38a771262124e14a45cff2f170) ⭐️ 7.0/10
+
+A new reinforcement learning environment, RoboFinals RL Envs, is introduced for physical AI, marking a development in the field.
+
+rss · 量子位 · Nov 16, 14:07
+
+**Tags**: `#AI Research`, `#AI Infrastructure`, `#Physical AI`, `#Reinforcement Learning`
+
+---
+
+<a id="item-ai-frontier-4"></a>
+### [Long Video Inference Compression Method Proposed by Sun Yat-sen and Hong Kong Polytechnic Universities](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247944324&amp;idx=3&amp;sn=0ec2b49fbc70dea4c1fc90bbcd164d64) ⭐️ 7.0/10
+
+Researchers from Sun Yat-sen University and the Hong Kong Polytechnic University have proposed a new method for compressing long video inference without training, reducing inference time by half. The method, called V-CAST, involves filtering and pruning visual tokens before they are sent into a language model, achieving this without the need for training.
+
+rss · 量子位 · Nov 16, 14:07
+
+**「Background on Long Video Inference Compression Technique」** Long video inference involves processing video frames to extract meaningful information. This process can be computationally intensive, especially when dealing with high-resolution videos. To address this, researchers have been exploring various compression techniques to reduce the computational load while maintaining the quality of the output. One such technique is the use of visual tokens, which represent visual information in a compressed form. The challenge lies in efficiently compressing these tokens without losing critical information, such as temporal and spatial context. The proposed V-CAST method from Sun Yat-sen University and the Hong Kong Polytechnic University aims to tackle this challenge by selectively pruning and filtering visual tokens before they are processed by a language model.
+
+**「Impact」** This new method could significantly improve the efficiency of long video processing in AI applications, potentially leading to faster analysis and reduced computational requirements.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=IFrcSkWmof0">XIAOMI 17 VS SAMSUNG GALAXY S 26 - СРАВНЕНИЕ... - YouTube</a></li>
+<li><a href="https://www.google.com/maps/place/">google.com/maps/place</a></li>
+<li><a href="https://sprosivracha.com/questions/3695127-bol-v-ikronozhnoy-myshce">Боль в икроножной мышце — 7 ответов акушеров... | СпросиВрача</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Infrastructure`, `#Long Video Inference`, `#Compression Technique`, `#NeurIPS&\#x27;26`, `#AI Research`
+
+---
+
+<a id="item-ai-frontier-5"></a>
+### [AI Model Achieves Global Ranking with Full-Size Open-Source Release](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652743616&amp;idx=1&amp;sn=4bcf52a08587a6397951ba4bb3ac29c9) ⭐️ 7.0/10
+
+A new AI model, Karpo Decision 31B, has surpassed Google&\#x27;s model, ranking first globally. The model is now available as a full-size open-source release, with impressive performance metrics such as a 94-millisecond median latency and a calibration error of 0.023.
+
+rss · 新智元 · Nov 17, 04:33
+
+**「Background on AI Decision Models」** AI decision models are a class of AI systems designed to assist in decision-making processes. These models are trained on large datasets and can analyze complex information to provide insights and recommendations. The development of such models has been a focus of research and development in the AI community, with various models being developed and evaluated for their performance. The Decision Index is a benchmark used to evaluate the performance of these models, providing a standardized way to compare their capabilities.
+
+**「Impact on Developers and Researchers」** The release of Karpo Decision 31B, an open-source decision model that surpasses Google&\#x27;s Gemini Decision 1 in the Decision Index, offers developers and researchers a powerful tool for decision-making tasks. Its high performance, low latency, and open-source nature provide a valuable resource for advancing the field of AI and decision-making systems.
+
+**「Community Discussion」** No community comments available.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/datasets/multimodalart/decision-index-leaderboard">multimodalart/ decision -index-leaderboard · Datasets at Hugging Face</a></li>
+<li><a href="https://benchlm.ai/benchmarks/clefdecisionindex021">Cloudflare Decision Index 0.2.1 Leaderboard — November 2026</a></li>
+<li><a href="https://aiintelreport.com/frontier-models/karpo-decision-31b-tops-decision-index">Karpo Decision 31B tops Decision Index at 73.9 with 94ms latency</a></li>
+<li><a href="https://zgeo.net/news/karpo-decision-31b-geo-impact">Karpo Decision 31B开源登顶决策模型榜首 | 智脑时代 ZGEO</a></li>
+<li><a href="https://benchmarkheaven.com/jev-models/karpo_decision_31b">Karpo-Decision-31B — JevBench | Benchmark Heaven</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Model Development`, `#Open Source AI`, `#Model Ranking`, `#AI News`
+
+---
+
+<a id="item-ai-frontier-6"></a>
+### [OpenAI&\#x27;s GPT-6 Astra in Particle Physics Standard Model Breakthrough](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652743616&amp;idx=2&amp;sn=f7767d6988b23444fab741b82f050222) ⭐️ 7.0/10
+
+OpenAI has announced a significant development in particle physics with the introduction of a new model, GPT-6 Astra, which has played a pivotal role in providing a candidate lattice definition for the Standard Model. This collaboration with a physicist from UCSB marks a new frontier in AI-assisted scientific research.
+
+rss · 新智元 · Nov 17, 04:33
+
+**「Background on OpenAI&\#x27;s Standard Model Development」** The Standard Model in physics is a theory that describes the fundamental particles and the forces that mediate interactions between them. It has been a cornerstone of particle physics for decades, but it has lacked a non-perturbative definition, which is crucial for understanding its behavior at strong coupling. OpenAI&\#x27;s GPT-6 Astra has been involved in a project to provide a candidate lattice definition of the Standard Model, which could potentially fill this gap. This approach involves discretizing the continuous spacetime into a lattice, which allows for numerical simulations and a more direct understanding of the theory&\#x27;s behavior.
+
+**「Impact on Researchers」** The collaboration between OpenAI&\#x27;s GPT-6 Astra and physicist Nathaniel Craig marks a significant advancement in the field of particle physics. This development could potentially lead to a more complete understanding of the Standard Model, which is crucial for researchers working on theoretical and experimental physics. The use of AI in this process demonstrates the potential of AI in solving complex scientific problems and could inspire further research into the application of AI in physics.
+
+**「Community Discussion」** No community comments available.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/step-toward-defining-the-standard-model/">A step toward defining the Standard Model on a lattice - OpenAI</a></li>
+<li><a href="https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/">OpenAI&#x27;s GPT-6 Astra tackles the Standard Model&#x27;s toughest ...</a></li>
+<li><a href="https://www.explainx.ai/blog/openai-gpt-6-astra-standard-model-lattice-nathaniel-craig-science-blog-2026">GPT-6 Astra Helped Define the Standard Model on a Lattice ...</a></li>
+<li><a href="https://openai.com/index/step-toward-defining-the-standard-model/">A step toward defining the Standard Model on a lattice - OpenAI</a></li>
+<li><a href="https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/">OpenAI&#x27;s GPT-6 Astra tackles the Standard Model&#x27;s toughest ...</a></li>
+<li><a href="https://www.explainx.ai/blog/openai-gpt-6-astra-standard-model-lattice-nathaniel-craig-science-blog-2026">GPT-6 Astra Helped Define the Standard Model on a Lattice ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#OpenAI`, `#Large Language Models`, `#AI Infrastructure`
+
+---
+
+<a id="item-ai-frontier-7"></a>
+### [Analysis of 127k Papers&\#x27; Ablations Reveals 26% Unhelpful Changes](https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/) ⭐️ 7.0/10
+
+A comprehensive analysis of 127,000 machine learning papers&\#x27; ablations shows that 26% of reported changes did not improve performance according to the papers&\#x27; own measurements. The analysis covered changes such as additional layers, losses, more data, and larger learning rates, with the most unhelpful changes including higher sampling temperature, larger LoRA rank, and larger learning rates.
+
+reddit · r/MachineLearning · /u/latenticlabs · Nov 17, 05:11
+
+**「Comprehensive Analysis of Machine Learning Ablations」** The analysis is based on a dataset of 127,000 papers from various machine learning conferences and journals, including ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, and JMLR, spanning from 2016 to 2026. The dataset includes 621,064 changes reported in these papers, with the aim of understanding the effectiveness of various changes in machine learning research.
+
+**「Impact」** This analysis highlights the need for more rigorous evaluation and reporting in machine learning research, potentially leading to better-informed decisions by developers and researchers when implementing changes in their models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://atlas.scime.ai/">AI research map for machine learning and AI papers · scime atlas</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Ablation Studies`, `#Machine Learning Research`, `#Data Analysis`, `#AI Research`, `#Neural Networks`
+
+---
+
+<a id="item-ai-frontier-8"></a>
+### [Comprehensive Resources for Distributed Training of LLMs](https://www.reddit.com/r/MachineLearning/comments/1xyf6pr/curated_list_of_resources_theory_and_code_for/) ⭐️ 7.0/10
+
+A curated list of resources has been compiled for beginners to learn about distributed training for large language models. The list includes theoretical and practical resources, covering topics such as building distributed training frameworks, memory optimizations, and model parallelism.
+
+reddit · r/MachineLearning · /u/East-Muffin-6472 · Nov 17, 08:31
+
+**「Understanding Distributed Training for Large Language Models」** Distributed training is essential for training large language models \(LLMs\) due to the limitations of single-device computing power. This approach involves using multi-node distributed training in clusters, which has become a necessity for scaling up model sizes. The field has seen significant advancements, including innovations in training infrastructure with AI accelerators, networking, storage, and scheduling. Parallelism strategies and optimizations for computation, communication, and memory are crucial aspects of distributed LLM training, ensuring efficient and resilient training systems.
+
+**「Impact」** This collection of resources will be highly valuable for developers, researchers, and users interested in AI research and infrastructure, as it provides a comprehensive starting point for understanding and implementing distributed training for large language models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2949719125000500">Distributed training of large language models: A survey</a></li>
+<li><a href="https://arxiv.org/abs/2407.20018">[2407.20018] Efficient Training of Large Language Models on ... Efficient Training of Large Language Models on Distributed ... Efficient training of large language models on distributed ... GitHub - LambdaLabsML/distributed-training-guide: Best ... Distributed Training: How to train Large Language Models (LLM) 3. Kempner_LLM_Distributed_Training_Workshop_Handbook</a></li>
+<li><a href="https://arxiv.org/html/2407.20018v1">Efficient Training of Large Language Models on Distributed ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Distributed Training`, `#Large Language Models`, `#AI Research`, `#AI Infrastructure`
+
+---
+
+<a id="item-ai-frontier-9"></a>
+### [Marimba: A System One Model for Speech](https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/) ⭐️ 7.0/10
+
+Marimba, a System One model for speech, has been introduced, providing calibrated probabilities for various speech-related questions. It demonstrates promising results in specific tasks, such as term spotting, language identification, and speaker change detection, with some benchmarks matching or surpassing existing models like Qwen3-Omni.
+
+reddit · r/MachineLearning · /u/solanotodesch · Nov 16, 15:47
+
+**「Understanding Marimba: A System One Model for Speech」** Marimba is a System One model designed for speech recognition tasks. It utilizes a frozen Qwen3-ASR 0.6B encoder pass to process audio windows and provide calibrated probabilities for various speech-related questions. This model is capable of answering questions about term presence, turn completion, and language within an audio context. Marimba has demonstrated promising results in specific tasks, such as term spotting and turn-end detection, although it does not generalize to all unseen tasks. The model is built upon existing ASR technology and incorporates calibration techniques to enhance its accuracy.
+
+**「Impact」** The introduction of Marimba offers a new approach to speech recognition that could potentially improve the accuracy and reliability of speech-related applications, benefiting developers and researchers in creating more sophisticated and efficient speech processing systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.alphaxiv.org/abs/2611.18330">Marimba : A System One Model for Speech | alphaXiv</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#Speech Recognition`, `#Machine Learning`, `#Model Evaluation`
+
+---
+
+<a id="item-ai-frontier-10"></a>
+### [Chinese AI Firms Limit Offensive Cyber Capabilities in New Models](https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models) ⭐️ 7.0/10
+
+Major Chinese AI companies, including Alibaba and Tencent, have restricted offensive cyber capabilities in their latest models. This includes Alibaba&\#x27;s Qwen and Tencent&\#x27;s Hy4, which have had their offensive network functions reduced. These changes come in line with the Ministry of Commerce&\#x27;s proposed export control measures aimed at preventing the export of AI tools capable of attacking critical infrastructure and government networks.
+
+telegram · zaihuapd · Nov 17, 02:20
+
+**「Background on AI Export Controls in China」** The development of AI export controls in China has been a significant topic in recent years. In 2026, the Chinese Ministry of Commerce \(MOFCOM\) and the Ministry of Science and Technology \(MOST\) jointly issued a draft of the 48th Announcement of 2026, which proposed new export control measures for artificial intelligence technologies. These measures are part of the revised &\#x27;Catalogue of Technologies Banned or Limited for Export from the People&\#x27;s Republic of China&\#x27; and cover key technologies in fields such as artificial intelligence, biomedicine, and photovoltaics. The draft specifically mentions the restriction of AI tools capable of attacking critical infrastructure and government networks, as well as the inclusion of AI technologies with a training computation of ≥10^26 FLOPs, parameters ≥200 billion, or ranking in the top 10 globally as restricted for export. This context is crucial for understanding the recent actions of major Chinese AI companies like Alibaba and Tencent, which have restricted offensive cyber capabilities in their latest models in line with these proposed export controls.
+
+**「Impact」** The restriction of offensive cyber capabilities in AI models by these leading companies may lead to a more secure digital environment, as it reduces the potential for AI-powered cyber attacks on critical infrastructure and government networks.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.ai-research.news/zh/articles/china-announcement-48-of-2026-drafts-new-ai-export-controls">中国发布2026年第48号公告草案 拟出台新的人工智能出口管制措施 | AI-...</a></li>
+<li><a href="https://aicoder.com/zh/news/news-20261017-china-ai-export-control-draft-2t-params-agents-open-source-exempt">中国拟将 23 项 AI 技术列入出口管制：2 万亿参数或全球前 10 大模型...</a></li>
+<li><a href="https://www.secrss.com/articles/94806">人工智能技术出口管制：概念、分类、列管范围 - 安全内参 | 决策者的...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#AI Infrastructure`, `#AI Model Development`, `#Export Controls`
+
+---
+
+<a id="item-ai-frontier-11"></a>
+### [Google to Provide Advanced AI Models for Network Defense in Japan](https://cn.nikkei.com/industry/itelectric-appliance/64742-2026-11-17-09-16-25.html) ⭐️ 7.0/10
+
+Google plans to expand its advanced AI model provision framework, initiated in September, to include the Japanese government and key infrastructure operators. This move aims to combat the rising cyberattack losses in Japan, with the AI models primarily targeting network defense.
+
+telegram · zaihuapd · Nov 17, 03:43
+
+**「Background on Google&\#x27;s Advanced AI Model for Network Defense」** Google, a developer of high-performance AI models, initiated the &\#x27;Fairwind&\#x27; plan in September, aimed at providing advanced models for network defense. Initially, this plan was primarily targeted at US government institutions and cybersecurity companies. The plan&\#x27;s expansion to include the Japanese government and key infrastructure operators in Japan is a significant development in the field of AI and cybersecurity, particularly in the context of addressing the increasing losses from cyberattacks in Japan.
+
+**「Impact」** This development is expected to enhance network defense capabilities in Japan, potentially reducing the impact of cyberattacks on critical infrastructure and the government.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://cn.nikkei.com/industry/itelectric-appliance/64742-2026-11-17-09-16-25.html">谷歌或提前向日本提供尖端AI模型助力网络防御 日经中文网</a></li>
+<li><a href="https://linux.do/t/topic/3189577">谷歌或提前向日本提供尖端AI模型助力网络防御 - 前沿快讯 - LINUX DO</a></li>
+<li><a href="https://finance.sina.com.cn/roll/2026-11-17/doc-iniyzhhi5462841.shtml">谷歌或提前向日本提供尖端AI模型助力网络防御_新浪财经_新浪网</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI in cybersecurity`, `#Google AI`, `#Japan`, `#Network defense`, `#Cybersecurity infrastructure`
+
+---
+
+<a id="item-ai-frontier-12"></a>
+### [China Achieves Record-Breaking 27 Gbps Wireless Communication in Q/V Band](https://www.news.cn/tech/20261117/d6323540dccf4e2a976c48a762795956/c.html) ⭐️ 7.0/10
+
+China has achieved a significant breakthrough in Q/V band wireless communication by validating the highest code rate, reaching a bidirectional rate of 27 Gbps. This experiment, conducted at the Lijiang China Remote Sensing Satellite Ground Station, marks a new domestic record and positions China at the forefront of international advancements in this field.
+
+telegram · zaihuapd · Nov 17, 08:45
+
+**「Background on 6G Technology and Satellite Internet」** The development of 6G technology is a significant advancement in mobile communications, with the International Telecommunication Union \(ITU-R\) coordinating its development within the IMT-2030 framework. This upcoming generation aims to build upon the successes of 5G and introduce new technologies such as THz frequencies. Concurrently, satellite internet is being developed in China to address global competition for low Earth orbit spectrum and orbital resources, ensuring national defense security and promoting the development of 6G through &\#x27;space-air-ground integration&\#x27;.
+
+**「Impact」** This achievement is expected to have a concrete impact on developers and researchers by providing a strong foundation for the development of 6G technology and satellite internet, potentially leading to faster and more efficient communication systems in the future.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/6G">6G - Wikipedia</a></li>
+<li><a href="https://electronics.alibaba.com/buyingguides/china-satellite-internet-guide-qianfan-vs-starlink">China Satellite Internet Guide: What to Know in 2026</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Wireless Communication`, `#6G Technology`, `#Satellite Internet`, `#Research Breakthrough`, `#China`
 
 ---
 
 ## IT &amp; Open Source
 
 <a id="item-it-opensource-1"></a>
-### [微软Windows Bug引发宕机事故](https://www.solidot.org/story?sid=85903) ⭐️ 8.0/10
+### [Ling Sheng Supercomputer Tops November 2026 Top500 List](https://www.solidot.org/story?sid=85913) ⭐️ 9.0/10
 
-微软公布了一个隐藏的Windows Bug，该Bug导致持续逾一天的宕机事故。这个Bug是在今年7月部署的针对Microsoft 365网络网关服务器的修正中引入的，特定流量条件下会耗尽处理器和内存资源。
+The Ling Sheng supercomputer from Shenzhen National Supercomputing Center has topped the November 2026 Top500 list, achieving a significant milestone in high-performance computing with its performance of 2.198 Exaflop/s using CPU alone.
 
-rss · Solidot · Nov 16, 15:00
+rss · Solidot · Nov 17, 09:54
 
-**「Background on the Hidden Windows Bug」** The hidden Windows bug that triggered the outage was introduced in a July update to Microsoft 365 network gateway servers. The bug, which caused a lock contention issue among multiple internal processes, led to soaring CPU and memory usage until the system became unresponsive. This issue was not detected during Microsoft&\#x27;s testing, as it was conducted on hardware with weaker performance, and the problem became more significant on newer hardware with more cores. The bug was triggered under specific traffic conditions when Teams traffic was migrated from a backup gateway to a shared main gateway used by Exchange Online, and when an unrelated issue left 14% of gateway server capacity unavailable. This combination of conditions led to service disruptions that spread across multiple regions within two hours, with over 80% of servers becoming unresponsive at the peak.
+**「Background on Top500 List and Supercomputing」** The Top500 list is a well-known ranking of the world&\#x27;s most powerful supercomputers, published twice a year. It provides a comprehensive overview of the state of high-performance computing. Supercomputers, like the Ling Sheng, are highly specialized computers designed to handle complex calculations at a much higher rate than a regular computer. The Ling Sheng supercomputer, hosted at the Shenzhen National Supercomputing Center, is a significant example of Chinese advancements in high-performance computing, having become operational in the first half of 2026.
 
-**「Impact」** 这次事故强调了及时了解软件工程和开源新闻的重要性，特别是对于IT专业人员和开发者来说，这有助于他们避免类似的宕机事故。
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.163.com/dy/article/LBU76OIB0511CPVM.html">根源找到了！微软365全球大宕机真相：藏了3个月的BUG干垮80%服务器|网...</a></li>
-<li><a href="https://www.sohu.com/a/1102620611_121124358">微软高管解释Microsoft 365服务为何全球宕机：三重故障引发连锁反应</a></li>
-<li><a href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026">Microsoft blames monster email outage on software defect ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Windows Bug`, `#Outage`, `#Software Engineering`, `#IT Security`, `#Open Source`
-
----
-
-<a id="item-it-opensource-2"></a>
-### [U.S. Large-Scale Data Centers&\#x27; Energy Consumption Equivalent to Some States](https://www.solidot.org/story?sid=85907) ⭐️ 7.0/10
-
-A study published in &\#x27;Nature Sustainability&\#x27; reveals that the electricity consumption of large-scale data centers in the U.S. is comparable to that of some states, with a significant portion of the power coming from fossil fuels. The research estimates the annual energy use of 403 such data centers and finds that their electricity consumption ranges from 68 to 99 TWh, nearly matching the total annual electricity use of states like Indiana, Michigan, and Tennessee. The data centers accounted for 1.8% of the U.S.&\#x27;s total electricity consumption and produced approximately 25.7 million metric tons of CO2 emissions during the study period.
-
-rss · Solidot · Nov 17, 06:11
-
-**「Energy Consumption of Large-Scale Data Centers in the U.S.」** Large-scale data centers in the United States consume a significant amount of electricity, with their total energy consumption comparable to that of some states. These data centers, which support services like cloud computing, large-scale model training, and global deployment of AI tools, primarily rely on fossil fuels for power. A study using satellite imagery analyzed 403 large-scale data centers in the U.S. and estimated their annual energy consumption and carbon emissions during a specific period. The study found that the total electricity consumption of these data centers ranged from 68 to 99 terawatt-hours, with a significant portion of the power coming from fossil fuels, mainly natural gas and coal.
-
-**「Impact on Developers and Organizations」** Developers and organizations must now consider the significant environmental impact of their data center operations, as the energy consumption of these centers is comparable to that of some states. This raises concerns about carbon emissions and sustainability, compelling them to explore more energy-efficient and renewable energy sources for their data centers.
+**「Impact on High-Performance Computing」** The topping of the Top500 list by the Ling Sheng supercomputer signifies a major technological milestone in high-performance computing. This achievement highlights the advancement of CPU technology, as Ling Sheng is the first supercomputer in the Top500 list to achieve over 2 Exaflops of sustained double-precision floating-point performance using only CPUs. This development could potentially influence the direction of future supercomputer designs and the balance between CPU and GPU-based systems in high-performance computing.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Energy_in_the_United_States">Energy in the United States - Wikipedia</a></li>
-<li><a href="https://www.eia.gov/energyexplained/us-energy-facts/">U.S. energy facts explained - consumption and production - U ...</a></li>
-<li><a href="https://www.eia.gov/energyexplained/us-energy-facts/data-and-statistics.php">U.S. energy facts - data and statistics - U.S. Energy ... United States - Energy Sources &amp; Mix - IEA Top Stories What percentage of United States’s energy comes from fossil ... Fossil - Department of Energy Energy in the United States - Wikipedia United States Electricity &amp; Energy Mix 2025-2026 | Generation ...</a></li>
-<li><a href="https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html">Carbon Emissions of Biggest U . S . Data Centers Already Rival Entire...</a></li>
-<li><a href="https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/">We did the math on AI’ s energy footprint. | MIT Technology Review</a></li>
-<li><a href="https://www.bisnow.com/national/news/data-center/very-concerning-and-very-poor-data-centers-still-arent-tracking-critical-emissions-data-125328">&#x27;Very Concerning&#x27;: Data Centers Still Far Behind On Tracking...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LineShine">LineShine - Wikipedia</a></li>
+<li><a href="https://baike.baidu.com/en/item/Lingsheng/2240293">Lingsheng_Baiduwiki</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High-performance_computing">High - performance computing - Wikipedia</a></li>
+<li><a href="https://www.ainchina.com/blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/">LingSheng &#x27;s Bet Against GPUs: How China&#x27;s CPU-Only...</a></li>
+<li><a href="https://www.nvidia.com/en-us/">World Leader in Artificial Intelligence Computing | NVIDIA</a></li>
+<li><a href="https://ru.wikipedia.org/wiki/Top500">Top 500 — Википедия</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Data Center Energy Consumption`, `#Environmental Impact`, `#Sustainability`, `#Tech Industry`, `#Carbon Emissions`
+**Tags**: `#High-Performance Computing`, `#Supercomputing`, `#Top500 List`, `#Technology Milestone`, `#AI Hardware`
+
+---
+
+<a id="item-it-opensource-2"></a>
+### [微软 Windows Bug 导致 Microsoft 365 服务宕机](https://www.solidot.org/story?sid=85903) ⭐️ 8.0/10
+
+微软公布了一个隐藏的 Windows Bug，该 Bug 导致了 Microsoft 365 服务持续超过一天的宕机事故。这个 Bug 是在针对 Microsoft 365 网络网关服务器的修正中引入的，特定流量条件下会耗尽处理器和内存资源。
+
+rss · Solidot · Nov 16, 15:00
+
+**「Background on the Hidden Windows Bug」** The hidden Windows bug that triggered the outage in Microsoft 365 services was a lock contention issue within a Windows internal process. This issue occurred when multiple tasks within the process were competing for access to shared resources, leading to exhaustion of processor and memory resources under specific traffic conditions. The bug was introduced by a correction deployed in July for Microsoft 365 network gateway servers and was not discovered during initial testing due to its manifestation on hardware with more cores. The outage was exacerbated by the migration of Teams traffic from a backup gateway to a shared main gateway and an unrelated issue that left 14% of gateway server capacity unavailable. This combination of conditions led to service disruptions across multiple regions, with over 80% of servers becoming unresponsive at the peak of the outage.
+
+**「Impact」** 这一事件突显了软件工程和开源新闻的重要性，特别是对于广泛用户基础的软件漏洞和宕机事故的及时了解。
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause">What Caused the Microsoft 365 Outage of November 12, 2026</a></li>
+<li><a href="https://cybersecuritynews.com/massive-microsoft-365-outage/">Massive Microsoft 365 Outage Impacts Exchange Online, Teams ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Windows Bug`, `#Outage`, `#Microsoft 365`, `#Software Engineering`, `#Open Source`
 
 ---
 
 <a id="item-it-opensource-3"></a>
-### [微软下一代Xbox支持PC游戏](https://www.solidot.org/story?sid=85902) ⭐️ 7.0/10
+### [Caltech Professor Stops Grading Homework Based on Correctness Due to AI](https://www.solidot.org/story?sid=85914) ⭐️ 7.0/10
 
-微软下一代游戏机Project Helix将支持主机和PC游戏，旨在弥合两者之间的差距。该游戏机采用基于AMD Zen6 CPU + RDNA5 GPU的定制APU，与PC使用的APU相似，但具体兼容第三方PC游戏启动器如Steam和Epic的细节尚不明确。
+California Institute of Technology professor Yi Ni has stopped grading homework based on correctness due to the prevalence of AI in completing mathematical assignments. Professor Ni now assesses homework completion rather than accuracy, acknowledging the ease with which AI can solve mathematical problems.
 
-rss · Solidot · Nov 16, 14:13
+rss · Solidot · Nov 17, 10:22
 
-**「Background on Microsoft&\#x27;s Next-Generation Xbox, Project Helix」** Microsoft&\#x27;s next-generation Xbox, known as Project Helix, is designed to be a hybrid gaming console that can play both console and PC games. This marks a significant development in the gaming industry, as it aims to bridge the gap between console and PC gaming experiences. Project Helix utilizes a custom APU based on AMD Zen6 CPU and RDNA5 GPU, which is similar to the APUs used in PCs, although with a higher number of RDNA5 CUs in the console version. This similarity suggests that playing PC games on the console should be feasible. The focus of Project Helix is to provide a seamless and intuitive gaming experience, removing barriers and friction that have traditionally existed between console and PC gaming. However, the details regarding compatibility with third-party PC game launchers like Steam and Epic are still unclear.
+**「Background on AI Integration in Mathematics Education」** The integration of Artificial Intelligence \(AI\) into mathematics education has been a topic of growing interest among scholars and educators worldwide. Studies have highlighted the impact of AI on mathematics proficiency, particularly through AI-driven tutoring tools and applications that offer immediate feedback and support performance in mathematics assessments. These tools have been shown to have positive effects on students&\#x27; mathematics achievement and performance, especially in experimental or quasi-experimental study designs.
 
-**「Impact on Developers and Organizations」** The introduction of the next-generation Xbox, Project Helix, which is designed to play both console and PC games, could significantly impact developers and organizations by potentially reducing the need for separate console and PC versions of games. This could streamline development processes and potentially lower costs, as developers may be able to release a single version of a game that works on both platforms.
-
-**「Community Discussion」** 目前社区中尚未出现关于Project Helix的具体讨论。
+**「Impact」** This change in grading policy has significant implications for educators, as it forces a reevaluation of traditional assessment methods in the context of AI&\#x27;s growing influence on education.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://project-helix.net/specs/">Project Helix Specs: Xbox Helix RAM, GPU, FPS &amp; Teraflops</a></li>
-<li><a href="https://wccftech.com/roundup/xbox-next-gen-console-project-helix-everything-we-know/">Xbox Project Helix: Release Date, Specs, Price &amp; Everything ...</a></li>
-<li><a href="https://www.geeky-gadgets.com/next-generation-xbox-helix/">Xbox Project Helix Targeted 2027 Release and Specs - Geeky ...</a></li>
-<li><a href="https://www.eurogamer.net/microsoft-project-helix-interview-details">The next Xbox, Project Helix , is a console and &quot;not a PC &quot; says...</a></li>
-<li><a href="https://showgamer.com/en/news/9441-microsoft-obyasnila-chem-novaya-xbox-project-helix-budet-otlichatsya-ot-obychnogo-pk">Microsoft Says Project Helix Is a Console First, Not a Gaming PC</a></li>
-<li><a href="https://www.goodshepherd-asiapacific.org.au/project-helix-microsoft-reveals-the-first-images-of-the-next-gen-xbox/">Project Helix : Microsoft reveals the first images of the next‑gen Xbox</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2590291126007126">AI integration in mathematics education: A systematic review ...</a></li>
+<li><a href="https://www.researchgate.net/publication/382257831_AI-Based_Tools_in_Mathematics_Education_A_Systematic_Review_of_Characteristics_Applications_and_Evaluation_Methods">(PDF) AI-Based Tools in Mathematics Education: A Systematic ...</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s44217-026-01872-5">Effectiveness of AI-based tutoring and assessment systems in ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Xbox`, `#Project Helix`, `#PC Gaming`, `#Console Gaming`, `#Microsoft`
+**Tags**: `#AI in Education`, `#Educational Assessment`, `#Mathematics`, `#Technology Impact`, `#Higher Education`
 
 ---
 
 <a id="item-it-opensource-4"></a>
-### [Internet Archive Launches Salon Explorer](https://www.solidot.org/story?sid=85898) ⭐️ 7.0/10
+### [Carnegie Mellon Free Open Computer Science Courses](https://www.solidot.org/story?sid=85912) ⭐️ 7.0/10
 
-The Internet Archive has launched an experimental tool called Salon Explorer, designed to explore the historical content of Salon, an influential online publication that ceased publication after 31 years. The tool allows users to delve into over 250,000 articles from Salon&\#x27;s archive, which has been meticulously archived by the Internet Archive&\#x27;s Wayback Machine for nearly 30 years.
+Carnegie Mellon University has launched the CS Learn platform, a free open computer science course offering, similar to MIT&\#x27;s OpenCourseWare from 25 years ago. The platform provides free computer science \(CS\) courses and teaching videos hosted on YouTube, with plans to upload complete semester syllabi from the university&\#x27;s computer science department, covering various topics.
 
-rss · Solidot · Nov 16, 08:24
+rss · Solidot · Nov 17, 09:25
 
-**「Background on Salon Magazine and Internet Archive&\#x27;s Archive」** Salon was an American politically progressive news and opinion website that operated from 1995 to 2026. It was a significant publication in the early days of the internet, known for its articles on U.S. politics, culture, and current events. The Internet Archive, which has been archiving Salon&\#x27;s content for nearly 30 years, has launched an experimental tool called Salon Explorer. This tool allows users to explore the historical content of Salon, which includes over 250,000 articles, making it easier to dig into the publication&\#x27;s extensive archive and discover past content.
+**「Carnegie Mellon University&\#x27;s CS Learn Platform」** Carnegie Mellon University has launched the CS Learn platform, a free open computer science course offering that resembles MIT&\#x27;s OpenCourseWare from 25 years ago. The platform provides access to computer science \(CS\) related courses and teaching videos hosted on YouTube. The university plans to upload complete semester lecture notes from its computer science department, covering a range of topics, with a new course being added each day this week. Additional courses are expected to be available in January next year.
 
-**「Impact」** This tool provides valuable access to the historical content of Salon for researchers and individuals interested in the evolution of online publishing, offering a comprehensive resource for studying the development of digital media over the past three decades.
+**「Impact」** The free open computer science courses from Carnegie Mellon University offer valuable educational resources, particularly for those interested in programming languages and developer tools. They represent a significant contribution to the open source ecosystem and are likely to have a high value for learners.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Salon_%28website%29">Salon (website) - Wikipedia</a></li>
-<li><a href="https://www.sfgate.com/entertainment/article/online-magazine-salon-an-early-staple-of-22515099.php">Online magazine Salon , an early staple of internet discourse...</a></li>
-<li><a href="https://www.salon.com/">Salon .com - News, Politics, Culture, Science &amp; Food</a></li>
+<li><a href="https://www.youtube.com/@CMULearn">CS Learn at Carnegie Mellon - YouTube</a></li>
+<li><a href="https://learncs.me/curriculum/cmu/">Carnegie Mellon University | Learn CS</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50522980">Carnegie Mellon is putting computer science courses... | Hacker News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Internet Archive`, `#Salon Magazine`, `#Online Publishing`, `#Historical Content`, `#Digital Archive`
+**Tags**: `#Education`, `#Open Source`, `#Computer Science`, `#Online Courses`, `#Carnegie Mellon`
+
+---
+
+<a id="item-it-opensource-5"></a>
+### [富岳运行系统遭非法访问](https://www.solidot.org/story?sid=85911) ⭐️ 7.0/10
+
+Japan&\#x27;s Riken&\#x27;s supercomputer Fugaku&\#x27;s operating system has been illegally accessed, potentially exposing user information. The supercomputer, used by research institutions and the industry, has been suspended due to the security breach, with the recovery time uncertain.
+
+rss · Solidot · Nov 17, 08:35
+
+**「Background」** The Fugaku supercomputer, operated by Japan&\#x27;s Riken, has been subject to unauthorized access, potentially leading to the exposure of user information. Fugaku is a high-performance computing system used by universities, research institutions, and the industry. The unauthorized access has prompted the suspension of Fugaku&\#x27;s operations, with an uncertain recovery timeline. The affected system is one that users must connect to when applying for access to Fugaku. The extent of the damage depends on the amount of personal information users have registered.
+
+**「Impact」** The illegal access to Fugaku&\#x27;s operating system could have significant consequences for users, potentially leading to the exposure of sensitive information, affecting both research institutions and the industry.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://china.kyodonews.net/articles/-/18362">日本理研超算“ 富 岳 ” 运 行 系 统 遭 非 法 访 问 | 共同网</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Security Advisory`, `#Supercomputer`, `#Cybersecurity`, `#Research Institution`, `#Open Source`
+
+---
+
+<a id="item-it-opensource-6"></a>
+### [FBI Warns of Artex AI-Driven Tool for Rapid Network Intrusions](https://www.solidot.org/story?sid=85910) ⭐️ 7.0/10
+
+The FBI has issued a warning about the use of Artex, an AI-driven penetration testing tool, which hackers are utilizing to rapidly infiltrate networks in less than three hours. The tool has been linked to attacks on South Korean financial institutions, at least 2,250 ConnectWise customers, and Barracuda. Originally an open-source tool, Artex was converted to a closed-source project, but its open-source version remains readily available online.
+
+rss · Solidot · Nov 17, 08:07
+
+**「Background on Artex AI-Driven Penetration Testing Tool」** Artex is an AI-driven penetration testing tool that has gained attention due to its ability to rapidly scan networks and exploit vulnerabilities. Initially developed as an open-source tool, Artex was later converted to a closed-source format by its developers. Despite this, the open-source version of Artex remains readily available online. The tool is capable of automating various phases of cyber intrusions, making it a concern for cybersecurity professionals. It has been associated with attacks on Korean financial institutions, numerous ConnectWise customers, and Barracuda Company. The use of Artex in these attacks highlights the potential for rapid network intrusions and the need for robust cybersecurity measures.
+
+**「Impact」** This development poses a significant security concern for various industries, as the Artex tool can exploit simple security vulnerabilities to gain a foothold in networks and access sensitive information.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">AI-driven, large-scale nation-state campaign using ARTEX ...</a></li>
+<li><a href="https://www.ic3.gov/CSA/2026/261113.pdf">Threat Overview of ARTEX Autonomous Penetration Testing Framework</a></li>
+<li><a href="https://github.com/BaaRai/ARTEX">GitHub - BaaRai/ARTEX: ARTEX - AI autonomous penetration ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Security Advisory`, `#Cybersecurity`, `#Open Source`, `#Network Security`, `#AI in Security`
+
+---
+
+<a id="item-it-opensource-7"></a>
+### [Windows Collects User Programming Activity Data](https://www.solidot.org/story?sid=85908) ⭐️ 7.0/10
+
+A DLL file in Windows, MissionControlAggregator.dll, has been discovered to record user activity with programming agents and developer tools, potentially raising privacy concerns. This file, a running Windows component, saves recorded information locally and reports it to the Windows diagnostic system unless users opt out of diagnostic data collection, which is enabled by default.
+
+rss · Solidot · Nov 17, 06:50
+
+**「Background on Windows Collecting User Activity Data」** Windows 11 includes a DLL file named MissionControlAggregator.dll, which is designed to record user activity involving programming agents and developer tools. This component monitors the usage of various programming agents such as codex.exe, claude.exe, copilot.exe, and cursor.exe, as well as developer tools like python.exe, dotnet.exe, gcc.exe, and code.exe. The collected data is stored locally and can be reported to Windows diagnostics if the user has not opted out of diagnostic data collection, which is enabled by default. This discovery was made through reverse engineering efforts and highlights the potential for Windows to collect detailed user activity data, raising concerns about privacy and the use of AI in software development.
+
+**「Impact」** This discovery may lead to increased awareness and discussions around privacy and data collection practices in software development environments, potentially prompting developers and organizations to reassess their privacy policies and data handling practices.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/">Windows 11 Is Collecting Data on Which Coding Agents and ...</a></li>
+<li><a href="https://sitem.co/public/summary/7615/windows-11-missioncontrolaggregator-collects-coding-agent-and-developer-tool-usage-data">Windows 11 MissionControlAggregator Collects Coding Agent and ...</a></li>
+<li><a href="https://pcmasterinsider.com/windows-11-telemetry-tracking-coding-agents/">Windows 11 Component Discovered Tracking Coding Agents and ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Windows`, `#Privacy`, `#AI in Software`, `#Security`, `#Open Source`
+
+---
+
+<a id="item-it-opensource-8"></a>
+### [US Large-Scale Data Centers&\#x27; Energy Consumption Equivalent to Some States](https://www.solidot.org/story?sid=85907) ⭐️ 7.0/10
+
+A study published in &\#x27;Nature Sustainability&\#x27; reveals that the electricity consumption of large-scale data centers in the US is comparable to that of some states, with a significant portion of the power coming from fossil fuels. The research estimates the annual energy use of 403 such data centers and finds that their electricity consumption ranges from 68 to 99 TWh, nearly matching the total annual electricity use of states like Indiana, Michigan, and Tennessee. The data centers accounted for 1.8% of the US&\#x27;s total electricity consumption and produced approximately 25.7 million metric tons of CO2 emissions during the study period.
+
+rss · Solidot · Nov 17, 06:11
+
+**「Energy Consumption of Large-Scale Data Centers」** Large-scale data centers in the United States consume electricity comparable to that of some states. These centers, which support services like cloud computing, large-scale model training, and global deployment of AI tools, primarily rely on fossil fuels for power. A study using satellite imagery analyzed 403 large-scale data centers in the U.S., estimating their annual energy consumption under different operating loads and calculating their carbon emissions based on the energy composition of the local power grids. The study found that the total electricity consumption of these data centers ranged from 68 to 99 terawatt-hours \(TWh\) depending on the operating load, with the upper limit approaching the total annual electricity consumption of states like Indiana, Michigan, and Tennessee. During the study period, these data centers accounted for 1.8% of the U.S.&\#x27;s total electricity consumption and produced about 25.7 million metric tons of carbon dioxide emissions. Researchers believe that the current electricity demand and carbon emissions of data centers may be significantly higher than the levels during the study period. The study also found that approximately 54% of the electricity required by large-scale data centers comes from fossil fuels, primarily natural gas \(38%\) and coal \(15%\), with a quarter of the electricity coming from regions with higher-than-average grid carbon emissions.
+
+**「Impact」** The study highlights the environmental impact of large-scale data centers, as their energy demands and carbon emissions are significant. This finding may influence energy policies and the push for more sustainable energy sources for data centers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.unite.ai/zh-cn/harvard-study-finds-fossil-fuels-power-most-us-hyperscale-data-centers/">哈佛研究发现，美国大多数超大规模数据中心由化石燃料供电</a></li>
+<li><a href="https://www.nature.com/articles/s41893-026-01985-7">Assessing the carbon emissions and energy consumption of US ...</a></li>
+<li><a href="https://www.solidot.org/story?sid=85907">奇客Solidot | 美国超大规模数据中心的用电量与部分州的总用电量相当</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Data Center`, `#Energy Consumption`, `#Environmental Impact`, `#Technology`, `#Open Source`
+
+---
+
+<a id="item-it-opensource-9"></a>
+### [微软下一代Xbox支持跨平台游戏](https://www.solidot.org/story?sid=85902) ⭐️ 7.0/10
+
+微软下一代游戏机，代号为Project Helix，将支持主机和PC游戏，标志着跨平台游戏的重要进展。该游戏机采用基于AMD Zen6 CPU和RDNA5 GPU的定制APU，与PC使用的APU相似，但游戏机配备的RDNA5 CU数量更多，从而使其能够流畅地玩PC游戏。
+
+rss · Solidot · Nov 16, 14:13
+
+**「Background on AMD Zen6 CPU and RDNA5 GPU」** The AMD Zen6 CPU and RDNA5 GPU are significant technological advancements in the semiconductor industry. The Zen6 CPU is known for its high clock speeds and core counts, while the RDNA5 GPU is designed for high-performance graphics and AI applications. These technologies have been widely adopted in gaming consoles and PCs, offering improved performance and capabilities. The integration of these components in the next-generation Xbox, Project Helix, indicates a move towards more powerful and versatile gaming platforms.
+
+**「Impact」** 这一变化将为玩家提供更广泛的游戏选择，并可能促进游戏开发者在主机和PC平台之间共享资源，从而降低开发成本和提高游戏的可访问性。
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.kad8.com/news/amd-financial-analyst-day-2025-what-to-expect-from-zen-6-rdna-5-and-ai-innovations/">AMD Financial Analyst Day 2025: Zen 6 , RDNA 5 , and AI Roadmap</a></li>
+<li><a href="https://www.youtube.com/watch?v=970JyCapx8A">AMD Zen 6 Specs Leak: 6GHz+ TSMC N2X, 26 Cores... - YouTube</a></li>
+<li><a href="https://overclock3d.net/news/misc/ps6-canis-handheld-specifications-leak-zen-6-rdna-5-and-more/">PS6 &quot;Canis&quot; Handheld Specifications Leak - OC3D</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Xbox`, `#Project Helix`, `#Cross-Platform Gaming`, `#AMD Zen6`, `#RDNA5 GPU`
 
 ---
