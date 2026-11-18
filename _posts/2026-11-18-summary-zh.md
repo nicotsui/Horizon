@@ -5,477 +5,598 @@ date: 2026-11-18
 lang: zh
 ---
 
-> 从 315 条内容中筛选出 40 条重要资讯。
+> 从 345 条内容中筛选出 40 条重要资讯。
 
 ---
-
-**A 股与宏观**
-1. [腾讯 Q3 业绩前瞻：利润或结束 16 连增，AI 开支与现金流成重估焦点](#item-cn-macro-1) ⭐️ 7.0/10
-2. [英伟达财报提振韩股，黄金跌破 3800 美元，美债走强，油价下跌](#item-cn-macro-2) ⭐️ 7.0/10
-3. [谷歌系 AI 制药公司融资 50 亿美元，较上轮翻倍](#item-cn-macro-3) ⭐️ 7.0/10
-4. [AI 抛售潮里，SpaceX 凭什么扛住了？](#item-cn-macro-4) ⭐️ 7.0/10
-5. [BIS 新规对全球算力格局的影响](#item-cn-macro-5) ⭐️ 7.0/10
-6. [习近平支持成立世界湾区经济合作联盟](#item-cn-macro-6) ⭐️ 7.0/10
 
 **全球市场**
-1. [美国官员称美军袭击伊朗导弹发射场](#item-global-market-1) ⭐️ 9.0/10
-2. [JPMorgan 与 Hyundai Card 测试 AI 代理交易](#item-global-market-2) ⭐️ 7.0/10
-3. [英伟达股价上涨，强劲业绩缓解 CEO 过渡担忧](#item-global-market-3) ⭐️ 7.0/10
-4. [亚洲股市有望终结连跌势头，Anthropic 动向备受关注](#item-global-market-4) ⭐️ 7.0/10
-5. [加拿大寻求与中国重启贸易合作](#item-global-market-5) ⭐️ 7.0/10
-6. [习近平呼吁实现自由开放的贸易](#item-global-market-6) ⭐️ 7.0/10
-7. [英国在周五会谈前阐明了英欧峰会一揽子方案的范围](#item-global-market-7) ⭐️ 7.0/10
-8. [美国国家安全通信网络瘫痪可能影响全球金融市场](#item-global-market-8) ⭐️ 7.0/10
-9. [塞拉斯疫苗临床试验结果积极，股价上涨](#item-global-market-9) ⭐️ 7.0/10
-10. [英伟达财报后股价波动预测](#item-global-market-10) ⭐️ 7.0/10
-11. [中国表示，如果美国实施新的芯片限制措施，中方将采取反制措施](#item-global-market-11) ⭐️ 7.0/10
-12. [四方领导人反对经济胁迫和破坏和平的单边行动](#item-global-market-12) ⭐️ 7.0/10
-13. [伊拉克领导人计划镇压亲伊朗民兵组织，风险极高](#item-global-market-13) ⭐️ 7.0/10
-14. [独家报道：尽管亚马逊、谷歌和 Meta 展开游说，特朗普限制中国数据中心的举措仍在推进](#item-global-market-14) ⭐️ 7.0/10
-15. [美国中期选举引发能源风险重新思考](#item-global-market-15) ⭐️ 7.0/10
-16. [联合国报告：今年苏丹战争中近四分之三死亡由无人机造成](#item-global-market-16) ⭐️ 7.0/10
-17. [蒙古国总统因涉嫌腐败宣布辞职](#item-global-market-17) ⭐️ 7.0/10
-18. [印尼政治动荡加剧市场焦虑](#item-global-market-18) ⭐️ 7.0/10
-19. [欧洲 LNG 争夺战对亚洲天然气市场造成冲击](#item-global-market-19) ⭐️ 7.0/10
-20. [俄罗斯原油出口达到四个月高点](#item-global-market-20) ⭐️ 7.0/10
-21. [布伦特原油价格受霍尔木兹海峡油轮袭击影响，接近 93 美元](#item-global-market-21) ⭐️ 7.0/10
+1. [美联储官员呼吁采取激进措施应对通胀](#item-global-market-1) ⭐️ 9.0/10
+2. [美国官员称美军袭击伊朗导弹发射场](#item-global-market-2) ⭐️ 9.0/10
+3. [JPMorgan 与 Hyundai Card 测试 AI 代理交易](#item-global-market-3) ⭐️ 7.0/10
+4. [独家报道：沙特为持续至 2027 年的也门军事行动做准备](#item-global-market-4) ⭐️ 7.0/10
+5. [英格兰银行提议改革以增强银行资本缓冲](#item-global-market-5) ⭐️ 7.0/10
+6. [英伟达业绩预期提振纳斯达克期货及 AI 相关交易](#item-global-market-6) ⭐️ 7.0/10
+7. [特朗普政府考虑强制美国企业披露人工智能技术在中国的应用情况](#item-global-market-7) ⭐️ 7.0/10
+8. [华尔街为 Anthropic IPO 做准备，尽管 AI 股票整体走低](#item-global-market-8) ⭐️ 7.0/10
+9. [英伟达停止向中国出口经美国批准的人工智能芯片](#item-global-market-9) ⭐️ 7.0/10
+10. [特朗普出席亚太经合组织峰会](#item-global-market-10) ⭐️ 7.0/10
+11. [加拿大调整对华关系以与美国达成协议](#item-global-market-11) ⭐️ 7.0/10
+12. [缅甸军方支持的领导人重新考虑与东盟的关系](#item-global-market-12) ⭐️ 7.0/10
+13. [中国燃气与 Venture Global 签署 20 年液化天然气协议，供气量翻倍](#item-global-market-13) ⭐️ 7.0/10
+14. [币安计划进军亚洲市场](#item-global-market-14) ⭐️ 7.0/10
+15. [加拿大寻求与中国重启贸易合作](#item-global-market-15) ⭐️ 7.0/10
+16. [英国在周五会谈前阐明了英欧峰会一揽子方案的范围](#item-global-market-16) ⭐️ 7.0/10
+17. [伊朗战争僵局加剧，特朗普与德黑兰时间赛跑](#item-global-market-17) ⭐️ 7.0/10
+18. [美国首次失去麻疹消除地位](#item-global-market-18) ⭐️ 7.0/10
+19. [美国国家安全通信网络瘫痪可能影响全球金融市场](#item-global-market-19) ⭐️ 7.0/10
+20. [塞拉斯疫苗临床试验结果积极，股价上涨](#item-global-market-20) ⭐️ 7.0/10
+21. [英伟达财报后股价波动预测](#item-global-market-21) ⭐️ 7.0/10
+22. [中国表示，如果美国实施新的芯片限制措施，中方将采取反制措施](#item-global-market-22) ⭐️ 7.0/10
+23. [四方领导人反对经济胁迫和破坏和平的单边行动](#item-global-market-23) ⭐️ 7.0/10
+24. [美联储库克律师威胁不参加白宫听证会](#item-global-market-24) ⭐️ 7.0/10
+25. [欧盟加速可再生能源项目以应对油价飙升](#item-global-market-25) ⭐️ 7.0/10
+26. [欧洲 LNG 争夺战对亚洲天然气市场造成冲击](#item-global-market-26) ⭐️ 7.0/10
+27. [古巴能源危机成为美国燃料出口商的机遇](#item-global-market-27) ⭐️ 7.0/10
+28. [资源限制是否助长了全球冲突的加剧？](#item-global-market-28) ⭐️ 7.0/10
+29. [中韩自贸协定服务投资后续谈判实质性结束](#item-global-market-29) ⭐️ 7.0/10
 
 **AI 前沿**
-1. [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol](#item-ai-frontier-1) ⭐️ 9.0/10
-2. [Java4Shell：OpenJDK 处理 Base64 时的 RCE 漏洞](#item-ai-frontier-2) ⭐️ 7.0/10
-3. [MAI Code 2 and Code 2 Flash](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [谷歌 AI 回答减少搜索流量 40%](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [Solid 2.0](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [Datasette Lite 浏览器运行完整服务器端 Python 应用](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [可灵 AI 发布 Kling Image 4.0 图像模型](#item-ai-frontier-7) ⭐️ 7.0/10
+1. [OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol](#item-ai-frontier-1) ⭐️ 9.0/10
+2. [FlyDSL MonoKernels 在 vLLM 中实现高交互性解码](#item-ai-frontier-2) ⭐️ 8.0/10
+3. [基于能量的推理器：比传统方法高效 385 倍](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [Java4Shell: OpenJDK 处理 Base64 时的 RCE 漏洞分析](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [MAI Code 2 and Code 2 Flash](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [Solid 2.0 发布更新](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [哈佛研究人员发现 AI 编码代理将软件开发瓶颈从编码转移到代码审查](#item-ai-frontier-7) ⭐️ 7.0/10
+8. [在浏览器中运行完整的 Datasette Python 应用程序](#item-ai-frontier-8) ⭐️ 7.0/10
+9. [牛津提出「认知共生体」，AI 新方向浮出水面](#item-ai-frontier-9) ⭐️ 7.0/10
 
 **IT 与开源**
-1. [灵晟再次登顶 Top500 榜单](#item-it-opensource-1) ⭐️ 9.0/10
-2. [FBI 警告黑客利用 Artex 能在三小时内入侵网络](#item-it-opensource-2) ⭐️ 8.0/10
-3. [加州理工教授因 AI 完成作业而停止评分](#item-it-opensource-3) ⭐️ 7.0/10
-4. [卡内基梅隆大学免费开放计算机科学课程](#item-it-opensource-4) ⭐️ 7.0/10
-5. [富岳运行系统遭非法访问](#item-it-opensource-5) ⭐️ 7.0/10
-6. [Canonical 向订阅用户提供可选的 AI 生成安全补丁](#item-it-opensource-6) ⭐️ 7.0/10
-
----
-
-## A 股与宏观
-
-<a id="item-cn-macro-1"></a>
-### [腾讯 Q3 业绩前瞻：利润或结束 16 连增，AI 开支与现金流成重估焦点](https://wallstreetcn.com/articles/3786177) ⭐️ 7.0/10
-
-腾讯三季度业绩预计将结束连续 16 个季度的盈利增长，市场关注其芯片预付款和现金流状况。预计营收约 2102 亿至 2105 亿元，同比增长约 9%；经调整净利润约 667 亿元，同比下降约 5%。
-
-rss · 华尔街见闻 · 11月18日 07:13
-
-**「背景信息」** 腾讯作为中国的互联网巨头，其业绩表现一直受到市场的高度关注。在过去的几个季度中，腾讯的收入和利润保持了稳健的增长。然而，随着市场环境和行业竞争的变化，腾讯在资本支出和现金流管理方面面临新的挑战。特别是在人工智能领域的投入，对腾讯的财务状况和市场定位产生了重要影响。这些因素使得腾讯第三季度的业绩前瞻变得尤为重要，投资者和分析师都在关注腾讯如何平衡短期现金流和长期投资策略。
-
-**「影响分析」** 腾讯三季度业绩的公布将对市场产生重要影响。若利润连续 16 个季度的增长告一段落，将影响市场对腾讯的估值。此外，二季度逾 500 亿元的芯片预付款是否延续，以及资本开支的规模，将成为市场关注的焦点。这些因素将直接影响腾讯的现金流和市场定位，进而影响投资者对腾讯股票的判断。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhtum8086884.shtml">腾讯Q3财报前瞻：主业基本盘依然稳健 AI重投入铺路中长期红利</a></li>
-<li><a href="https://www.flash-filling.com/article/om_x100b6255165d7ca0df1720b54f5359c">腾讯控股（0700.HK）2026年三季度业绩前瞻：AI策略有序推进但回报周期...</a></li>
-<li><a href="https://static.www.tencent.com/uploads/2025/11/13/62022d4f181b7c4d22127a6460d2eab6.pdf">腾讯公布二零二五年第三季业绩 收入坚实增长 经营杠杆持续 AI 投入助...</a></li>
-<li><a href="https://longbridge.com/en/topics/9090364">腾 讯 又掉坑了？ 小瑕疵不改 股 王本色 - Longbridge</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Tencent`, `#Financial Performance`, `#Capital Expenditure`, `#A-share Market`, `#China&\#x27;s Economy`
-
----
-
-<a id="item-cn-macro-2"></a>
-### [英伟达财报提振韩股，黄金跌破 3800 美元，美债走强，油价下跌](https://wallstreetcn.com/articles/3786169) ⭐️ 7.0/10
-
-英伟达发布好于预期的业绩指引，提振韩股收涨 1.99%。美联储官员释放持续加息信号，黄金跌破 3800 美元，美债走强，油价下跌。
-
-rss · 华尔街见闻 · 11月18日 06:53
-
-**「市场背景」** 近期，全球金融市场受到多方面因素的影响。英伟达发布了超出市场预期的财报，但市场对人工智能投资前景的疑虑并未消散。美联储官员释放了持续加息的信号，这进一步压制了风险偏好。此外，黄金价格跌至逾一年新低，美债走强，油价下跌。这些因素共同影响着全球股市和商品市场。
-
-**「影响」** 英伟达财报超预期，但市场对 AI 投资前景的疑虑未消散，美联储加息预期升温，黄金跌至 14 个月新低，美债走强，油价下跌。这一系列事件对投资者而言，意味着需要更加谨慎地评估市场风险，尤其是在 AI 和芯片板块的投资中。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyyvsm1911546.shtml">美联储加息，新信号_新浪财经_新浪网</a></li>
-<li><a href="https://gushihangqing.com/learn/fed-and-rates">美联储加息降息如何影响美股？海外华人投资者完整指南 2026</a></li>
-<li><a href="https://news.sina.com.cn/zx/gj/2026-09-17/doc-iniscqxx4032225.shtml">财经老王 | 美联储加息影响多国，对我们有何影响？一文讲清楚|道琼斯...</a></li>
-<li><a href="https://post.smzdm.com/p/ad7xqn2k/">2026年3月20日 黄 金 白银同步暴 跌 ， 金 价失守4500...</a></li>
-<li><a href="https://post.smzdm.com/p/a82z73d7/">30年期 美 债 收益率突破5.16%，创近20年新高_基金证券_什么值得买</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Economic News`, `#Stock Market`, `#Central Bank Policy`, `#Commodity Prices`
-
----
-
-<a id="item-cn-macro-3"></a>
-### [谷歌系 AI 制药公司融资 50 亿美元，较上轮翻倍](https://wallstreetcn.com/articles/3786168) ⭐️ 7.0/10
-
-谷歌母公司 Alphabet 旗下的 AI 制药初创企业 Isomorphic Labs 完成了 50 亿美元的 C 轮融资，这是 AI 药物研发领域单轮融资的新纪录，显示出资本市场对 AI 驱动新药研发赛道的高度关注。此次融资规模是 Isomorphic Labs 上一轮 21 亿美元 B 轮融资的两倍以上。
-
-rss · 华尔街见闻 · 11月18日 06:44
-
-**「背景信息」** Isomorphic Labs 是一家位于伦敦的英国跨国人工智能公司，由 Demis Hassabis 创立，旨在通过推进药物发现过程来改善人类健康。该公司基于诺贝尔奖获奖的 AlphaFold 系统，开发了一套专有的 AI 药物设计引擎和治疗候选管线。Isomorphic Labs 的成立是谷歌 DeepMind 的一个分支，DeepMind 由 Hassabis 联合创立，并于 2014 年被谷歌收购。近年来，人工智能在药物开发中的应用越来越受到重视，多家科技巨头也在加速布局这一领域。例如，Anthropic 在今年 6 月宣布启动 AI 药物研发项目，而 OpenAI 则与诺和诺德（Novo Nordisk）达成合作，共同探索 AI 在新药研发中的应用。这些举措反映出整个 AI 制药赛道正迎来资本热潮，2026 年 AI 药物研发初创企业累计融资已达 232 亿美元，创历史纪录。
-
-**「投资影响」** Isomorphic Labs 的 50 亿美元融资反映了 AI 制药领域的资本热潮，这可能会推动整个行业的发展。对于投资者而言，这表明 AI 制药领域具有巨大的增长潜力，尤其是那些专注于 AI 药物设计和研发的公司。投资者应关注这一领域的最新动态，并考虑在相关股票中寻找投资机会。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Isomorphic_Labs">Isomorphic Labs - Wikipedia</a></li>
-<li><a href="https://www.isomorphiclabs.com/">Reimagining Drug Discovery Process with AI - Isomorphic Labs</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lUanJ6TERoSE12V0FGZWIycXFTZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">Alphabet&#x27;s Isomorphic Labs to start human trials of AI drugs - Overview</a></li>
-<li><a href="https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html">How A . I . Is Revolutionizing Drug Development - The New York Times</a></li>
-<li><a href="https://spaceandlemon.medium.com/health-advances-through-technology-from-big-to-small-ff6163bd7fc3">Health advances through technology , from big to small. | Medium</a></li>
-<li><a href="https://www.technologyreview.com/2020/11/30/1012712/deepmind-protein-folding-ai-solved-biology-science-drugs-disease/">DeepMind ’s protein-folding AI has solved... | MIT Technology Review</a></li>
-<li><a href="https://biotech-intelligence.com/ai-driven-drug-discovery-clinical-development-machine-learning-reshaping-pharma-rd-2026/">AI-Driven Drug Discovery and Clinical Development: How ...</a></li>
-<li><a href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1870527/full">Artificial intelligence in drug discovery: from ... - Frontiers</a></li>
-<li><a href="https://www.drugtargetreview.com/ai-in-drug-discovery-predictions-for-2026/1865962.article">AI in drug discovery: predictions for 2026 | Opinion | Drug ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Drug Development`, `#Venture Capital`, `#Isomorphic Labs`, `#Alphabet`, `#DeepMind`
-
----
-
-<a id="item-cn-macro-4"></a>
-### [AI 抛售潮里，SpaceX 凭什么扛住了？](https://wallstreetcn.com/articles/3786164) ⭐️ 7.0/10
-
-SpaceX shows resilience in the AI sell-off, driven by its Starlink business and capital expenditure plans, according to a Morgan Stanley report.
-
-rss · 华尔街见闻 · 11月18日 05:43
-
-**标签**: `#SpaceX`, `#Starlink`, `#Capital Expenditure`, `#Market Analysis`
-
----
-
-<a id="item-cn-macro-5"></a>
-### [BIS 新规对全球算力格局的影响](https://wallstreetcn.com/member/articles/3786156) ⭐️ 7.0/10
-
-国际清算银行（BIS）的新规定将全球算力市场分割成三个互不连通的市场，影响了算力的成本和合法性。根据 BIS 的《出口管理条例》，第三国数据中心若向总部位于 D:5 国家组（包括中国）或中国澳门的企业提供超过 1200 万聚合总处理性能的算力，芯片的出口、再出口与境内转移都需要事先获得许可。这一新规的真正影响在于它将全球算力市场从一个大市场分割成三个价格体系，预计将在 2027 年成为全球算力的分水岭。
-
-rss · 华尔街见闻 · 11月18日 03:42
-
-**「背景信息」** 近年来，全球算力市场发展迅速，中国作为全球重要的算力市场之一，其发展受到了广泛关注。在此之前，全球算力市场被视为一个统一的大市场，但随着 BIS（国际清算银行）新规的出台，这一格局将发生改变。根据 BIS 的新规，全球算力市场将被分割成三个互不连通的市场，这将对中国企业在全球算力市场中的地位产生重大影响。
-
-**「影响」** 这一新规将导致算力成本上升，对依赖高性能算力的行业和公司产生显著影响。例如，云计算和人工智能领域的企业可能面临更高的运营成本，从而影响其盈利能力和市场竞争力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/simp">特朗普访华之际 美国封堵中国公司在东南亚租用AI... - BBC News 中文</a></li>
-<li><a href="https://www.iim.net.cn/2235/view-468917-1.html">全 球 及中国边缘计 算 市 场 投资趋势报告（2026 IIMW9QSJVSVF）_IIM...</a></li>
-<li><a href="https://www.youtube.com/watch?v=wWi4XckoH6A">《#川普：我不反对#黄仁勋 回#辉达 ！ 美商务部 BIS ... - YouTube</a></li>
-
-</ul>
-</details>
-
-**标签**: `#BIS Regulations`, `#Global Computing Power Market`, `#Economic Impact`, `#Regulatory Change`
-
----
-
-<a id="item-cn-macro-6"></a>
-### [习近平支持成立世界湾区经济合作联盟](https://wallstreetcn.com/articles/3786157) ⭐️ 7.0/10
-
-中国主席习近平宣布支持成立世界湾区经济合作联盟，这一政策转变可能对多个行业产生广泛影响。
-
-rss · 华尔街见闻 · 11月18日 02:30
-
-**「背景信息」** 近年来，中国一直在积极推动区域经济合作，特别是在亚洲太平洋地区。这一政策背景下的重要举措包括成立世界湾区经济合作联盟。该联盟旨在加强不同湾区之间的交流和互动，探索亚太地区经济合作的新途径。这一举措反映了中国在全球经济合作中的积极参与态度，以及对区域一体化和开放型世界经济的支持。
-
-**「影响分析」** 这一举措可能促进全球湾区间的经济合作，对相关行业和公司构成利好，投资者可关注相关板块的动态。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://english.www.gov.cn/news/202611/18/content_WS6afd10ccc6d00ca5f9a0e615.html">Xi says China supports establishing world association for bay ...</a></li>
-<li><a href="https://www.zaobao.com.sg/en/news/china/xi-jinping-china-supports-global-alliance-bay-area-economic-cooperation">Xi Jinping: China supports global alliance for bay area ...</a></li>
-<li><a href="https://www.fxbus.com/en/news/20261118103026254951.html">[Xi Jinping: China Supports the Establishment of a World Bay ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Chinese Economy`, `#Economic Cooperation`, `#Policy Shift`, `#A-share Market`, `#Regulatory Announcement`
+1. [Manus 成为 Godot 项目的白金赞助商](#item-it-opensource-1) ⭐️ 7.0/10
+2. [Optimizely 遭入侵 BBC CNN 等知名网站传播恶意程序](#item-it-opensource-2) ⭐️ 7.0/10
 
 ---
 
 ## 全球市场
 
 <a id="item-global-market-1"></a>
+### [美联储官员呼吁采取激进措施应对通胀](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html) ⭐️ 9.0/10
+
+美联储官员克里斯托弗·沃勒表示，为应对持续上升的物价，中央银行可能需要采取半点加息的激进措施。他预计在 12 月 8-9 日的联邦公开市场委员会会议上，美联储基准利率可能需要增加半个百分点。
+
+rss · CNBC Finance · 11月18日 13:32
+
+**「背景信息」** 美联储官员 Christopher Waller 表示，为了应对持续的通货膨胀，中央银行可能需要采取激进的半点加息措施。这表明了政策立场的转变。在 2025 年，美联储在劳动力市场和通胀预期将逐步向 2%目标值靠拢的信念下，批准了三次降息。然而，今年早些时候，由于美国和以色列对伊朗的打击以及能源价格的飙升，通胀再次加剧。Waller 强调，需要撤销去年实施的降息措施，并可能需要进一步的加息来降低通胀。
+
+**「市场影响」** 美联储官员 Waller 的言论可能导致市场对即将到来的利率 hike 产生更大的预期，从而可能导致美元走强和全球股市下跌。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Christopher_Waller">Christopher Waller - Wikipedia</a></li>
+<li><a href="https://www.ft.com/stream/e56350c5-6692-45ce-bf60-fc0cd007e953?page=undefined">Christopher Waller</a></li>
+<li><a href="https://timesofmalta.com/article/boe-hikes-rate-halfpoint-high-inflation-persists.1039413">BoE hikes rate half - point as high inflation persists</a></li>
+<li><a href="https://www.forexfactory.com/news/1435626-fed-governor-waller-sees-december-hike-likely-opens">Fed Governor Waller sees December hike likely, opens... | Forex Factory</a></li>
+<li><a href="https://www.foxbusiness.com/video/6304833376001">Fed Chair Powell signals half - point rate hike ... | Fox Business Video</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Federal Reserve`, `#Inflation`, `#Interest Rates`, `#Central Bank Policy`, `#Market Impact`
+
+---
+
+<a id="item-global-market-2"></a>
 ### [美国官员称美军袭击伊朗导弹发射场](https://reut.rs/4901L9d) ⭐️ 9.0/10
 
-美国官员表示，美军已袭击位于伊朗格什姆岛的导弹发射场。这一军事行动可能引发地缘政治紧张，对全球金融市场产生影响。
+美国官员表示，美军已袭击位于伊朗格什姆岛的导弹发射场。这一军事行动可能引发全球资产价格的重估，加剧地缘政治紧张。
 
 rss · 路透社 Reuters · 11月17日 19:52
 
-**「背景信息」** 根据美国官员的消息，美国军队袭击了位于格什姆岛的伊朗导弹发射场。这一军事行动是在美国官方所谓的自我防卫下进行的。此前，美国战斗机使用精确制导武器对伊斯兰革命卫队（IRGC）的导弹发射场进行了打击，这一行动被描述为自我防卫。这一事件发生在霍尔木兹海峡的格什姆岛上。
+**「背景信息」** 根据美国官员的消息，美国军队袭击了位于格什姆岛的伊朗导弹发射场。这一事件发生在伊朗对美国在巴林的一个基地进行攻击之后。美国军方官员表示，这次袭击是自卫行动，使用了精确制导武器。此外，据《耶路撒冷邮报》报道，美国战斗机对伊斯兰革命卫队（IRGC）的导弹发射场进行了打击。据《半岛电视台》报道，科威特报告称，伊朗和美国在格什姆岛和巴林进行了无人机攻击。
 
-**「影响」** 此次军事行动可能导致全球金融市场波动，尤其是对与伊朗有贸易往来的国家和地区，以及全球能源市场。
+**「影响」** 此次军事行动可能导致中东地区地缘政治风险上升，进而影响全球能源市场及金融市场，尤其是对石油价格产生影响。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.jpost.com/middle-east/iran-news/article-915235">US strikes Iranian IRGC missile launch site on Qeshm Island</a></li>
 <li><a href="https://www.youtube.com/watch?v=VIHpIhLlHEU">BREAKING: US Strikes IRGC Missile Site on Qeshm Island in ‘Self...</a></li>
-<li><a href="https://rtrunews.com/news/648974-us-trikes-iran-island/">US strikes Iran in ‘self-defense’ — RT World News</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain">Kuwait reports drone attacks as Iran , US trade attacks on Qeshm and...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitical Event`, `#Military Action`, `#Iran`, `#US-Iran Relations`, `#Global Financial Markets`
-
----
-
-<a id="item-global-market-2"></a>
-### [JPMorgan 与 Hyundai Card 测试 AI 代理交易](https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html) ⭐️ 7.0/10
-
-摩根大通和韩国现代卡正在测试 AI 代理处理金融交易，无需人工干预，引发了对 AI 驱动金融系统中责任和安全的重大问题。
-
-rss · CNBC Finance · 11月18日 06:18
-
-**「背景信息」** 近年来，人工智能在金融领域的应用日益广泛，特别是在支付和交易处理方面。JPMorgan Chase 和 Hyundai Card 的合作标志着这一趋势的进一步发展。JPMorgan Chase 已经在区块链支付领域取得了显著进展，例如其 Kinexys 单元已经处理了超过 4 万亿美元的交易。此外，Hyundai Card 之前也进行了基于区块链的跨境支付实验。这些合作和实验为 AI 代理在金融交易中的应用提供了技术基础和实际案例。
-
-**「市场影响」** JPMorgan Chase 和 Hyundai Card 正在测试 AI 代理处理金融交易，这可能会改变金融服务的互动方式。这种技术如果得到广泛应用，可能会提高交易效率，但同时也带来了责任和安全性问题。例如，未经授权的自主代理操作已成为 AI 代理相关的第三大常见安全漏洞，影响了 34.1%报告此类事件的公司。这表明，尽管 AI 代理有潜力改变金融服务，但也需要相应的治理和控制措施来确保其安全性和可靠性。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.chase.com/">Credit Card , Mortgage, Banking, Auto | Chase Online | Chase .com</a></li>
-<li><a href="https://www.youtube.com/watch?v=GzKqiLriVIU">JPMorgan Chase Outage &amp; United Airline Delays... - YouTube</a></li>
-<li><a href="https://services.google.com/fh/files/misc/2026_ai_trends_finance.pdf">AI agent trends 2026 - services.google.com</a></li>
-<li><a href="https://cloud.google.com/resources/content/ai-agent-trends-financial-services-2026">AI Agent Trends in Financial Services 2026 | Google Cloud</a></li>
-<li><a href="https://www.kore.ai/blog/ai-agents-in-finance-banking-12-proven-use-cases-2026">AI agents in finance &amp; banking: 12 proven use cases (2026)</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI in Finance`, `#Banking Technology`, `#Financial Innovation`, `#AI Security`, `#Blockchain`
+**标签**: `#Geopolitical Event`, `#Military Action`, `#Iran`, `#US Military`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [英伟达股价上涨，强劲业绩缓解 CEO 过渡担忧](https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories) ⭐️ 7.0/10
+### [JPMorgan 与 Hyundai Card 测试 AI 代理交易](https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html) ⭐️ 7.0/10
 
-英伟达发布强劲的财务报告和 1300 亿美元的季度预测，显示芯片需求依然旺盛，这有助于缓解投资者对 CEO 过渡的担忧。
+JPMorgan Chase 和韩国 Hyundai Card 正在测试 AI 代理处理金融交易，无需人类干预，旨在革新交易处理方式。两家公司已完成一项模拟外汇交易的初步概念验证，并计划于 2027 年上半年进行更复杂的测试，涉及多个 AI 代理。
 
-rss · MarketWatch Top Stories · 11月18日 01:28
+rss · CNBC Finance · 11月18日 06:18
 
-**「背景信息」** NVIDIA 在 2026 年第三季度的财报显示，公司实现了强劲的营收增长，并发布了 1300 亿美元的季度预测。这表明对芯片的需求仍然非常高。这一业绩表现对于追踪股票和市场的趋势分析人员来说是一个重要的信号。
+**「背景信息」** 近年来，人工智能在金融领域的应用日益广泛。JPMorgan 和 Hyundai Card 正在测试人工智能代理处理金融交易，无需人类干预。这一合作旨在通过模拟外汇交易等初步测试，探索人工智能代理在金融交易中的潜力。此外，JPMorgan 的 Kinexys 部门也在开发框架，以限制人工智能代理的交易参数，确保其行为在授权范围内。这些努力反映了金融行业对人工智能技术的关注，以及对其在提高交易效率和安全性方面的期望。
 
-**「影响」** 英伟达的强劲业绩对市场产生了积极影响，尤其是对科技股和股市趋势的跟踪者来说，这表明了市场对芯片需求的持续增长。
+**「市场影响」** JPMorgan 和 Hyundai Card 正在测试 AI 代理处理金融交易，这可能会改变金融服务的交互方式。这种技术如果成功，可能会提高交易效率并降低成本，但同时也带来了责任和风险管理的挑战。这可能会促使金融机构重新评估其技术投资和风险管理策略。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://investor.nvidia.com/financial-info/quarterly-results/default.aspx">NVIDIA Corporation - Financial Info - Quarterly Results</a></li>
-<li><a href="https://www.techpowerup.com/354965/nvidia-reports-q3-2026-earnings-of-usd-115-8-billion">NVIDIA Reports Q3 2026 Earnings of $115.8 Billion | TechPowerUp</a></li>
-<li><a href="https://www.tipranks.com/stocks/nvda">Nvidia (NVDA) Stock Price, Quote &amp; Analysis | TipRanks</a></li>
+<li><a href="https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html">JPMorgan is working on AI agent transactions that don’t involve...</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-agents-in-bond-market-arrive-with-a-stealthy-microsoft-trade">AI Agents in Bond Market Arrive With a Stealthy... - Bloomberg</a></li>
+<li><a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">The State of AI : Global Survey 2026 | McKinsey</a></li>
+<li><a href="https://www.theburningplatform.com/2026/11/17/feds-barr-warns-ai-agents-could-spark-bank-runs-in-minutes-overwhelming-banks-liquidity-defenses/">Fed’s Barr Warns AI Agents Could Spark Bank Runs “In Minutes...”</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Technology Stocks`, `#Market Trends`, `#Equities`, `#Quarterly Results`
+**标签**: `#AI in Finance`, `#Blockchain Technology`, `#Financial Innovation`, `#AI Transactions`, `#Banking Technology`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [亚洲股市有望终结连跌势头，Anthropic 动向备受关注](https://reut.rs/4AEkgMm) ⭐️ 7.0/10
+### [独家报道：沙特为持续至 2027 年的也门军事行动做准备](https://reut.rs/4j0eqxF) ⭐️ 7.0/10
 
-受英伟达业绩超预期提振，亚洲股市有望结束连续下跌的趋势。英伟达的收益超出市场预期，对股市产生了积极影响。同时，Anthropic 的发展动向也成为市场关注的焦点。
+沙特阿拉伯正在为持续至 2027 年的也门军事行动做准备。这一消息对全球市场产生重要影响。
 
-rss · 路透社 Reuters · 11月18日 07:18
+rss · 路透社 Reuters · 11月18日 13:39
 
-**「背景信息」** 在最新的市场动态中，英伟达的业绩超出预期，这为亚洲股市带来了积极的影响，有望结束连跌势头。英伟达的强劲业绩背后，是公司首席执行官黄仁勋辞职后，董事会并未打算恢复他的职位。此外，亚洲股市在周一的表现呈现混合态势，其中日本日经 225 指数下跌 2.25%，中国上证综指下跌 0.80%，韩国 KOSPI 指数下跌 3.80%。同时，人工智能领域的公司 Anthropic 备受关注，该公司正寻求在上市时实现超过 1 万亿美元的估值。Anthropic 最近一轮融资达到 300 亿美元，估值达到 3800 亿美元。
+**「背景信息」** 沙特阿拉伯正在为持续至 2027 年的也门军事行动做准备。这一行动的背景是也门冲突的持续升级，沙特支持的政府军与胡塞武装之间的对抗日益激烈。在过去几年中，沙特在也门进行了多次军事行动，这些行动对区域稳定和全球市场产生了重大影响。例如，沙特在 2026 年发起了名为‘也门黎明’的军事行动，旨在打击胡塞武装。此外，也门军事局势的变化，如拉赫杰地区的攻势，也对沙特构成了战略挑战，迫使沙特考虑谈判或面临进一步的挫折。
 
-**「市场影响」** 英伟达业绩的超预期表现可能刺激亚洲股市反弹，尤其是科技股板块。
+**「影响」** 这一军事行动可能对中东地区的稳定性和全球市场产生负面影响，尤其是对能源价格和地缘政治风险的影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html">Nvidia earnings beat, but analysts question who and what comes next</a></li>
-<li><a href="https://www.fxstreet.com/news/asian-stocks-stay-mixed-as-kospi-drops-ahead-of-looming-nvidia-results-202611160634">Asian stocks stay mixed as KOSPI drops ahead of looming Nvidia ...</a></li>
-<li><a href="https://www.techpowerup.com/354965/nvidia-reports-q3-2026-earnings-of-usd-115-8-billion">NVIDIA Reports Q3 2026 Earnings of $115.8 Billion | TechPowerUp</a></li>
-<li><a href="https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537">Is the AI bubble bursting just as Anthropic goes public?</a></li>
-<li><a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">Independent Assessment of AI R&amp;D Acceleration at Anthropic ... - METR</a></li>
-<li><a href="https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html">Anthropic closes $30 billion funding round at $380 billion valuation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Yemen_offensives">2026 Yemen offensives - Wikipedia</a></li>
+<li><a href="https://www.presstv.co.uk/Detail/2026/11/17/780942/yemeni-militarys-lahej-offensive-redraws-the-battlefield-leaving-riyadh-with-a-strategic-dilemma">Yemeni military ’s Lahej offensive redraws the battlefield, leaving...</a></li>
+<li><a href="https://www.youtube.com/watch?v=kz2BuTkGpdA">Saudi Arabia replaces military commander after Yemen ... - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Asia Stocks`, `#Nvidia Earnings`, `#Technology Sector`, `#Market Dynamics`
+**标签**: `#Geopolitical Events`, `#Military Operations`, `#Regional Stability`, `#Global Markets`, `#Middle East`
 
 ---
 
 <a id="item-global-market-5"></a>
+### [英格兰银行提议改革以增强银行资本缓冲](https://reut.rs/4iOdvBA) ⭐️ 7.0/10
+
+英格兰银行提议对银行资本缓冲进行改革，旨在提高其在压力时期的可用性。
+
+rss · 路透社 Reuters · 11月18日 13:39
+
+**「背景信息」** 在英格兰银行提出改革提议之前，英国监管机构已经明确表示，银行在面临压力时期有权动用资本缓冲，以支持银行运用监管资本维持对实体经济的贷款。这一决定是基于《2025 年资本缓冲与宏观审慎措施条例》，旨在调整其他系统重要性机构的缓冲比率，包括将其降至零。此外，英国央行也在咨询文件中提出，拟明确大型银行资本缓冲的下调规则，以简化资本监管框架。
+
+**「影响」** 这一改革可能有助于增强金融系统的稳定性，尤其是在面临市场压力时。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cn.investing.com/news/general-news/article-93CH-3449602">英国监管机构明确：银行可在压力时期动用资本缓冲 提供者 Investing.c...</a></li>
+<li><a href="https://www.fx678.com/C/20261118/202611182030052467.html">【英国央行拟明确大型银行资本缓冲下调规则】 (1) 英国央行在咨询文件...</a></li>
+<li><a href="https://www.fxbus.com/cn/news/20261118203007756595.html">【英国央行拟明确大型银行资本缓冲下调规则】 (1) 英国央行在咨询文件...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Bank of England`, `#Financial Reform`, `#Capital Buffer`, `#Stress Testing`
+
+---
+
+<a id="item-global-market-6"></a>
+### [英伟达业绩预期提振纳斯达克期货及 AI 相关交易](https://reut.rs/4zOAYbT) ⭐️ 7.0/10
+
+在 Anthropic 定价公布前，英伟达的业绩预期提振了人工智能相关交易，导致纳斯达克期货应声大涨。
+
+rss · 路透社 Reuters · 11月18日 13:07
+
+**「背景信息」** 在 Anthropic 定价公布前，市场对英伟达的业绩预期上升，这推动了人工智能相关交易的活跃。英伟达作为全球领先的科技公司，其业绩表现对全球金融市场具有重要影响。近期，英伟达发布了第三季度财务报告，并计划与分析师和投资者进行电话会议讨论其财务前景，这可能是市场预期上升的原因之一。
+
+**「市场影响」** 这一市场动态对人工智能行业产生了积极影响，尤其是对英伟达等科技股的股价产生了提振作用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/">NVIDIA Announces Financial Results for Third Quarter Fiscal 2027</a></li>
+<li><a href="https://finance.yahoo.com/quote/NVDA/">NVIDIA Corporation (NVDA) Stock Price, News... - Yahoo Finance</a></li>
+<li><a href="https://www.fool.com/investing/2025/05/19/should-you-buy-nvidia-before-may-28/">Should You Buy Nvidia Before May 28? | The Motley Fool</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Tech Stocks`, `#Market Movement`, `#AI Industry`, `#Nasdaq`, `#Financial News`
+
+---
+
+<a id="item-global-market-7"></a>
+### [特朗普政府考虑强制美国企业披露人工智能技术在中国的应用情况](https://reut.rs/4t87K55) ⭐️ 7.0/10
+
+特朗普政府正在考虑强制要求美国企业披露其在中国的人工智能技术应用情况。这一政策变动可能会对全球金融市场和科技行业产生重大影响。
+
+rss · 路透社 Reuters · 11月18日 11:46
+
+**「背景信息」** 特朗普政府之前已经签署了多项行政命令，旨在促进美国人工智能技术的发展和应用，并确保美国在全球人工智能竞赛中保持领先地位。这些政策包括促进人工智能技术的出口、建立统一的国家政策框架，以及确保人工智能创新与安全。这些政策为美国企业在全球范围内，包括在中国使用人工智能技术提供了指导和支持。
+
+**「影响」** 如果实施这一政策，可能会对中美两国的人工智能行业产生显著影响，尤其是在资金流动和技术合作方面。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.state.gov/translations/chinese/20250724-fact-sheet-president-trump-promotes-the-export-of-american-ai-technologies-chinese/">简报：唐纳德·特朗普总统促进美国人工智能技术出口 - United States D...</a></li>
+<li><a href="https://casisd.cas.cn/zkcg/ydkb/kjzcyzxkb/2026/zczxkb202602/202603/t20260325_8175534.html">特朗普签署统一人工智能国家政策框架的行政命令----中国科学院科技战...</a></li>
+<li><a href="https://ecas.cas.cn/xxkw/kbcd/201115_149942/ml/xxhzlyzc/202607/t20260707_5114823.html">美总统签署《促进先进人工智能创新与安全》行政令</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Geopolitical Events`, `#Technology Policy`, `#US-China Relations`, `#Financial Markets`, `#AI Development`
+
+---
+
+<a id="item-global-market-8"></a>
+### [华尔街为 Anthropic IPO 做准备，尽管 AI 股票整体走低](https://reut.rs/4zSSoEp) ⭐️ 7.0/10
+
+尽管人工智能类股票整体呈现下滑趋势，华尔街仍对 Anthropic 公司的首次公开募股（IPO）充满期待。
+
+rss · 路透社 Reuters · 11月18日 11:15
+
+**「背景信息」** Anthropic，一家以 Claude AI 产品闻名的 AI 公司，计划于 11 月作为公开公司上市，此前已于 6 月秘密提交了 S-1 文件。Amazon 在 2023 年首次支持 Anthropic，承诺投资高达 40 亿美元。自那时起，Amazon 向 Anthropic 投入了更多的资金。此外，Anthropic 在 IPO 后预计将拥有约 13%的股份，并支持 Terawulf 的 190 亿美元租赁承诺，Terawulf 将在肯塔基州提供数据中心空间。
+
+**「市场影响」** 这一事件可能对 AI 行业股票产生积极影响，尽管整体市场表现不佳。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnet.com/tech/services-and-software/anthropic-ipo-filing-ai-bubble-hype/">Threat of AI Bubble Looms Over Anthropic &#x27;s Big IPO Moment - CNET</a></li>
+<li><a href="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/">VCs will make billions on Anthropic &#x27;s IPO, but Amazon... | TechCrunch</a></li>
+<li><a href="https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html">Anthropic IPO is make or break for the technology industry</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Stock Market`, `#IPO`, `#Anthropic`, `#Financial News`, `#Market Trends`
+
+---
+
+<a id="item-global-market-9"></a>
+### [英伟达停止向中国出口经美国批准的人工智能芯片](https://reut.rs/4fydlvV) ⭐️ 7.0/10
+
+英伟达宣布停止向中国出口经美国批准的人工智能芯片，这一决定将对全球科技供应链产生重大影响。
+
+rss · 路透社 Reuters · 11月18日 09:40
+
+**「背景信息」** 英伟达停止向中国出口经美国批准的人工智能芯片，这一决定对全球技术供应链和市场动态产生了影响。此前，美国对出口到中国的先进芯片实施了出口管制，这导致中国公司只能合法购买用于人工智能训练的较弱芯片。英伟达的这一举措是在其临时首席执行官科莱特·克雷斯表示，公司已停止向中国销售芯片之后宣布的，尽管这将对公司的收入产生一定影响。
+
+**「影响」** 此举可能导致全球人工智能芯片供应紧张，进而影响相关科技行业的发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/nvidia-abandoning-china-jensen-huang-233748229.html">Nvidia is abandoning China after Jensen Huang&#x27;s ouster</a></li>
+<li><a href="https://foreignpolicy.com/2025/09/19/ai-china-chips-export-controls-h20-nvidia/">China ’s Chip Dependence Is Good for U.S. Interests | Foreign Policy</a></li>
+<li><a href="https://gagadget.com/en/734679-nvidia-stops-selling-hopper-ai-chips-to-china-despite-us-approval/">Nvidia stops selling Hopper AI chips to China , despite US approval</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Technology`, `#Global Market`, `#Supply Chain`, `#AI Chips`, `#Nvidia`
+
+---
+
+<a id="item-global-market-10"></a>
+### [特朗普出席亚太经合组织峰会](https://www.youtube.com/live/Od0xcS2QrGs) ⭐️ 7.0/10
+
+前美国总统特朗普抵达中国参加亚太经合组织（APEC）峰会，这一事件可能对全球金融市场产生影响。
+
+rss · 路透社 Reuters · 11月18日 09:09
+
+**「背景信息」** 亚太经济合作组织（APEC）中国 2026 年峰会是一个为期一年的会议，将在 2026 年 11 月以 APEC 经济领导人会议的形式结束。这是中国第三次举办峰会，之前分别在 2001 年和 2014 年举办。会议期间还将举行前所未有的中俄美峰会。本次峰会的主题是‘共建亚太社区，共同繁荣’，重点关注开放、创新和合作三个优先领域。预计在深圳峰会上，这三个领域将出现新的突破。
+
+**「影响」** 特朗普的出席可能会对全球金融市场产生不确定性，尤其是对那些与美国政策紧密相关的市场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/APEC_China_2026">APEC China 2026 - Wikipedia</a></li>
+<li><a href="https://moderndiplomacy.eu/2026/11/16/apec-2026-in-shenzhen-what-to-expect-from-the-leaders-summit/">APEC 2026 in Shenzhen: What to Expect From the Leaders&#x27; Summit</a></li>
+<li><a href="https://political.org/2026/11/12/apec-summit-in-shenzhen-draws-trump-putin-and-xi-five-things-to-know-about-the-forum-and-what-is-at-stake/">APEC Summit in Shenzhen Draws Trump, Putin and Xi: Five ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Geopolitical Events`, `#APEC Summit`, `#Global Financial Markets`, `#U.S. President Trump`
+
+---
+
+<a id="item-global-market-11"></a>
+### [加拿大调整对华关系以与美国达成协议](https://reut.rs/4khUaKf) ⭐️ 7.0/10
+
+加拿大正在调整与中国的关系，旨在与美国达成合适的协议，这一消息来自路透社报道。
+
+rss · 路透社 Reuters · 11月18日 09:09
+
+**「背景信息」** 加拿大总理马克·卡尼于 2026 年 1 月访问中国，标志着加拿大与中国关系的实用调整，以及更广泛地向基于利益的、战略上自主的加拿大外交政策的转变。这次访问超出了预期，达成了初步的油菜籽关税和中国电动汽车市场准入协议，启动了新的战略伙伴关系。这些事件为加拿大调整与中国的关系提供了背景，同时也反映了加拿大在处理与美国关系时的战略考量。
+
+**「影响」** 这一政策调整可能对全球金融市场产生重要影响，尤其是对加拿大和中国之间的贸易关系以及美国与加拿大之间的合作。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://eastasiaforum.org/2026/02/21/canadas-pragmatic-turn-towards-china-is-not-without-strategic-limits/">Canada’s pragmatic turn towards China is not without ...</a></li>
+<li><a href="https://www.eurasiareview.com/25082026-china-canada-relations-at-a-strategic-crossroads-xi-jinpings-expected-visit-albertas-referendum-and-implications-for-the-united-states-analysis/">China–Canada Relations At A Strategic Crossroads: Xi Jinping ...</a></li>
+<li><a href="https://ras-nsa.ca/en/how-should-canada-manage-its-relationship-with-china-in-2026/">How Should Canada Manage Its Relationship with China in 2026?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Canada`, `#China`, `#US Foreign Policy`, `#Global Financial Markets`
+
+---
+
+<a id="item-global-market-12"></a>
+### [缅甸军方支持的领导人重新考虑与东盟的关系](https://reut.rs/3WLfRJ2) ⭐️ 7.0/10
+
+缅甸军方支持的领导人表示正在重新考虑与东盟的关系，这一决定可能对区域金融市场和稳定性产生重大影响。
+
+rss · 路透社 Reuters · 11月18日 08:38
+
+**「背景信息」** 缅甸军方支持的领导人，敏昂莱，表示正在重新考虑缅甸与东盟的关系。这一事件发生在 2026 年 11 月 18 日，敏昂莱在公开场合表示，缅甸政府正在重新评估与东盟的关系，尽管如此，缅甸将继续参与东盟的区域合作。这一决定可能对缅甸及其周边地区的金融市场和地区稳定产生重大影响。
+
+**「影响」** 缅甸与东盟关系的重新考虑可能增加区域地缘政治风险，对金融市场的稳定性和相关货币造成压力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/world/asia-pacific/myanmars-army-backed-leader-says-he-is-reconsidering-asean-relationship-2026-11-18/">Myanmar&#x27;s army-backed leader says he is reconsidering ASEAN ...</a></li>
+<li><a href="https://apnews.com/article/min-aung-hlaing-asean-peace-plan-turmoil-97e863b842b3a3ad805635b11a7aea8c">Myanmar&#x27;s leader slams ASEAN bloc after ban extension | AP News</a></li>
+<li><a href="https://myanmar-now.org/en/news/myanmar-junta-leader-threatens-to-review-ties-with-asean-over-summit-statement/">Myanmar junta leader threatens to review ties with ASEAN over ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Geopolitical`, `#ASEAN`, `#Myanmar`, `#Financial Markets`, `#Geopolitical Risk`
+
+---
+
+<a id="item-global-market-13"></a>
+### [中国燃气与 Venture Global 签署 20 年液化天然气协议，供气量翻倍](https://reut.rs/4kYAjQo) ⭐️ 7.0/10
+
+中国燃气与 Venture Global 签署了一项为期 20 年的液化天然气供应协议，协议内容将供气量翻倍。这一协议对全球液化天然气市场产生了重大影响。
+
+rss · 路透社 Reuters · 11月18日 08:22
+
+**「背景信息」** 中国燃气与 Venture Global 签署了一项为期 20 年的液化天然气供应协议，将供气量增加一倍。这一协议预计将从 2030 年开始执行，涉及每年 100 万吨的美国液化天然气。这一合作标志着中国燃气在液化天然气进口方面的重大进展，同时也反映了全球液化天然气市场供应格局的变化。
+
+**「影响」** 该协议的签署将增加液化天然气的全球供应量，可能对液化天然气价格产生影响，并可能改变全球能源市场的供需格局。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.oilandgasmiddleeast.com/news/china-gas-lng-venture-global">China Gas LNG deal doubles to 1 mtpa - Oil &amp; Gas Middle East</a></li>
+<li><a href="https://egyptoil-gas.com/news/venture-global-signs-20-year-lng-supply-deal-with-china-gas/">Venture Global Signs 20 - Year LNG Supply Deal With China Gas</a></li>
+<li><a href="https://news.chemnet.com/news-9873.html">China Gas signs new 20 - year LNG long-term supply agreement with...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Energy Deal`, `#LNG Supply`, `#China Gas`, `#Venture Global`, `#Market Impact`
+
+---
+
+<a id="item-global-market-14"></a>
+### [币安计划进军亚洲市场](https://reut.rs/3VvaGfS) ⭐️ 7.0/10
+
+币安在遭遇 63 亿美元的加密货币盗窃案后，宣布计划进军亚洲五个市场。
+
+rss · 路透社 Reuters · 11月18日 08:07
+
+**「背景信息」** 2026 年 10 月 29 日，加密货币交易所币安遭遇了史上最大的加密货币盗窃案，被盗金额高达 63 亿美元。据称，这起盗窃案是由与朝鲜有关的黑客组织 TraderTraitor 所为。此次事件影响了多个区块链网络，包括以太坊和比特币。随后，币安宣布计划在 2027 年进军五个亚洲市场，重点关注南亚和东南亚地区。这一战略举措发生在公司遭受重大盗窃之后，表明币安在经历安全事件后仍致力于扩展其业务范围。
+
+**「市场影响」** 这一举措可能会对亚洲地区的加密货币市场产生显著影响，尤其是在币安计划进入的市场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2026_Binance_hack">2026 Binance hack - Wikipedia</a></li>
+<li><a href="https://coinpedia.org/research-report/binance-hack-detailed-report-what-happened-how-6-3-billion-was-stolen-and-whats-next/">Binance Hack 2026: The $6.3 Billion Crypto Theft, How It ...</a></li>
+<li><a href="https://www.cryptotimes.io/insights/binance-hack-explained/">Binance Hack Explained: How $6.3 Billion Was Drained in 20 ...</a></li>
+<li><a href="https://coingape.com/binance-eyes-expansion-into-5-new-asian-markets-in-2027/">Binance Eyes Expansion Into 5 New Asian Markets in 2027</a></li>
+<li><a href="https://economictimes.indiatimes.com/tech/technology/after-6-3-billion-crypto-heist-binance-plans-foray-into-5-asian-markets/articleshow/135955796.cms">After $6.3 billion crypto heist, Binance plans foray into 5 ...</a></li>
+<li><a href="https://yournews.com/2026/11/18/7272207/binance-plans-expansion-into-five-asian-markets-despite-6-3-billion/">Binance Plans Expansion Into Five Asian Markets Despite $6.3 ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Cryptocurrency`, `#Market Expansion`, `#Binance`, `#Financial News`, `#Asia`
+
+---
+
+<a id="item-global-market-15"></a>
 ### [加拿大寻求与中国重启贸易合作](https://reut.rs/4t4gWr8) ⭐️ 7.0/10
 
 加拿大部长表示，在关系停滞多年后，加拿大正寻求与中国在贸易领域重启合作。
 
 rss · 路透社 Reuters · 11月18日 06:30
 
-**「背景信息」** 加拿大和中国之间的经济关系一直非常重要。中国已经是加拿大的第二大贸易伙伴，即使没有自由贸易协议，中国对加拿大的经济繁荣也至关重要。然而，近年来，加拿大和中国之间的关系降至历史最低点。在加拿大寻求与中国在贸易领域重启合作之前，两国之间的贸易关系经历了停滞期。这一变化对于追踪全球金融市场和关注两国经济关系的读者来说具有重要意义。
+**「背景信息」** 近年来，加拿大和中国在贸易关系方面一直处于停滞状态。在此期间，两国曾探讨过深化货币和金融合作，包括在双边贸易和投资中扩大使用当地货币的方式。此外，加拿大和中国还宣布了关税减免和扩大贸易合作的计划。这些举措为两国关系的改善奠定了基础。
 
-**「影响」** 这一举措可能对加拿大和中国之间的经济关系产生积极影响，有助于改善双边贸易状况。
+**「影响」** 这一举措可能对全球金融市场产生积极影响，特别是在中央银行政策、股市、债券、大宗商品和货币方面。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://macleans.ca/news/canada/what-a-trade-war-with-china-would-do-to-canada/">What a trade war with China would do to Canada - Macleans.ca</a></li>
-<li><a href="https://cwf.ca/research/publications/what-now-strong-ties-canada-chinas-economic-relationship/">WHAT NOW? | Strong Ties: Canada &amp; China ’s economic relationship ...</a></li>
-<li><a href="https://opencanada.org/canada-china-relations-reach-an-all-time-low/">Canada - China Relations Reach an All-Time Low - Open Canada</a></li>
+<li><a href="https://www.globaltimes.cn/page/202611/1374487.shtml">China , Canada to explore wider use of local currencies in trade ...</a></li>
+<li><a href="https://www.youtube.com/watch?v=M87b5U3MbOs">Canada and China announce tariff relief and cooperation - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Trade Relations`, `#Canada`, `#China`, `#Economic Cooperation`, `#Global Markets`
+**标签**: `#Trade Relations`, `#Canada`, `#China`, `#Global Markets`, `#Economic Policy`
 
 ---
 
-<a id="item-global-market-6"></a>
-### [习近平呼吁实现自由开放的贸易](https://reut.rs/4j4ruC9) ⭐️ 7.0/10
-
-中国国家主席习近平在亚太经合组织（APEC）峰会上呼吁实现自由开放的贸易，这一表态对全球金融市场具有重要意义。
-
-rss · 路透社 Reuters · 11月18日 03:50
-
-**「亚太经济合作组织背景」** 亚太经济合作组织（APEC）是一个由 21 个太平洋沿岸经济体组成的政府间论坛，旨在促进亚太地区的自由贸易。APEC 成立于 1989 年，作为对亚洲地区日益增长的相互依赖的回应。2026 年，中国担任 APEC 的主办国，这是中国第三次主办该峰会，之前分别在 2001 年和 2014 年举办。APEC 的主办国每年负责主持年度经济领导人会议、选定的部长级会议、高级官员会议、APEC 商业咨询委员会和 APEC 研究中心联盟。
-
-**「影响」** 习近平的呼吁可能对全球金融市场产生积极影响，尤其是对那些依赖自由开放贸易的经济体。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Asia-Pacific_Economic_Cooperation">Asia-Pacific Economic Cooperation - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/APEC_China_2026">APEC China 2026 - Wikipedia</a></li>
-<li><a href="https://www.apec.org/who-we-are/history">Host economy | APEC</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Global Trade`, `#APEC Summit`, `#Financial Markets`, `#Xi Jinping`, `#Trade Policies`
-
----
-
-<a id="item-global-market-7"></a>
+<a id="item-global-market-16"></a>
 ### [英国在周五会谈前阐明了英欧峰会一揽子方案的范围](https://reut.rs/4C5Dv2U) ⭐️ 7.0/10
 
-英国在周五会谈前公布了英欧峰会一揽子方案的范围，但具体细节尚未透露。
+英国在周五的会谈前公布了英欧峰会的一揽子方案范围，这一事件对全球金融市场具有重要意义。该方案可能涉及政策或协议的变化，从而影响各种金融资产。
 
 rss · 路透社 Reuters · 11月17日 20:25
 
-**「背景信息」** 在即将到来的英欧峰会之前，英国已经明确了峰会一揽子方案的范围。这一事件对于追踪央行和地缘政治事件的读者来说非常重要。根据相关报道，欧洲理事会主席安东尼奥·塔斯卡表示，英国和欧盟正在“重新连接”，并强调共同行动的力量。此外，欧盟委员会主席冯德莱恩也表示，这次峰会是一个重要时刻，英国和欧盟将翻开关系的新篇章。在 2025 年 5 月的成功峰会之后，双方正在就改善经济关键领域的贸易关系进行谈判。
+**「背景信息」** 在即将到来的英国与欧盟峰会之前，英国已经明确了峰会一揽子方案的范围。这一方案涵盖了多个领域，包括但不限于贸易、安全、数据保护等。此前，英国政府发布了一份事实说明书和辟谣指南，旨在澄清市场对峰会可能带来的影响的猜测。此外，有报道称，为了确保峰会的成功，欧盟和英国可能在青年流动性计划方面做出调整，该计划原定于 2026 年 11 月 20 日之前达成协议。
 
-**「影响」** 该峰会一揽子方案的范围可能会对全球金融市场产生影响，但具体影响尚需进一步观察。
+**「影响」** 该峰会的一揽子方案可能会对全球金融市场产生具体影响，例如影响股票、债券、商品和货币的表现。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.mirror.co.uk/news/politics/uk-eu-deal-live-keir-35247894">UK - EU deal - Keir Starmer reveals key details from... - The Mirror</a></li>
-<li><a href="https://assets.nationbuilder.com/b4b/pages/16303/attachments/original/1776086486/Is_it_time_to_talk_about_EU_membership.pdf?1776086486">V2 - Future UKEU Relations Polling Report - TB</a></li>
+<li><a href="https://www.gov.uk/government/news/uk-eu-summit-package-factsheet-and-mythbuster">UK - EU Summit package - factsheet and mythbuster - GOV.UK</a></li>
+<li><a href="https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit">Youth mobility scheme may be delayed to ensure success of UK - EU ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#UK-EU relations`, `#Summit package`, `#Geopolitical events`, `#Financial market impact`, `#Central banks`
+**标签**: `#UK-EU Summit`, `#Financial Market News`, `#Geopolitical Events`, `#Central Bank Policies`, `#Equities, Bonds, Commodities, Currencies`
 
 ---
 
-<a id="item-global-market-8"></a>
+<a id="item-global-market-17"></a>
+### [伊朗战争僵局加剧，特朗普与德黑兰时间赛跑](https://reut.rs/3UUk24D) ⭐️ 7.0/10
+
+随着伊朗战争僵局的加深，特朗普政府与德黑兰都在与时间赛跑。这一紧张局势可能导致地区不稳定，对全球金融市场产生潜在影响。
+
+rss · 路透社 Reuters · 11月17日 17:44
+
+**「背景信息」** 自 2026 年 2 月 28 日起，美国和以色列与伊朗及其地区盟友陷入战争，这场战争是在 2025 年 6 月的十二天战争和由加沙战争引发的中东危机期间的零星战斗之后爆发的。在关于伊朗核项目的美伊谈判期间，美国和以色列对伊朗及其地区盟友进行了数百次空袭，导致战争爆发。目前，美国和以色列对伊朗的战争已经陷入僵局，双方都无法在军事或外交上取得明确胜利。
+
+**「影响」** 这一紧张局势可能导致全球金融市场的不稳定，尤其是对石油价格和地缘政治敏感的资产产生影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Analysis_of_the_2026_Iran_war">Analysis of the 2026 Iran war - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war">2026 Iran war - Wikipedia</a></li>
+<li><a href="https://www.washingtoninstitute.org/policy-analysis/case-stalemate-iran">The Case for a Stalemate With Iran | The Washington Institute</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Geopolitical Events`, `#Iran`, `#United States`, `#Global Financial Markets`, `#Geopolitical Risk`
+
+---
+
+<a id="item-global-market-18"></a>
+### [美国首次失去麻疹消除地位](https://reut.rs/4fDGupA) ⭐️ 7.0/10
+
+美国在近三十年来首次失去麻疹消除地位，凸显了公共卫生领域的重大挑战。
+
+rss · 路透社 Reuters · 11月17日 16:40
+
+**「背景信息」** 美国自 2000 年以来一直保持着麻疹消除的地位。然而，由于疫苗接种率的下降和麻疹病例的激增，2026 年 11 月 13 日，美国正式失去了这一地位。这一事件标志着美国近三十年来首次失去麻疹消除地位，凸显了公共卫生领域的重大挑战。
+
+**「影响」** 这一事件可能导致全球卫生政策和疫苗接种努力的调整。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Measles_resurgence_in_the_United_States">Measles resurgence in the United States - Wikipedia</a></li>
+<li><a href="https://www.cdc.gov/measles/about/history.html">History of Measles | Measles (Rubeola) | CDC</a></li>
+<li><a href="https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html">U . S . Loses Its Measles Elimination Status , a Historic Setback for...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Public Health`, `#Vaccination`, `#Measles`, `#Global Health`, `#US News`
+
+---
+
+<a id="item-global-market-19"></a>
 ### [美国国家安全通信网络瘫痪可能影响全球金融市场](https://reut.rs/48k9kaG) ⭐️ 7.0/10
 
-据 CNN 报道，美国一个高度机密的国家安全通信网络已瘫痪，这一事件可能对全球金融市场产生重大影响。
+据 CNN 报道，美国一个高度机密的国家安全通信网络已瘫痪，这一事件可能对全球金融市场产生广泛影响。
 
 rss · 路透社 Reuters · 11月17日 16:24
 
-**「背景信息」** 美国国家安全局的一个高度机密的通信网络已瘫痪，据 CNN 报道，目前没有证据表明这是一次网络攻击。据报道，这次中断似乎是技术性的。CNN 已要求国家安全局发表评论。一位现任和一位前任美国官员表示，国家安全局的网络中断不会影响该机构在总统唐纳德·特朗普在亚洲乘坐空军一号旅行时向其传达紧急情报的能力。
+**「背景信息」** 近期，美国发生了一系列技术故障，其中包括一个高度机密的国家级安全通信网络的故障。这一事件继空中交通控制、微软服务、航空公司和金融机构的故障之后，进一步加剧了技术中断的问题。据报道，美国国家安全局（NSA）的内部通信网络出现了重大故障，尽管调查人员尚未确定是否存在有组织的网络攻击。
 
-**「影响」** 此次事件可能导致全球金融市场对地缘政治风险和央行政策的跟踪出现波动。
+**「影响」** 此次事件可能导致金融市场波动，尤其是对依赖网络安全进行交易和通信的金融机构和资产。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.thegatewaypundit.com/2026/11/breaking-highly-classified-national-security-communications-systems-goes/">BREAKING: Highly Classified National Security Communications ...</a></li>
-<li><a href="https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down">Exclusive: Highly classified US national security communications ...</a></li>
-<li><a href="https://nypost.com/2026/11/17/us-news/classified-us-communication-network-is-down-but-nsa-says-no-evidence-of-cyber-attack-report/">Classified US communication network back up after outage hit system</a></li>
+<li><a href="https://www.morningstar.com/news/marketwatch/2026111774/the-latest-tech-failure-us-classified-national-security-communications-network">The latest tech failure: U.S. classified national security ...</a></li>
+<li><a href="https://yournews.com/2026/11/17/7271141/nsas-classified-communications-network-goes-down-amid-series-of-major/">NSA’s Classified Communications Network Goes Down Amid Series ...</a></li>
+<li><a href="https://ktvz.com/politics/cnn-us-politics/2026/11/17/exclusive-highly-classified-us-national-security-communications-network-goes-down-sources-say/">Exclusive: Highly classified US national security ... - KTVZ</a></li>
 
 </ul>
 </details>
 
-**标签**: `#national-security`, `#geopolitical-risk`, `#financial-market-impact`, `#central-bank-policy`, `#us-news`
+**标签**: `#national-security`, `#cybersecurity`, `#financial-markets`, `#geopolitical-impact`, `#central-bank`
 
 ---
 
-<a id="item-global-market-9"></a>
+<a id="item-global-market-20"></a>
 ### [塞拉斯疫苗临床试验结果积极，股价上涨](https://reut.rs/4zpuxuI) ⭐️ 7.0/10
 
-塞拉斯疫苗在血液癌症临床试验中显示出延长患者生存期的积极结果，导致该公司股价显著上涨。
+塞拉斯疫苗在血液癌症的临床试验中显示出积极结果，显著延长了患者的生存期，导致相关公司股价大幅上涨。
 
 rss · 路透社 Reuters · 11月17日 15:20
 
-**「背景信息」** SELLAS Life Sciences Group 公司在纳斯达克上市（股票代码：SLS）的股票在宣布其关键性 3 期 REGAL 试验的初步结果后，股价飙升了 240%。这项试验是针对急性髓系白血病的免疫治疗癌症疫苗 galinpepimut-S（GPS）。此外，Dendreon 公司曾进行了一项 512 名患者的试验，以生存期为目标，结果显示生存期延长了四个月，该疫苗于 2010 年获得 FDA 批准。尽管这两个试验针对的癌症不同，且规模更大，但它们之间的比较只能到此为止。p 值是这部分我最感兴趣的部分。
+**「背景信息」** 近年来，癌症一直是全球关注的健康问题。在癌症治疗领域，临床试验是验证新疗法有效性的关键步骤。MD 安德森癌症中心等机构进行了数百项临床试验，以测试针对常见和罕见癌症的新疗法。此外，个性化 mRNA 癌症疫苗的研究也取得了一定的进展，为癌症治疗提供了新的方向。
 
-**「影响」** 这一临床试验结果对市场产生了积极影响，特别是对血液癌症治疗领域，可能导致相关药物和治疗方法的研发加速。
+**「影响」** 这一临床试验结果对血液癌症的治疗领域产生了积极影响，预计将推动相关药物的研发和全球金融市场的变化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://finance.yahoo.com/healthcare/articles/sellas-life-sciences-stock-soars-141221879.html">SELLAS Life Sciences stock soars 240% on positive cancer trial</a></li>
-<li><a href="https://stocktwits.com/symbol/SLS">SLS: SELLAS Life Sciences Group Inc Latest Stock Price, Analysis...</a></li>
-<li><a href="https://www.benzinga.com/trading-ideas/movers/26/10/62658628/sellas-life-sciences-stock-stumbles-whats-going-on">SELLAS Life Sciences Stock Stumbles: What&#x27;s Going On? - Benzinga</a></li>
+<li><a href="https://www.windowstask.com/patients-family/diagnosis-treatment/clinical-trials.html">癌 症 临 床 试 验 MD安德森 癌 症 中心 - 乐动体育app下载ldsport, ld...</a></li>
+<li><a href="https://post.smzdm.com/p/awwk5qe4/">post.smzdm.com/p/awwk5qe4</a></li>
+<li><a href="https://fanpusci.blog.caixin.com/archives/251502">fanpusci.blog.caixin.com/archives/251502</a></li>
 
 </ul>
 </details>
 
-**标签**: `#pharmaceuticals`, `#blood cancer`, `#vaccine trial`, `#market impact`, `#Reuters`
+**标签**: `#pharmaceuticals`, `#blood cancer`, `#clinical trial`, `#stock market`, `#vaccine development`
 
 ---
 
-<a id="item-global-market-10"></a>
+<a id="item-global-market-21"></a>
 ### [英伟达财报后股价波动预测](https://reut.rs/4kV6X5s) ⭐️ 7.0/10
 
-根据期权数据，英伟达在财报公布后股价预计将出现高达 3350 亿美元的波动。
+根据期权数据显示，英伟达在财报公布后股价可能出现高达 3350 亿美元的波动。
 
 rss · 路透社 Reuters · 11月17日 15:20
 
-**「背景信息」** 根据 TechPowerUp 的报道，英伟达在 2026 年 10 月 25 日结束的第三季度报告了 1158 亿美元的营收，同比增长 20%，同比去年增长 103%。此外，根据 NVIDIA 的投资者关系网站，英伟达在 2027 财年第二季度的财报显示，营收为 962 亿美元，同比去年增长 106%。这些数据表明，英伟达的业绩持续增长，这可能是导致其股价在财报公布后可能出现大幅波动的因素之一。
+**「背景信息」** 根据市场分析，英伟达（NVDA）的股价在财报公布前后通常会表现出特定的走势。历史数据显示，在财报公布后，英伟达的股价往往会经历较大的波动。此外，分析师对英伟达的股票预测和价格目标也提供了重要的参考信息。这些因素共同构成了当前市场对英伟达股价波动的预期。
 
-**「影响」** 这一预测将对投资者追踪英伟达股票产生重要影响。
+**「影响」** 这一预测可能会对投资者追踪英伟达股票时产生重要影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.techpowerup.com/354965/nvidia-reports-q3-2026-earnings-of-usd-115-8-billion">NVIDIA Reports Q3 2026 Earnings of $115.8 Billion | TechPowerUp</a></li>
-<li><a href="https://investor.nvidia.com/financial-info/financial-reports/default.aspx">NVIDIA Corporation - Financial Reports</a></li>
+<li><a href="https://marketchameleon.com/Overview/NVDA/Earnings/Stock-Price-Moves-Around-Earnings/">NVDA Stock Price Pattern Around Earnings Nvidia | Market ...</a></li>
+<li><a href="https://finance.yahoo.com/markets/stocks/article/heres-how-nvidia-stock-has-historically-performed-after-earnings-090000788.html?fr=sycsrp_catchall">Here&#x27;s how Nvidia stock has historically performed after earnings</a></li>
+<li><a href="https://stockanalysis.com/stocks/nvda/forecast/">NVIDIA (NVDA) Stock Forecast &amp; Analyst Price Targets</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Equities`, `#Stock Market`, `#NVIDIA`, `#Earnings Report`, `#Options Data`
+**标签**: `#Equities`, `#Options`, `#Market Movement`, `#Nvidia`, `#Financial News`
 
 ---
 
-<a id="item-global-market-11"></a>
+<a id="item-global-market-22"></a>
 ### [中国表示，如果美国实施新的芯片限制措施，中方将采取反制措施](https://reut.rs/4zTwfWz) ⭐️ 7.0/10
 
-China threatens countermeasures against new US chip restrictions, potentially affecting global financial markets.
+China threatens countermeasures against the US if new chip restrictions are imposed.
 
 rss · 路透社 Reuters · 11月17日 15:04
 
-**标签**: `#Geopolitical Events`, `#Technology`, `#Semiconductor Industry`, `#Global Financial Markets`
+**标签**: `#Geopolitical Event`, `#Technology`, `#Semiconductor Industry`, `#Global Financial Markets`
 
 ---
 
-<a id="item-global-market-12"></a>
+<a id="item-global-market-23"></a>
 ### [四方领导人反对经济胁迫和破坏和平的单边行动](https://reut.rs/48pRfYN) ⭐️ 7.0/10
 
 四方领导人指出经济胁迫，并反对破坏和平的单边行动，这一表态对全球金融市场产生影响。
 
 rss · 路透社 Reuters · 11月17日 14:48
 
-**「背景信息」** 经济胁迫是指一个国家或一组国家故意采取或威胁采取行动，对另一个行为者施加经济成本，以影响其政策或行为。这种做法在历史上已有先例，包括贸易限制、外国援助、产业政策和制裁等。单边行动则是指一个国家在没有充分考虑或未经其他相关国家同意的情况下采取的行动。这种行动可能会对全球经济关系产生重大影响，尤其是在全球金融市场中。在当前的国际政治背景下，四方领导人对于经济胁迫和破坏和平的单边行动表示了担忧，这表明了国际社会对于这些问题的关注正在增加。
+**「背景信息」** 在经济胁迫和单边行动成为全球关注焦点之际，四方领导人（美国、英国、澳大利亚和日本）对经济胁迫表示了担忧，并反对破坏和平的单边行动。这一立场反映了当前全球金融市场的紧张局势。经济胁迫通常涉及使用金融或经济压力迫使个人、企业或政府采取他们不愿意采取的行动。在当前的国际政治环境中，这种做法可能对全球金融市场产生重大影响，尤其是在能源市场和货币合作方面。例如，中国和加拿大已经同意深化双边货币和金融合作，包括探索在双边贸易和投资中更广泛地使用当地货币。这些事件表明，全球金融市场的稳定性正受到多方面因素的影响。
 
 **「影响」** 这一表态可能导致全球金融市场对经济胁迫和单边行动更加敏感，进而影响相关国家的货币和股市表现。
 
 <details><summary>参考链接</summary>
 <ul>
+<li><a href="https://opil.ouplaw.com/display/10.1093/law:epil/9780199231690/law-9780199231690-e1518">Oxford Public International Law: Economic Coercion</a></li>
+<li><a href="https://definitions.lsd.law/economic-coercion">What is economic coercion? Simple Definition &amp; Meaning - LSD</a></li>
 <li><a href="https://modeldiplomat.com/learn/glossary/economic-coercion">Economic Coercion — Definition &amp; Meaning | Model Diplomat</a></li>
-<li><a href="https://www.researchgate.net/publication/4854170_The_Hidden_Hand_of_Economic_Coercion">(PDF) The Hidden Hand of Economic Coercion</a></li>
-<li><a href="https://vertexlegal.org/what-is-economic-coercion-definition-examples-effects/">What Is Economic Coercion ? Definition , Examples, and Effects...</a></li>
-<li><a href="https://heartofasia.af/u-s-sanctions-against-china-unilateral-actions-threatening-global-economic-relations/">U.S. Sanctions Against China: Unilateral Actions Threatening Global ...</a></li>
-<li><a href="https://www.numberanalytics.com/blog/ultimate-guide-unilateralism-international-relations">Understanding Unilateralism in Global Politics</a></li>
-<li><a href="https://finance.yahoo.com/markets/">Markets : World Indexes, Futures, Bonds, Currencies... - Yahoo Finance</a></li>
+<li><a href="https://www.youtube.com/watch?v=3du5l2YPGL8">Financial Markets : Investors Rush to Treasuries?; Ira... - YouTube</a></li>
+<li><a href="https://www.forexfactory.com/">Forex Factory | Global markets for the smart money.</a></li>
+<li><a href="https://www.globaltimes.cn/page/202611/1374487.shtml">China, Canada to explore wider use of local currencies... - Global Times</a></li>
 
 </ul>
 </details>
@@ -484,503 +605,423 @@ rss · 路透社 Reuters · 11月17日 14:48
 
 ---
 
-<a id="item-global-market-13"></a>
-### [伊拉克领导人计划镇压亲伊朗民兵组织，风险极高](https://reut.rs/4klZI6C) ⭐️ 7.0/10
+<a id="item-global-market-24"></a>
+### [美联储库克律师威胁不参加白宫听证会](https://reut.rs/4kh1i9G) ⭐️ 7.0/10
 
-伊拉克领导人计划对亲伊朗的民兵组织采取镇压行动，这是迄今为止风险最高的举措。该行动可能对区域稳定和金融市场产生重大影响，尤其是与商品和货币相关的市场。
+美联储库克的律师威胁不参加白宫的‘不公平’听证会，这可能会影响美联储的政策和市场情绪。
 
 rss · 路透社 Reuters · 11月17日 14:17
 
-**「背景」** 自 2003 年美国及其盟友入侵伊拉克以来，伊朗在伊拉克的影响力不断加深。伊朗通过一系列什叶派民兵组织，如巴德尔组织、阿萨伊卜·阿赫拉和真主党旅等，这些组织由伊朗革命卫队（IRGC）训练、武装、资助，并在伊拉克的政治、军事和社会生活中扮演着重要角色。这些民兵组织不仅追求将美国军队从中东驱逐出去的战略目标，还拥有各自的地方议程。此外，随着伊拉克安全局势的演变，这些武装派别在议会中占据席位，同时管理着与伊朗战略深度相连的秘密导弹通道。在 2026 年伊朗战争中，伊拉克成为伊朗支持的民兵组织对美国设施进行导弹和无人机袭击的主要目标。这些民兵组织在伊拉克的政治和军事生活中具有不可忽视的影响力，其活动对伊拉克及其周边地区的稳定和金融市场产生重大影响。
+**「背景信息」** 美联储理事丽莎·库克的律师表示，由于白宫听证会被视为不公平，库克将不会参加此次听证会。这一事件可能对美联储的政策和市场情绪产生影响。据报道，此次听证会涉及对库克涉嫌抵押贷款欺诈的指控。
 
-**「影响」** 此次镇压行动可能会对区域稳定产生负面影响，进而影响相关商品和货币的市场表现。
+**「影响」** 这一事件可能会引起市场对美联储未来政策的关注，进而影响市场情绪和投资决策。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Iranian_intervention_in_Iraq_%282014%E2%80%93present%29">Iranian intervention in Iraq (2014–present) - Wikipedia The History and Resilience of Iranian-Backed Shia Militias in ... Iraq in the 2026 Iran war - Wikipedia How Iran-Backed Militias Sustain Power Inside Iraq’s State The Evolution of Iran’s Special Groups in Iraq Background: Past to Present External Intervention and Proxy ... Profiles: Iran’s Militia Allies in Iraq | Wilson Center</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Iraq_in_the_2026_Iran_war">Iraq in the 2026 Iran war - Wikipedia How Iran-Backed Militias Sustain Power Inside Iraq’s State The Evolution of Iran’s Special Groups in Iraq Background: Past to Present External Intervention and Proxy ... Profiles: Iran’s Militia Allies in Iraq | Wilson Center</a></li>
-<li><a href="https://besacenter.org/the-history-and-resilience-of-iranian-backed-shia-militias-in-iraq-formation-comparison-and-pillars-of-resilience/">The History and Resilience of Iranian-Backed Shia Militias in ...</a></li>
+<li><a href="https://www.politico.com/news/2026/11/17/fed-lisa-cook-white-house-trump-hearing-01169369">Fed&#x27;s Cook won&#x27;t appear at White House hearing on potential ...</a></li>
+<li><a href="https://www.cbsnews.com/news/lisa-cook-federal-reserve-white-house-hearing/">Fed&#x27;s Lisa Cook won&#x27;t participate in White House hearing ...</a></li>
+<li><a href="https://www.usatoday.com/story/money/economy/2026/11/17/lisa-cook-fed-white-house-hearing/92823868007/">Lisa Cook will not attend &#x27;unfair&#x27; White House hearing ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Iraq`, `#Political Stability`, `#Regional Conflict`, `#Commodity Markets`, `#Currency Fluctuations`
+**标签**: `#Federal Reserve`, `#White House Hearing`, `#Market Sentiment`, `#Central Bank Policy`
 
 ---
 
-<a id="item-global-market-14"></a>
-### [独家报道：尽管亚马逊、谷歌和 Meta 展开游说，特朗普限制中国数据中心的举措仍在推进](https://reut.rs/4kgLLqo) ⭐️ 7.0/10
+<a id="item-global-market-25"></a>
+### [欧盟加速可再生能源项目以应对油价飙升](https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Fast-Track-Renewables-as-Oil-Import-Costs-Soar.html) ⭐️ 7.0/10
 
-Exclusive report on the advancement of Trump&\#x27;s initiative to curb China data centers despite lobbying efforts from Amazon, Google, and Meta.
+欧盟议会达成初步协议，加速新的能源项目许可发放，重点关注风能、太阳能、电网升级和储能。这一举措是欧盟为应对油价飙升而采取的最新措施，旨在进一步增加替代能源在其能源结构中的比例。
 
-rss · 路透社 Reuters · 11月17日 11:20
+rss · OilPrice · 11月18日 08:45
 
-**标签**: `#Tech Policy`, `#Global Markets`, `#Data Centers`, `#Geopolitical Impact`
+**「背景信息」** 根据欧洲经济预测报告，持续投资于可再生能源和整体能源效率将进一步提高欧洲对化石燃料价格波动的抵御能力。此外，澳大利亚在家庭可再生能源和电池使用方面的革命性进展表明，在适当的政策支持下，可以实现什么成果。
 
----
-
-<a id="item-global-market-15"></a>
-### [美国中期选举引发能源风险重新思考](https://reut.rs/4iOPOJm) ⭐️ 7.0/10
-
-美国中期选举引发了对能源风险的重新思考，这可能对全球金融市场产生影响。
-
-rss · 路透社 Reuters · 11月17日 10:16
-
-**「背景」** 2026 年美国中期选举的结果对能源风险产生了重要影响。这场选举被称为“蓝色海啸”，民主党在选举中取得了显著胜利，对特朗普的政策构成了强烈反对。这场选举的结果可能导致美国在能源政策上的重大转变，从而对全球金融市场产生深远影响。
-
-**「影响」** 此次选举结果可能导致能源政策的变化，进而影响全球能源价格和金融市场。
+**「影响」** 这一政策将可能对股市、债券、大宗商品和货币等多个市场产生影响，尤其是对可再生能源相关行业和能源价格产生显著影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=WB9KFO_7c70">&quot;Blue Tsunami&quot; FLOODS Trump In The Midterms . But Will... - YouTube</a></li>
-<li><a href="https://oilprice.com/Geopolitics/Middle-East/After-Midterm-Failure-Trumps-Foreign-Strategy-May-Be-Even-More-Dangerous.html">After Midterm Failure, Trump’s Foreign Strategy May Be... | OilPrice.com</a></li>
-<li><a href="https://www.theguardian.com/commentisfree/2026/nov/03/democrats-midterms-reactions-lessons">‘Democrats need to not blow it’: our panel reacts to the historic midterms</a></li>
+<li><a href="https://economy-finance.ec.europa.eu/document/download/e6bb4d2e-5c46-44e6-a716-6624a57494f3_en?filename=ip348_en.pdf">European Economic Forecast. Autumn 2026</a></li>
+<li><a href="https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis">The household battery revolution that could change energy bills … and...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#US Elections`, `#Energy Risk`, `#Global Financial Markets`, `#Political Economy`
+**标签**: `#European Union`, `#Renewable Energy`, `#Energy Policy`, `#Market Impact`, `#Commodities`
 
 ---
 
-<a id="item-global-market-16"></a>
-### [联合国报告：今年苏丹战争中近四分之三死亡由无人机造成](https://reut.rs/3WLx6tC) ⭐️ 7.0/10
-
-联合国报告显示，今年苏丹战争中的死亡人数中，近四分之三是由无人机造成的。
-
-rss · 路透社 Reuters · 11月17日 09:29
-
-**「背景信息」** 近年来，无人机（UAVs）在全球安全领域中的作用日益突出。在过去的二十年里，无人机已成为全球安全领域的一项关键创新。特别是在非洲，过去五年内，超过 20 个国家采用了无人机技术，尤其是在北非、西非和萨赫勒地区，尤其是在苏丹的持续冲突中。这些无人机在军事战术中的应用，特别是对平民的影响，已成为国际社会关注的焦点。根据联合国报告，苏丹战争中的死亡人数中，近四分之三是由无人机造成的，这表明无人机在冲突中的使用已经发生了显著变化。
-
-**「影响」** 这一事件对全球安全和科技伦理产生了重大影响，可能影响多个资产类别和中央银行政策。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ohchr.org/en/press-releases/2026/11/sudan-un-report-details-deadly-civilian-impact-surge-drone-strikes">Sudan: UN report details deadly civilian impact of surge in ...</a></li>
-<li><a href="https://pdfs.semanticscholar.org/a873/0fbb34fcddb00e631864700bfb9ec098ef28.pdf">Technopolitics Of Conflict: Unpacking The Role Of Drones In ...</a></li>
-<li><a href="https://sudan.un.org/en/326318-un-report-details-deadly-civilian-impact-surge-drone-strikes">UN report details deadly civilian impact of surge in drone ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Drones`, `#War`, `#Global Security`, `#Central Bank Policy`, `#Commodities`
-
----
-
-<a id="item-global-market-17"></a>
-### [蒙古国总统因涉嫌腐败宣布辞职](https://reut.rs/48UN6fA) ⭐️ 7.0/10
-
-蒙古国总统因涉嫌腐败而宣布辞职。
-
-rss · 路透社 Reuters · 11月17日 08:57
-
-**「蒙古国总统辞职背景」** 乌亨纳吉恩·胡雷尔斯呼克于 2021 年成为蒙古国第六任总统，此前他曾于 2017 年至 2021 年担任第 30 任和第 31 任总理，并四次当选蒙古国议会成员。他宣布辞职是在面对议会反对派的腐败指控之后。
-
-**「影响」** 总统的辞职可能会对蒙古国的金融市场和国际关系产生重大影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Ukhnaagiin_Kh%C3%BCrels%C3%BCkh">Ukhnaagiin Khürelsükh - Wikipedia</a></li>
-<li><a href="https://kz.kursiv.media/en/2026-11-17/engk-tank-mongolian-president-announces-resignation-amid-corruption-allegations/">Mongolian president announces resignation amid corruption ...</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-11-17/mongolian-president-abruptly-resigns-after-alleged-misconduct">Mongolia ’s President Abruptly Resigns After Claims of Corruption</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Political Corruption`, `#Mongolian Politics`, `#Financial Market Implications`, `#International Relations`
-
----
-
-<a id="item-global-market-18"></a>
-### [印尼政治动荡加剧市场焦虑](https://reut.rs/4eHYUVX) ⭐️ 7.0/10
-
-印尼政治不稳定加剧，导致市场尤其是 MSCI 领导的市场感到焦虑。
-
-rss · 路透社 Reuters · 11月17日 08:10
-
-**「背景信息」** 印尼目前正面临严重的政治动荡，这一情况对全球市场产生了影响，特别是那些由 MSCI 引领的市场。MSCI 是一家全球性的指数提供商，其提供的指数被广泛用于衡量全球股市的表现。印尼的政治不稳定可能导致投资者对这些市场的信心下降，从而引发市场焦虑。
-
-**「市场影响」** 印尼的政治动荡对全球市场产生了具体影响，尤其是对 MSCI 领导的市场造成了压力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/MSCI">MSCI - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/MSCI_World">MSCI World - Wikipedia</a></li>
-<li><a href="https://www.msci.com/indexes/index-resources/market-classification">Market Classification - MSCI</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Political Instability`, `#Market Anxiety`, `#MSCI Markets`, `#Indonesia`
-
----
-
-<a id="item-global-market-19"></a>
+<a id="item-global-market-26"></a>
 ### [欧洲 LNG 争夺战对亚洲天然气市场造成冲击](https://oilprice.com/Energy/Energy-General/Europes-LNG-Scramble-Sends-Shockwaves-Through-Asian-Gas-Markets.html) ⭐️ 7.0/10
 
-由于欧洲天然气供应紧张和库存水平降至十年来的最低点，欧洲对 LNG 货物的需求增加，导致欧洲和亚洲的天然气和 LNG 价格上涨，从而抑制了亚洲的需求。霍尔木兹海峡危机继续阻碍超过三分之二的卡塔尔 LNG 运输，这个冬天欧洲和亚洲的天然气价格都将上升，基准价格甚至冬季结束后也将保持高位，因为欧洲将不得不补充可能严重耗尽的储存水平。
+由于欧洲天然气供应紧张和库存水平降至十年来的最低点，欧洲对 LNG 的需求增加，导致其支付高价购买 LNG，进而推高了欧洲和亚洲的天然气及 LNG 价格，并抑制了亚洲的需求。
 
 rss · OilPrice · 11月18日 00:00
 
-**「背景信息」** 欧洲对液化天然气（LNG）的需求增加，这是由于供应紧张和库存水平处于历史低点。这种情况导致欧洲和亚洲的天然气和 LNG 价格上升，并抑制了亚洲的需求。此外，霍尔木兹海峡危机导致超过三分之二的卡塔尔 LNG 运输受阻，使得这个冬天欧洲和亚洲的天然气价格都将上升。即使冬季结束后，基准价格也预计将保持高位，因为欧洲将不得不补充可能严重耗尽的储存水平。
+**「背景信息」** 近年来，欧洲为了弥补俄罗斯管道天然气供应的减少，LNG 进口量不断增加。然而，由于 2022 年的能源危机，天然气消费量有所下降，预计将进一步下降。此外，2026 年霍尔木兹海峡的全面关闭可能导致全球 LNG 市场出现 27 亿立方米的净供应短缺，这将加剧全球对现货货物的竞争。
 
-**「影响」** 这一情况导致亚洲天然气市场价格上涨，对亚洲的能源成本和工业生产产生直接影响。
+**「影响」** 这一情况导致欧洲和亚洲的天然气价格上升，对亚洲的天然气市场产生了具体的影响，包括价格上涨和需求减少。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.csis.org/analysis/battle-hormuz-will-reshape-global-lng-market">The Battle for Hormuz Will Reshape the Global LNG Market</a></li>
-<li><a href="https://www.oxfordenergy.org/wpcms/wp-content/uploads/2026/03/Comment-Modelling-the-Impact-of-the-Strait-of-Hormuz-Closure.pdf">Modelling the Impact of the Strait of Hormuz - oxfordenergy.org</a></li>
-<li><a href="https://www.iea.org/news/middle-east-crisis-disrupts-international-natural-gas-markets-and-delays-global-lng-supply-wave">Middle East crisis disrupts international natural gas markets ...</a></li>
+<li><a href="https://www.acer.europa.eu/sites/default/files/documents/Publications/ACER-LNG-Monitoring-Report-2026.pdf">ACER 2026 LNG report</a></li>
+<li><a href="https://acer.europa.eu/monitoring/MMR/LNG_market_developments_2026">Analysis of the European LNG market developments</a></li>
+<li><a href="https://www.iea.org/reports/gas-market-report-q3-2026">Gas Market Report, Q3-2026 - IEA</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LNG Market`, `#Gas Prices`, `#European Energy Policy`, `#Asian Energy Market`, `#Geopolitical Impact`
+**标签**: `#Energy Market`, `#LNG Supply`, `#Gas Prices`, `#European Energy Policy`, `#Asian Gas Markets`
 
 ---
 
-<a id="item-global-market-20"></a>
-### [俄罗斯原油出口达到四个月高点](https://oilprice.com/Latest-Energy-News/World-News/Russian-Crude-Exports-Hit-Four-Month-High.html) ⭐️ 7.0/10
+<a id="item-global-market-27"></a>
+### [古巴能源危机成为美国燃料出口商的机遇](https://oilprice.com/Energy/Energy-General/Cubas-Energy-Crisis-Turns-Into-a-Goldmine-for-US-Fuel-Exporters.html) ⭐️ 7.0/10
 
-俄罗斯原油出口量因乌克兰无人机袭击导致国内炼油厂中断而达到四个月高点。截至 11 月 15 日的一周内，俄罗斯装载了超过 3000 万桶原油，39 艘装载俄罗斯原油的油轮共装载了 3027 万桶，比上周的 2360 万桶增加了 950,000 桶/日，达到 432 万桶/日，为 6 月以来的最高水平。
+美国对古巴的封锁意外地导致美国燃料出口到古巴激增，影响了全球能源市场动态。特朗普政府今年早些时候对古巴实施海军封锁，导致古巴陷入能源危机，而美国已成为古巴最大的燃料供应商。
 
-rss · OilPrice · 11月17日 17:30
+rss · OilPrice · 11月17日 23:00
 
-**「背景信息」** 俄罗斯原油出口达到四个月高点，主要原因是乌克兰无人机袭击导致国内炼油厂面临中断，迫使更多原油流向出口市场。乌克兰无人机袭击在 2025 年和 2026 年期间的影响范围和强度不断增加，这表明乌克兰在技术和军事能力方面的显著扩张。2026 年前八个月，俄罗斯炼油厂平均每三天遭到一次袭击。乌克兰对包括里亚赞、伏尔加格勒、萨马拉、图阿普斯和乌法以及阿斯特拉罕在内的六个主要炼油厂进行了袭击，这些袭击对俄罗斯炼油能力产生了影响。特朗普曾敦促乌克兰停止对俄罗斯炼油厂的袭击，因为这些袭击减少了俄罗斯的炼油能力，并在国内引发了燃料短缺。
+**「背景信息」** 美国对古巴的封锁始于特朗普政府时期，旨在通过切断古巴的能源供应来推动政治变革。这一封锁导致古巴面临能源危机，进而促使美国成为古巴的主要燃料供应商。这一变化不仅影响了古巴的能源市场，也对全球能源市场动态产生了影响。
 
-**「影响」** 这一出口增长对全球金融市场产生了影响，尤其是对跟踪商品和货币的市场参与者来说，可能会对原油价格产生影响。
+**「影响」** 这一变化使得美国燃料出口商受益，同时也对全球能源市场产生了影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.iea.org/commentaries/russian-refining-sector-struggles-amid-intensifying-ukrainian-attacks">Russian refining sector struggles amid intensifying Ukrainian ... - IEA</a></li>
-<li><a href="https://www.globalbankingandfinance.com/ukraine-crisis-russia-oil-refining-zero/">Impact of Ukrainian Drone Attacks on Russian Oil Refining</a></li>
-<li><a href="https://fortuneprime.com/education/trump-urges-ukraine-to-halt-strikes-on-russian-refineries/">Trump Urges Ukraine to Halt Strikes on Russian Refineries</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_embargo_against_Cuba">United States embargo against Cuba - Wikipedia</a></li>
+<li><a href="https://www.tiktok.com/discover/why-did-we-cut-off-cubas-oil">Why Did We Cut Off Cubas Oil | TikTok</a></li>
+<li><a href="https://www.youtube.com/watch?v=fvCnx0_-j1c">China Sends 200 Containers to Cuba — Beijing’ s Response... - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#commodities`, `#crude oil`, `#export`, `#market implications`, `#geopolitical events`
+**标签**: `#Energy Trade`, `#Geopolitical Relations`, `#U.S. Fuel Exports`, `#Cuba Energy Crisis`, `#Market Dynamics`
 
 ---
 
-<a id="item-global-market-21"></a>
-### [布伦特原油价格受霍尔木兹海峡油轮袭击影响，接近 93 美元](https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html) ⭐️ 7.0/10
+<a id="item-global-market-28"></a>
+### [资源限制是否助长了全球冲突的加剧？](https://oilprice.com/Energy/Energy-General/Are-Resource-Limits-Fueling-the-Worlds-Growing-Conflicts.html) ⭐️ 7.0/10
 
-布伦特原油价格本周受霍尔木兹海峡油轮袭击事件影响，维持在接近 93 美元的水平，这一价格变动抵消了海湾地区石油出口的激增。
+文章讨论了资源限制，特别是可提取的能源资源，在全球冲突和经济不稳定中的作用。文章指出，全球经济增长已经触及了所谓的增长极限，人口过多而资源有限，尤其是对许多贫困人口来说，资源并不足够便宜。这导致了全球范围内的不满情绪，包括美国选民要求变革，以及欧洲、印度和孟加拉国的抗议者寻求变革。
 
-rss · OilPrice · 11月17日 16:00
+rss · OilPrice · 11月17日 19:00
 
-**「背景信息」** 霍尔木兹海峡油轮袭击事件对布伦特原油价格产生影响，抵消了海湾地区石油出口的激增。霍尔木兹海峡是全球最繁忙的石油运输通道之一，伊朗曾多次限制对该海峡的访问。海峡的任何中断都会对亚洲造成严重影响，例如，中国就估计购买了伊朗出口到全球市场的约 90%的石油。地缘政治紧张局势在霍尔木兹海峡可能会对全球能源市场产生重大影响。当像卡塔尔这样的主要液化天然气出口国因安全问题面临供应中断时，这会产生连锁反应。
+**「背景信息」** 本文讨论了资源限制，特别是可提取的能源资源，在全球冲突和经济不稳定中的作用。这一观点与读者跟踪中央银行、股票、债券、商品和货币的相关性，因为它涉及到能源资源的可用性，这可以影响经济政策和市场动态。Malthusianism（马尔萨斯主义）是一种理论，认为人口增长可能是指数级的，而粮食供应或其他资源的增长是线性的，这最终会降低生活水平，导致人口下降。1972 年，由 D H Meadows、D L Meadows、J Randers 和 W W Behrens III 撰写的《增长的极限》一书，是试图模拟我们社会未来的里程碑。这本书对于科学家和政策制定者来说，了解其科学基础、当前的相关性以及导致其被拒绝的社会和政治机制至关重要。
 
-**「市场影响」** 霍尔木兹海峡油轮袭击事件对全球能源市场产生了直接影响，导致布伦特原油价格波动，对相关行业和货币产生了具体的影响。
+**「影响」** 这一情况可能导致全球范围内的经济不稳定，影响包括中央银行政策、股票、债券、商品和货币市场，因为能源资源的可用性会影响经济政策和市场动态。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tiktok.com/discover/hormuz-strait-oil-tanker">Hormuz Strait Oil Tanker | TikTok</a></li>
-<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
-<li><a href="https://www.linkedin.com/posts/modern-mechanics-24_energysecurity-oilmarkets-globaltrade-activity-7438994673748049920--NuZ">Hormuz Strait Attacks Threaten Global Oil Supply | LinkedIn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Malthusianism">Malthusianism - Wikipedia</a></li>
+<li><a href="https://www.nytimes.com/1972/04/02/archives/the-limits-to-growth-a-report-for-the-club-of-romes-project-on-the.html">The Limits to Growth - The New York Times</a></li>
+<li><a href="https://www.amazon.com/Limits-Growth-Revisited-SpringerBriefs-Energy/dp/1441994157">The Limits to Growth Revisited (SpringerBriefs in Energy): Bardi, Ugo...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Energy Market`, `#Oil Prices`, `#Hormuz Strait`, `#Tanker Attacks`, `#Global Energy Complex`
+**标签**: `#Resource Limits`, `#Global Conflicts`, `#Energy Resources`, `#Economic Stability`, `#Market Dynamics`
+
+---
+
+<a id="item-global-market-29"></a>
+### [中韩自贸协定服务投资后续谈判实质性结束](https://x.com/Jaemyung_Lee/status/2122988472994791476) ⭐️ 7.0/10
+
+中韩于 2026 年 11 月 18 日宣布，双方自贸协定服务与投资后续谈判已实质性结束。中国承诺在电影、游戏等领域给予韩国最惠国待遇，并扩大旅游、法律、建筑、金融等领域的开放。此次谈判自 2018 年 3 月启动，历时 8 年 8 个月。
+
+telegram · zaihuapd · 11月18日 10:02
+
+**「背景信息」** 中韩自贸协定自 2015 年生效后，两国于 2018 年 3 月启动了服务贸易和投资后续谈判。这些谈判历时 8 年 8 个月，旨在进一步深化两国在商品贸易红利的基础上，实现服务贸易和投资的突破。在此期间，双方共举行了九次正式磋商及首席代表会议等。此次谈判的实质性结束，标志着中韩两国在自贸协定领域的合作取得了重要进展。
+
+**「影响」** 此次中韩自贸协定的达成将促进两国在电影、游戏、旅游、法律、建筑和金融等领域的合作，有望进一步推动双边贸易和投资的增长。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.zaobao.com.sg/realtime/china/story20250116-5743403">时隔四年 韩 中 重启 自 贸 协 定 服 贸 投 资 后 续 谈 判 | 联合早报</a></li>
+<li><a href="https://m-cn.yna.co.kr/view/ACK20251228000200881">韩 中 FTA生效十周年： 服 务 投 资 后 续 谈 判 成破局关键 | 韩 联社</a></li>
+<li><a href="https://t.me/s/zaobao_news/120580">联合早报 即时报道 – Telegram</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Free Trade Agreement`, `#China-South Korea Relations`, `#Trade Policy`, `#Economic Cooperation`
 
 ---
 
 ## AI 前沿
 
 <a id="item-ai-frontier-1"></a>
-### [OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol](https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/) ⭐️ 9.0/10
+### [OpenAI 发布 GPT-6.2 Astra 和 GPT-6.2 Sol](https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/) ⭐️ 9.0/10
 
-OpenAI 发布了 GPT-6.2 Astra 和 GPT-6.2 Sol 两款 AI 模型，Astra 面向复杂项目，Sol 适用于日常工作。Astra 的价格为每百万 token 输入 8 美元，输出 40 美元，比前代降低 20%；Sol 的价格与 GPT-6.1 Sol 相同。
+OpenAI 发布了 GPT-6.2 Astra 和 GPT-6.2 Sol，两款具有改进功能和调整定价的新模型。GPT-6.2 Astra 是面向复杂项目的尖端模型，而 GPT-6.2 Sol 则是适用于日常工作的高效、多功能模型。Astra 的价格为每百万个输入令牌 8 美元，每百万个输出令牌 40 美元，而 Sol 的价格与之前的版本相同。
 
 rss · Simon Willison · 11月17日 22:38
 
-**「背景信息」** GPT-6.2 Astra 和 GPT-6.2 Sol 是 OpenAI 最新发布的 AI 模型，旨在解决更复杂的项目和日常任务。这些模型在性能上有所提升，并且价格更加亲民，使得 AI 模型的应用更加广泛。GPT-6.2 Astra 面向复杂项目，而 GPT-6.2 Sol 则适用于日常工作。
+**「背景信息」** 大型语言模型（LLM）是人工智能领域的一个重要研究方向，OpenAI 作为该领域的领军企业，其模型的发展一直备受关注。GPT-6.2 Astra 和 GPT-6.2 Sol 的发布，是 LLM 技术发展的重要里程碑，标志着 OpenAI 在 LLM 领域的进一步探索和突破。
 
-**「影响」** GPT-6.2 Astra 和 GPT-6.2 Sol 的发布为开发者提供了更高效、成本更低的 AI 解决方案，有助于推动 AI 技术的发展和应用。
+**「影响」** 对于开发者、研究人员和用户来说，这些新模型的推出意味着可以以更低的成本访问更强大的 AI 功能，从而可能加速 AI 在各个领域的应用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">Introducing GPT - 6 . 2 Astra and Sol | OpenAI</a></li>
-<li><a href="https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol">OpenAI has the #2 model in the Intelligence Index with the release of...</a></li>
-<li><a href="https://teamorouter.com/models/gpt-6.2-sol">GPT - 6 . 2 Sol API: Release Status and What to Use Now</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">Introducing GPT-6.2 Astra and Sol | OpenAI</a></li>
+<li><a href="https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available/">OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</a></li>
+<li><a href="https://developers.openai.com/api/docs/models/gpt-6.2-astra">GPT-6.2 Astra Model | OpenAI API</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Model Release`, `#OpenAI`, `#GPT-6.2 Astra`, `#GPT-6.2 Sol`
+**标签**: `#AI Model Release`, `#OpenAI`, `#GPT-6.2`, `#Astra`, `#Sol`, `#Large Language Model`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [Java4Shell：OpenJDK 处理 Base64 时的 RCE 漏洞](https://calif.io/java4shell/) ⭐️ 7.0/10
+### [FlyDSL MonoKernels 在 vLLM 中实现高交互性解码](https://vllm.ai/blog/2026-11-18-flydsl-monokernels) ⭐️ 8.0/10
 
-OpenJDK 被发现存在一个严重的远程代码执行漏洞，名为 Java4Shell。该漏洞在处理 Base64 编码时可能导致远程攻击者执行任意代码。这一发现对使用 Java 的系统和 AI 基础设施构成了重大安全风险。
+FlyDSL MonoKernels 通过将多个依赖的操作阶段组合在一个 GPU 内核启动中，显著降低了大型语言模型的解码延迟，从而提高了交互式 LLM 应用的交互性。这种技术利用 FlyDSL 和 AMD Instinct GPU，通过优化内核边界和调度，减少了 GPU 启动和完成成本，并提高了 GPU 资源利用率。
 
-hackernews · werrett · 11月17日 21:11 · [社区讨论](https://news.ycombinator.com/item?id=50538240)
+rss · vLLM Blog · 11月18日 00:00
 
-**「背景信息」** Java4Shell 是一个严重的远程代码执行漏洞，存在于 OpenJDK 中。这个漏洞在处理 Base64 编码时可能导致内存损坏，从而允许攻击者远程执行代码。这个漏洞影响了包括 Jenkins、Jira、Confluence 和 Keycloak 在内的多个 Java 应用程序。了解这个漏洞的细节对于理解其潜在影响和采取适当的缓解措施至关重要。
+**「背景」** 大型语言模型（LLM）在交互式应用中依赖于低解码延迟。解码步骤执行一系列 GPU 内核操作，如投影、注意力和专家计算。在小型批次大小下，许多内核只做很少的工作，但每个内核仍会产生 GPU 端调度、启动和完成成本。依赖内核无法在输入准备好之前进行，因此整个内核边界也限制了重叠。在整个链中重复这些成本可以占解码延迟的大部分，而并行工作的小量则使 GPU 容量未被充分利用。HIP 图减少了 CPU 启动开销，但并未消除这些 GPU 端成本。本文探讨了如何使用 FlyDSL 编写的 MonoKernels 减少 vLLM 中的解码延迟，从而提高交互式 LLM 应用的交互性。
 
-**「影响」** 该漏洞可能导致系统遭受严重的安全威胁，迫使开发者和研究人员加强 Java 应用程序的安全性，并可能促使组织加速其安全现代化进程。
-
-**「社区讨论」** 社区讨论中提到，攻击对网络条件敏感，需要低、稳定的往返时间。同时，有用户分享了检测脚本，并讨论了如何通过运行 Java 时使用特定的标志来绕过该漏洞。
+**「影响」** 这项技术为开发者提供了更快的解码速度，从而提高了交互式 LLM 应用的响应速度，这对于需要快速响应的应用场景，如实时对话系统，具有重要意义。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://aviatrix.ai/threat-research-center/critical-java4shell-flaw-rce-cve-2026-114938-major-java-applications/">Java4Shell CVE-2026-114938: Critical RCE in OpenJDK Threatens ...</a></li>
-<li><a href="https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk">CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need ...</a></li>
-<li><a href="https://www.sonatype.com/blog/critical-openjdk-rce-cve-2026-114938-what-to-know">Critical OpenJDK RCE CVE-2026-114938: What to Know</a></li>
+<li><a href="https://www.amd.com/en/developer/resources/technical-articles/2026/kimi-k3-1-pro-on-amd-instinct-gpus.html">Kimi K3.1 Pro on AMD Instinct GPUs</a></li>
+<li><a href="https://www.techpowerup.com/351006/amd-instinct-mi400-series-and-helios-rack-debut-cdna-5-goes-2-nm-plus-rocm-ai-and-gorgon-halo">AMD Instinct MI400 Series and Helios Rack Debut... | TechPowerUp</a></li>
+<li><a href="https://github.com/jhinpan/flydsl-kernel-profiling-lib">GitHub - jhinpan/ flydsl - kernel -profiling-lib: ATT + counter-level traces...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Security`, `#OpenJDK`, `#Vulnerability`, `#Java`, `#AI Infrastructure`
+**标签**: `#AI Research`, `#Large Language Models`, `#AI Infrastructure`, `#Decode Latency`, `#FlyDSL MonoKernels`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) ⭐️ 7.0/10
+### [基于能量的推理器：比传统方法高效 385 倍](https://energy-based-reasoners.github.io/) ⭐️ 7.0/10
 
-MAI Code 2 and Code 2 Flash are new models with competitive performance and cost-effectiveness, generating interest in the AI community.
+Energy-Based Reasoners（EBMs）在推理效率方面表现出显著提升，比传统方法提高了 385 倍。这一新进展在人工智能领域引起了广泛关注，尽管缺乏具体的基准测试，但社区讨论表明 EBMs 在处理传统大型语言模型（LLMs）难以解决的问题上具有巨大潜力。
 
-hackernews · lemonish97 · 11月17日 18:25 · [社区讨论](https://news.ycombinator.com/item?id=50535885)
+hackernews · frenchmajesty · 11月18日 09:29 · [社区讨论](https://news.ycombinator.com/item?id=50543989)
 
-**标签**: `#AI Model Release`, `#Benchmarking`, `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`
+**「背景信息」** Energy-Based Reasoners（EBRs）是一种新型的人工智能推理模型，它们通过学习一个能量函数来对潜在的推理状态进行评估，并通过梯度下降的方式更新这些状态。这种模型在推理效率上相比传统方法有了显著的提升，据报道比传统方法提高了 385 倍。EBRs 的原理是将每个可能的解决方案分配一个能量值，并通过迭代过程最小化这个值。这种模型在处理传统方法难以解决的问题上展现出潜力，例如初级数学问题和计数问题。然而，EBRs 的训练过程非常困难，且具有很高的专业性。
 
----
+**「影响」** Energy-Based Reasoners \(EBRs\) 的出现为人工智能研究带来了显著的效率提升，特别是在推理方面。这种新的推理方法有望在传统大型语言模型（LLMs）表现不佳的领域发挥作用，例如初级数学和计数。对于开发者和研究人员来说，EBRs 的引入可能意味着在特定领域内实现更高效、更准确的推理，从而推动人工智能在更多领域的应用。
 
-<a id="item-ai-frontier-4"></a>
-### [谷歌 AI 回答减少搜索流量 40%](https://revscope.co/blog/search-seo-geo-2026/) ⭐️ 7.0/10
-
-谷歌的 AI 回答功能导致搜索流量减少了 40%，这表明用户行为和搜索引擎功能发生了转变。
-
-hackernews · slashdev · 11月18日 00:17 · [社区讨论](https://news.ycombinator.com/item?id=50540178)
-
-**「背景」** 随着人工智能搜索工具的兴起，搜索引擎优化（SEO）的基本原则仍然至关重要。AI 搜索工具在搜索领域日益流行，但它们与 SEO 的基本原则相互交织，对搜索策略产生了重要影响。例如，谷歌的 AI 概述现在出现在 30%的搜索结果中，近三分之四的问题解决查询中。此外，根据皮尤研究中心的研究，当 AI 摘要出现在搜索结果中时，谷歌用户点击链接的可能性较低。这些趋势表明，随着 AI 在搜索结果中的应用增加，用户行为和搜索引擎功能可能发生了变化。
-
-**「社区讨论」** 社区讨论中，有人认为 AI 回答的普及使得搜索结果更加直接，但也可能导致信息发现的减少。有观点认为，如果谷歌不提供这些 AI 回答，用户可能会转向其他 LLM（大型语言模型）以快速获取答案。还有讨论指出，AI 输出中的广告以及如何引导 AI 回答将成为未来的问题。
+**「社区讨论」** 社区讨论中，有人推荐 Logical Intelligence 项目，该项目由 Yann LeCun 等人领导，提供了关于 EBMs 的更多背景信息。有用户表示 EBMs 在特定领域表现出色，但训练难度大且具有局限性。还有人对 EBMs 的定义和实际应用提出了疑问。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://searchengineland.com/ai-search-booming-seo-still-not-dead-458935">AI search is booming, but SEO is still not dead</a></li>
-<li><a href="https://www.searchenginejournal.com/google-ai-overviews-found-in-74-of-problem-solving-queries/538504/">Google AI Overviews Found In 74% Of Problem-Solving Queries</a></li>
-<li><a href="https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/">Do people click on links in Google AI ... | Pew Research Center</a></li>
+<li><a href="https://energy-based-reasoners.github.io/">Energy - Based Reasoners : Your Recurrent Reasoner Should Be an...</a></li>
+<li><a href="https://privinia.com/en/blog/energy-based-transformers-human-like-reasoning/">Energy - based Transformers: Learning about Human-like AI Reasoning</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50543989">Energy - Based Reasoners : 385x more efficient inference | Hacker News</a></li>
+<li><a href="https://www.thesingularityproject.ai/p/the-grain-in-the-stone-energy-based">The Grain in the Stone: Energy - Based AI and the Shape of Intelligence</a></li>
+<li><a href="https://www.linkedin.com/pulse/when-predicting-next-word-isnt-enough-what-reasoning-actually-bahri-zncff">When Predicting the Next Word Isn&#x27;t Enough: What Energy - Based ...</a></li>
+<li><a href="https://energy-based-reasoners.github.io/">Energy - Based Reasoners : Your Recurrent Reasoner Should Be an...</a></li>
+<li><a href="https://energy-based-reasoners.github.io/">Energy - Based Reasoners : Your Recurrent Reasoner Should Be an...</a></li>
+<li><a href="https://www.linkedin.com/posts/logical-intelligence_a-yann-lecunlinked-startup-charts-a-new-activity-7422731569108365312-4mjg">Energy - Based Reasoning Models Complement LLMs in AI... | LinkedIn</a></li>
+<li><a href="https://www.mexc.co/news/527319">Logical Intelligence Introduces First Energy - Based Reasoning AI...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Search Engine Optimization`, `#AI-Driven Search`, `#User Behavior`
+**标签**: `#AI Research`, `#Energy-Based Reasoners`, `#Inference Efficiency`, `#Large Language Models`, `#AI Development`
+
+---
+
+<a id="item-ai-frontier-4"></a>
+### [Java4Shell: OpenJDK 处理 Base64 时的 RCE 漏洞分析](https://calif.io/java4shell/) ⭐️ 7.0/10
+
+OpenJDK 中存在一个关键漏洞，当处理 Base64 编码时可能导致远程代码执行（RCE）。该漏洞的分析涉及技术细节和潜在影响，但与大型语言模型或 AI 研究无直接关联。
+
+hackernews · werrett · 11月17日 21:11 · [社区讨论](https://news.ycombinator.com/item?id=50538240)
+
+**「背景信息」** OpenJDK 是一个广泛使用的 Java 开发平台，其安全性对于整个 Java 生态系统至关重要。Java 4 Shell（CVE-2026-114938）是一个严重的内存损坏漏洞，存在于 OpenJDK 的 Base64 解码器中，可能导致远程代码执行。这个漏洞的发现强调了在软件安全方面持续进行风险评估和漏洞修复的重要性。
+
+**「社区讨论」** 社区讨论主要集中在攻击的条件和影响上。一些用户指出，攻击对网络条件敏感，需要低且稳定的往返时间。还有用户分享了检测脚本，并讨论了安全问题和现代化的必要性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk">CVE-2026-114938 OpenJDK RCE ( Java 4 Shell ): Everything... | Wiz Blog</a></li>
+<li><a href="https://www.phoronix.com/news/Java4Shell-Vulnerability">Java 4 Shell Vulnerability For OpenJDK Java That Can... - Phoronix</a></li>
+<li><a href="https://calif.io/java4shell/">Java 4 Shell : Write once, RCE everywhere</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenJDK`, `#Security Vulnerability`, `#Java`, `#AI Infrastructure`
 
 ---
 
 <a id="item-ai-frontier-5"></a>
-### [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/) ⭐️ 7.0/10
+### [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) ⭐️ 7.0/10
 
-Solid 2.0 release analysis with user feedback on its features and performance.
+Microsoft introduces MAI Code 2 and Code 2 Flash, a new AI model with performance claims and user experiences reported on Hacker News.
 
-hackernews · pier25 · 11月17日 18:56 · [社区讨论](https://news.ycombinator.com/item?id=50536387)
+hackernews · lemonish97 · 11月17日 18:25 · [社区讨论](https://news.ycombinator.com/item?id=50535885)
 
-**标签**: `#JavaScript Framework`, `#AI Infrastructure`, `#Software Development`, `#Technical Update`, `#Community Feedback`
+**标签**: `#AI Model Release`, `#Microsoft`, `#AI Research`, `#AI Infrastructure`, `#User Experience`
 
 ---
 
 <a id="item-ai-frontier-6"></a>
-### [Datasette Lite 浏览器运行完整服务器端 Python 应用](https://simonwillison.net/2026/Nov/17/datasette-lite/) ⭐️ 7.0/10
+### [Solid 2.0 发布更新](https://www.solidjs.com/blog/solid-2-0-the-long-hold/) ⭐️ 7.0/10
 
-Datasette Lite 允许用户在浏览器中直接运行完整的 Datasette Python 应用，通过 WebAssembly 和 Pyodide 技术，提高了数据库浏览和分析的便捷性和灵活性。用户可以加载不同版本的 Datasette 和 SQLite，以及安装额外的插件，这对于链接到工作演示或错误复现非常有用，无需启动完整的 Web 服务器。
+Solid 2.0 的发布带来了改进和新功能，包括更好的调试诊断和无缝的服务器 RPC，这些更新对前端和后端开发人员来说是一个重要的进步。
+
+hackernews · pier25 · 11月17日 18:56 · [社区讨论](https://news.ycombinator.com/item?id=50536387)
+
+**「背景信息」** Solid 2.0 是一个用于构建网络应用的框架，其最新版本带来了多项改进和新特性。Solid 2.0 的开发历时五年，引入了异步作为响应式图的一部分、服务器函数、为智能体构建的诊断工具以及更小的 API。这些改进和新增功能使得 Solid 2.0 在网络开发领域具有更高的效率和灵活性。
+
+**「社区讨论」** 社区成员对 Solid 2.0 的更新表示赞赏，特别是对改进的调试诊断和服务器 RPC 的无缝体验。有用户提到，与之前版本相比，Solid 2.0 的包大小有所增加，但整体上认为这是一个值得的更新。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal/">Solid 2.0 RC: The Big</a></li>
+<li><a href="https://www.solidjs.com/blog/solid-2-0-the-long-hold/">Solid 2.0 - The Long Hold | Solid</a></li>
+<li><a href="https://github.com/solidjs/solid/discussions/2425">The Road to 2.0 · solidjs solid · Discussion #2425 · GitHub</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Web Development`, `#AI-Powered Web Products`, `#Solid Framework`, `#Software Update`
+
+---
+
+<a id="item-ai-frontier-7"></a>
+### [哈佛研究人员发现 AI 编码代理将软件开发瓶颈从编码转移到代码审查](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/) ⭐️ 7.0/10
+
+哈佛研究人员报告称，AI 编码代理已将软件开发中的瓶颈从编码转移到代码审查，导致对理解和问题发现的新关注。
+
+hackernews · judahmeek · 11月17日 21:16 · [社区讨论](https://news.ycombinator.com/item?id=50538303)
+
+**「背景」** 人工智能在软件开发中的应用已经从编码扩展到了代码审查。哈佛大学的研究人员发现，AI 编码代理已经将软件开发中的瓶颈从编码转移到了代码审查阶段，这导致了对理解和问题发现的新关注。这一发现表明，AI 在软件工程领域的应用正在发生变化，从简单的代码生成转向了更复杂的代码审查和问题解决过程。
+
+**「社区讨论」** 社区讨论中提到，AI 在编写代码方面至少与我一样好（我有 25 年的经验）。现在，审查代码不仅仅是为了发现“问题”，还为了理解。对于“问题发现”，我的代理可以审查它自己的代码（或者说是代理相互审查代码）。这很有效，并能产生可接受的代码质量。我没有发现存在错误...
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50538303">Harvard researchers find AI coding agents shifted the... | Hacker News</a></li>
+<li><a href="https://www.ayautomate.com/blog/ai-coding-agents-code-review-bottleneck">AI Coding Productivity Study: 30% More Code , Flat Output</a></li>
+<li><a href="https://modelsatwork.news/article/harvard-jellyfish-study-ai-coding-agents-code-review-up-49-percent-no-more-issues-closed">Study of 700 firms: AI coding agents add 30% more code , 49...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI in Software Development`, `#AI Coding Agents`, `#Code Review`, `#Harvard Research`, `#Software Engineering`
+
+---
+
+<a id="item-ai-frontier-8"></a>
+### [在浏览器中运行完整的 Datasette Python 应用程序](https://simonwillison.net/2026/Nov/17/datasette-lite/) ⭐️ 7.0/10
+
+Datasette Lite 允许用户在浏览器中直接运行完整的 Datasette Python 应用程序，通过使用 WebAssembly 和 Pyodide 技术，提供了多种功能和版本选择。用户可以通过精心设计的 URL 访问 lite.datasette.io，浏览 SQLite 数据库、JSON 文件、CSV 文件或 SQL 脚本，并选择不同的 Datasette 版本和 SQLite 版本，甚至安装额外的 Datasette 插件。这一功能使得在没有完整 Web 服务器的情况下，也能轻松演示工作进度或重现错误成为可能。
 
 rss · Simon Willison · 11月17日 16:48
 
-**「背景信息」** Datasette Lite 是一个将 Datasette Python 应用程序移植到浏览器中运行的项目，它利用 WebAssembly 和 Pyodide 技术。这个项目最初在 2022 年启动，最初只是一个玩笑，但随着时间的推移，它开始证明其价值。Datasette Lite 通过在 Pyodide Web Worker 中运行 Datasette，并通过拦截导航操作和获取生成的 HTML 来模拟请求，从而实现了在浏览器中运行服务器端应用程序。这种做法虽然有效，但存在一些限制，例如无法执行通过 innerHTML 注入的脚本标签。
+**「背景信息」** Datasette Lite 是一个将 Datasette Python 应用程序移植到浏览器中运行的 WebAssembly 和 Pyodide 项目。它允许用户在浏览器中浏览任何 SQLite 数据库、JSON 文件、CSV 文件或 SQL 脚本，并可以选择不同的 Datasette 版本和 SQLite 版本。这种技术利用了 WebAssembly 和 Pyodide，使得在浏览器中运行服务器端应用程序成为可能。
 
-**「影响」** Datasette Lite 的推出为开发者提供了一种新的方式，可以直接在浏览器中运行服务器端的 Datasette Python 应用，这极大地提高了数据库浏览和分析的便捷性和灵活性。开发者现在可以轻松地加载不同版本的 Datasette 和 SQLite，以及额外的插件，这对于快速演示工作进度或复现错误非常有用。
+**「影响」** Datasette Lite 的推出为开发者提供了一种新的方式，可以直接在浏览器中运行服务器端的 Datasette Python 应用，这极大地简化了演示和调试工作。开发者现在可以轻松地加载不同版本的 Datasette 和 SQLite，以及安装额外的插件，而无需启动完整的 web 服务器。这种灵活性对于 AI 驱动的产品开发尤其有用，因为它允许快速迭代和测试。
 
 **「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.callmissed.com/en/blog/datasette-apps-host-custom-html-applications-inside-datasette">Datasette Apps : Host Custom HTML Applications Inside... | CallMissed</a></li>
-<li><a href="https://simonwillison.net/2026/May/30/pyodide-asgi-browser/">Research: Running Python ASGI apps in the browser via Pyodide ...</a></li>
-<li><a href="https://githubissues.com/simonw/datasette-lite/readme">simonw/ datasette -lite - Githubissues</a></li>
-<li><a href="https://datasette.io/">Datasette: An open source multi-tool for exploring and ...</a></li>
-<li><a href="https://lite.datasette.io/">Datasette</a></li>
-<li><a href="https://github.com/simonw/datasette-lite">GitHub - simonw/datasette-lite: Datasette running in your ...</a></li>
-<li><a href="https://github.com/simonw/datasette-lite">GitHub - simonw/ datasette - lite : Datasette running in your browser...</a></li>
-<li><a href="https://simonwillison.net/2022/Aug/17/datasette-lite-plugins/">Plugin support for Datasette Lite | Simon Willison’s Weblog</a></li>
-<li><a href="https://datasette.io/tutorials">Datasette Tutorials</a></li>
+<li><a href="https://llm.datasette.io/">LLM: A CLI utility and Python library for interacting with Large...</a></li>
+<li><a href="https://www.python.org/downloads/release/python-3160a2/">Python Release Python 3.16.0a2 | Python .org</a></li>
+<li><a href="https://www.youtube.com/watch?v=vmEHCJofslg">Complete Python Pandas Data Science Tutorial! - YouTube</a></li>
+<li><a href="https://www.online-python.com/pyodide">Online Python ( Pyodide ) - Run Python in Browser via WebAssembly</a></li>
+<li><a href="https://devblogs.co/posts/running-python-asgi-apps-in-the-browser-via-pyodide-a-service-worker">Running Python ASGI apps in the browser via Pyodide + a service...</a></li>
+<li><a href="https://www.ijsat.org/research-paper.php?id=8275">Browser -Based Customer Churn Prediction using WebAssembly ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Datasette`, `#WebAssembly`, `#Pyodide`, `#Database`, `#AI Infrastructure`
+**标签**: `#WebAssembly`, `#Pyodide`, `#Datasette`, `#SQLite`, `#AI Infrastructure`
 
 ---
 
-<a id="item-ai-frontier-7"></a>
-### [可灵 AI 发布 Kling Image 4.0 图像模型](https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w) ⭐️ 7.0/10
+<a id="item-ai-frontier-9"></a>
+### [牛津提出「认知共生体」，AI 新方向浮出水面](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652743839&amp;idx=3&amp;sn=9b2a8d3902441da4d6106f325978328e) ⭐️ 7.0/10
 
-可灵 AI 发布了新一代图像创作模型 Kling Image 4.0，该模型首次支持原生 8K 图像生成，并面向企业客户与开发者开放 API 接入。
+牛津大学高级研究员费豪在 arXiv 上发表了一篇 59 页的观点论文，提出了「认知共生体」这一新概念，旨在解决人工智能的终局问题，即如何让每个人拥有一个像贾维斯一样的个人超级智能助手。该论文描述了一种陪伴终身、贴身佩戴、实时在线、绝对私密、几乎不打扰的人工智能实体，它能够通过眼镜、耳机、吊坠、指环、手环等多种设备与用户互动。
 
-telegram · zaihuapd · 11月18日 01:05
+rss · 新智元 · 11月17日 23:12
 
-**「背景信息」** Kling Image 4.0 是可灵 AI 公司发布的新一代图像创作模型，它支持原生 8K 图像生成，并提供了多种面向企业客户和开发者的功能。该模型采用了理解与生成统一架构，能够处理高达 15,000 个 token 的文本输入，支持单图 2,000 字排版和 70 多种商用字体。此外，Kling Image 4.0 可以一次性生成最多 10 张风格统一的组图和超长画幅图像。
+**「认知共生体概念背景」** 认知共生体是人工智能领域的一个新概念，它强调人工智能不仅仅是工具，而是成为人类的“本体伴侣”。这一概念在心理学上具有重要意义，标志着人类依恋系统的重新定向。研究表明，人工智能正逐渐成为人类生活的一部分，与人类形成一种相互依赖的关系，而不仅仅是简单的合作。这种共生关系对人类意识的发展具有重要意义。
 
-**「影响」** Kling Image 4.0 的发布为 AI 研究者和 AI 驱动的产品开发者提供了更高级的图像生成能力，尤其是对于需要高分辨率图像的企业来说，这一更新具有重要意义。
+**「影响」** 这一概念可能会对人工智能领域的研究和产品开发产生深远影响，推动人工智能向更加个性化、智能化的方向发展，为用户提供更加贴心的服务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://kie.ai/kling-image-4-0">Kling Image 4 . 0 API: Native 8K AI Images | Kie.ai</a></li>
-<li><a href="https://www.uzdaily.uz/en/kling-ai-launches-kling-image-40-with-photographic-realism-and-native-8k-generation/">Kling AI Launches Kling Image 4 . 0 with Photographic... — UzDaily.uz</a></li>
-<li><a href="https://fal.ai/models/kling/v4/long-image">Kling Image V4 Long Image (Text to Image ) API on fal</a></li>
+<li><a href="https://www.linkedin.com/pulse/cognitive-symbiosis-meaning-reconstruction-deep-report-lynette-yang-ypg7c">Cognitive Symbiosis and Meaning Reconstruction: A Deep Report on...</a></li>
+<li><a href="https://www.researchgate.net/publication/345699796_Strong_Cognitive_Symbiosis_Cognitive_Computing_for_Humans">(PDF) Strong Cognitive Symbiosis : Cognitive Computing for Humans</a></li>
+<li><a href="https://fahrikarakas.medium.com/the-cognitive-symbiosis-theory-why-you-are-already-half-ai-and-dont-know-it-b1be369df1e3">The Cognitive Symbiosis Theory: Why You Are Already... | Medium</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`, `#Image Generation`, `#AI Model Release`
+**标签**: `#Artificial Intelligence`, `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`
 
 ---
 
 ## IT 与开源
 
 <a id="item-it-opensource-1"></a>
-### [灵晟再次登顶 Top500 榜单](https://www.solidot.org/story?sid=85913) ⭐️ 9.0/10
+### [Manus 成为 Godot 项目的白金赞助商](https://www.solidot.org/story?sid=85922) ⭐️ 7.0/10
 
-深圳国家超算中心的灵晟系统在 2026 年 11 月的 Top500 榜单中再次登顶，成为首个仅靠 CPU 实现持续双精度浮点性能超过 2 Exaflops 的超算系统，使用的是有 304 个核心的 LX2 CPU，总共 1379 万个核心，运行频率 1.55 GHz，操作系统为麒麟，功耗为 42.2 兆瓦。
+AI 公司 Manus 宣布成为开源游戏引擎 Godot 项目的白金赞助商，每年至少赞助 5 万欧元。这一举措强调了独特游戏体验的重要性以及 AI 在游戏开发中的作用。
 
-rss · Solidot · 11月17日 09:54
+rss · Solidot · 11月18日 12:32
 
-**「背景信息」** 超算榜单（Top500）是衡量全球超级计算机性能的重要标准。该榜单每半年更新一次，列出了全球最快的 500 台超级计算机。深圳国家超算中心的灵晟系统在 2026 年 11 月的榜单中再次登顶，成为首个仅靠 CPU 实现持续双精度浮点性能超过 2 Exaflops 的超算系统。这一成就标志着中国在超级计算领域的技术进步和国际竞争力的提升。
+**「背景信息」** Godot 游戏引擎是一个开源游戏开发框架，它允许开发者创建跨平台的游戏。Manus 是一家专注于人工智能技术的公司，其平台 Manus.im 被誉为世界上第一个通用人工智能代理。Manus 的成立和发展，以及其在人工智能领域的创新，为游戏开发领域带来了新的可能性。Manus 成为 Godot 项目的白金赞助商，标志着其在游戏开发领域的进一步扩张和对开源生态系统的支持。
 
-**「影响」** 这一成就对开发者来说意味着中国超算技术在全球范围内的领先地位得到了进一步巩固，同时也为高性能计算领域带来了新的技术突破。
+**「影响」** Manus 成为 Godot 项目的白金赞助商，为开源游戏引擎提供了重要的财务支持，这对于开源生态系统至关重要。这种支持不仅有助于 Godot 游戏引擎的发展，还强调了 AI 在游戏开发中的角色，以及创造成功游戏所需的独特理解和创意。
+
+**「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://paral.news/a/en/2026-06-26/lingsheng-top500-2026.html">China&#x27;s &#x27; Lingsheng &#x27; (LineShine) Supercomputer Tops Global...</a></li>
-<li><a href="https://www.ainchina.com/blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/">LingSheng &#x27;s Bet Against GPUs: How China&#x27;s CPU-Only...</a></li>
-<li><a href="https://inf.news/en/digital/e4052cd92a9ef1c9e240362215ee5be0.html">China&#x27;s Lingsheng supercomputer tops the world rankings...</a></li>
+<li><a href="https://hybrid-rituals.com/everything-we-know-about-the-founder-of-manus-ai-so-far/">Everything We Know About the Founder of Manus AI So Far</a></li>
+<li><a href="https://www.growthhunt.ai/growth-story/manus">Manus Growth Story: 2M Waitlist in One Demo... — GrowthHunt</a></li>
+<li><a href="https://www.youtube.com/watch?v=vV4JYcolcDs">Manus AI : Build ANYTHING- YouTube</a></li>
+<li><a href="https://godotengine.org/">Godot Engine - Free and open source 2D and 3D game engine</a></li>
+<li><a href="https://godotengine.itch.io/godot">Free and open source 2D and 3D game engine</a></li>
+<li><a href="https://www.youtube.com/watch?v=pYu0qrM6YJc">Unity dev Reacts to Godot . Am I Switching? - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Supercomputing`, `#Top500`, `#Ling Sheng`, `#High-Performance Computing`, `#AI`
+**标签**: `#Open Source`, `#Game Development`, `#AI in Tech`, `#Sponsorship`, `#Software Engineering`
 
 ---
 
 <a id="item-it-opensource-2"></a>
-### [FBI 警告黑客利用 Artex 能在三小时内入侵网络](https://www.solidot.org/story?sid=85910) ⭐️ 8.0/10
+### [Optimizely 遭入侵 BBC CNN 等知名网站传播恶意程序](https://www.solidot.org/story?sid=85920) ⭐️ 7.0/10
 
-FBI 警告称，黑客正在利用名为 Artex 的 AI 驱动渗透测试工具，在部分情况下不到三个小时即可成功入侵网络。该工具与针对韩国金融机构、至少 2250 家 ConnectWise 客户以及 Barracuda 公司的攻击事件有关。
+Optimizely 软件平台遭到入侵，黑客篡改了包括 BBC 和 CNN 在内的至少 178 个知名网站的 JavaScript 代码，向访客计算机植入恶意程序。Optimizely 已修复漏洞并通知受影响客户。
 
-rss · Solidot · 11月17日 08:07
+rss · Solidot · 11月18日 09:12
 
-**「背景信息」** Artex 是一款 AI 驱动的渗透测试工具，最初是一个开源工具，但后来被开发者转为闭源。尽管如此，其开源版本仍然在互联网上容易找到。这种工具能够快速扫描受害者的网络，寻找弱点，并利用简单的安全漏洞建立立足点，随后在网络内搜寻敏感信息。这种工具的使用引起了 FBI 的关注，因为它能够在短时间内入侵网络，对包括金融机构在内的多个组织构成威胁。
+**「背景信息」** Optimizely 是一家专注于企业级数字体验平台的软件公司，其产品主要用于视觉网页 A/B 测试和服务器端功能标志。Optimizely 的平台允许用户在不更改网站底层代码的情况下调整网页的内容和布局。这种功能使得许多知名网站，如 BBC、CNN、Zoom、宜家、Salesforce、汇丰银行和 TalkTalk 等选择了使用 Optimizely 的 Web Experimentation 服务。然而，这种广泛的应用也使得 Optimizely 成为黑客攻击的目标，黑客通过篡改加载的 JavaScript 代码，向访客的计算机植入恶意程序。
 
-**「影响」** 这一事件对网络安全构成了严重威胁，可能导致大量用户和组织的数据泄露。
+**「影响」** 此次 Optimizely 的安全漏洞可能导致大量用户数据泄露，包括支付卡信息、Cookie 和屏幕截图等，对受影响的网站和用户造成严重的安全风险。
+
+**「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/">ARTEX and AI-Powered Red Teaming Tools: What Defenders Need ...</a></li>
-<li><a href="https://www.ic3.gov/CSA/2026/261113.pdf">Threat Overview of ARTEX Autonomous Penetration Testing Framework</a></li>
-<li><a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">AI-driven, large-scale nation-state campaign using ARTEX ...</a></li>
+<li><a href="https://app.softwarehope.com/software/optimizely">Optimizely — Overview , Features &amp; Pricing (2026) | SoftwareHope</a></li>
+<li><a href="https://www.optimizely.com/">Optimizely - AI to create and optimize digital experiences</a></li>
+<li><a href="https://crozdesk.com/software/optimizely">Optimizely | Software Reviews &amp; Alternatives</a></li>
+<li><a href="https://www.upguard.com/news/optimizely-data-breach-2026-02-25">Overview: Optimizely Data Breach | UpGuard</a></li>
+<li><a href="https://www.optimizely.com/trust-center/security">Security</a></li>
+<li><a href="https://www.techedubyte.com/optimizely-data-breach-vishing-attack/">Ad tech firm Optimizely confirms data breach after... - Tech Edu Byte</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Security Advisory`, `#AI in Cybersecurity`, `#Network Breach`, `#Open Source Security`, `#Cyber Threat`
-
----
-
-<a id="item-it-opensource-3"></a>
-### [加州理工教授因 AI 完成作业而停止评分](https://www.solidot.org/story?sid=85914) ⭐️ 7.0/10
-
-加州理工学院教授 Yi Ni 因 AI 完成作业的便捷性而停止根据作业的正确性进行评分，现在只根据作业是否完成进行评分。
-
-rss · Solidot · 11月17日 10:22
-
-**「背景」** 人工智能（AI）在教育领域的应用主要集中在个性化学习、自动评分、智能辅导和可访问性支持等方面。从智能辅导系统到 AI 驱动的课堂管理，AI 的影响深远且广泛。AI 在教育评估中的应用优化了学习成果，对学生的学术发展产生了影响。例如，AI 在评分物理问题、提高本科生物理学习与教学的效率以及帮助学生通过持续可用的辅导理解概念方面显示出其有效性。
-
-**「影响」** 这一变化对教育领域产生了影响，特别是对于依赖传统评估方法的数学教育，可能导致教育者和评估者重新思考评估方法和 AI 在教育中的作用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://onlinedegrees.sandiego.edu/artificial-intelligence-education/">AI in Education : 39 Examples</a></li>
-<li><a href="https://journal.foundae.com/index.php/oler/article/view/695">Unveiling the Dual Nature of AI in Grading : A Systematic Review of...</a></li>
-<li><a href="https://arxiv.org/html/2411.13685">Using AI Large Language Models for Grading in Education ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Education`, `#AI in Education`, `#Assessment`, `#Mathematics`, `#California Institute of Technology`
-
----
-
-<a id="item-it-opensource-4"></a>
-### [卡内基梅隆大学免费开放计算机科学课程](https://www.solidot.org/story?sid=85912) ⭐️ 7.0/10
-
-卡内基梅隆大学推出了名为 CS Learn 的在线平台，提供免费的计算机科学课程。这些课程类似于 25 年前的麻省理工学院开放课程 OpenCourseWare，包括教学视频和完整学期讲义，旨在为对计算机科学感兴趣的学习者提供教育资源。
-
-rss · Solidot · 11月17日 09:25
-
-**「背景信息」** 卡内基梅隆大学（Carnegie Mellon University）推出了名为 CS Learn 的在线学习平台，该平台提供免费的计算机科学（CS）相关课程。这一举措类似于 25 年前的麻省理工学院（MIT）开放课程 OpenCourseWare。CS Learn 平台上的课程内容丰富，包括各种主题，并且教学视频托管在 YouTube 上。运营者表示，他们计划陆续上传大学计算机科学系课程的完整学期讲义，并计划在明年一月上线更多课程。
-
-**「影响」** 这一举措为计算机科学爱好者提供了一个宝贵的学习资源，有助于提高公众对计算机科学领域的兴趣和知识水平。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://academy.cs.cmu.edu/">Carnegie Mellon University - CMU CS Academy</a></li>
-<li><a href="https://www.newsminimalist.com/articles/carnegie-mellon-launches-free-cs-learn-platform-with-top-computer-science-courses-ce3ec11b">Carnegie Mellon launches free CS Learn platform with top ...</a></li>
-<li><a href="https://www.cmu.edu/online/">Online Education - Carnegie Mellon University</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Education`, `#Computer Science`, `#OpenCourseWare`, `#Carnegie Mellon`, `#Online Learning`
-
----
-
-<a id="item-it-opensource-5"></a>
-### [富岳运行系统遭非法访问](https://www.solidot.org/story?sid=85911) ⭐️ 7.0/10
-
-日本理化学研究所的超算富岳运行系统遭到外部非法访问，可能已导致用户信息泄露。理研已暂停富岳运行，恢复时间未定。
-
-rss · Solidot · 11月17日 08:35
-
-**「背景信息」** 日本理化学研究所的超算富岳（K computer）运行系统遭到外部非法访问，这起事件可能导致了用户信息的泄露。富岳不仅被大学等研究机构使用，产业界也可以使用该系统。由于非法访问，理化学研究所已经暂停了富岳的运行，并且恢复时间尚未确定。非法访问发生在用户申请使用富岳时需要连接的系统上，因此受害范围将取决于用户登记了多少个人信息。
-
-**「影响」** 此次非法访问可能对使用富岳的大学、研究机构和产业界造成影响，尤其是涉及用户个人信息的安全问题。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://china.kyodonews.net/articles/-/18362">日本理研超算“ 富 岳 ” 运 行 系 统 遭 非 法 访 问 | 共同网</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Security Breach`, `#Supercomputer`, `#Research`, `#Open Source`, `#Cybersecurity`
-
----
-
-<a id="item-it-opensource-6"></a>
-### [Canonical 向订阅用户提供可选的 AI 生成安全补丁](https://www.solidot.org/story?sid=85909) ⭐️ 7.0/10
-
-Canonical 为 Ubuntu Pro 用户提供了使用 AI 生成安全补丁的选项，这些补丁用于修复 AI 发现的漏洞。Canonical 表示，这些 AI 生成的补丁将存储在 Edge archive 中，但不会自动合并到稳定版本中，用户可以选择是否使用，并自行评估其安全性。
-
-rss · Solidot · 11月17日 07:56
-
-**「背景信息」** 在人工智能辅助漏洞发现的时代，随着漏洞数量的增加，传统的补丁开发速度已经无法跟上。为了解决这个问题，Linux 发行版 Ubuntu 的开发商 Canonical 为付费订阅的 Ubuntu Pro 用户提供了一个新选项：使用由人工智能生成的安全补丁来修复由人工智能发现的漏洞。Canonical 为 Ubuntu Pro 用户提供了 AI 安全补丁库 Edge archive，这些补丁未经全面的扩展测试与验证，用户可以自行评估是否使用。而通过常规安全渠道发布的安全更新，则仍将由人工进行验证。
-
-**「影响」** 这一举措为开发者提供了更快的补丁开发选项，有助于提高安全响应速度，尤其是在漏洞数量增加的情况下。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.omgubuntu.co.uk/2026/11/ubuntu-pro-ai-security-archive">Ubuntu Pro users can get early access to AI -written security fixes</a></li>
-<li><a href="https://canonical.com/blog/beyond-tokens-per-watt">Beyond tokens per watt – using Ubuntu 26.04 LTS for AI | Canonical</a></li>
-<li><a href="https://ubuntu.com/pro">Ubuntu Pro | Ubuntu</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI in Software`, `#Security Patches`, `#Ubuntu`, `#Open Source`
+**标签**: `#Security Breach`, `#Cybersecurity`, `#Malware`, `#Optimizely`, `#Web Vulnerability`
 
 ---
