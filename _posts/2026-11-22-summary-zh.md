@@ -5,154 +5,320 @@ date: 2026-11-22
 lang: zh
 ---
 
-> 从 219 条内容中筛选出 33 条重要资讯。
+> 从 222 条内容中筛选出 38 条重要资讯。
 
 ---
 
 **A 股与宏观**
-1. [AI 行业挑战引发金融市场危机猜想](#item-cn-macro-1) ⭐️ 7.0/10
-2. [摩根大通警告：科技股投资者需谨慎](#item-cn-macro-2) ⭐️ 7.0/10
-3. [美股表现影响美联储加息决策](#item-cn-macro-3) ⭐️ 7.0/10
-4. [黎曼猜想证明验证进展](#item-cn-macro-4) ⭐️ 7.0/10
-5. [下周重磅财经日程分析](#item-cn-macro-5) ⭐️ 7.0/10
-6. [美国投资级债券市场分析：供应创新高及影响](#item-cn-macro-6) ⭐️ 7.0/10
-7. [谷歌调整 AI 芯片采购策略，削减博通订单增加联发科份额](#item-cn-macro-7) ⭐️ 7.0/10
-8. [恒生科技指数大幅扩容影响分析](#item-cn-macro-8) ⭐️ 7.0/10
-9. [英国考虑重返欧盟的影响分析](#item-cn-macro-9) ⭐️ 7.0/10
-10. [刘烈宏调研江西省数据要素市场化配置改革进展](#item-cn-macro-10) ⭐️ 7.0/10
-11. [中国经济三季报亮点解析](#item-cn-macro-11) ⭐️ 7.0/10
+1. [沪深北交易所调整融资保证金比例](#item-cn-macro-1) ⭐️ 8.0/10
+2. [高盛协助 SpaceX 完成 320 亿美元债券发行](#item-cn-macro-2) ⭐️ 7.0/10
+3. [黄仁勋事件后美对华算力管制走向分析](#item-cn-macro-3) ⭐️ 7.0/10
+4. [铜贸易流向逆转，美国铜运往中国](#item-cn-macro-4) ⭐️ 7.0/10
+5. [金价下跌与科技股关联分析](#item-cn-macro-5) ⭐️ 7.0/10
+6. [AI 行业泡沫破灭可能引发金融市场危机](#item-cn-macro-6) ⭐️ 7.0/10
+7. [AI 在市场调研中的应用研究：高露洁与 PyMC Labs 的研究成果](#item-cn-macro-7) ⭐️ 7.0/10
+8. [摩根大通警告：科技股面临重大挑战](#item-cn-macro-8) ⭐️ 7.0/10
+9. [美股走势对美联储加息决策的影响分析](#item-cn-macro-9) ⭐️ 7.0/10
+10. [黎曼猜想证明验证进展](#item-cn-macro-10) ⭐️ 7.0/10
+11. [下周重磅财经日程分析](#item-cn-macro-11) ⭐️ 7.0/10
+12. [沪深交易所再降费：年内整体让利超 46 亿元](#item-cn-macro-12) ⭐️ 7.0/10
+13. [上交所修订科创板做市商规则](#item-cn-macro-13) ⭐️ 7.0/10
+14. [上交所推出新一批降费措施](#item-cn-macro-14) ⭐️ 7.0/10
+15. [中国结算：暂免收取部分债券登记结算费用](#item-cn-macro-15) ⭐️ 7.0/10
+16. [A 股市场稳定措施出台](#item-cn-macro-16) ⭐️ 7.0/10
+17. [中国经济三季报服务行业亮点分析](#item-cn-macro-17) ⭐️ 7.0/10
+18. [A 股迎三大新政解读](#item-cn-macro-18) ⭐️ 7.0/10
+19. [创业板做市业务细则发布，A 股三大成长板块协同效应显现](#item-cn-macro-19) ⭐️ 7.0/10
+20. [A 股融资杠杆比例提升至 1.25 倍，预计带来 4000 亿资金增量](#item-cn-macro-20) ⭐️ 7.0/10
 
 **全球市场**
-1. [欧盟预算草案削减及数字税提议](#item-global-market-1) ⭐️ 7.0/10
-2. [华尔街暴跌，气候谈判超时，共和党为 2028 年大选布局](#item-global-market-2) ⭐️ 7.0/10
-3. [欧盟与印度尼西亚签署贸易协定](#item-global-market-3) ⭐️ 7.0/10
-4. [全球电力需求增长推动全球电网投资激增](#item-global-market-4) ⭐️ 7.0/10
-5. [英国净零转型面临中国问题](#item-global-market-5) ⭐️ 7.0/10
+1. [COP31 谈判破裂风险增加](#item-global-market-1) ⭐️ 7.0/10
+2. [欧盟预算草案削减及数字税提议影响分析](#item-global-market-2) ⭐️ 7.0/10
+3. [华尔街暴跌，气候谈判超时，共和党为 2028 年大选布局播客分析](#item-global-market-3) ⭐️ 7.0/10
+4. [欧盟与印度尼西亚签署贸易协定](#item-global-market-4) ⭐️ 7.0/10
+5. [全球电力需求增长推动全球电网投资激增](#item-global-market-5) ⭐️ 7.0/10
+6. [英国净零转型面临中国问题](#item-global-market-6) ⭐️ 7.0/10
+7. [美股科技股暴跌，亚洲股市采取措施稳定](#item-global-market-7) ⭐️ 7.0/10
 
 **AI 前沿**
-1. [黎曼猜想通过 Lean 验证](#item-ai-frontier-1) ⭐️ 9.0/10
-2. [浙江大学实现量子随机存储器 QRAM](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [GnuPG Security Advisory for GPGME](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [Muru：AI 辅助的 Rust 服务器助力 Python Web 应用](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [Karpo 新作再开源，浏览器 Agent 速效双赢](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [国家数据局完善词元计量计费与质量测评标准](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [胰腺癌口服药一线数据：61 例中约 1/12 肿瘤消失](#item-ai-frontier-7) ⭐️ 7.0/10
-8. [特斯拉 FSD v15 更新发布](#item-ai-frontier-8) ⭐️ 7.0/10
+1. [黎曼猜想证明通过 Lean 验证](#item-ai-frontier-1) ⭐️ 9.0/10
+2. [Muru：AI 辅助的 Rust 服务器助力 Python Web 应用](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [哈佛开源虚拟细胞模型：编辑 DNA 前先预演整个细胞，AlphaGenome2 后又一进展](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [NUS 发布 System One 模型评测基准：能力有多宽，决策有多稳？](#item-ai-frontier-4) ⭐️ 7.0/10
 
 **IT 与开源**
-1. [数学家发布广义黎曼猜想证明手稿](#item-it-opensource-1) ⭐️ 8.0/10
-2. [地球 28 光年外发现三星系统](#item-it-opensource-2) ⭐️ 7.0/10
+1. [地球 28 光年外发现三星系统](#item-it-opensource-1) ⭐️ 7.0/10
 
 **效率工具**
-1. [《塞尔达传说：王国之泪》PC 原生版 TotK Recomp 0.5.0 更新](#item-tools-windows-1) ⭐️ 7.0/10
+1. [《塞尔达传说：王国之泪》PC 原生版 TotK Recomp 0.5.0 更新：支持插帧、自由视角、快速存档](#item-tools-windows-1) ⭐️ 7.0/10
 2. [少数派在上海虹桥国际科技周的共创故事](#item-tools-windows-2) ⭐️ 5.0/10
-3. [Strata 0.2.18 新增 220B 开源大模型 Hy4-Flash，门槛上涨至 64GB 内存](#item-tools-windows-3) ⭐️ 5.0/10
+3. [Strata 0.2.18 更新](#item-tools-windows-3) ⭐️ 5.0/10
 4. [2026 黑五 Mac 软件大促：BundleHunt 44 款 App 全场任选](#item-tools-windows-4) ⭐️ 5.0/10
-5. [GPU-Z 2.72 更新信息](#item-tools-windows-5) ⭐️ 5.0/10
-6. [Aitiy v1.1.0](#item-tools-windows-6) ⭐️ 5.0/10
-7. [miniCAD（CAD 软件）](#item-tools-windows-7) ⭐️ 5.0/10
+5. [BlueGauge v0.3.7 简介](#item-tools-windows-5) ⭐️ 5.0/10
+6. [GPU-Z 2.72 更新信息](#item-tools-windows-6) ⭐️ 5.0/10
 
 ---
 
 ## A 股与宏观
 
 <a id="item-cn-macro-1"></a>
-### [AI 行业挑战引发金融市场危机猜想](https://wallstreetcn.com/articles/3786452) ⭐️ 7.0/10
+### [沪深北交易所调整融资保证金比例](https://wallstreetcn.com/articles/3786460) ⭐️ 8.0/10
 
-AI 行业面临的挑战，如融资成本上升、建设周期延长等，可能导致金融市场危机。相关股票价格普遍下跌，纳斯达克综合指数跌幅超过 18%，市场担忧加剧。
+沪深北交易所经中国证监会批准，将融资保证金比例从 100%下调至 80%，自 2026 年 11 月 30 日起施行。此调整旨在提升市场流动性，促进市场长期稳定发展。
 
-rss · 华尔街见闻 · 11月22日 06:37
+rss · 华尔街见闻 · 11月22日 10:52
 
-**「背景信息」** 近年来，人工智能（AI）行业迅速发展，但同时也伴随着一系列挑战。这些挑战包括融资成本上升、建设周期延长以及市场对 AI 行业泡沫破灭的担忧。融资成本上升是由于国际油价居高不下和美联储加息预期，导致美元短期融资利率上升。建设周期延长则是因为数据中心建设项目的审批要求增加。此外，市场对 AI 行业泡沫破灭的担忧也加剧了这些挑战。
+**「背景信息」** 在 2026 年 1 月，沪深北交易所根据当时的市场形势，将融资保证金比例由 80%调高至 100%，这一调整对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高。根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。
 
-**「对投资者的具体影响」** AI 行业泡沫破灭可能导致 GPU 价格下跌，进而引发投资者对算力运营商和模型公司的融资担保担忧。这可能会加速恶化 AI 行业的资产负债表，并可能对私募信贷市场造成冲击。此外，AI 泡沫破灭还可能导致股市大幅调整，对投资者、实体企业和政策决策人产生负面影响。
+**「影响」** 此调整将有助于释放融资空间，提升市场流动性，可能吸引更多投资者参与，对证券公司而言，需加强风险管理，防范过度投机和异常交易。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ft.com/?ref=gobigger">Home - Financial Times</a></li>
-<li><a href="https://builtin.com/artificial-intelligence/risks-of-artificial-intelligence">18 Dangers of Artificial Intelligence ( AI ) | Built In</a></li>
-<li><a href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech">McKinsey technology trends outlook 2026 | McKinsey</a></li>
-<li><a href="https://www.stateof.ai/2026-explore/compute">More AI requires financing , construction ... | State of AI Report 2026</a></li>
-<li><a href="https://www.linkedin.com/posts/ionara-ribeiro_ai-could-prevent-construction-delays-before-activity-7436915788302700544-DA3y">AI could prevent construction delays before they happen</a></li>
-<li><a href="https://www.tipranks.com/news/microsoft-pulls-back-from-ai-deals-as-construction-delays-mount">Microsoft Pulls Back from AI Deals as Construction Delays Mount</a></li>
+<li><a href="https://github.com/1992513/djy/blob/master/gb/26/11/20/n14892347.md">djy/gb/26/11/20/n14892347.md at master · 1992513/djy · GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Industry`, `#Financial Market`, `#Economic Crisis`, `#Investment Risks`, `#Market Analysis`
+**标签**: `#Regulatory Change`, `#Market Liquidity`, `#Investor Behavior`, `#Securities Trading`, `#Financial Policy`
 
 ---
 
 <a id="item-cn-macro-2"></a>
-### [摩根大通警告：科技股投资者需谨慎](https://wallstreetcn.com/articles/3786447) ⭐️ 7.0/10
+### [高盛协助 SpaceX 完成 320 亿美元债券发行](https://wallstreetcn.com/articles/3786456) ⭐️ 7.0/10
 
-摩根大通警告，尽管对冲基金已大幅降仓，但长线资管机构和散户仍未大规模离场。美股科技板块创下 2020 年 3 月以来最大单周跌幅，标普 500 指数连跌七日，纳斯达克 100 指数重挫 10.4%，费城半导体指数大跌 17%。
+高盛联手阿波罗全球管理公司协助 SpaceX 完成约 320 亿美元债券定价，旨在为昂贵的 AI 芯片找到买单方案。这笔债券是 SpaceX 总额约 440 亿美元整体融资的核心部分，被视为其他科技巨头日后采购芯片的潜在范本。
 
-rss · 华尔街见闻 · 11月22日 03:56
+rss · 华尔街见闻 · 11月22日 12:11
 
-**「背景信息」** 在摩根大通发出对科技股的警告之前，美股科技板块已经经历了自 2020 年 3 月以来的最大单周跌幅。这一趋势反映了市场对于科技股的担忧，尤其是对冲基金已经大幅降仓，但长线资管机构和散户投资者仍未大规模离场。此外，市场对冲基金净杠杆探底，而总杠杆却在攀升，显示出市场的不稳定性和风险。这些情况表明，市场对于科技股的信心正在减弱，投资者对于市场的未来走势持谨慎态度。
+**「背景信息」** SpaceX 在人工智能芯片领域的融资一直面临挑战，因为芯片价格昂贵且使用寿命短。传统的公司债发行方式可能会增加债务负担并影响信用评级。为了解决这个问题，SpaceX 和高盛联手，通过特殊目的载体（SPV）采购英伟达芯片并发行债券，再通过与 SpaceX 签订的租约来还本付息。这种融资方式结合了资产支持证券（ABS）和常规公司债的部分特征，旨在吸引更多投资者。此外，高盛还创新性地改变了资金流程，要求投资者预先全额出资，并在芯片交付前将资金存入专用账户，以对冲融资成本。
 
-**「对投资者的影响」** 摩根大通的分析指出，尽管对冲基金已大幅降仓，但长线资管机构和散户仍未大规模离场，这表明市场可能尚未触底。对于投资者而言，这意味着需要更加谨慎，尤其是在科技股领域。由于市场的不确定性，投资者可能需要考虑调整投资组合，以减少风险。
+**「对投资者的影响」** SpaceX 通过高盛的融资方案成功发行了 320 亿美元的债券，这一创新融资方式可能为其他科技巨头在芯片采购中提供新的范本。然而，这种高成本融资方式可能导致投资者面临更高的风险和溢价，需要密切关注。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html">China ’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal</a></li>
-<li><a href="https://www.elciudadano.com/en/apec-2026-key-takeaways-and-highlights-from-shenzhen/11/19/">APEC 2026 : Key Takeaways and Highlights from Shenzhen</a></li>
-<li><a href="https://www.technologyreview.com/2025/02/14/1111920/chinas-electric-vehicle-giants-pivot-humanoid-robots/">China ’s electric vehicle giants are betting... | MIT Technology Review</a></li>
-<li><a href="https://www.youtube.com/watch?v=G_PPov6Ogbw">Is this the peak of the market ? - YouTube</a></li>
-<li><a href="https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html">Stock market today: Dow and S&amp;P 500 enter correction, Nasdaq sinks...</a></li>
-<li><a href="https://www.linkedin.com/posts/brackensfsn_the-2026-stock-market-is-looking-a-lot-like-activity-7414004736971988992-3bsC">Tech Stocks Lead Early 2026 Market Gains Amid AI... | LinkedIn</a></li>
+<li><a href="https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx">SPACEX SECURES $40 BILLION IN THE LARGEST GPU FINANCING EVER</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/spacex-sells-32-billion-ai-234112045.html?fr=sycsrp_catchall">SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%</a></li>
+<li><a href="https://www.basenor.com/blogs/news/spacex-lands-record-44b-financing-to-buy-nvidia-vera-rubin-ai-chips">SpaceX Lands Record $44B Financing to Buy Nvidia Vera Rubin ...</a></li>
+<li><a href="https://www.stlouisfed.org/on-the-economy/2026/nov/hyperscalers-financing-ai-investment-boom">Hyperscalers’ Financing of the AI Investment Boom</a></li>
+<li><a href="https://newmarketpitch.com/blogs/news/ai-chip-funding-analysis">What’s funding like in the AI chip market right now?</a></li>
+<li><a href="https://www.imf.org/en/publications/tnm/issues/2026/10/06/the-ai-ecosystem-structure-financing-and-financial-stability-considerations-579504">The AI Ecosystem: Structure, Financing, and Financial ... - IMF</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Technology Stocks`, `#Market Trends`, `#Investor Sentiment`, `#Financial Analysis`, `#Stock Market`
+**标签**: `#Technology Financing`, `#AI Chip Market`, `#Financial Innovation`, `#SpaceX`, `#Goldman Sachs`
 
 ---
 
 <a id="item-cn-macro-3"></a>
-### [美股表现影响美联储加息决策](https://wallstreetcn.com/articles/3786446) ⭐️ 7.0/10
+### [黄仁勋事件后美对华算力管制走向分析](https://wallstreetcn.com/articles/3786457) ⭐️ 7.0/10
 
-美银首席投资策略师 Michael Hartnett 指出，若美股标普 500 指数回吐 2026 年全部涨幅，即下跌至 6,845 点，可能是阻止美联储继续加息的快速方式。上周美股表现不佳，标普 500 单周下跌 8.4%，进入技术性回调，纳斯达克 100 回落 19.8%，逼近熊市边缘。市场对美联储加息的预期有所调整，但美联储官员仍表示需要进一步收紧政策。
+2026 年 11 月，英伟达联合创始人黄仁勋离职，引发美国对华算力管制政策的变化。美国商务部发布新规，将中国企业境外租用先进算力及新马等五国芯片准入纳入许可审查，标志着美国对华算力管制由行政部门保留谈判弹性的规章管理转向国会主导的成文法约束。
 
-rss · 华尔街见闻 · 11月22日 03:38
+rss · 华尔街见闻 · 11月22日 08:26
 
-**「背景信息」** 美联储的加息决策受到多种因素的影响，其中股市表现是重要的参考指标之一。在过去的几年中，美联储的加息政策对全球金融市场产生了深远的影响，尤其是在美国股市。投资者通常会根据美联储的加息预期来调整自己的投资策略。此外，美联储的政策决策也会受到美国国内经济数据、国际经济形势等多种因素的影响。
+**「背景信息」** 黄仁勋作为英伟达的联合创始人和长期领导者，对公司的战略决策和产业布局有着重要影响。他的离职不仅引发了市场对英伟达未来发展的关注，也使得美国对华算力管制政策面临新的调整。自 2022 年以来，美国对半导体出口实施了严格的管制，这直接影响了中美两国在半导体产业和科技竞争中的关系。在此背景下，黄仁勋的离职以及美国政策的调整，对全球半导体产业和科技竞争格局产生了重要影响。
 
-**「市场影响」** 美股的下跌可能影响美联储的加息决策，投资者需关注美股走势及其对市场利率的影响。
+**「影响」** 美国对华算力管制的升级将对中国人工智能产业产生深远影响。短期内，海外算力租赁渠道的收紧将导致国内大模型研发成本上升，迫使研发重心转向稀疏架构和单次词元生成效率。中长期来看，这将推动中国核心算法工程力量转向国产算力体系，并可能导致全球算力基础设施逐步演变为两套独立演进的技术体系。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Federal_Government_of_the_United_States">Federal government of the United States - Wikipedia</a></li>
-<li><a href="https://www.merriam-webster.com/dictionary/federal">FEDERAL Definition &amp; Meaning - Merriam-Webster</a></li>
-<li><a href="https://dictionary.cambridge.org/dictionary/english/federal">FEDERAL | English meaning - Cambridge Dictionary</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
+<li><a href="https://www.gate.com/blog/jensen-huang-nvidia-investigation-nvda-stock-market-expectations">What Happened to Jensen Huang ? How Could the Nvidia ... | Gate Blog</a></li>
+<li><a href="https://www.aiia-ai.org/nd.jsp?id=59">The Light of the Chinese Huang Renxun : From a bad boy to a market...</a></li>
+<li><a href="https://www.nytimes.com/interactive/2025/06/23/technology/ai-computing-global-divide.html">A . I . Computing Power Is Splitting the World Into Haves and...</a></li>
+<li><a href="https://www.rtitalk.tw/en/posts/1537">[International] Bypassing US Export Controls , China &#x27; s AI ... | RtiTalk</a></li>
+<li><a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-next-frontier-for-ai-in-china-could-add-600-billion-to-its-economy">The next frontier for AI in China | McKinsey</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Market Analysis`, `#Federal Reserve`, `#Stock Market`, `#Economic Policy`, `#Interest Rates`
+**标签**: `#Technology Policy`, `#Semiconductor Industry`, `#US-China Trade`, `#Regulatory Changes`, `#Nvidia`
 
 ---
 
 <a id="item-cn-macro-4"></a>
+### [铜贸易流向逆转，美国铜运往中国](https://wallstreetcn.com/articles/3786455) ⭐️ 7.0/10
+
+由于关税预期降温和中国市场极度紧缺，铜贸易流向发生根本性转变，交易商开始将积压在美国港口的铜运往中国，结束了过去两年铜持续涌入美国的单向格局。约六艘运铜船已离开美国港口驶向中国，涉及规模约为数万吨。
+
+rss · 华尔街见闻 · 11月22日 07:57
+
+**「背景信息」** 在过去两年中，由于对特朗普政府征收铜关税的预期，交易商将大量铜运入美国。这一趋势导致约 94%的伦敦金属交易所与芝加哥商品交易所仓库铜库存位于美国境内，而两年前这一比例仅为 20%。然而，随着关税预期降温，美国的价格优势已不复存在。与此同时，中国市场的铜供应紧张，导致当地溢价飙升。这些因素共同促使铜贸易流向发生根本性转变，从美国转向中国。
+
+**「影响」** 铜贸易流向的逆转可能会对 A 股市场中的铜行业公司产生直接影响。由于中国市场的铜供应紧张，铜价上涨，这将增加使用铜作为原材料或产品的公司的成本。投资者应关注这些公司的盈利能力和股价表现，特别是在那些高度依赖铜价的行业。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.investing.com/commodities/copper">Copper Futures Price Today - Investing.com</a></li>
+<li><a href="https://www.tradingview.com/symbols/XCUUSD/">XCUUSD Charts and Quotes — TradingView</a></li>
+<li><a href="https://www.youtube.com/watch?v=jmOUweQ6Kdc">Canada&#x27;s exports to China soar to highest level in decades... - YouTube</a></li>
+<li><a href="https://tradingeconomics.com/commodity/copper">Copper - Price - Chart - Historical Data - News</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Copper Trade`, `#Market Dynamics`, `#A-share Market`, `#Tariffs`, `#Global Economy`
+
+---
+
+<a id="item-cn-macro-5"></a>
+### [金价下跌与科技股关联分析](https://wallstreetcn.com/articles/3786449) ⭐️ 7.0/10
+
+国际金价在 11 月 17 日至 20 日的四个交易日内急跌 9%，自 2025 年 9 月以来首次失守 3600 美元/盎司关口。这一下跌与科技股的暴跌同步，主要受到 AI 交易退潮和流动性危机的影响。
+
+rss · 华尔街见闻 · 11月22日 07:38
+
+**「背景信息」** 近期，全球金融市场面临流动性危机，尤其是科技股的暴跌引发了市场的广泛关注。在此背景下，黄金作为传统的避险资产，其价格也出现了大幅下跌。这一现象与 AI 交易趋势和市场情绪密切相关。在过去的几年中，黄金市场经历了多轮波动，而此次下跌可能与美联储的货币政策、市场对 AI 交易的担忧以及投资者情绪的变化有关。
+
+**「影响」** 金价的大跌对投资者来说是一个重要的信号，表明市场可能正在经历流动性危机。由于 AI 交易退潮和科技股的强平，投资者被迫出售黄金以筹集现金，这导致黄金价格下跌。这种情况下，黄金作为传统避险资产的地位受到了挑战，投资者可能需要重新考虑其投资组合中的资产配置。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.patreon.com/u105703850/posts/fu-peng-2023nian-94298078">patreon.com/u105703850/posts/fu-peng-2023nian-94298078</a></li>
+<li><a href="https://www.jiuyangongshe.com/a/1hlkhh9mn38">关于应对市场 流 动 性 危 机 的思考</a></li>
+<li><a href="https://club.6parkbbs.com/web/index.php?act=view&amp;bbsid=2091&amp;tid=5992892">人工智能泡沫、 流 动 性 危 机 与明斯基时刻 - 哲学世界</a></li>
+<li><a href="https://www.mexc.com/zh-hans/price/WBTC/STN">WBTC 兑 STN：将 Wrapped BTC... | MEXC</a></li>
+<li><a href="https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909399.shtml">AI 恐慌爆发，华尔街震荡，美国科技股跌入熊 市</a></li>
+<li><a href="https://blog.tangly1024.com/article/deeply-understand-trading-psychology">交 易 心智训练 (1) — 情绪与直觉 | Tangly学习笔记</a></li>
+<li><a href="https://www.sohu.com/a/1081929003_122066678">金价大跌超10%：市场动荡背后的深层原因_经济_黄金_全球</a></li>
+<li><a href="https://www.sohu.com/a/881820617_466296">黄金降价对全球经济的潜在影响_市场_行业板块_价格</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/24062872363">金价大跌，究竟意味着什么？ - 知乎</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Gold Prices`, `#Stock Market`, `#Liquidity Crisis`, `#AI Trading`, `#Market Analysis`
+
+---
+
+<a id="item-cn-macro-6"></a>
+### [AI 行业泡沫破灭可能引发金融市场危机](https://wallstreetcn.com/articles/3786452) ⭐️ 7.0/10
+
+AI 相关股票价格普遍下跌，纳斯达克综合指数在 34 个交易日里下跌了 18.1%。算力经营商负债和现金流严重不匹配，融资成本上升，数据中心建设成本上升，建设周期延长。AI 行业泡沫破灭可能引发金融市场危机。
+
+rss · 华尔街见闻 · 11月22日 06:37
+
+**「背景信息」** 近年来，人工智能行业快速发展，相关股票价格大幅上涨。然而，随着市场对 AI 行业泡沫的担忧加剧，AI 相关股票价格开始下跌。这一趋势引发了市场对潜在金融市场的担忧。在此背景下，本文分析了 AI 行业发展趋势对金融市场可能产生的影响，包括算力运营商的负债和融资问题、融资成本上升、数据中心建设成本上升等因素。
+
+**「影响」** AI 行业泡沫破灭可能导致金融市场危机，对投资者和实体企业产生严重影响。具体来说，GPU 价格下跌可能引发投资市场对算力运营商和模型公司的融资担保担忧，加速恶化 AI 行业的资产负债表。此外，私募信贷市场也可能受到冲击，股市可能出现剧烈下跌，销毁财富，拖累消费和投资意愿。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://electroiq.com/">ElectroIQ | Real-Time Industry Statistics &amp; Data Insights</a></li>
+<li><a href="https://www.youtube.com/watch?v=n1LfyxXbdfA">КЛУБНЯК 2026 , ТАКОГО ТЫ ЕЩЁ НЕ СЛЫШАЛ! // 1 ЧАС... - YouTube</a></li>
+<li><a href="https://digiday.com/marketing/cmos-might-be-pushing-ahead-on-ai-but-lack-of-measurements-holding-them-back/">CMOs embrace AI , struggle with measurement</a></li>
+<li><a href="https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption">All the signs say another financial crisis is coming. | The Guardian</a></li>
+<li><a href="https://eadaily.com/en/news/2026/11/21/bubble-collapse-ai-in-the-us-first-the-war-and-the-fuel-crisis-and-then-the-financial-collapse">Bubble collapse AI in the US: first the war and the fuel crisis , and then...</a></li>
+<li><a href="https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9">What Smart People Say About Calls From AI ... - Business Insider</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Industry`, `#Financial Market`, `#Stock Market`, `#Economic Crisis`, `#Market Trends`
+
+---
+
+<a id="item-cn-macro-7"></a>
+### [AI 在市场调研中的应用研究：高露洁与 PyMC Labs 的研究成果](https://wallstreetcn.com/articles/3786451) ⭐️ 7.0/10
+
+高露洁棕榄与 PyMC Labs 的研究表明，通过让 AI 进行“角色扮演”，其预测真实购买意愿的可靠度可达人类重测信度的 90%。这一研究可能对传统市场调研模式产生冲击，但同时也存在局限性。
+
+rss · 华尔街见闻 · 11月22日 06:04
+
+**「背景信息」** 在市场调研领域，传统方法依赖于大量的人力和时间成本。企业通常需要花费数周时间招募受访者，进行定向访谈和定价 A/B 测试。然而，这种方法存在一些局限性，如受访者可能存在敷衍作答、顺从偏差和积极性偏差，导致需求信号充满噪音。近年来，人工智能（AI）在市场调研中的应用逐渐受到关注，尤其是 AI 在预测消费者购买意愿方面的潜力。然而，AI 在市场调研中的应用也面临一些挑战，例如如何确保 AI 生成的数据分布准确可靠，以及如何处理 AI 在处理复杂决策时的局限性。
+
+**「对投资者的影响」** 这项研究对投资者来说意味着，AI 在市场调研中的应用将提高预测消费者购买意愿的准确性，从而可能改变企业对市场趋势的判断和产品开发策略。投资者应关注那些能够有效整合 AI 技术进行市场调研的公司，并考虑这种技术对特定行业和公司潜在的影响，尤其是那些在快速变化的市场中依赖消费者洞察的企业。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/pymc-labs/pathmc">GitHub - pymc - labs /pathmc: Structural causal models with Bayesian...</a></li>
+<li><a href="https://labs.google/">Google Labs : Google&#x27;s home for AI experiments</a></li>
+<li><a href="https://www.thestreet.com/retail/colgate-palmolive-signals-more-price-hikes-as-us-sales-fall">Colgate - Palmolive signals more price hikes as U.S. sales... - TheStreet</a></li>
+<li><a href="https://tgmresearch.com/ai-impact-on-market-research.html">THE IMPACT OF AI ON MARKET RESEARCH</a></li>
+<li><a href="https://business.columbia.edu/insights/digital-future/ai/generative-ai-market-research">How generative AI is transforming market research | Columbia ...</a></li>
+<li><a href="https://hbr.org/2025/11/the-ai-tools-that-are-transforming-market-research">The AI Tools That Are Transforming Market Research</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI in Market Research`, `#Consumer Purchase Intent`, `#Market Research Methodology`, `#AI Limitations`, `#Economic Data Analysis`
+
+---
+
+<a id="item-cn-macro-8"></a>
+### [摩根大通警告：科技股面临重大挑战](https://wallstreetcn.com/articles/3786447) ⭐️ 7.0/10
+
+摩根大通警告，美股科技板块面临重大挑战，创下 2020 年 3 月以来最大单周跌幅。尽管对冲基金已大幅降仓，但长线资管机构和散户仍未大规模离场。标普 500 指数连跌七日，失守 7000 点关口；纳斯达克 100 指数重挫 10.4%，费城半导体指数大跌 17%。
+
+rss · 华尔街见闻 · 11月22日 03:56
+
+**「市场背景」** 近期，美股科技板块遭遇了自 2020 年 3 月以来的最大单周跌幅。在此背景下，摩根大通和高盛等主要金融机构对市场进行了深入分析。此前，尽管标普 500 和纳斯达克指数下跌，股票多空对冲基金和科技行业对冲基金分别录得正收益，但摩根大通据此判断，股票多空对冲基金可能已在 7 月削减了半导体敞口。此外，一 AI 对冲基金遭遇巨亏，摩根大通终止了与其的借贷合作。这些因素共同导致了市场对科技股的担忧情绪加剧。
+
+**「影响」** 摩根大通和高盛的最新数据显示，尽管对冲基金已大幅降仓，但长线资管机构和散户仍未大规模离场，这可能导致市场进一步下跌。对于投资者来说，这意味着应密切关注市场动态，尤其是科技股板块，并考虑调整投资组合以应对潜在的市场风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20260717A040UK00">news.qq.com/rain/a/20260717A040UK00</a></li>
+<li><a href="https://stock.10jqka.com.cn/20260913/c679853585.shtml">一AI 对 冲 基 金 遭遇巨亏 摩 根 大 通 终止借贷合作 | 同花顺财经</a></li>
+<li><a href="https://www.cls.cn/detail/2310431">摩 根 大 通 称 对 冲 基 金 遭遇去 年 4月以来最严重回撤</a></li>
+<li><a href="https://finance.sina.cn/usstock/mggd/2026-02-07/detail-inhkzhev6890275.d.html?vt=4">巨 幅 震荡重创 美 股 市场，多个 板 块 显露颓势|deepseek... | 手机新浪网</a></li>
+<li><a href="https://h5.ifeng.com/c/vivoArticle/v002CuUBOItOTy4d0Z7betxOZnjITTDoOr8s8Hlby3LODOo__?isNews=1&amp;showComments=0">巨 幅 震荡重创 美 股 市场，多个 板 块 显露颓势</a></li>
+<li><a href="https://cfi.net.cn/p20261106000638.html">美 股 A 股 补 跌 补涨性质不同- CFi.CN 中财网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Market Analysis`, `#Technology Stocks`, `#Economic Forecast`, `#Investment Strategy`
+
+---
+
+<a id="item-cn-macro-9"></a>
+### [美股走势对美联储加息决策的影响分析](https://wallstreetcn.com/articles/3786446) ⭐️ 7.0/10
+
+美银首席投资策略师 Michael Hartnett 指出，标普 500 指数若回吐 2026 年全部涨幅，即跌破 6,845 点，可能是阻止美联储继续加息的快速方式。上周美股表现不佳，标普 500 单周下跌 8.4%，进入技术性回调。市场预期美联储加息概率下降，但官员表态仍强硬。
+
+rss · 华尔街见闻 · 11月22日 03:38
+
+**「背景信息」** 近期，美国股市表现不佳，标普 500 指数连续下跌，进入技术性回调。这一现象引起了市场对美联储加息决策的关注。根据美银首席投资策略师 Michael Hartnett 的分析，股市的下跌可能会促使美联储停止加息。Hartnett 指出，如果股市回吐 2026 年的全部涨幅，即标普 500 指数跌破 6,845 点，这将成为阻止美联储继续加息的一个信号。此外，市场对美联储的加息预期也在发生变化，上周美联储理事 Waller 主张的 50 个基点加息被移出选项，1 月加息概率降至 60%以下。然而，美联储官员的表态并未松动，仍认为需要进一步收紧金融条件。
+
+**「对投资者的影响」** 标普 500 指数的下跌可能导致投资者对股市的信心下降，尤其是那些对美股有较大投资的投资者。此外，股市的下跌可能会促使投资者重新考虑他们的投资组合，寻找其他可能提供更好回报的资产类别。对于长期投资者来说，这可能是一个机会，以较低的价格买入优质股票。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.investing.com/economic-calendar/interest-rate-decision-168">United States Federal Reserve Interest Rate Decision</a></li>
+<li><a href="https://www.etf.com/sections/etf-basics/fed-rate-decision-how-fomc-meetings-affect-bond-etfs">Fed Rate Decision : How FOMC Meetings Affect Bond ETFs | etf.com</a></li>
+<li><a href="https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html">Fed rate decision September 2026: Rates rise to 3.75%-4%</a></li>
+<li><a href="https://www.ainvest.com/news/understanding-market-reactions-federal-reserve-decisions-guide-investors-2509/">Understanding Market Reactions to Federal Reserve Decisions...</a></li>
+<li><a href="https://www.finovu.co/topics/market-reactions-to-federal-reserves-interest-rate-decision">Market Reactions To Federal Reserves Interest Rate... | Finovu</a></li>
+<li><a href="https://www.gate.com/crypto-wiki/article/how-does-federal-reserve-policy-and-inflation-data-impact-iost-crypto-price-in-2025-20260108">How does Federal Reserve policy and inflation data... | Gate Wiki</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Economic Analysis`, `#Stock Market`, `#Federal Reserve`, `#Market Trends`, `#Investment Strategy`
+
+---
+
+<a id="item-cn-macro-10"></a>
 ### [黎曼猜想证明验证进展](https://wallstreetcn.com/articles/3786445) ⭐️ 7.0/10
 
 开源形式化验证社区 Lean 与 Mathlib 确认 Anthropic 数学家 Levent Alpöge 对黎曼猜想的证明成立，但验证过程仍在进行中，需进一步审查。
 
 rss · 华尔街见闻 · 11月22日 03:11
 
-**「背景信息」** 黎曼猜想是数学中的一个重要未解决问题，自 19 世纪末提出以来一直困扰着数学界。形式化验证是一种通过计算机程序来验证数学证明的方法，它可以帮助确保证明的每一步都是逻辑上正确的。Lean 是一个形式化验证工具，Mathlib 是一个开源的数学库，两者在此次事件中发挥了重要作用。Anthropic 是一家 AI 公司，其 AI 模型 Claude 在此次证明过程中起到了辅助作用。
+**「背景信息」** 黎曼猜想是数学中的一个重要未解决问题，由德国数学家伯恩哈德·黎曼在 1859 年提出。这个猜想涉及到复分析中的一个函数——黎曼ζ函数，其零点的分布对于理解素数的分布有着关键的作用。Levent Alpöge 是一位数学家，他声称自己找到了黎曼猜想的证明。为了验证这个证明，数学界使用了形式化验证的方法，即通过计算机程序来验证数学证明的正确性。这种方法在数学领域越来越受到重视，因为它可以减少人为错误的可能性。Lean 是一个形式化验证工具，由巴西计算机科学家 Leonardo de Moura 创立，用于帮助数学家将数学证明转化为计算机可验证的形式。
 
-**「影响」** 此次黎曼猜想的证明如果得到最终确认，将对数学领域产生深远影响，尤其是对数论和复分析领域。对于投资者而言，这可能引发对相关数学研究机构和 AI 技术公司的投资兴趣，尤其是那些在形式化验证和数学软件领域的企业。
+**「对投资者的影响」** 尽管黎曼猜想的证明尚未得到最终确认，但这一事件可能激发对数学和人工智能在金融领域应用的兴趣。投资者可能对涉及数学模型和 AI 技术的公司股票产生兴趣，尤其是那些在算法交易和风险管理方面应用这些技术的公司。然而，由于证明的复杂性和不确定性，投资者应谨慎行事，并关注数学界对此证明的进一步评估。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://c.m.163.com/news/a/LCARSQUL0511ABV6.html">黎 曼 猜 想 迎来大结局！ Lean 官方认 证 ：Claude 证 明无误</a></li>
-<li><a href="https://tech.ifeng.com/c/8yFf0jkIHkB">黎 曼 猜 想 迎来大结局！ Lean 官方认 证 ：Claude 证 明无误_凤凰网</a></li>
-<li><a href="https://www.youtube.com/watch?v=uG3r58ILOfQ">AI 连 黎 曼 猜 想 都 证 出来了，然后呢？ - YouTube</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Microsoft">Microsoft - Wikipedia</a></li>
-<li><a href="https://www.microsoft.com/en-us/">Microsoft - Official Home Page</a></li>
-<li><a href="https://www.microsoft.com/">Microsoft – AI, Cloud, Productivity, Computing, Gaming &amp; Apps</a></li>
+<li><a href="https://www.unite.ai/zh-cn/lean-and-mathlib-communities-certify-claude-assisted-riemann-proof/">Lean 与 Mathlib 社区认证 Claude 辅助完成的黎曼猜想证明 – Unite.AI</a></li>
+<li><a href="https://news.qq.com/rain/a/20261122A06UOE00">黎曼猜想证明获得正式认证_腾讯新闻</a></li>
+<li><a href="https://www.sohu.com/a/1104779028_121885030">Lean与Mathlib联合验证黎曼猜想，形式化证明获认证</a></li>
+<li><a href="https://m.leiphone.com/category/ai/Ykhk37OXu8nRZk61.html">黎 曼 猜 想 证 明 了？ Michael Atiyah的愚人节难道在9月吗…… | 雷峰网</a></li>
+<li><a href="https://pansci.asia/archives/147956">数学 界 的圣杯「 黎 曼 猜 想 证 明 」，是否已被人类得手？ - PanSci 泛科学</a></li>
+<li><a href="https://nwshf.openapps.asia/">自由浏览</a></li>
 
 </ul>
 </details>
@@ -161,269 +327,359 @@ rss · 华尔街见闻 · 11月22日 03:11
 
 ---
 
-<a id="item-cn-macro-5"></a>
+<a id="item-cn-macro-11"></a>
 ### [下周重磅财经日程分析](https://wallstreetcn.com/articles/3786441) ⭐️ 7.0/10
 
-下周将重点关注美国 10 月 PCE 物价指数和三季度 GDP 修正值，预计核心 PCE 同比将升至 3.2%以上，可能加剧加息担忧。同时，中概股及港股科技板块将迎来密集财报披露期，包括美团、小米、B 站等头部企业。国内方面，首批 18 只主动 ETF 上市，高交会启幕，中美约定 11 月底前举行下一次人工智能对话。
+下周将重点关注美国 10 月 PCE 通胀指标、中国工业企业利润等经济指标，以及小米、美团等公司的财报。美国 PCE 通胀指标预计将上升，可能加剧加息担忧；中国工业企业利润预计增长，主要受 AI 算力等电子行业驱动。此外，韩国央行可能加息，日本央行决策受东京 CPI 影响。
 
 rss · 华尔街见闻 · 11月22日 01:13
 
-**「背景信息」** 近期，美国股市经历了年内最猛烈的抛售，纳指重挫 10.02%，抹平年内涨幅，AI 投资前景疑虑持续发酵。同时，中国股市也面临一系列重要经济指标和政策决策的公布，包括美国 10 月 PCE 物价指数、三季度 GDP 修正值，以及中国 10 月规模以上工业企业利润等。此外，韩国央行可能加息，日本 11 月东京 CPI 数据也将公布，这些都将对全球股市产生重要影响。
+**「背景信息」** 近期，全球经济形势复杂多变，主要经济体面临通胀压力和经济增长放缓的双重挑战。美国 10 月 PCE 物价指数和三季度 GDP 修正值将于下周三公布，预计核心 PCE 同比将上升，这可能加剧加息担忧，对高估值科技股产生压制。同时，中国 10 月规模以上工业企业利润数据也将于下周公布，显示工业利润增长情况。此外，韩国央行可能加息，日本央行决策受到东京 CPI 数据的影响，西班牙大选也将对市场产生重要影响。
 
-**「影响」** 美股企稳之问将受到关注，若 PCE 物价指数超预期，将加剧加息担忧，继续压制高估值科技股。中概股及港股科技板块的财报将直接影响板块短期走势，投资者需关注相关企业的盈利表现。
+**「影响」** 投资者应关注美国 PCE 通胀指标和中国工业企业利润等数据，以判断经济形势和货币政策走向。同时，小米、美团等公司的财报将直接影响港股科技板块的短期走势。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh/%E7%BE%8E%E5%9B%BD">美国 - 维基百科，自由的百科全书 - zh.wikipedia.org</a></li>
-<li><a href="https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202512/P020260616569099778280.pdf">01B20251128C</a></li>
-<li><a href="https://github.com/1992513/djy/blob/master/gb/26/11/20/n14892347.md">djy/gb/26/ 11 / 20 /n14892347.md at master · 1992513/djy · GitHub</a></li>
+<li><a href="https://pdf.dfcfw.com/pdf/H3_AP202311021607915710_1.pdf?1698936911000.pdf">PPI 同比</a></li>
+<li><a href="https://wallstreetcn.com/articles/3784748">wallstreetcn.com/articles/3784748</a></li>
+<li><a href="https://www.stats.gov.cn/zwfwck/sjfb/202610/t20261027_1965697.html">2026年1—9月份全国规模以上工业企业利润增长15.5%</a></li>
+<li><a href="https://finance.sina.com.cn/stock/hkstock/ggscyd/2025-11-21/doc-infycpum0071371.shtml">半导体需求强劲抵消汽车关税压力 韩国11月早期出口增长8.2%</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Economic Indicators`, `#Corporate Earnings`, `#Policy Decisions`, `#Market Trends`, `#China&\#x27;s Economy`
+**标签**: `#Chinese economy`, `#A-share market`, `#corporate earnings`, `#economic indicators`, `#central bank decisions`
 
 ---
 
-<a id="item-cn-macro-6"></a>
-### [美国投资级债券市场分析：供应创新高及影响](https://wallstreetcn.com/member/articles/3786334) ⭐️ 7.0/10
+<a id="item-cn-macro-12"></a>
+### [沪深交易所再降费：年内整体让利超 46 亿元](https://www.cls.cn/detail/2541008) ⭐️ 7.0/10
 
-2027 年，美国投资级（IG）债券发行量预计将达到 2.1 万亿美元，创历史新高。尽管如此，高额到期与票息回流形成有效对冲，使净吸收压力并未同步极端化。
+沪深交易所宣布实施新一轮降费措施，预计年内整体让利超过 46 亿元。上交所和深交所分别免收交易单元使用费、网络投票服务费等，并延长免收上市费、债券交易经手费等措施至 2028 年底。
 
-rss · 华尔街见闻 · 11月21日 11:55
+rss · 财联社电报 · 11月22日 12:23
 
-**「美国投资级债券市场背景」** 近年来，美国投资级债券市场经历了显著的变化。2026 年，美国投资级债券发行量达到了 1.88 万亿美元的历史新高，预计 2027 年将进一步攀升至 2.1 万亿美元。这一增长主要得益于科技和媒体行业的债券发行，特别是 AI 相关融资的增长。此外，市场对债券的需求依然强劲，尽管美联储的鹰派立场推高了实际收益率。这些因素共同影响着信用市场的结构和投资者行为。
+**「背景信息」** 近年来，中国证监会一直致力于降低市场成本，提升市场活力。在此背景下，沪深交易所于 2026 年 11 月 22 日发布了新的降费措施。这些措施包括免收交易单元使用费、减免数据中心相关服务费用等，旨在进一步降低市场运行成本，提振市场信心。根据报道，上交所和深交所的降费措施预计将合计让利超过 46 亿元，并将年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至 2028 年底。这些措施覆盖了上市、交易、服务各环节，对上市公司、投资者及券商等行业机构都将产生积极影响。
 
-**「市场影响」** AI 融资成为信用市场上空的‘房间里的大象’，美联储鹰派立场推高实际收益率，但 IG 利差并未广泛走阔，显示投资者仍具备吸收供给的能力。
+**「影响」** 这一降费措施有望进一步降低市场运行成本，提振市场信心，对投资者、上市公司及券商等行业机构产生积极影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.investing.com/">Investing .com - Stock Market Quotes &amp; Financial News</a></li>
-<li><a href="https://theconversation.com/anthropics-record-us-2-trillion-stock-market-listing-highlights-the-growing-risks-for-all-of-us-295243">Anthropic’s record US $2 trillion stock market listing highlights the...</a></li>
-<li><a href="https://www.bloomberg.com/markets/rates-bonds">Rates &amp; Bonds - Bloomberg - Bloomberg Markets</a></li>
+<li><a href="https://finance.eastmoney.com/a/202611223936935233.html">沪深交易所、中国结算集体降费 _ 东方财富网</a></li>
+<li><a href="https://www.cnstock.com/commonDetail/831840">沪深交易所、中国结算集体降费-上海证券报·中国证券网</a></li>
+<li><a href="https://www.yicai.com/news/103449296.html">A股交易迎新一批降费措施，沪深市场预期合计让利超27亿元</a></li>
 
 </ul>
 </details>
 
-**标签**: `#US bond market`, `#credit market`, `#technology financing`, `#bond supply`, `#credit spreads`
+**标签**: `#Stock Market`, `#Regulatory News`, `#Fee Reduction`, `#Market Policy`
 
 ---
 
-<a id="item-cn-macro-7"></a>
-### [谷歌调整 AI 芯片采购策略，削减博通订单增加联发科份额](https://wallstreetcn.com/articles/3786438) ⭐️ 7.0/10
+<a id="item-cn-macro-13"></a>
+### [上交所修订科创板做市商规则](https://www.cls.cn/detail/2541003) ⭐️ 7.0/10
 
-谷歌调整了人工智能芯片的采购策略，计划削减博通设计的 TPU 8i 系列 2027 年出货量约 100 万颗，降幅约 20%，同时增加联发科设计的 TPU 8t 系列采购量。这一调整反映了谷歌在算力资源分配上的战略转变，对博通和联发科产生直接影响。
+上交所正在推动修订科创板做市商规则，旨在优化做市报价义务指标、完善做市商竞争评价机制、提升做市周转效率，并强化风险防控要求。这一修订将提高做市商履行义务的要求，激励做市商扩大报价规模，促进做市业务形成良性生态。
 
-rss · 华尔街见闻 · 11月21日 11:47
+rss · 财联社电报 · 11月22日 10:58
 
-**「背景信息」** 近年来，随着人工智能技术的快速发展，AI 芯片市场逐渐成为各大科技巨头争夺的焦点。谷歌作为全球领先的科技企业，其 AI 芯片采购策略对市场有着重要影响。此前，谷歌与博通合作，采购了大量的 TPU 芯片，用于其数据中心和 AI 产品。然而，由于数据中心电力供应和芯片产能的双重受限，谷歌正在重新调整其 AI 芯片采购策略，以优化算力资源分配。在此背景下，谷歌削减了博通设计的 TPU 订单，并计划增加联发科设计的 TPU 采购量。
+**「科创板做市商规则修订背景」** 科创板自成立以来，一直致力于推动中国资本市场改革和创新。此前，上交所已批准首批科创板做市商开展做市交易业务，这是境内主要股票市场首次引入做市商机制。为优化市场结构，提高市场效率，上交所正推动修订《上海证券交易所证券交易业务指南第 8 号——科创板股票做市》的相关规则。此次修订旨在优化做市报价义务指标、完善做市商竞争评价机制、提升做市周转效率、强化风险防控要求等方面，以促进做市业务形成良性生态，引导做市商更加规范、持续、稳定供给流动性。
 
-**「影响分析」** 谷歌的这一采购策略调整将对博通和联发科产生直接影响。博通作为谷歌 TPU 的核心设计合作伙伴，其高端型号订单的缩减可能对其定制芯片业务收入造成压力。而联发科则有望借此机会扩大在谷歌 AI 基础设施供应链中的份额，从而提升其市场地位。对于投资者而言，这一变化可能意味着对博通股票的短期看跌，而对联发科股票的长期看涨。
+**「影响」** 此修订将可能提高做市商的交易能力和市场流动性，对投资者而言，意味着需要更加关注做市商的报价行为和市场风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://udit.co/blog/raw/meta-google-tpu-deal-challenges-nvidia-dominance">udit.co/blog/raw/meta- google -tpu-deal-challenges-nvidia-dominance</a></li>
-<li><a href="https://vector-labs.ai/insights/the-huawei-ascend-960dt-and-what-it-actually-changes-for-your-ai-infrastructure-procurement-strategy">Huawei Ascend 960DT: AI Chip Procurement Strategy</a></li>
-<li><a href="https://gemini.google.com/?hl=tr">Google Gemini</a></li>
-<li><a href="https://getfocuslab.com/inside-google-custom-ai-chips-for-data-centers/">Inside Google Custom AI Chips : 5 Bold Strategies Reshaping Data...</a></li>
-<li><a href="https://www.linkedin.com/posts/theodoreaggelopoulos_news-google-led-tpu-innovation-with-patent-activity-7413869828874313728-YItX">[News] Google Led TPU Innovation with Patent Spike; Broadcom ...</a></li>
-<li><a href="https://www.ainvest.com/news/google-tpu-strategy-shake-broadcom-faces-pressure-mediatek-enters-fray-2503/">Google &#x27; s TPU Strategy Shake-Up: Broadcom Faces Pressure as...</a></li>
+<li><a href="https://www.21jingji.com/article/20221031/herald/61060bfdaa070264d6b6dfa1d6f3fd0f.html">21jingji.com/article/20221031/herald/61060bfdaa070264d6b6dfa...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Chip Market`, `#Google`, `#Broadcom`, `#MediaTek`, `#Procurement Strategy`
+**标签**: `#Regulatory Changes`, `#Stock Market`, `#China`, `#Financial Policy`, `#Market Structure`
 
 ---
 
-<a id="item-cn-macro-8"></a>
-### [恒生科技指数大幅扩容影响分析](https://wallstreetcn.com/articles/3786434) ⭐️ 7.0/10
+<a id="item-cn-macro-14"></a>
+### [上交所推出新一批降费措施](https://www.cls.cn/detail/2540998) ⭐️ 7.0/10
 
-恒生指数公司宣布，恒生科技指数将从 2026 年 12 月 7 日起实施重大调整，将成份股数量从 30 只增加至 50 只，反映了对科技板块的关注从互联网平台转向更广泛的硬科技领域。这一调整预计将影响近 300 亿港元的资金配置。
+上交所发布新一批降费措施，包括免收交易单元使用费，减免数据中心相关服务费用等，预计向市场让利 13.68 亿元，本年度沪市整体降费金额超过 24 亿元。
 
-rss · 华尔街见闻 · 11月21日 08:17
+rss · 财联社电报 · 11月22日 10:40
 
-**「背景信息」** 恒生科技指数自 2020 年发布以来，一直以互联网平台为主要投资对象。然而，近年来，随着科技行业的快速发展，先进硬件、人工智能等领域的上市公司数量显著增加。为了更全面地反映香港科技产业的发展，恒生指数公司决定对恒生科技指数进行重大调整。此次调整将使指数从单一的互联网平台指数转变为涵盖更广泛科技领域的泛硬科技指数。
+**「背景信息」** 近年来，上交所认真贯彻落实党中央、国务院有关减税降费部署，在中国证监会统筹指导下，持续挖掘降费空间，陆续出台多项惠企利民的降费措施，降费力度逐年加大。上交所今年发布的降费组合式政策，涉及沪市股票、基金、债券等品种，覆盖上市、交易、服务等环节，惠及各市场主体。这些措施旨在降低交易成本，提振市场信心，激发市场活力。
 
-**「对投资者的影响」** 此次调整将导致被动资金的大规模重新配置，预计新增成份股对应的配置需求约为 291 亿港元。投资者应关注新纳入的科技股，特别是那些在先进硬件、人工智能等领域的公司，这些公司可能成为新的投资热点。
+**「影响」** 这些措施有助于降低交易成本，提振市场信心，激发市场活力，对投资者和上市公司均有利。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.azotic.com/">Home - Azotic</a></li>
-<li><a href="https://azonicproducts.com/">Azonic Products Inc. | Coil Winding Tension Equipment | Albion</a></li>
-<li><a href="http://www.azotic.us/">Azotic LLC :: Home Page</a></li>
+<li><a href="https://english.sse.com.cn/markets/equities/announcements/">Listed Company Announcements - Shanghai Stock Exchange</a></li>
+<li><a href="https://star.sse.com.cn/star/en/marketdata/stockprice/announcements/">Announcements | ShangHai Stock Exchange</a></li>
+<li><a href="https://english.sse.com.cn/?sc_lang=en">SHANGHAI STOCK EXCHANGE</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Hong Kong Stock Market`, `#Index Adjustment`, `#Technology Sector`, `#Market Dynamics`, `#Investment Strategy`
+**标签**: `#Shanghai Stock Exchange`, `#Fee Reduction`, `#Market Regulation`, `#Capital Market`, `#Policy Fine-Tuning`
 
 ---
 
-<a id="item-cn-macro-9"></a>
-### [英国考虑重返欧盟的影响分析](https://wallstreetcn.com/articles/3786433) ⭐️ 7.0/10
+<a id="item-cn-macro-15"></a>
+### [中国结算：暂免收取部分债券登记结算费用](https://www.cls.cn/detail/2540997) ⭐️ 7.0/10
 
-英国首相伯纳姆提出了一揽子协议，旨在取消大部分食品和农产品边境检查、重启学生交流项目，但协议的全面执行仍存在变数。市场对这一协议的反应是信号意义大于短期经济效果，预计最多可为英国经济带来相当于 GDP 0.5%的增量。
+中国证券登记结算有限责任公司宣布，自 2027 年 1 月 1 日起至 2028 年 12 月 31 日，将暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券的部分登记结算费用，以支持这些债券的发行，降低融资成本。
 
-rss · 华尔街见闻 · 11月21日 08:07
+rss · 财联社电报 · 11月22日 10:39
 
-**「背景信息」** 英国脱欧后，双方关系经历了多次波折。2016 年，英国正式退出欧盟，此后双方在贸易、移民等问题上存在分歧。英国首相伯纳姆提出了一揽子协议，旨在改善英欧关系，包括取消大部分食品和农产品边境检查、重启学生交流项目等。这一协议被视为英欧关系的转折点，但具体实施仍存在变数。此外，英国国内对于是否重返欧盟存在不同意见，部分民众和政客反对重返欧盟，认为应优先处理国内问题。
+**「背景信息」** 近年来，中国政府一直在推动绿色债券、科技创新债券和民营企业债券的发行，以支持这些领域的快速发展。此前，相关政策的出台已经对市场产生了一定的影响，例如降低绿色债券发行门槛、提供税收优惠等。此次中国结算公司决定暂免收取部分债券登记结算费用，是继先前政策之后的一项具体措施，旨在进一步降低融资成本，促进债券市场的健康发展。
 
-**「对投资者的影响」** 英国与欧盟达成的协议可能为英国经济带来相当于 GDP 0.5%的增量，若英国重返欧盟单一市场，经济总量可能提升 2%至 5%。然而，重入进程漫长且成本不确定，英国可能面临持续数年的政治不确定性，这对投资者而言可能增加投资风险。此外，英国可能需要接受欧盟产品监管规则，却无权参与制定，这可能会影响相关行业的投资决策。
+**「影响」** 此举将有助于降低绿色债券、科技创新债券和民营企业债券的发行成本，从而可能刺激这些领域的债券发行量增加，对相关行业和公司构成正面影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement">Brexit withdrawal agreement - Wikipedia</a></li>
-<li><a href="https://www.vogue.co.uk/arts-and-lifestyle/article/who-is-ursula-von-der-leyen">5 Things You Need To Know About Ursula von der Leyen , The...</a></li>
-<li><a href="https://www.theguardian.com/world/2019/jul/16/who-is-ursula-von-der-leyen-the-new-eu-commission-president">Who is Ursula von der Leyen , the new EU commission... | The Guardian</a></li>
-<li><a href="https://en.m.wikipedia.org/wiki/Economics">Economics - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Potential_re-accession_of_the_United_Kingdom_to_the_European_Union">Potential re -accession of the United Kingdom to the European Union</a></li>
+<li><a href="https://www.bing.com/">Search - Microsoft Bing</a></li>
 
 </ul>
 </details>
 
-**标签**: `#UK-EU Relations`, `#Brexit`, `#Economic Policy`, `#Trade Negotiations`, `#Political Uncertainty`
+**标签**: `#Policy Fine-Tuning`, `#Bond Market`, `#Green Bonds`, `#Technology Innovation`
 
 ---
 
-<a id="item-cn-macro-10"></a>
-### [刘烈宏调研江西省数据要素市场化配置改革进展](https://www.cls.cn/detail/2540904) ⭐️ 7.0/10
+<a id="item-cn-macro-16"></a>
+### [A 股市场稳定措施出台](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Qa04wQTBsZDJNSE1xVGdQZWx6TDVGQnVVZ3gxemh4ZW02LXBSaEJqSkJad1RHRkVsYWkyamp3ZnZIZkdQR1UwTk80VmRURF96TDZzNlZoOWRFNXY1QlBQeFZR?oc=5) ⭐️ 7.0/10
 
-国家数据局党组书记、局长刘烈宏近日赴江西省调研数据要素市场化配置改革工作，指出江西省在制度、设施、场景、市场、产业五个方面取得积极进展，初步构建了数据要素价值释放的闭环，并强调数据要素在经济社会数字化转型中的作用。
+中国证监会宣布推出三项措施以稳定 A 股市场，包括优化两融业务、降低交易费用以及完善创业板交易机制。这些措施旨在提升市场效率和投资者体验。
 
-rss · 财联社电报 · 11月22日 05:24
+google\_news · 同花顺财经 · 11月22日 12:38
 
-**「背景信息」** 数据要素市场化配置改革是中国近年来的一项重要政策，旨在通过市场机制优化数据资源配置，推动数字经济的发展。这项改革涉及多个方面，包括制度建设、基础设施建设、应用场景拓展、市场培育和产业发展。江西省作为先行试点，已经在数据要素市场化配置改革方面取得了一定的进展，包括建立省级数据集团、推动数据与人工智能等技术的融合应用，以及探索新业态的发展。这些举措有助于推动经济社会数字化转型，并形成了一系列创新成果。
+**「背景信息」** 近年来，A 股市场经历了快速发展和波动。两融余额在 2023 年达到新高，显示出市场活跃度的提升。同时，沪深交易所和中国结算推出了降费措施，以减轻投资者负担并促进市场流动性。此外，创业板交易机制也在不断完善，以适应市场的发展和投资者的需求。
 
-**「影响」** 此次调研表明，江西省的数据要素市场化配置改革对推动经济社会数字化转型具有重要意义，有助于激发数据要素的市场活力，为投资者提供了新的投资机会，同时也要求相关企业关注数据安全和隐私保护等问题。
+**「影响分析」** 这些措施预计将降低投资者的交易成本，提高市场流动性，对创业板相关公司构成利好。投资者应关注这些政策对相关板块和个股的影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Data">Data - Wikipedia</a></li>
-<li><a href="https://data.gov/?dg">Data .gov Home - Data .gov</a></li>
-<li><a href="https://www.merriam-webster.com/dictionary/data">DATA Definition &amp; Meaning - Merriam-Webster</a></li>
+<li><a href="https://wallstreetcn.com/articles/3753049">两 融 余额时隔十年再度突破 两 万亿元！ 中金：今年的 A 股 会比2013...</a></li>
+<li><a href="https://www.yicai.com/news/103449296.html">A股交易迎新一批降费措施，沪深市场预期合计让利超27亿元</a></li>
+<li><a href="https://github.com/1992513/djy/blob/master/gb/26/11/20/n14892347.md">djy/gb/26/11/20/n14892347.md at master · 1992513/djy · GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Data Market Reform`, `#Policy Shift`, `#Economic Transformation`, `#Regional Development`, `#Market Regulation`
+**标签**: `#A-share Market`, `#Regulatory News`, `#Policy Fine-tuning`, `#Market Stabilization`
 
 ---
 
-<a id="item-cn-macro-11"></a>
-### [中国经济三季报亮点解析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wczVwMUs1RkVJaTNMUWN0djU0cXc2VTJlXy1rWE1sQnRXUzhLOGVwczhWZlNSalJjb3VYTlZKcklwbWM1THU3S1N0SDZzak9zZk9ZT1N4SzhrYzN6UDJ5cklObkI3T0R4?oc=5) ⭐️ 7.0/10
+<a id="item-cn-macro-17"></a>
+### [中国经济三季报服务行业亮点分析](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wczVwMUs1RkVJaTNMUWN0djU0cXc2VTJlXy1rWE1sQnRXUzhLOGVwczhWZlNSalJjb3VYTlZKcklwbWM1THU3S1N0SDZzak9zZk9ZT1N4SzhrYzN6UDJ5cklObkI3T0R4?oc=5) ⭐️ 7.0/10
 
-中国经济三季报显示，服务行业在第三季度取得了显著增长，超出市场预期。具体数据显示，服务行业增长率达到 6.7%，高于市场预期的 6.5%。这一增长主要得益于国内消费的稳定增长和互联网经济的快速发展。
+中国经济三季报显示，服务行业在第三季度取得了显著增长，增速超过了市场预期。具体数据显示，服务行业增长率达到了 6.7%，高于市场预期的 6.5%。这一增长主要得益于国内消费的稳定增长和互联网经济的快速发展。
 
 google\_news · 中国新闻网 · 11月22日 07:28
 
-**「中国经济背景」** 中国自 2016 年以来一直是世界上按购买力平价计算的最大经济体。2026 年前三季度，中国经济报告显示国内生产总值（GDP）超过 107 万亿元人民币，同比增长 4.6%。这些数据为中国第三季度经济报告提供了重要的经济背景和参考。
+**「背景信息」** 2026 年上半年，中国经济保持了 4.7%的增长，符合政府设定的 4.5%至 5.0%的年度增长目标。然而，从第一季度到第二季度的增长势头有所减弱。根据 KPMG 的报告，第二季度的实际 GDP 增长放缓至 4.3%，较第一季度下降了 0.7 个百分点。此外，普华永道（PwC）的报告也指出，尽管中国经济在上半年保持了增长，但增长势头不均衡，出口和技术领域表现强劲，而消费和房地产领域则相对较弱。
 
-**「影响分析」** 服务行业的强劲增长对投资者来说是一个积极的信号，尤其是那些投资于互联网和消费相关领域的投资者。这一增长可能预示着未来几个月内相关行业股票的上涨。然而，投资者也应关注潜在的风险，如消费增长放缓或互联网监管政策的变化。
+**「影响分析」** 服务行业的强劲增长对投资者来说是一个积极的信号，尤其是对那些专注于消费和互联网领域的公司。投资者应关注这一趋势，并考虑增加对这些行业的投资。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Economy_of_China">Economy of China - Wikipedia</a></li>
-<li><a href="https://yangzhou.chinamnc.com/articles/yangzhou-china-s-q1-q3-2026-economic-report-key-signals-for-foreign-founders.html">China ’ s Q1–Q3 2026 Economic Report : Key Signals for... | ChinaMNC</a></li>
-<li><a href="https://www.producedinchina.com/news/1/33.html">Reading the Substance Behind China &#x27; s Third - Quarter Economic ...</a></li>
+<li><a href="https://kpmg.com/cn/en/insights/2026/08/china-economic-monitor-q3-2026.html">China Economic Monitor: 2026 Q3 - kpmg.com</a></li>
+<li><a href="https://www.pwccn.com/en/research-and-insights/china-economic-quarterly-q3-2026.pdf">China Economic Quarterly Q3 2026</a></li>
+<li><a href="https://www.pwccn.com/en/research-and-insights/china-economic-quarterly-q3-2026.html">PwC China: China Economic Quarterly Q3 2026 - pwccn.com</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Chinese economy`, `#Q3 economic report`, `#Service sector`, `#Economic analysis`, `#China`
+**标签**: `#Chinese Economy`, `#Service Sector`, `#Economic Report`, `#Stock Market`, `#China`
+
+---
+
+<a id="item-cn-macro-18"></a>
+### [A 股迎三大新政解读](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXeGowM0t3emotS3V2dDVrT29fampMLUVNVzh6MWZ3Z2N1Y2pDdVVsVGctWkVRQWk4RHVnVURsYm5jaXp4YkVhU3NxTU1Cc0lENUxGOTM3ZlhJbXFfbVAwRw?oc=5) ⭐️ 7.0/10
+
+A 股市场迎来三大新政，具体包括资本市场监管、投资者保护以及市场透明度提升等方面的政策调整。这些新政将对投资者和市场参与者产生重大影响。
+
+google\_news · 证券之星 · 11月22日 13:13
+
+**「背景信息」** 近期，中国 A 股市场迎来了三项重大政策调整。这些政策包括调整融资保证金比例、推进创业板做市商制度以及实施一系列降费措施。这些政策的出台旨在稳定市场预期，增强市场活力，并促进资本市场的长期健康发展。
+
+**「影响分析」** 这些新政将提升市场效率，增强投资者信心，但短期内可能对部分行业和公司造成调整压力，投资者需关注相关行业和公司的动态。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.eastmoney.com/a/202611223936948742.html">重磅时刻！A股迎三大“新政”！影响几何？最新解读来了</a></li>
+<li><a href="https://www.toutiao.com/article/7622573691397816882/">2026年A股三大核心政策落地：长钱入市、监管升级、融资优化</a></li>
+<li><a href="https://guba.eastmoney.com/news,cjpl,1799590717_4.html">重磅时刻！A股迎三大“新政”！影响几何？最新解读来了_财经评论 (cjpl)...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#A-share market`, `#Chinese economy`, `#regulatory announcements`, `#policy shifts`
+
+---
+
+<a id="item-cn-macro-19"></a>
+### [创业板做市业务细则发布，A 股三大成长板块协同效应显现](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03RU04Z2g2OU5ham4wTElxMzRIR0NyUTRoVWZMTENlZ3ZibkwzSFNNLXNqNUdVX1k0b1ZxOFo1MFBvLWlpNUc3RkMxTlhLLVp6RWRR?oc=5) ⭐️ 7.0/10
+
+创业板做市业务细则正式发布，标志着 A 股市场迎来重大监管变革。这一政策预计将对 A 股市场的成长板块产生显著影响。
+
+google\_news · 第一财经 · 11月22日 10:51
+
+**「背景信息」** 创业板做市业务细则的发布是 A 股市场的一项重大监管改革。此前，创业板已有 814 只股票上市，总市值达到 5.5 万亿元，日均交易量为 93.5 亿。这一改革预计将对市场成长板块产生重大影响。深圳证券交易所的交易规则和中国的股权市场结构为这一改革提供了基础框架。
+
+**「市场影响」** 该政策发布后，A 股三大成长板块有望形成协同效应，为投资者带来新的投资机会，但同时也需关注市场波动风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li>Deciphering the recent reforms to China&#x27;s ChiNext - Eastspring Investments</li>
+<li>[PDF] Trading Rules of Shenzhen Stock Exchange</li>
+<li>[PDF] Market Structure of the Chinese Equity Markets - The Fordham Law Archive of Scholarship and History</li>
+
+</ul>
+</details>
+
+**标签**: `#A-share Market`, `#Regulatory Change`, `#ChiNext Board`, `#Margin Trading`, `#Economic Policy`
+
+---
+
+<a id="item-cn-macro-20"></a>
+### [A 股融资杠杆比例提升至 1.25 倍，预计带来 4000 亿资金增量](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxV0NoX0tSWHNFYkdJUWoxUWxtMUtTY0dhZlRvN1lvUGlhSk04ZHZ4NzI3YThFRmttNFpuZEtZWUk2RXB3ZXNadmhSUGp5dTdZZHdHNEdGTWRIVG9ZNzlr?oc=5) ⭐️ 7.0/10
+
+A 股融资杠杆比例从之前的 1.0 倍提升至 1.25 倍，预计将带来约 4000 亿人民币的资金增量。
+
+google\_news · 新湖南 · 11月22日 11:32
+
+**「背景信息」** A 股市场融资杠杆比例的提升至 1.25 倍，是近年来中国证监会为促进市场流动性而实施的一项重要政策调整。在此之前，A 股市场的融资杠杆比例为 1 倍，这一调整意味着投资者可以借入更多的资金进行投资，从而可能增加市场的资金量。这一政策调整与之前的政策相比，显著提高了融资比例，为市场注入了更多的流动性。
+
+**「影响」** 这一政策变化预计将增加市场流动性，对需要融资的投资者和公司来说是一个利好消息，但同时也可能增加市场风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol (MCP)? - Model Context Protocol</a></li>
+
+</ul>
+</details>
+
+**标签**: `#A-share Market`, `#Financing Leverage Ratio`, `#Policy Change`, `#Market Impact`
 
 ---
 
 ## 全球市场
 
 <a id="item-global-market-1"></a>
-### [欧盟预算草案削减及数字税提议](https://reut.rs/4AIFCIi) ⭐️ 7.0/10
+### [COP31 谈判破裂风险增加](https://reut.rs/3WKZxIf) ⭐️ 7.0/10
 
-欧盟领导人会议主席提议进一步削减 2028-2034 年欧盟预算草案，并建议开征数字税，这一提议可能会对金融市场产生影响。
+第 31 届联合国气候变化大会（COP31）的谈判面临破裂风险，除非达成政治协议。这一事件可能对全球金融市场产生重大影响。
 
-rss · 路透社 Reuters · 11月21日 16:35
+rss · 路透社 Reuters · 11月22日 13:17
 
-**「背景信息」** 欧盟数字时代增值税改革（ViDA）自 2024 年开始实施，旨在影响所有与欧洲做生意的个人和公司，无论他们是卖家还是买家。此外，欧盟委员会发言人曾表示，所有公司都必须支付公平税费，数字公司也不例外。这一政策背景为欧盟领导人会议主席提出的进一步削减 2028-2034 年欧盟预算草案并建议开征数字税提供了上下文。
+**「背景信息」** 第 31 届联合国气候变化大会（COP31）于 2026 年 11 月 9 日至 20 日在土耳其安塔利亚举行。本次大会旨在推动全球气候变化的谈判进程，并达成具有法律约束力的协议。然而，由于各国在减排目标和资金支持等关键议题上的分歧，谈判面临破裂的风险。美国等国家对此次大会的参与度不高，进一步增加了谈判的不确定性。
 
-**「影响」** 这一提议可能导致欧盟预算削减，进而影响相关国家的财政状况，同时数字税的开征可能对跨国公司的财务状况产生影响。
+**「影响」** 如果 COP31 谈判破裂，可能导致全球股市、债券、大宗商品和货币市场的波动。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.woshipm.com/share/6385913.html">一文读懂 欧 盟 数 字 时代增值 税 改革（ViDA） | 人人都是产品经理</a></li>
-<li><a href="https://m.ithome.com/html/544992.htm">欧 盟 ：所有公司都必须支付公平 税 费， 数 字 公司也不例外 - IT之家</a></li>
-<li><a href="https://xnews.jin10.com/details/203587">xnews.jin10.com/details/203587</a></li>
+<li><a href="https://unfccc.int/cop31">UN Climate Change Conference - Antalya, November 2026 | UNFCCC</a></li>
+<li><a href="https://cop31.tr/">COP 31 Türkiye Antalya 2026 UN Climate Change Conference</a></li>
+<li><a href="https://www.democracynow.org/2026/11/17/mark_hertsgaard_cop31_climate_summit">As U.S. Boycotts U.N. Climate Talks, California... | Democracy Now!</a></li>
 
 </ul>
 </details>
 
-**标签**: `#EU Budget`, `#Digital Tax`, `#Financial Market`, `#Policy Proposal`
+**标签**: `#Climate Change`, `#COP31`, `#Global Financial Markets`, `#Negotiations`, `#Political Deal`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [华尔街暴跌，气候谈判超时，共和党为 2028 年大选布局](https://reut.rs/4eLls8f) ⭐️ 7.0/10
+### [欧盟预算草案削减及数字税提议影响分析](https://reut.rs/4AIFCIi) ⭐️ 7.0/10
+
+欧盟领导人会议主席提议进一步削减 2028-2034 年欧盟预算草案，并建议开征数字税，这一提议将对金融市场产生影响。
+
+rss · 路透社 Reuters · 11月21日 16:35
+
+**「背景信息」** 2028-2034 年欧盟预算草案的提出是欧盟委员会主席冯德莱恩在 2026 年 7 月公布的，该预算草案旨在使欧盟预算在 2028 年至 2034 年期间达到 2 万亿欧元。这一预算提案被描述为更具战略性、更灵活、更透明，以应对不可预见的危机。在此背景下，欧盟领导人会议主席提议进一步削减 2028-2034 年欧盟预算草案，并建议开征数字税，这一提议可能会对欧盟的财政政策和金融市场产生重大影响。
+
+**「市场影响」** 欧盟领导人会议主席提议进一步削减 2028-2034 年欧盟预算草案，并建议开征数字税，这一举措可能会对金融市场的稳定性和投资者信心产生影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cn.rua.gr/2026/05/16/2028-2034%E5%B9%B4%E6%AC%A7%E7%9B%9F%E9%A2%84%E7%AE%97%EF%BC%9A%E6%AD%A6%E5%99%A8%E7%9A%84%E6%AC%A7%E6%B4%B2%E8%80%8C%E4%B8%8D%E6%98%AF%E4%BA%BA%E6%B0%91%E7%9A%84%E6%AC%A7%E6%B4%B2/">2028 - 2034 年 欧 盟 预 算 ：武器的 欧 洲而不是 人 民的 欧 洲 - Athens News</a></li>
+<li><a href="https://www.kanzhongguo.eu/node/71149">欧 盟 推出2万亿 预 算 提 案 | journal... - Journal Chinois Kan Zhong Guo</a></li>
+<li><a href="https://zh-cn.topwar.ru/293912-zajmy-dlja-kieva-zachem-berlin-hochet-ogranichit-pravo-veto.html">zh-cn.topwar.ru/293912-zajmy-dlja-kieva-zachem-berlin-hochet...</a></li>
+<li><a href="https://asy.dymax9.fit/cn/home/web/">抖阴Max</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU Budget`, `#Digital Tax`, `#Financial Market Implications`, `#Central Bank Policies`
+
+---
+
+<a id="item-global-market-3"></a>
+### [华尔街暴跌，气候谈判超时，共和党为 2028 年大选布局播客分析](https://reut.rs/4eLls8f) ⭐️ 7.0/10
 
 华尔街股市暴跌，气候谈判超时，共和党为 2028 年美国总统大选布局。这些事件可能对全球金融市场产生重大影响。
 
 rss · 路透社 Reuters · 11月21日 15:15
 
-**「背景信息」** 华尔街的暴跌和气候谈判的延期是当前全球金融市场关注的焦点。华尔街的暴跌可能反映了市场对经济前景的担忧，而气候谈判的延期则可能影响全球气候政策的实施。这些事件的发生与巴黎协定和近年来的气候谈判密切相关，特别是在 2026 年联合国气候变化大会期间，各国政府面临提交更新后的国家自主贡献和展示实现巴黎协定目标进展的压力。
+**「背景信息」** 2026 年，华尔街市场对 2026 年的展望持谨慎乐观态度，尽管存在一些地缘政治和贸易担忧。然而，随着人工智能的抛售加剧，纳斯达克在 2026 年转为负增长，全球金融市场普遍出现下跌，这主要是由于对人工智能估值和美国利率的担忧引发的。此外，巴黎协定自 2015 年签署以来，已有 194 个联合国气候变化框架公约成员国加入。在最近的 COP31 气候峰会上，由于各国在化石燃料问题上的分歧，谈判超时，草案文本未提及化石燃料，这是全球变暖的主要原因。
 
-**「影响」** 华尔街股市的暴跌可能导致投资者信心下降，进而影响全球股市表现。气候谈判的超时可能加剧市场对能源和环保行业的担忧。共和党的选举策略可能影响政治稳定性和市场预期。
+**「影响」** 华尔街股市的暴跌可能导致投资者信心下降，进而影响全球股市表现。
 
 <details><summary>参考链接</summary>
 <ul>
+<li><a href="https://www.bloomberg.com/graphics/2026-investment-outlooks/">Stock Market Predictions 2026: AI Boom, Dollar’s Decline and ...</a></li>
+<li><a href="https://www.financialexpress.com/market/global-markets/nasdaq-turns-negative-for-2026-as-ai-sell-off-deepens/4390115/">Nasdaq turns negative for 2026 as AI sell-off deepens</a></li>
+<li><a href="https://www.morganstanley.com/insights/articles/2026-market-optimism-and-risks">Stock Market Outlook 2026: Political Risks Loom | Morgan Stanley</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Paris_Agreement">Paris Agreement - Wikipedia</a></li>
-<li><a href="https://www.esgtimes.in/climate/bonn-climate-negotiations-open-with-focus-on-finance-disputes/">Bonn Climate Negotiations Open With Focus on Finance Disputes</a></li>
-<li><a href="https://enb.iisd.org/antalya-un-climate-change-conference-cop31-20Nov2026">Highlights and images for 20 November 2026</a></li>
+<li><a href="https://www.dw.com/en/cop31-climate-deal-in-doubt-as-eu-others-reject-draft-declaration/live-79999516">COP31: UN Climate summit draft text still omits fossil fuels</a></li>
+<li><a href="https://www.bbc.com/news/live/crly5w901n20t">COP31 climate summit in Antalya, Turkey enters second... - BBC News</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Wall Street`, `#Climate Negotiations`, `#Financial Markets`, `#Political Strategy`
-
----
-
-<a id="item-global-market-3"></a>
-### [欧盟与印度尼西亚签署贸易协定](https://reut.rs/3WSd9kV) ⭐️ 7.0/10
-
-欧盟与印度尼西亚经过 10 年的谈判后，于 2026 年 11 月 21 日签署了一项贸易协定。这一历史性的协议预计将对双方的经济关系产生深远影响。
-
-rss · 路透社 Reuters · 11月21日 14:11
-
-**「背景信息」** 欧盟与印度尼西亚历经十年的谈判后签署了贸易协定。这是欧盟与东南亚国家签订的第三个全面经济伙伴关系协定（CEPA），前两个分别是新加坡和越南。该协议旨在释放未实现的贸易潜力，并抵消美国新关税的影响。此外，该协议对贸易、可持续性和合作提供了新的机会，恰逢其时。
-
-**「影响」** 该贸易协定的签署预计将促进欧盟和印度尼西亚之间的贸易往来，增强双方的经济合作，对全球金融市场产生积极影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.channelnewsasia.com/asia/indonesia-eu-trade-deal-tariffs-palm-oil-deforestation-5363711">Indonesia , EU sign long-awaited trade deal - CNA</a></li>
-<li><a href="https://thediplomat.com/2026/11/eu-governments-sign-off-on-previously-agreed-trade-deal-with-indonesia/">EU Governments Sign Off on Previously-agreed Trade Deal With...</a></li>
-<li><a href="https://euobserver.com/stakeholders/ar658b12ac">The real test of the EU - Indonesia trade deal will be palm oil</a></li>
-
-</ul>
-</details>
-
-**标签**: `#EU`, `#Indonesia`, `#Trade Agreement`, `#Economic Relations`, `#Global Markets`
+**标签**: `#Wall Street`, `#Climate Negotiations`, `#Financial Markets`, `#Geopolitical Events`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [全球电力需求增长推动全球电网投资激增](https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html) ⭐️ 7.0/10
+### [欧盟与印度尼西亚签署贸易协定](https://reut.rs/3WSd9kV) ⭐️ 7.0/10
 
-由于信息技术行业的快速增长，全球电力需求预计将大幅上升，未来十年将增加超过 10,000 太瓦时。为了满足这一需求，全球电网将需要进行紧急升级。
+欧盟与印度尼西亚经过 10 年的谈判后，于 2026 年 11 月 21 日签署了一项贸易协定。这一协议标志着双方在长期谈判后达成了重要经济协议，与市场预期存在明显差异。
 
-rss · OilPrice · 11月22日 00:00
+rss · 路透社 Reuters · 11月21日 14:11
 
-**「背景信息」** 随着信息技术产业的迅猛发展，全球电力需求预计将大幅增长，预计未来十年将增长超过 10,000 太瓦时。为了使这些电力达到需求中心，全球电网将需要进行紧急升级。国际能源署在其本周发布的《世界能源展望》中再次警告，数据中心正在成为电力供应的主要消耗者。这些警告和社区反对声音……
+**「背景信息」** 欧盟与印度尼西亚历经十年的谈判后签署贸易协定，这一事件标志着双方在长期谈判后达成了经济合作协议。此前，欧盟政府已经批准了与印度尼西亚签订的贸易协定，旨在释放未实现的贸易潜力，并抵消美国新关税的影响。这是欧盟与东南亚国家签订的第三个协议，前两个分别是与新加坡和越南的协议。
 
-**「影响」** 这一趋势将对电力市场、相关行业和货币产生具体影响，例如可能导致电力价格上涨和电网基础设施建设的增加。
+**「影响」** 该贸易协定的签署可能对多个行业和市场产生具体影响，包括促进双边贸易和投资增长。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.m.wikipedia.org/wiki/International">International - Wikipedia</a></li>
-<li><a href="https://simple.m.wikipedia.org/wiki/International">International - Simple English Wikipedia , the free encyclopedia</a></li>
-<li><a href="https://en.m.wikipedia.org/wiki/International_Motors">International Motors - Wikipedia</a></li>
+<li><a href="https://thediplomat.com/2026/11/eu-governments-sign-off-on-previously-agreed-trade-deal-with-indonesia/">EU Governments Sign Off on Previously-agreed Trade Deal With...</a></li>
+<li><a href="https://www.channelstv.com/2025/09/23/indonesia-eu-sign-long-awaited-trade-deal/">Indonesia , EU Sign Long-Awaited Trade Deal • Channels Television</a></li>
+<li><a href="https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/negotiations-and-agreements_en">EU Trade agreements</a></li>
+
+</ul>
+</details>
+
+**标签**: `#EU`, `#Indonesia`, `#Trade Agreement`, `#Economic Policy`, `#Negotiations`
+
+---
+
+<a id="item-global-market-5"></a>
+### [全球电力需求增长推动全球电网投资激增](https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html) ⭐️ 7.0/10
+
+由于信息技术行业的快速增长，全球电力需求预计将显著增加，未来十年将增加超过 10,000 太瓦时。为了满足这一需求，全球电网将需要紧急升级。
+
+rss · OilPrice · 11月22日 00:00
+
+**「背景信息」** 随着信息技术行业的迅猛发展，全球电力需求预计将显著增长，预计未来十年将增长超过 10,000 太瓦时。为了使这些电力达到需求中心，全球电网将需要紧急升级。国际能源署在其本周发布的《世界能源展望》中再次警告，数据中心正在成为电力供应的主要消耗者。
+
+**「影响」** 这一趋势将对全球电力市场产生重大影响，可能导致电力价格上升，并促使各国政府和企业增加对电网升级的投资。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.iea.org/reports/world-energy-outlook-2026">World Energy Outlook 2026 - IEA - International Energy Agency</a></li>
+<li><a href="https://www.iea.org/events/world-energy-outlook-2026">World Energy Outlook 2026 - Event - IEA</a></li>
+<li><a href="https://iea.blob.core.windows.net/assets/df903e1c-49c6-4757-8cbf-6fbcfe7611a0/GlobalEnergyReview2026.pdf">Global Energy Review 2026 - iea.blob.core.windows.net</a></li>
 
 </ul>
 </details>
@@ -432,303 +688,219 @@ rss · OilPrice · 11月22日 00:00
 
 ---
 
-<a id="item-global-market-5"></a>
+<a id="item-global-market-6"></a>
 ### [英国净零转型面临中国问题](https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html) ⭐️ 7.0/10
 
-英国在向净零转型的过程中，因依赖中国进口太阳能产品以及潜在的安全风险而面临挑战。据政策交换所的报告，中国占英国太阳能进口的 91%。
+英国在向净零转型的过程中，由于严重依赖中国进口太阳能产品以及潜在的安全风险，面临挑战。据一份新报告显示，中国占英国太阳能进口的 91%。
 
 rss · OilPrice · 11月21日 18:00
 
-**「背景」** 英国在向净零排放过渡的过程中，面临着对中国太阳能进口的依赖和潜在的安全风险。政策交换的研究报告指出，中国占英国太阳能进口的 91%。此外，英国对中国的技术依赖和供应链的潜在脆弱性引发了对其气候目标和国家安全之间平衡的担忧。
+**「背景」** 英国在向净零排放过渡的过程中，面临着对中国太阳能进口的依赖和潜在的安全风险。2025 年 2 月 27 日，英国政府与中华人民共和国政府签署了一份关于清洁能源伙伴关系的谅解备忘录，这表明两国在清洁能源领域的合作。2025 年 3 月 14 日，英国和中国重启了有意义的气候变化对话，双方同意在气候和清洁能源方面进行安全和务实的合作。此外，2026 年 2 月 2 日的报道指出，英国当前的可再生能源产能严重依赖进口组件，大约 80%的太阳能电池板是在中国制造的。这种依赖性在政府加速净零排放时间表的过程中既创造了机会，也带来了脆弱性。
 
-**「影响」** 这一依赖关系可能对英国能源安全产生负面影响，尤其是在全球供应链面临不确定性的背景下。
+**「影响」** 英国对中国的过度依赖，特别是在太阳能进口方面，可能导致其能源供应链受到冲击，进而影响英国实现净零排放的目标。这种依赖性增加了供应链中断的风险，可能导致清洁能源项目的推迟，从而对英国的经济造成额外成本。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.samdumitriu.com/p/how-worried-should-we-be-about-our">How worried should we be about our reliance on China for Net Zero?</a></li>
-<li><a href="https://www.express.co.uk/news/politics/2158436/warning-uk-dependency-china-puts">UK &#x27; s dependency on China puts 90,000 jobs at risk ... | Express.co. uk</a></li>
-<li><a href="https://minzeband.com/article/the-hidden-risks-of-britain-s-dependence-on-china-for-net-zero-technologies">The Hidden Risks of Britain&#x27; s Dependence on China for Net Zero...</a></li>
+<li><a href="https://www.gov.uk/government/publications/uk-china-clean-energy-partnership/uk-china-memorandum-of-understanding-2025">UK–China memorandum of understanding, 2025 - GOV.UK</a></li>
+<li><a href="https://www.gov.uk/government/news/uk-and-china-restart-meaningful-climate-change-dialogue">UK and China restart meaningful climate change dialogue</a></li>
+<li><a href="https://supplychaindigital.com/news/uk-china-trade-renewable-supply-chain">UK-China Trade and the Renewable Supply Chain</a></li>
+<li><a href="https://www.theguardian.com/politics/2026/jan/16/over-reliance-on-china-could-hit-uk-energy-supply-chains-putting-9000-jobs-at-risk">Over-reliance on China could hit UK energy supply chains ...</a></li>
+<li><a href="https://www.rechargenews.com/energy-transition/resource-nationalism-uk-probes-risks-of-dependency-on-chinese-clean-tech/2-1-1586989">&#x27;Resource nationalism&#x27; | UK probes risks of dependency on ...</a></li>
+<li><a href="https://www.cityam.com/uk-has-bowed-to-china-on-net-zero-transition-despite-security-threats/">UK has ‘bowed to China’ on net zero despite security threats</a></li>
 
 </ul>
 </details>
 
-**标签**: `#UK Net Zero`, `#China Trade Relations`, `#Solar Imports`, `#Energy Security`
+**标签**: `#UK Net Zero`, `#China Trade Relations`, `#Solar Imports`, `#Security Risks`, `#Global Financial Market`
+
+---
+
+<a id="item-global-market-7"></a>
+### [美股科技股暴跌，亚洲股市采取措施稳定](https://news.bjd.com.cn/2026/11/22/12039852.shtml) ⭐️ 7.0/10
+
+美国科技股遭遇大规模抛售，纳斯达克指数单日暴跌 5.28%，费城半导体指数下跌近 11%。为应对市场波动，中国内地、韩国和中国台湾地区分别采取了降低融资保证金比例、放宽回购订单限制、禁止卖空等措施。
+
+telegram · zaihuapd · 11月22日 13:24
+
+**「背景信息」** 近期，美国科技股遭遇大规模抛售，纳斯达克指数单日暴跌 5.28%，费城半导体指数重挫近 11%，市场恐慌情绪迅速蔓延。这一现象引发了全球市场的关注，尤其是亚洲市场对此做出了相应的稳定措施。例如，中国内地下调融资保证金最低比例至 80%，推进创业板做市商制度及交易降费；韩国完善股市稳定基金启动机制，放宽上市公司每日回购订单数量限制，并加强对非法卖空、信用交易及强制平仓的监控；中国台湾地区则全面禁止平盘以下卖空，提高融券保证金比例，并暂停受理认售权证上市申请，鼓励出借机构暂停新增借券、提前召回已出借股票。
+
+**「市场影响」** 美国科技股的大规模抛售对亚洲市场产生了显著影响，导致亚洲各国采取措施稳定股市。例如，中国内地下调融资保证金比例，韩国放宽上市公司每日回购订单数量限制，中国台湾地区禁止平盘以下卖空并提高融券保证金比例。这些措施旨在缓解市场恐慌情绪，稳定股市。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_21_909399.shtml">AI 恐慌爆发，华尔街震荡， 美 国 科 技 股 跌入熊市</a></li>
+<li><a href="https://www.bilibili.com/video/BV1okjS6yEPS/">速报！ AI 科 技 股 大幅 抛 售 ，拖累标普和纳斯达克，后者下跌超过500...</a></li>
+<li><a href="https://forexsis.net/asia-stock-market-divergence/">揭秘亚洲股市分化：AI狂潮VS石油危机，2026投资者如何布局？</a></li>
+<li><a href="https://www.szse.cn/aboutus/research/secuities/documents/t20040106_531320.html">证券市场稳定措施的国际比较及其借鉴</a></li>
+<li><a href="https://coinunited.io/cn/pulse/2026-10-19/china-props-up-stocks-with-selling-curbs-buybacks-after-10-slide-leverage-impact-on-china-indices-cross-market-ripples">中国通过限制卖出和回购支撑股市，此前已下跌10%——杠杆对中国指数及跨...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Market Volatility`, `#Tech Stock`, `#Asian Markets`, `#Stabilization Measures`, `#Financial News`
 
 ---
 
 ## AI 前沿
 
 <a id="item-ai-frontier-1"></a>
-### [黎曼猜想通过 Lean 验证](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) ⭐️ 9.0/10
+### [黎曼猜想证明通过 Lean 验证](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) ⭐️ 9.0/10
 
-2026 年 11 月，Levent Alpöge 发布了黎曼猜想的 Lean 形式化证明，代码库约 1700 万行。Lean FRO 与 Mathlib Initiative 联合声明认证该命题与证明均正确，社区确认其命题与 Mathlib 的 RiemannHypothesis 一致，代码库可无错编译，且多个独立证明检查器验证证明有效。
+2026 年 11 月，Levent Alpöge 使用 Lean，一种形式化证明辅助工具，发布了黎曼猜想的证明，经过 Lean FRO 与 Mathlib Initiative 的联合认证，该证明已被多个独立证明检查器验证为有效，标志着数学领域的一项重大突破。
 
-hackernews · g-b-r · 11月21日 14:36 · [社区讨论](https://news.ycombinator.com/item?id=50589618)
+telegram · zaihuapd · 11月21日 16:48
 
-**「黎曼猜想与 Lean 验证」** 黎曼猜想是数论中的一个重大未解问题，其证明一直是数学界的热点。Lean 是一种基于依赖类型的证明辅助工具，用于形式化和验证数学证明。在 2026 年 11 月，Levent Alpöge 发布了黎曼猜想的 Lean 形式化证明，这一证明得到了 Lean FRO 与 Mathlib Initiative 的联合认证，确认了命题与证明的正确性。这一事件标志着数学领域的一个重要进展，同时也展示了形式化证明在数学研究中的重要性。
+**「背景信息」** 黎曼猜想是数学中一个著名的未解决问题，它涉及到质数的分布。Lean 是一个基于归纳类型的构造演算的计算机证明助手和函数式编程语言，由莱昂纳多·德·莫拉在微软研究院开发。Lean 被设计用于形式化数学和编程语言，它的出现为数学证明的自动化和形式化提供了强大的工具。
 
-**「影响」** 这一黎曼猜想的证明对于数学研究者来说是一个重要的里程碑，因为它不仅加深了我们对数论的理解，而且推动了数学形式化和验证技术的发展。这一成就可能会激励更多的研究者投身于数学基础理论和形式化证明的研究，从而推动整个数学领域的发展。
+**「影响」** 这一成就为数学研究者提供了强大的工具，使他们能够更深入地探索数学逻辑的深处，并可能从中推断出新的知识和思想。对于开发者来说，这可能会激发新的算法和数学模型的发展，从而推动人工智能在数学领域的应用。
 
-**「社区讨论」** 社区讨论中，有人指出尽管存在可能性，但利用漏洞的证明现在几乎可以忽略不计。今年出现了一些错误和不良证明后，有多个不同的实现，使用不同的语言，并且有不同级别的证明一致性。有人认为，如果黎曼猜想是错误的，那么必须所有内核中都有漏洞，这些漏洞同时影响了一致性证明和黎曼猜想的证明本身。也有人对这一证明的深度和数学基础的重要性表示赞赏。
+**「社区讨论」** 社区中有人认为这可能是数学领域“望远镜”的发明，预示着数学研究的新黄金时代。同时，也有人对独立检查器的可靠性表示担忧，认为尽管可能性极小，但仍然存在利用漏洞的可能性。一些人认为，Levent Alpöge 在这次证明中发挥了重要作用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nacionale.com/en/articles/has-riemann-hypothesis-been-proved-levent-alpoge-claude-anthropic-claim-lean">Riemann hypothesis proof claimed with Claude, unverified</a></li>
-<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician claims to prove Riemann hypothesis , most...</a></li>
-<li><a href="https://www.cryptopolitan.com/alpoge-claude-riemann-hypothesis-proof/">Anthropic&#x27;s Alpöge says Claude helped him prove the Riemann ...</a></li>
-<li><a href="https://www.dps.texas.gov/section/driver-license/impact-texas-drivers-itd-program">Impact Texas Drivers (ITD) Program | Department of Public Safety</a></li>
-<li><a href="https://impact.com/">impact .com - The All-in-One Partnership Management Platform</a></li>
-<li><a href="https://www.merriam-webster.com/dictionary/impact">IMPACT Definition &amp; Meaning - Merriam-Webster</a></li>
+<li><a href="https://sciencefocus.hkust.edu.hk/zh-hant/what-is-the-Riemann-hypothesis">甚么是 黎 曼 猜 想 ？ | 科言</a></li>
+<li><a href="https://blog.csdn.net/qq_28260611/article/details/82807746">自然数简化到素数： 黎 曼 猜 想 RiemannHypothesis...</a></li>
+<li><a href="https://news.qq.com/rain/a/20211220A0D39I00">news.qq.com/rain/a/20211220A0D39I00</a></li>
+<li><a href="https://zh.wikipedia.org/zh-hans/Lean">Lean - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.echo.cool/docs/fundamental/lean/lean-proof-foundation/lean-proof-introduction/">Lean 证 明 简 介 | 代码酷</a></li>
+<li><a href="https://www.leanprover.cn/">Lean 中文文档 - Lean Prover 中文文档</a></li>
+<li><a href="https://sciencefocus.hkust.edu.hk/zh-hant/what-is-the-Riemann-hypothesis">甚么是 黎 曼 猜 想 ？ | 科言</a></li>
+<li><a href="https://original.ifeng.com/c/8yE26Geyw25">Claude宣称 证 明 黎 曼 猜 想 ：1700万行Lean 证 书，尚未经同行验 证 _凤凰网</a></li>
+<li><a href="https://www.youtube.com/watch?v=uG3r58ILOfQ">AI 连 黎 曼 猜 想 都 证 出来了，然后呢？ - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Mathematics`, `#Riemann Hypothesis`, `#Number Theory`, `#Proofs`, `#AI in Mathematics`
+**标签**: `#Mathematics`, `#Riemann Hypothesis`, `#Formal Verification`, `#Lean`, `#AI in Mathematics`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [浙江大学实现量子随机存储器 QRAM](https://finance.sina.com.cn/stock/2026-11-21/doc-iniznhsk3530826.shtml) ⭐️ 8.0/10
+### [Muru：AI 辅助的 Rust 服务器助力 Python Web 应用](https://simonwillison.net/2026/Nov/21/muru/) ⭐️ 7.0/10
 
-浙江大学团队在自主制备的超导量子芯片「天目 2 号」上，全球首次真机实现量子随机存储器（QRAM），成功运行了能调取 4 位和 8 位数据的原型，准确率分别为 80.9% 和 60.4%，线路深度较未优化方案降低 30% 以上，并首次验证该架构具备局部抗噪特性。
+Graham Dumpleton 推出了新的 AI 辅助 Rust 服务器 Muru，旨在为运行 ASGI 和 WSGI Python 应用提供最佳工具，支持开发和生产环境。Muru 的开发过程被详细记录，展示了其在性能和功能上的改进。
 
-telegram · zaihuapd · 11月21日 08:31
+rss · Simon Willison · 11月21日 23:56
 
-**「背景信息」** 量子随机存储器（QRAM）是量子计算机中的一个关键组件，它允许量子计算机以接近光速的速度访问存储的数据。浙江大学的研究团队在自主制备的超导量子芯片「天目 2 号」上成功实现了 QRAM，这是量子计算领域的一项重大突破。这一成果发表在《自然·物理》杂志上，标志着中国在量子计算技术方面取得了重要进展。
+**「背景信息」** Muru 是由 Graham Dumpleton 开发的一款 AI 辅助的 Rust 服务器，旨在为运行 ASGI 和 WSGI Python 应用提供最佳工具。Dumpleton 此前开发了 mod\_wsgi，这是一个 Apache HTTP 服务器模块，为基于 Python 的 Web 应用提供了 WSGI 兼容的接口。Muru 的开发过程被详细记录，包括对 AI 辅助编程的探讨，以及如何将 AI 集成到服务器中以提高性能和易用性。
 
-**「影响」** 这一成果对于量子计算技术的发展具有重要意义，为量子计算机提供了更高效的存储解决方案，有助于推动人工智能研究和基础设施的发展。
+**「影响」** Muru 的出现为开发者提供了更高效、更可靠的 Python Web 应用服务器选项，有助于提高开发效率和应用程序性能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.amishfurniturefactory.com/amishblog/how-often-should-you-polish-wood-furniture/">How Often Should You Polish Wood Furniture ? A Simple Care Guide</a></li>
-<li><a href="https://www.woodenstreet.com/blog/how-to-polish-wood-furniture">How To Polish Wood Furniture at Home Using Natural Cleaners</a></li>
-<li><a href="https://torontoshinecleaning.ca/blog/7-natural-ways-to-clean-and-polish-wood-for-a-lasting-shine/">How to Polish Wood Furniture With Natural Polishes</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mod_wsgi">mod_wsgi - Wikipedia</a></li>
+<li><a href="https://grahamdumpleton.me/posts/2026/11/twenty-years-of-mod-wsgi/">Twenty years of mod_wsgi, and what comes next - Graham Dumpleton</a></li>
+<li><a href="https://deepwiki.com/GrahamDumpleton/mod_wsgi/7-release-history-and-migration">Release History &amp; Migration | GrahamDumpleton/mod_wsgi | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Quantum Computing`, `#AI Research`, `#AI Infrastructure`, `#Quantum Random Access Memory`, `#Zhejiang University`
+**标签**: `#AI-assisted development`, `#Python web applications`, `#Rust server`, `#AI infrastructure`, `#Software development`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [GnuPG Security Advisory for GPGME](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) ⭐️ 7.0/10
+### [哈佛开源虚拟细胞模型：编辑 DNA 前先预演整个细胞，AlphaGenome2 后又一进展](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247947754&amp;idx=2&amp;sn=2d7394fd2ad6b2021392b4883d8e6077) ⭐️ 7.0/10
 
-Security Advisory for GPGME highlights a critical vulnerability affecting multiple software applications.
+哈佛医学院、约翰斯·霍普金斯大学与默克团队共同开发的 STRAND 模型，通过预测 DNA 变异对基因表达的影响，为 DNA 编辑提供了预演工具，有助于在编辑前预测细胞响应。该模型已获得 NeurIPS 2026 主会接收，并已公开代码。
 
-hackernews · gdgghhhhh · 11月21日 08:32 · [社区讨论](https://news.ycombinator.com/item?id=50587208)
+rss · 量子位 · 11月22日 04:47
 
-**标签**: `#Security Advisory`, `#GPGME`, `#Vulnerability`, `#Software Security`, `#GitLab`
+**「背景信息」** 虚拟细胞模型是一种模拟细胞行为的计算机模型，它可以帮助研究人员在编辑 DNA 之前预演整个细胞的变化。这种模型在 DNA 编辑和基因治疗领域具有重要作用，因为它可以帮助研究人员预测 DNA 变异对细胞的影响，从而减少实验风险和提高实验效率。AlphaGenome 2 是一个基于深度学习的虚拟细胞模型，它能够预测 DNA 变异对基因表达的影响。STRAND 是一个新的虚拟细胞模型，它能够预测干预 DNA 后对多基因表达谱的影响，从而为 DNA 编辑提供更全面的预测。
+
+**「影响」** 该虚拟细胞模型为研究人员提供了在编辑 DNA 之前预演整个细胞的能力，这有助于他们更好地理解 DNA 变异对细胞的影响，从而在基因编辑领域提高效率和安全性。
+
+**「社区讨论」** 目前没有社区讨论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=k9eF0QpHoUc">BEGIN:VCARD VERSION:3.0 FN: N:; TEL; TYPE = CELL ... - YouTube</a></li>
+<li><a href="https://learn.genetics.utah.edu/content/cells/scale/">Cell Size and Scale</a></li>
+<li><a href="https://stemcells.nih.gov/info/basics/stc-basics">Stem Cell Basics | STEM Cell Information</a></li>
+<li><a href="https://www.youtube.com/watch?v=BOj-ZIpdZBU">The virtual future of cancer research | Gege Qian - YouTube</a></li>
+<li><a href="https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html">How Virtual Cells Could Transform Medicine - The New York Times</a></li>
+<li><a href="https://time.com/7324119/what-is-virtual-cell/">Why AI Companies Are Racing to Build a Virtual Human Cell</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`, `#Virtual Cell Modeling`, `#DNA Editing`
 
 ---
 
 <a id="item-ai-frontier-4"></a>
-### [Muru：AI 辅助的 Rust 服务器助力 Python Web 应用](https://simonwillison.net/2026/Nov/21/muru/) ⭐️ 7.0/10
+### [NUS 发布 System One 模型评测基准：能力有多宽，决策有多稳？](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652744403&amp;idx=3&amp;sn=610ee99532640e168a41124b324d04d8) ⭐️ 7.0/10
 
-Graham Dumpleton 推出了 Muru，一款 AI 辅助的 Rust 服务器，旨在为运行 ASGI 和 WSGI Python 应用提供最佳工具，适用于开发和生产环境。Dumpleton 详细记录了 Muru 的开发过程，但尚未提供具体的性能基准或行业变革性影响。
+新加坡国立大学 xML Lab 团队发布了针对 System One 模型的评测基准，旨在评估模型的能力和决策稳定性。该基准通过一系列设计来检验模型在不同场景下的表现，包括可信标签、难度分层、长程交互能力和可靠性检验。
 
-rss · Simon Willison · 11月21日 23:56
+rss · 新智元 · 11月21日 23:31
 
-**「背景信息」** Muru 是由 Graham Dumpleton 开发的一款 AI 辅助的 Rust 服务器，旨在为运行 ASGI 和 WSGI Python 应用提供最佳工具。Dumpleton 在过去的 20 年里一直在思考如何以最佳方式在生产环境中提供 Python Web 应用的服务。Muru 的开发过程被详细记录，包括对项目各个方面的深入探讨，如工作进程、组件集成、性能优化等。这些记录为理解 Muru 的设计理念和工作原理提供了宝贵的信息。
+**「背景信息」** System One 模型是一种能够在单次前向中输出候选结果上的概率分布的模型，具有延迟低、输出结构化等特点，适用于软件流程中的日常决策。然而，对于模型的评估需要考虑多个方面，包括模型的能力谱系和决策可靠性。新加坡国立大学 xML Lab 团队针对 System One 模型构建了一套评测基准，旨在全面评估模型的能力和决策稳定性。
 
-**「影响」** Muru 的出现为开发者提供了一种新的选择，以更高效的方式运行 Python Web 应用，可能有助于提高开发效率和性能。
+**「影响」** 该评测基准的发布为开发者、研究人员和用户提供了一个评估 System One 模型性能的客观标准，有助于推动模型在决策支持领域的应用和发展。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/muruhq/muru">GitHub - muruhq/ muru : Routing edge, control plane and Python ...</a></li>
+<li><a href="https://github.com/UlkuTuncerKucuktas/system-one-bench-tr">GitHub - UlkuTuncerKucuktas/ system - one - bench -tr: Turkish System...</a></li>
+<li><a href="https://arena.ai/leaderboard">Arena Leaderboard: Official AI Model Rankings &amp; Benchmarks</a></li>
+<li><a href="https://aistage.net/tool/cznull">CZNull offers advanced WebGL GPU benchmarking and testing.</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI-assisted development`, `#Python web applications`, `#Rust server`, `#AI infrastructure`, `#Web development`
-
----
-
-<a id="item-ai-frontier-5"></a>
-### [Karpo 新作再开源，浏览器 Agent 速效双赢](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247947677&amp;idx=1&amp;sn=ebf1f96b9afceacdfa0d407ecdb3ff2b) ⭐️ 7.0/10
-
-Karpo AI 最新发布的 Karpo Decision 31B 模型在速度和效率上超越了 Gemini，吸引了 AI 研究社区的注意。该模型专为 Agent 提供高频、低延迟的决策能力，中位响应时间仅为 94 毫秒，在 Decision Index 评测总榜上以 73.9 的 Full 分荣登榜首。
-
-rss · 量子位 · 11月21日 09:52
-
-**「背景信息」** Karpo AI 最近开源了其新作 Karpo Decision 31B，这是一款决策模型，在速度和效率方面超过了 Gemini。该模型专门为 Agent 提供高频、低延迟的决策能力，使得每一步判断都更快、更省。此外，MachinePulse 还开源了应用于自家 Personal Agent 产品 Karpo 的浏览器操作框架，包括 karpo-browser 框架、针对网页动作决策训练的 Karpo Decision 27B Act 模型，以及配套的网页动作决策评测集 KBB。
-
-**「影响」** Karpo AI 的新作 Karpo Decision 31B 在决策速度和效率上超过了 Gemini，这为开发者提供了更高效、低延迟的决策能力，有助于提升 AI 产品的性能和用户体验。
-
-**「社区讨论」** 目前没有可用的社区讨论。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://huggingface.co/machinez/karpo-decision-31B-NVFP4">machinez/ karpo - decision - 31 B -NVFP4 · Hugging Face</a></li>
-<li><a href="https://llm-stats.com/benchmarks">AI &amp; LLM Benchmarks 2026 : Rankings, Scores &amp; Results</a></li>
-<li><a href="https://www.mindstudio.ai/blog/nanbeige4-3-33b-benchmark-comparison">Nanbeige4.3-33B Benchmarks : How It Beats... | MindStudio</a></li>
-<li><a href="https://github.com/machinepulse-ai/world2agent">GitHub - machinepulse - ai /world2agent: World2Agent(W2A) is an open...</a></li>
-<li><a href="https://www.machinepulse.ai/">MachinePulse | The Very Pulse of the Machine</a></li>
-<li><a href="https://frame.work/laptop13">Order a Framework Laptop 13 with AMD Ryzen™ AI 300 Series</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Research`, `#Machine Learning`, `#Performance Benchmark`, `#AI Product`
-
----
-
-<a id="item-ai-frontier-6"></a>
-### [国家数据局完善词元计量计费与质量测评标准](https://www.cls.cn/detail/2540805) ⭐️ 7.0/10
-
-国家数据局计划完善词元计量计费与质量测评标准，旨在提升 AI 产业的价值链。国家数据局局长刘烈宏在 2026 世界计算大会上强调，词元作为连接算力、模型和数据的桥梁，对数智经济至关重要。他提出将拓展词元服务应用场景，并建立相关标准规范，以避免低质量重复建设。
-
-telegram · zaihuapd · 11月21日 10:19
-
-**「背景信息」** 词元作为连接算力、模型和数据间价值传导链路的关键，已成为数智经济的重要价值锚点。随着「词元工厂」的兴起，算力租赁、模型供给和数据能力升级已成为词元生产服务的重要组成部分。国家数据局计划拓展词元服务应用场景，并健全词元计量计费、质量测评等标准规范，以避免低质量重复建设。
-
-**「影响」** 这一举措将有助于提升 AI 产业的基础设施和 AI 产品的质量，为开发者、研究人员和用户提供更可靠的服务。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.researchgate.net/publication/303781557_A_Cross-Cultural_Analysis_of_Advertisements_from_High-Context_Cultures_and_Low-Context_Cultures">A Cross-Cultural Analysis of Advertisements from High-Context ...</a></li>
-<li><a href="https://www.academia.edu/43521360/THE_INFLUENCE_OF_AD_DESIGN_AND_CONTENT_ON_PURCHASE_INTENTIONS_OF_LOW_AND_HIGH_CONTEXT_CULTURES_The_Influence_of_Ad_Design_and_Content_on_Purchase_Intentions_of_Low_and_High_Context_Cultures">(PDF) THE INFLUENCE OF AD DESIGN AND CONTENT ON PURCHASE ...</a></li>
-<li><a href="https://www.researchgate.net/publication/296687254_The_Impact_Of_Cultural_Differences_On_The_Effectiveness_Of_Advertisements_On_The_Internet_A_Comparison_Among_The_United_States_China_And_Germany">The Impact Of Cultural Differences On The Effectiveness Of ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Infrastructure`, `#Data Management`, `#AI Standards`, `#National Data Bureau`
-
----
-
-<a id="item-ai-frontier-7"></a>
-### [胰腺癌口服药一线数据：61 例中约 1/12 肿瘤消失](https://event.eortc.org/ena2026/2026/11/20/metastatic-pancreatic-cancer-responds-well-to-initial-treatment/) ⭐️ 7.0/10
-
-Daraxonrasib 在治疗胰腺癌的早期临床试验中显示出积极结果，其中约 1/12 的患者肿瘤完全消失。该药物是一种口服的 RAS\(ON\)多选择性抑制剂，已获得 FDA 批准用于既往治疗后的患者。然而，由于缺乏对照组和需要进一步的三期研究验证，这些发现的可信度有限。
-
-telegram · zaihuapd · 11月21日 11:24
-
-**「背景信息」** Daraxonrasib 是一种口服的 RAS\(ON\)多选择性抑制剂，能够抑制活跃态 RAS，覆盖多种 KRAS/NRAS 突变，而不仅仅是单一 G12C 靶向药。这种药物已于 2026 年 8 月 26 日获得 FDA 批准（商品名 RASONQUE）用于既往治疗后的胰腺癌患者。在 III 期 RMC-302 试验中，Daraxonrasib 显示出中位总生存期从 6.7 个月提高到 13.2 个月的效果。胰腺癌的治疗目标是缓解症状和延长生存期，但通常仅限于身体状况良好的患者。
-
-**「影响」** 对于胰腺癌患者来说，daraxonrasib 的早期数据显示出希望，约十二分之一的患者的肿瘤完全消失。这一发现为胰腺癌的治疗提供了新的希望，尤其是对于那些已经接受过至少一种先前治疗或没有其他满意治疗选择的患者。
-
-**「社区讨论」** 目前没有可用的社区评论。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Daraxonrasib">Daraxonrasib - Wikipedia</a></li>
-<li><a href="https://rasonque.com/">RASONQUE™ ( daraxonrasib ) | Pancreatic cancer treatment</a></li>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2505783">Daraxonrasib in Previously Treated Advanced RAS-Mutated ...</a></li>
-<li><a href="https://en.m.wikipedia.org/wiki/Daraxonrasib">Daraxonrasib - Wikipedia</a></li>
-<li><a href="https://rasonque.com/">RASONQUE™ ( daraxonrasib ) | Pancreatic cancer treatment</a></li>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2505783">Daraxonrasib in Previously Treated Advanced RAS-Mutated ...</a></li>
-<li><a href="https://jnccn.org/view/journals/jnccn/24/10/article-e260046.xml">Pancreatic Adenocarcinoma, Version 4. 2026 , NCCN Clinical Practice...</a></li>
-<li><a href="https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib">Pill to treat pancreatic cancer hailed as ‘biggest... | The Guardian</a></li>
-<li><a href="https://www.cbsnews.com/news/pancreatic-cancer-early-detection-treatment-whipple-mass-general-brigham/">Woman survives pancreatic cancer after routine heart... - CBS News</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Pancreatic Cancer`, `#Clinical Trial`, `#Daraxonrasib`, `#RAS\(ON\) Inhibitor`, `#Cancer Treatment`
-
----
-
-<a id="item-ai-frontier-8"></a>
-### [特斯拉 FSD v15 更新发布](https://x.com/Tesla/status/2124222447855743019) ⭐️ 7.0/10
-
-特斯拉今日推出 FSD v15 更新，该版本提升了安全关键场景的处理能力至 25 倍，并引入了名为‘Tesla Reality View’的新可视化界面，该界面可在车机屏幕上叠加摄像头画面与 FSD 行驶规划，支持全屏、地图或分屏视图及安静模式。
-
-telegram · zaihuapd · 11月22日 00:03
-
-**「背景信息」** 特斯拉的自动驾驶系统（FSD）经过多年的发展，已经成为了自动驾驶技术领域的重要进展。FSD v15 的推出，标志着特斯拉在自动驾驶技术上的又一次重大升级。这一版本在安全关键场景的处理能力上有了显著提升，达到了之前的 25 倍。此外，FSD v15 还引入了新的可视化功能，即“Tesla Reality View”，该功能可以在车机屏幕上叠加摄像头画面与 FSD 的行驶规划，支持全屏、地图或分屏视图及安静模式。这些改进不仅提升了用户体验，也为自动驾驶技术的发展提供了新的方向。
-
-**「影响」** 这一更新为开发者、研究人员和用户提供了一个更安全、更直观的自动驾驶体验，特别是在复杂路况和恶劣天气条件下。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=5rDGMNjDPIA">Tesla FSD V 15 Update First Drive and Initial Impressions - YouTube</a></li>
-<li><a href="https://www.notateslaapp.com/news/5057/tesla-fsd-v15-coming-next-month-with-holiday-update-musk">Tesla FSD V 15 Arriving Next Month: Home Garage... - Not a Tesla App</a></li>
-<li><a href="https://techau.com.au/tesla-fsd-v15-is-rolling-out-with-new-reality-view-dramatic-capability-improvements/">Tesla FSD V 15 is rolling out with new Reality View, dramatic... | techAU</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Tesla`, `#AI Research`, `#Autonomous Vehicles`, `#AI Infrastructure`
+**标签**: `#AI Research`, `#Model Evaluation`, `#Technical Analysis`, `#AI Infrastructure`
 
 ---
 
 ## IT 与开源
 
 <a id="item-it-opensource-1"></a>
-### [数学家发布广义黎曼猜想证明手稿](https://www.solidot.org/story?sid=85952) ⭐️ 8.0/10
-
-一名人类数学家发布了广义黎曼猜想的证明手稿，这是数学领域的一个重要未解问题。该数学家投入了 12 年时间，并计划在一年内完善手稿后征求更多意见。这一进展引起了数学界的关注。
-
-rss · Solidot · 11月21日 11:09
-
-**「背景信息」** 黎曼猜想是数学中的一个重要未解问题，它涉及到黎曼ζ函数的零点。Alessandro Maria Masullo，一位斯坦福大学的博士，在广义黎曼猜想问题上投入了 12 年时间，并撰写了一份证明手稿。这份手稿目前正在由另一名数学家 Brian Conrad 审阅。此外，Anthropic 公司之前声称解决了 Navier-Stokes 方程问题，这一声明促使人类数学家不得不匆忙提前发布他们的证明手稿。值得注意的是，这份证明手稿完全由人类完成，没有使用任何 AI 工具。
-
-**「影响」** 这一数学成就可能会对数学领域的研究产生深远影响，尤其是对于解决其他未解数学问题。开发者和研究机构可能会利用这一证明来推动相关数学理论的发展和应用。
-
-**「社区讨论」** 目前没有可用的社区评论。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis">Generalized Riemann hypothesis - Wikipedia</a></li>
-<li><a href="https://www.nacionale.com/en/articles/who-is-alessandro-masullo-all-human-riemann-hypothesis-proof-grh-ravi-vakil-stanford">Masullo &#x27;s GRH draft: Stanford PhD, &#x27;all human, no AI&#x27;</a></li>
-<li><a href="https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html">Anthropic Mathematician Claims to Solve Riemann Hypothesis With...</a></li>
-<li><a href="https://www.merriam-webster.com/dictionary/impact">IMPACT Definition &amp; Meaning - Merriam-Webster</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Mathematics`, `#Riemann Hypothesis`, `#Proof`, `#Mathematical Discovery`, `#Open Source`
-
----
-
-<a id="item-it-opensource-2"></a>
 ### [地球 28 光年外发现三星系统](https://www.solidot.org/story?sid=85955) ⭐️ 7.0/10
 
 天文学家在距离地球 28 光年处发现了一个名为 Welopōʻa 的三星系统，该系统由两颗白矮星和一颗红矮星组成，这一发现挑战了现有的恒星演化理论。
 
 rss · Solidot · 11月21日 14:40
 
-**「背景」** 三星系统，也称为三合星或三级星系，是指由三颗恒星组成的星系。这种系统在恒星演化理论中是一个相对较新的概念。在过去的观测中，天文学家主要关注双星系统，即由两颗恒星组成的系统。然而，最近在距离地球 28 光年处发现的三星系统 Welopōʻa，由两颗白矮星和一颗红矮星组成，挑战了现有的恒星演化理论。这一发现表明，在恒星演化过程中，三星系统的存在可能比之前认为的更为普遍，并对我们对宇宙的理解产生了重要影响。
+**「三星系统概述」** 三星系统，也称为三合星系统，是由三颗恒星组成的星系。这种系统中的恒星可以是不同类型的，如白矮星、红矮星等。在三星系统中，恒星之间的相互作用可能导致复杂的轨道动态和演化过程。例如，Welopōʻa 三星系统，位于地球 28 光年之外，由两颗白矮星和一颗红矮星组成，这种独特的结构挑战了现有的恒星演化理论。
 
-**「影响」** 这一发现对天文学领域具有重要意义，尽管目前对编程语言、开发工具、基础设施、安全或开源生态系统没有直接的应用影响。
+**「影响」** 这一发现对天文学家和天体物理学家来说具有重要意义，因为它可能需要重新审视和修正现有的恒星演化理论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Category:Triple_star_systems">Category:Triple star systems - Wikipedia</a></li>
-<li><a href="https://scitechdaily.com/tri-star-revolution-triple-star-discovery-shakes-up-stellar-evolution-theories/">Tri-Star Revolution: “Triple Star” Discovery Shakes Up ...</a></li>
-<li><a href="https://link.springer.com/article/10.1186/s40668-016-0019-0">The evolution of hierarchical triple star-systems ... - Springer</a></li>
+<li><a href="https://www.youtube.com/watch?v=TPx75FP11C0">Megaton rainfall: How to find a Black hole (with a Trinary star system )</a></li>
+<li><a href="https://memory-alpha.fandom.com/wiki/Vulcan_system">Vulcan system | Memory Alpha | Fandom</a></li>
+<li><a href="https://astronomy.stackexchange.com/questions/38305/is-it-possible-to-have-a-trinary-star-system-with-a-planet-that-orbits-their-bar">Is it possible to have a trinary star system with a planet that orbits...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Astronomy`, `#Stellar Evolution`, `#Trinary Star System`, `#Astronomical Discovery`, `#Cosmology`
+**标签**: `#Astronomy`, `#Stellar Evolution`, `#Trinary Star System`, `#White Dwarf`, `#Red Dwarf`
 
 ---
 
 ## 效率工具
 
 <a id="item-tools-windows-1"></a>
-### [《塞尔达传说：王国之泪》PC 原生版 TotK Recomp 0.5.0 更新](https://www.appinn.com/totk-recomp-0-5-0/) ⭐️ 7.0/10
+### [《塞尔达传说：王国之泪》PC 原生版 TotK Recomp 0.5.0 更新：支持插帧、自由视角、快速存档](https://www.appinn.com/totk-recomp-0-5-0/) ⭐️ 7.0/10
 
-《塞尔达传说：王国之泪》PC（Windows/Linux）原生移植项目 TotK Recomp 发布了 v0.5.0 版本，新增 AMD FSR 3.1 超分辨率与帧生成技术，支持插帧、自由视角、快速存档等功能，并进行了多项性能优化。
+《塞尔达传说：王国之泪》PC（Windows/Linux）原生移植项目 TotK Recomp 发布了 v0.5.0 版本。这次更新带来了 AMD FSR 3.1、帧生成、自由视角、快速存档等新功能，以及多项性能优化，旨在提升玩家在 PC 上的游戏体验。
 
 rss · 小众软件 · 11月22日 07:29
 
-**「背景」** 《塞尔达传说：王国之泪》PC（Windows/Linux）原生移植项目 TotK Recomp 发布了 v0.5.0 版本，这次更新引入了 AMD FSR 3.1 超分辨率和帧生成技术，支持 NVIDIA、AMD、Intel 显卡，无需安装额外插件。此外，还增加了自由视角、快速存档等实用功能，并对性能进行了优化。
+**「背景」** 《塞尔达传说：王国之泪》PC 原生版 TotK Recomp 0.5.0 更新引入了多项新功能和性能优化，包括 AMD FSR 3.1 支持、帧生成、自由视角和快速存档。这些更新旨在提升玩家在 PC 上的游戏体验，通过优化帧率和图像质量，以及增加新的交互功能，为玩家提供更加丰富和流畅的游戏体验。
 
-**「影响」** 该更新适用于《塞尔达传说：王国之泪》的 PC 玩家，特别是追求高性能和游戏体验优化的玩家。需要注意的是，这些功能可能需要较高的硬件配置才能流畅运行。
+**「影响」** 对寻求在 PC 上获得更好游戏体验的玩家来说，TotK Recomp 0.5.0 更新是一个不错的选择。它提供了帧生成和自由视角等新功能，以及性能优化，但需要注意的是，这些功能可能需要较高的系统配置才能流畅运行。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=afOi1X6soEY">Zelda Tears of the Kingdom PC Native Port Version ... - YouTube</a></li>
-<li><a href="https://nswvault.com/nintendo-switch/roms/the-legend-of-zelda-tears-of-the-kingdom-nsp-4.html">The Legend of Zelda : Tears of the Kingdom NSP Switch ROM...</a></li>
-<li><a href="https://gamebanana.com/mods/448096">Visuals Fixed 1.1.2 Mod for The Legend of Zelda : Tears of the...</a></li>
+<li><a href="https://www.youtube.com/watch?v=P4RbFJ9yCSU">Finally! Play Zelda Tears of the Kingdom on PC Port with TotK ...</a></li>
+<li><a href="https://recomplauncher.com/game/totk-pc-recomp">TotK Recomp — PC recomp of The Legend of Zelda : Tears of the...</a></li>
+<li><a href="https://gamebanana.com/tools/24739">Totk Recomp Mod Manager | OBSOLETE Modding Tool for The...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Game Update`, `#PC Gaming`, `#Performance Improvement`, `#AMD FSR 3.1`
+**标签**: `#Gaming`, `#PC`, `#Software Update`, `#Performance Enhancement`, `#AMD FSR`
 
 ---
 
@@ -739,124 +911,118 @@ rss · 小众软件 · 11月22日 07:29
 
 rss · 少数派 · 11月22日 01:05
 
-**「背景信息」** 少数派参加了 2026 年 11 月 20 日在上海举行的虹桥国际科技周。这是一个聚焦科技创新、产业协作与未来趋势的交流平台，吸引了来自不同领域的创新者、创业者和行业观察者。在此次活动中，少数派进行了主题论坛分享，与参与者共同探讨相关话题。
+**「背景信息」** 虹桥国际科技周于 2026 年 11 月 20 日至 22 日在上海国家会展中心举行，是一个聚焦科技创新、产业协作与未来趋势的交流平台。该活动汇集了来自不同领域的创新者、创业者与行业观察者。少数派作为参与者之一，在现场举办了主题论坛分享，与参与者共同探讨科技领域的最新动态和趋势。
 
-**「影响」** 对于关注科技创新和产业趋势的读者来说，少数派在虹桥国际科技周的分享提供了宝贵的行业洞察。对于少数派自身而言，这有助于提升品牌知名度和行业影响力。
+**「影响」** 对于关注科技创新和产业趋势的读者来说，少数派在虹桥国际科技周的分享是一个值得关注的事件。对于少数派自身而言，这有助于提升其品牌影响力和行业地位。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://results.asiangames2026.org/">20th Asian Games and Aichi–Nagoya 2026</a></li>
+<li><a href="https://www.hongqiaotechweek.com/">虹桥国际科技周 - 2026年11月20-22日国家会展中心（上海）</a></li>
+<li><a href="https://www.hongqiaotechweek.com/%E8%99%B9%E6%A1%A5%E5%9B%BD%E9%99%85%E7%A7%91%E6%8A%80%E5%91%A8-2026%EF%BC%9A%E5%85%AD%E5%A4%A7%E8%B5%9B%E9%81%93%E3%80%81%E9%80%82%E5%90%88%E8%B0%81%E5%8F%82%E5%8A%A0%E3%80%81%E8%83%BD%E5%AF%B9/">虹桥国际科技周 2026：六大赛道、适合谁参加、能对接什么</a></li>
+<li><a href="https://www.jufair.com/exhibition/20328/">上海虹桥国际科技周2026_门票_时间_会刊_上海AI人工智能展-聚展</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Technology Event`, `#Innovation`, `#少数派`, `#Shanghai`, `#Digital Life`
+**标签**: `#Technology Event`, `#少数派`, `#Innovation`, `#Tech Community`, `#Shanghai`
 
 ---
 
 <a id="item-tools-windows-3"></a>
-### [Strata 0.2.18 新增 220B 开源大模型 Hy4-Flash，门槛上涨至 64GB 内存](https://www.appinn.com/strata-0-2-18/) ⭐️ 5.0/10
+### [Strata 0.2.18 更新](https://www.appinn.com/strata-0-2-18/) ⭐️ 5.0/10
 
-Strata 0.2.18 updates to support Hy4-Flash, a new large model, but requires higher memory requirements.
+Strata 0.2.18 版本更新，新增对腾讯混元 Hy4-Flash 大模型的原生支持，但内存要求提升至 64GB。该版本还引入了三档量化、内置 DFly2 推测解码、图像理解功能，并支持跨平台运行。
 
 rss · 小众软件 · 11月22日 06:53
 
-**标签**: `#Software Update`, `#AI Model`, `#Hy4-Flash`, `#Strata`, `#Memory Requirements`
+**「背景」** Strata 0.2.18 的更新引入了对腾讯混元 Hy4-Flash 大模型的原生支持，这是一个具有 224B 总参数的 MoE 大模型，支持图像理解和高达 100 万 Token 的上下文。然而，这一更新也带来了更高的内存要求，即至少需要 64GB 的内存。这可能会限制许多用户使用该模型，尤其是那些内存配置较低的电脑用户。此外，Strata 为 Hy4-Flash 提供了专用推理引擎、三档量化和内置推测解码，以适应不同的内存配置需求。
+
+**「适用人群及注意事项」** Strata 0.2.18 的更新主要面向需要运行大型开源 AI 模型的用户。由于内存要求提升至 64GB，因此更适合拥有较高配置电脑的用户。对于内存限制在 64GB 以下的用户，可能需要继续使用之前版本的模型。此外，对于已有 Strata 的用户，如果内存配置允许，可以考虑升级以体验新模型带来的性能提升。
+
+**「社区讨论」** 目前没有社区讨论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://llm-stats.com/models/compare/hy4-flash-vs-qwen3.8-flash-next">Hy4 flash vs Qwen3.8-Flash-Next: Benchmarks, Pricing &amp; Which ...</a></li>
+<li><a href="https://benchlm.ai/compare/hy4-flash-vs-qwen3-8-flash-next">Hy4 flash vs Qwen3.8-Flash-Next: Benchmarks &amp; Cost</a></li>
+<li><a href="https://llm-stats.com/models/compare/hy4-flash-vs-qwen3.8-max">Hy4 flash vs Qwen3.8 Max: Benchmarks, Pricing &amp; Which Is ...</a></li>
+<li><a href="https://kiledjian.com/2026/11/17/tencent-hy-flash-examining-the.html">Tencent Hy4 Flash: Examining the Cost and Performance Trade ...</a></li>
+<li><a href="https://www.mindstudio.ai/blog/tencent-hy4-flash-benchmarks">Tencent Hy4-Flash Benchmarks: How It Stacks Up on Cost vs ...</a></li>
+<li><a href="https://www.cometapi.com/what-is-hy4-flash/">Hy4 Flash: What Is It and How to Use It? - cometapi.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Software Update`, `#AI Model`, `#Memory Requirement`, `#Strata`, `#Hy4-Flash`
 
 ---
 
 <a id="item-tools-windows-4"></a>
 ### [2026 黑五 Mac 软件大促：BundleHunt 44 款 App 全场任选](https://www.iplaysoft.com/news/6651) ⭐️ 5.0/10
 
-BundleHunt 2026 黑五软件促销活动提供 44 款应用，其中包括 40 款支持 macOS 和 10 款支持 Windows 的应用。这是一个自助购物车式的促销，用户可以根据需求自行选择购买。活动期间，用户可以享受优惠价格。
+BundleHunt 2026 黑五软件促销活动提供 44 款应用，其中 40 款适用于 macOS，10 款适用于 Windows。这是一个自助购物车式的促销，用户可以按需购买，与传统打包盲盒不同。
 
 rss · 异次元软件世界 · 11月22日 03:46
 
-**「背景」** BundleHunt 2026 黑五促销活动提供了一款独特的软件购买体验。与传统的打包盲盒不同，这是一个自助购物车，用户可以根据自己的需求选择购买。活动中共有 44 款应用参与，其中 40 款适用于 macOS，10 款适用于 Windows。这种促销方式为用户提供了更多选择和灵活性，同时也为开发者提供了一个推广自己应用的平台。
+**「背景」** BundleHunt 在 2026 年的黑色星期五期间推出了软件促销活动，提供了 44 款应用程序，其中 40 款适用于 macOS，10 款适用于 Windows。这次促销活动与传统的打包盲盒不同，用户可以像购物车一样按需购买应用程序。这次促销活动为用户提供了大量的软件选择，并且价格优惠，最低只需 1 美元，最高优惠约 91%。
 
-**「影响」** 对于寻求购买 macOS 和 Windows 应用的用户来说，这是一个不错的促销活动。它适用于那些希望以优惠价格获取多种应用的用户，尤其是对于开发者、设计师和其他专业人士来说，这可能是一个节省成本的好机会。
+**「影响」** 对寻求软件折扣的用户来说，这是一个不错的购买机会。需要注意的是，具体应用的定价和可用性可能因应用而异。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.reddit.com/r/VALORANT/comments/r0mb1z/what_do_the_red_names_mean_in_trackergg/">What do the red names mean in tracker.gg? : r/VALORANT - Reddit</a></li>
-<li><a href="https://www.reddit.com/r/VALORANT/comments/14qmnzu/whats_the_best_tracker_app/">whats the best tracker app : r/VALORANT - Reddit</a></li>
-<li><a href="https://www.reddit.com/r/VALORANT/comments/17zoae2/is_valorant_tracker_safe/">Is valorant tracker safe? : r/VALORANT - Reddit</a></li>
+<li><a href="https://bundlehunt.com/">2026 - The Black Friday Bundle | BundleHunt - Up to 95% Off</a></li>
+<li><a href="https://www.appinn.com/bundlehunt-26-black-friday/">BundleHunt 2026 黑五软件特卖：8 款值得购买 - 小众软件</a></li>
+<li><a href="https://www.maxiapple.com/2026/11/bundlehunt-macos-mac-promo-logiciels.html">Black Friday 2026 - 44 Logiciels Premium Mac / PC à -99% ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Software Promotion`, `#Black Friday`, `#macOS`, `#Windows`
+**标签**: `#Black Friday`, `#Software Deals`, `#MacOS Apps`, `#Windows Apps`
 
 ---
 
 <a id="item-tools-windows-5"></a>
-### [GPU-Z 2.72 更新信息](https://www.52pojie.cn/thread-2139079-1-1.html) ⭐️ 5.0/10
+### [BlueGauge v0.3.7 简介](https://www.52pojie.cn/thread-2139100-1-1.html) ⭐️ 5.0/10
 
-GPU-Z 是一款专业的 GPU 信息查看工具，通过图形界面展示 GPU 的详细信息。最新版本 2.72 的更新内容尚未详细说明，但提供了对 GPU 和 CPU 的监控功能。
+BlueGauge v0.3.7 是一款支持多种设备的开源软件工具，可在 GitHub 上找到。该工具主要用于设备管理和配置，支持 2.4GHz 设备，并提供基于 NSIS 和 Inno Setup 的安装包。
 
-rss · 吾爱精品软件区 · 11月22日 03:50
+rss · 吾爱精品软件区 · 11月22日 07:17
 
-**「背景」** GPU-Z 是一款专门用于查看 GPU 信息的监控工具，它可以帮助用户了解 GPU 的各个方面，包括性能、温度和功耗等。这种工具对于硬件爱好者、游戏玩家和系统管理员来说非常有用，因为他们需要监控和优化他们的硬件性能。GPU-Z 的更新通常意味着提供了更好的兼容性、更准确的数据和可能的性能改进。然而，具体的更新内容，如新功能和兼容性，通常需要从官方渠道或技术论坛获取详细信息。
+**「背景」** BlueGauge 是一款支持多种设备的软件工具，可在 GitHub 上找到。它主要用于轻松查看蓝牙设备的电池电量，并提供了一个轻便的托盘工具。尽管它支持多种设备，但具体的使用场景和平台可用性信息有限。
 
-**「影响」** 硬件监控爱好者、系统管理员和 IT 专业人员应该关注此更新，因为它可能提供了对 GPU 性能的更深入监控。请注意，具体的新功能和兼容性信息尚未公布。
+**「影响」** 对于需要设备管理和配置的软件开发者和系统管理员来说，BlueGauge v0.3.7 是一个有用的工具。由于它是开源的，因此对于预算有限的组织尤其有价值。然而，由于信息有限，不清楚是否有付费版本或高级功能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Graphics_processing_unit">Graphics processing unit - Wikipedia</a></li>
-<li><a href="https://www.intel.com/content/www/us/en/products/docs/processors/what-is-a-gpu.html">What Is a GPU ? Graphics Processing Units Defined - Intel</a></li>
-<li><a href="https://www.bestbuy.com/site/computer-cards-components/video-graphics-cards/abcat0507002.c?id=abcat0507002">GPUs: Graphics Cards &amp; External GPUs - Best Buy</a></li>
+<li><a href="https://github.com/iKineticate/BlueGauge/releases">Releases · iKineticate/ BlueGauge · GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Hardware Monitoring`, `#GPU-Z`, `#Software Update`, `#TechNews`, `#Computer Hardware`
+**标签**: `#Software Tool`, `#GitHub`, `#Device Support`, `#Open Source`, `#Utility`
 
 ---
 
 <a id="item-tools-windows-6"></a>
-### [Aitiy v1.1.0](https://www.52pojie.cn/thread-2139043-1-1.html) ⭐️ 5.0/10
+### [GPU-Z 2.72 更新信息](https://www.52pojie.cn/thread-2139079-1-1.html) ⭐️ 5.0/10
 
-Aitiy v1.1.0 是一款由 MouseInc 开发的通用工具，适用于 FlowMouse 用户。该工具旨在提供全面的功能，但具体细节、平台兼容性和定价信息不明确。
+GPU-Z 2.72 是一款专业的 GPU 信息查看工具，通过图形界面展示 GPU 的详细信息。该版本更新提供了更详细的 GPU 图形和 CPU 信息查看功能。
 
-rss · 吾爱精品软件区 · 11月21日 13:41
+rss · 吾爱精品软件区 · 11月22日 03:50
 
-**「背景」** Aitiy 是由 MouseInc 开发的一款工具，专门为使用 FlowMouse 的用户提供辅助功能。尽管该工具可能对 FlowMouse 用户有所帮助，但由于缺乏关于其具体功能和平台兼容性的详细信息，因此无法进行全面评估。
+**「背景」** GPU-Z 是一款轻量级的工具，专门用于查看显卡和 GPU 的信息。它能够显示图形处理单元及其内存的规格，同时还能显示温度、核心频率、内存频率、GPU 负载和风扇速度等信息。该工具由 TechPowerUp 提供，最新版本为 2.72，于 2026 年 11 月 19 日发布。它为用户提供了一个免费的图形卡 X 光扫描工具，现在功能更加智能。
 
-**「影响」** 对于需要 FlowMouse 辅助工具的用户来说，Aitiy v1.1.0 可能是一个有用的选择。然而，由于缺乏具体信息，用户需要考虑其功能是否满足需求，以及可能的付费层级和平台限制。
+**「影响」** 对于需要监控和了解 GPU 性能的电脑用户来说，GPU-Z 2.72 是一个有用的工具。它适用于所有平台，但具体的价格或免费/付费信息未在文中提及。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wayfair.com/recently_viewed">Wayfair .com - Online Home Store for Furniture, Decor ...</a></li>
-<li><a href="https://www.mysavinghub.com/store/wayfair-10-off-promo-code">Wayfair Promo Code 10% Off - Sep, 2026</a></li>
-<li><a href="https://www.couponpac.com/detail/wayfair/">Wayfair Coupons , Promo Codes &amp; Deals</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GPU-Z">GPU - Z - Wikipedia</a></li>
+<li><a href="https://www.techpowerup.com/download/techpowerup-gpu-z/">TechPowerUp GPU - Z v 2 . 72 .0 Download | TechPowerUp</a></li>
+<li><a href="https://news.updatestar.com/post/gpu-z-2-72-review-free-graphics-card-x-ray-now-smarter">GPU - Z 2 . 72 Review: Free Graphics Card X-Ray, Now Smarter</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Software Tool`, `#FlowMouse`, `#Utility`, `#Platform Compatibility`, `#Pricing Unclear`
-
----
-
-<a id="item-tools-windows-7"></a>
-### [miniCAD（CAD 软件）](https://www.52pojie.cn/thread-2139025-1-1.html) ⭐️ 5.0/10
-
-miniCAD 是一款支持多种平台的 CAD 软件，包括 AutoCAD 和 BricsCAD，同时兼容旧版本。该工具自 1993 年 AutoCAD R10 平台开始，至今已更新至 V8.7.5 版本。
-
-rss · 吾爱精品软件区 · 11月21日 10:42
-
-**「背景」** miniCAD 是一款支持多种平台的 CAD 软件，包括 AutoCAD 和 BricsCAD，同时兼容旧版本。该工具自 1993 年 AutoCAD R10 平台开始，至今已更新至 V8.7.5 版本。它为建筑师、工程师和建筑专业人士提供了一套完整的绘图和设计工具，用于创建设计图纸和 3D 模型。
-
-**「影响」** 适用于寻求跨平台 CAD 软件的用户。对于需要兼容旧版本 CAD 文件的用户来说，miniCAD 是一个不错的选择。但请注意，该工具可能存在付费层级或平台限制。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/fwcd/mini-cad/blob/main/README.md">mini - cad /README.md at main · fwcd/ mini - cad · GitHub</a></li>
-<li><a href="https://sugggest.com/software/mapsoft-minicad">Mapsoft miniCAD : 2D/3D CAD Drafting Software for... | Sugggest</a></li>
-<li><a href="https://wiki.preterhuman.net/GraphSoft_MiniCAD">GraphSoft MiniCAD - Higher Intellect Vintage Wiki</a></li>
-
-</ul>
-</details>
-
-**标签**: `#CAD Software`, `#Cross-Platform`, `#AutoCAD`, `#BricsCAD`
+**标签**: `#Software Update`, `#GPU Information`, `#TechPowerUp`, `#GPU-Z`
 
 ---
