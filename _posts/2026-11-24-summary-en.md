@@ -5,117 +5,94 @@ date: 2026-11-24
 lang: en
 ---
 
-> From 314 items, 40 important content pieces were selected
+> From 344 items, 40 important content pieces were selected
 
 ---
 
 **China Macro &amp; A-Share**
-1. [Chinese Semiconductor Chip, Robotics, AI, and PCB Industry News](#item-cn-macro-1) ⭐️ 7.0/10
-2. [稳市举措从托底走向建制，A股在政策链条中寻找承接力 - 同花顺](#item-cn-macro-2) ⭐️ 7.0/10
-3. [Chinese Economy Stability and Digital Economy Growth](#item-cn-macro-3) ⭐️ 7.0/10
+1. [财联社11月24日晚间新闻精选](#item-cn-macro-1) ⭐️ 7.0/10
+2. [Stabilizing Capital Market Measures Announced in China](#item-cn-macro-2) ⭐️ 7.0/10
 
 **Global Market**
 1. [Fed&\#x27;s John Williams Indicates Higher Interest Rates Likely to Address Inflation](#item-global-market-1) ⭐️ 7.0/10
-2. [Jensen Huang&\#x27;s Return as Nvidia CEO Boosts Market Sentiment](#item-global-market-2) ⭐️ 7.0/10
-3. [Japan&\#x27;s Auto Suppliers Drawn into Major Arms Buildup](#item-global-market-3) ⭐️ 7.0/10
-4. [Market Expectations Rise for Fed Rate Hikes Amid AI Boom](#item-global-market-4) ⭐️ 7.0/10
-5. [South Korea Central Bank Expected to Raise Interest Rates](#item-global-market-5) ⭐️ 7.0/10
-6. [U.S. Suspects Iran in Cyberattacks Against Ships](#item-global-market-6) ⭐️ 7.0/10
-7. [US Blacklists Megaspeed Chip Company](#item-global-market-7) ⭐️ 7.0/10
-8. [Exclusive Senate Investigation into JD Vance&\#x27;s Venezuelan Oil Contract Ties](#item-global-market-8) ⭐️ 7.0/10
-9. [US Sanctions on Iran&\#x27;s Shadow Banking Networks](#item-global-market-9) ⭐️ 7.0/10
-10. [U.S. Seeks to Recover Over 1B USD in Stolen Cryptocurrency from Binance Hack](#item-global-market-10) ⭐️ 7.0/10
-11. [NATO Deployment to Poland Following Missile Incident](#item-global-market-11) ⭐️ 7.0/10
-12. [Huang Renxun&\#x27;s Return to Nvidia Impacts Short Sellers](#item-global-market-12) ⭐️ 7.0/10
-13. [Amazon&\#x27;s Acquisition of Decart&\#x27;s AI Chip Optimization Technology](#item-global-market-13) ⭐️ 7.0/10
-14. [US Arrears Lead to Chemical Weapons Supervisory Organization Budget Crisis](#item-global-market-14) ⭐️ 7.0/10
-15. [Huang Renxun&\#x27;s Return to Nvidia Boosts AI Sector, Adding Trillions to Nasdaq-100](#item-global-market-15) ⭐️ 7.0/10
-16. [AI Bubble Burst and Potential Federal Reserve Rate Cuts](#item-global-market-16) ⭐️ 7.0/10
-17. [Brazil&\#x27;s Galipolo Highlights Inflationary Effects of Spending Growth](#item-global-market-17) ⭐️ 7.0/10
-18. [Exclusive Report on US Military Training Discussions with Syria](#item-global-market-18) ⭐️ 7.0/10
-19. [Applied Digital Signs 5.4 Billion USD AI Data Center Lease](#item-global-market-19) ⭐️ 7.0/10
-20. [UN Security Council Briefing on Ukraine](#item-global-market-20) ⭐️ 7.0/10
-21. [India Inc Rushes to Raise Debt Ahead of RBI Rate Hike](#item-global-market-21) ⭐️ 7.0/10
-22. [Russia&\#x27;s Oil Exports to West Disrupted by Weather and Drones](#item-global-market-22) ⭐️ 7.0/10
-23. [Taiwan Loosens Margin Call Rules](#item-global-market-23) ⭐️ 7.0/10
+2. [Sanofi&\#x27;s $41 Billion Acquisition of Insmed](#item-global-market-2) ⭐️ 7.0/10
+3. [Japan&\#x27;s Budget Guideline on Fiscal Sustainability and BOJ Independence](#item-global-market-3) ⭐️ 7.0/10
+4. [Enagas CEO on Europe&\#x27;s Preparedness for Russian Gas Ban](#item-global-market-4) ⭐️ 7.0/10
+5. [Japan Downgrades Consumer Spending Expectations](#item-global-market-5) ⭐️ 7.0/10
+6. [TSMC Subsidiary Seeks Property Tax Limit for Texas Chip Factory](#item-global-market-6) ⭐️ 7.0/10
+7. [Iraqi Prime Minister Orders Ministry to Manage Oilfields in Kurdish-Controlled Areas](#item-global-market-7) ⭐️ 7.0/10
+8. [Japan Increases Funding to ICC Amid US Sanctions](#item-global-market-8) ⭐️ 7.0/10
+9. [Equinor and VNG Sign 18-Year Gas Supply Agreement](#item-global-market-9) ⭐️ 7.0/10
+10. [Japan&\#x27;s Auto Suppliers Drawn into Major Arms Buildup](#item-global-market-10) ⭐️ 7.0/10
+11. [Market Expectations Rise for Federal Reserve Rate Hikes Amid AI Enthusiasm](#item-global-market-11) ⭐️ 7.0/10
+12. [South Korea Central Bank Expected to Raise Interest Rates](#item-global-market-12) ⭐️ 7.0/10
+13. [Singapore Investigates Nvidia-Linked Megaspeed After US Blacklisting](#item-global-market-13) ⭐️ 7.0/10
+14. [US Suspects Iran in Cyberattacks Against Ships](#item-global-market-14) ⭐️ 7.0/10
+15. [U.S. Seeks to Recover Over $1 Billion in Stolen Cryptocurrency from Binance Hack](#item-global-market-15) ⭐️ 7.0/10
+16. [US Budget Crisis at Chemical Weapons Watchdog](#item-global-market-16) ⭐️ 7.0/10
+17. [Huang Renxun&\#x27;s Return to Nvidia Boosts Nasdaq-100 Index](#item-global-market-17) ⭐️ 7.0/10
+18. [Brazil&\#x27;s Galipolo Highlights Inflationary Effects of Spending Growth](#item-global-market-18) ⭐️ 7.0/10
+19. [China and EU Discuss Exchange Rates](#item-global-market-19) ⭐️ 7.0/10
+20. [Exclusive Report on US Discussing Military Training for Syrian Forces](#item-global-market-20) ⭐️ 7.0/10
+21. [UN Security Council Briefing on Ukraine](#item-global-market-21) ⭐️ 7.0/10
+22. [Nvidia Board Restores Huang&\#x27;s Position, Shares Surge](#item-global-market-22) ⭐️ 7.0/10
 
 **AI Frontier**
-1. [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](#item-ai-frontier-1) ⭐️ 8.0/10
-2. [Anthropic&\#x27;s Claude Model Discovers VP≠VNP and Publishes Lean 4 Proof](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [Ladybird is now in alpha](#item-ai-frontier-3) ⭐️ 7.0/10
-4. [GLM-5.4: Loop Transformer Model Release](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [GLM-5.4: Loop Transformer Architecture for Generalized Coding](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [ERNIE 5.5 Flash Preview Support Announced](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [清华新框架提升AI Agent长程设计一致性](#item-ai-frontier-7) ⭐️ 7.0/10
-8. [Meta AI Chief Warns About Superintelligence](#item-ai-frontier-8) ⭐️ 7.0/10
-9. [ChatGPT Introduces GPT-6.2 Sol](#item-ai-frontier-9) ⭐️ 7.0/10
-10. [马斯克承认 SpaceX 的 AI 落后，转而向 Anthropic、Google 出租大量算力，月入数十亿美元](#item-ai-frontier-10) ⭐️ 7.0/10
-11. [Baidu Open Sources Wenxin 5.5 Flash Preview](#item-ai-frontier-11) ⭐️ 7.0/10
+1. [Claude Proves Algebric P≠NP with 73,000 Lines of Lean Code](#item-ai-frontier-1) ⭐️ 9.0/10
+2. [Ladybird Browser Enters Alpha Phase](#item-ai-frontier-2) ⭐️ 7.0/10
+3. [GLM-5.4: Loop Transformer Model Release](#item-ai-frontier-3) ⭐️ 7.0/10
+4. [Ladybird&\#x27;s first alpha release](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [ERNIE 5.5 Flash Preview Release with vLLM Support](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [阿里达摩院AI机器人新策略登顶六项真机任务](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [Global Collaboration on Riemann Hypothesis Proof Compression](#item-ai-frontier-7) ⭐️ 7.0/10
+8. [Edge-side Super-node Boosts AI Efficiency](#item-ai-frontier-8) ⭐️ 7.0/10
+9. [SpaceX Acknowledges AI Lag, Leases Computing Power to Anthropic and Google](#item-ai-frontier-9) ⭐️ 7.0/10
+10. [Baidu Open Sources Wenxin 5.5 Flash Preview](#item-ai-frontier-10) ⭐️ 7.0/10
+11. [AI Research Employees Discuss Safety Concerns Over Unreleased Models](#item-ai-frontier-11) ⭐️ 7.0/10
 
 **IT &amp; Open Source**
-1. [Astronomers Observe Stellar Explosion Event](#item-it-opensource-1) ⭐️ 8.0/10
-2. [GrapheneOS Accuses Google of Intimidating Partners](#item-it-opensource-2) ⭐️ 7.0/10
-3. [BepiColombo 探测器进入水星轨道](#item-it-opensource-3) ⭐️ 7.0/10
+1. [Shenzhou 24 Mission Launch Announcement](#item-it-opensource-1) ⭐️ 7.0/10
+2. [Over 39 Million Players Experience GTA6 on PS5](#item-it-opensource-2) ⭐️ 7.0/10
+3. [Decomposition of Tor Protocol](#item-it-opensource-3) ⭐️ 7.0/10
+4. [Google Patents AI-Generated TV Channels](#item-it-opensource-4) ⭐️ 7.0/10
+5. [GrapheneOS Accuses Google of Intimidating Partners](#item-it-opensource-5) ⭐️ 7.0/10
 
 ---
 
 ## China Macro &amp; A-Share
 
 <a id="item-cn-macro-1"></a>
-### [Chinese Semiconductor Chip, Robotics, AI, and PCB Industry News](https://www.cls.cn/detail/2542875) ⭐️ 7.0/10
+### [财联社11月24日晚间新闻精选](https://www.cls.cn/detail/2543348) ⭐️ 7.0/10
 
-The semiconductor chip industry is witnessing price adjustments with涨幅 from 10% to over 20%, affecting major manufacturers including TSMC. In robotics, the GPT-6.2 Astra dual-arm robot&\#x27;s operation task success rate has surged to 41.2%. Nvidia&\#x27;s CEO, Jensen Huang, has returned, boosting global AI enterprise stock prices. The PCB industry in North America shows a 56.1% year-on-year increase in orders for the first three quarters of the year, with lead times extending to 16-20 weeks for high-layer boards.
+A collection of important economic and policy news affecting China&\#x27;s economy and stock market.
 
-rss · 财联社电报 · Nov 24, 07:30
+rss · 财联社电报 · Nov 24, 13:38
 
-**「Market Context」** The semiconductor chip industry has been experiencing significant price adjustments, with涨幅 from 10% to over 20% announced for next year, affecting major players like TSMC. In the robotics sector, advancements are being made with the GPT-6.2 Astra-controlled dual-arm robot achieving a 41.2% success rate in operational tasks. The AI sector has seen a key personnel change with NVIDIA&\#x27;s CEO, Jensen Huang, returning to his role, which has positively impacted global AI enterprise stock prices. The PCB industry in North America has shown strong growth, with sample enterprise orders increasing by 56.1% in the first three quarters of the year, and lead times for high-layer boards extending to 16-20 weeks.
-
-**「Impact on Investors」** The semiconductor chip price adjustments could impact supply chains and investment strategies. The advancements in robotics and AI may lead to increased investment in these sectors. The strong PCB industry growth indicates a robust demand for electronic products, potentially benefiting related companies.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.bdyheil.com/">黑料不打烊｜ 2026 最全黑料吃瓜每 日 更新｜全网热门黑料不打烊合集</a></li>
-<li><a href="https://www.youtube.com/watch?v=xikZR9kDtT8">GPT 6 . 2 ASTRA и CLAUDE FABLE 5.2 – НАВСЕГДА... - YouTube</a></li>
-<li><a href="https://www.youtube.com/watch?v=k6kQIKn4uRM">26/ 11 /23突发大新闻： 英 伟 达 董事会一致通过｜ 黄 仁 勋 重 回 CEO ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Semiconductor Chip`, `#Robotics`, `#AI`, `#PCB`
+**Tags**: `#Central Bank Policy`, `#Export Regulation`, `#6G Pilot`, `#Corporate News`, `#Tech Innovations`
 
 ---
 
 <a id="item-cn-macro-2"></a>
-### [稳市举措从托底走向建制，A股在政策链条中寻找承接力 - 同花顺](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzTFhmbl82WmJ5NUZPQnlyYzhUU0xVZlVwRjFINFE4NnZjclhHWTVGcTAyYlNROFVRMzNFQkJ0a3Z2ZmZtcjE4cmxKaFk3RVJraHFnSkIyTUxoNWhKQ1JqcQ?oc=5) ⭐️ 7.0/10
+### [Stabilizing Capital Market Measures Announced in China](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqUktWdmFFXzhldWFJUzRuOVJleFNlckYxRjFOS25aWlJIZlVFOFFmOWlaeG5PODc1WnZ1dFdPWWZGSlc0QWxXVDJMSjg4YnRuWENyallLTjVHck8xem1B?oc=5) ⭐️ 7.0/10
 
-The article discusses the shift of stabilizing measures in the Chinese stock market from temporary support to institutionalization, and how the A-share market is seeking support in the policy chain.
+A series of measures have been introduced to stabilize the Chinese capital market, as reported by China Economic Net. These measures are aimed at bolstering market stability and are significant for market watchers.
 
-google\_news · 同花顺 · Nov 24, 03:59
+google\_news · 中国经济网 · Nov 24, 09:01
 
-**Tags**: `#Chinese stock market`, `#policy fine-tuning`, `#A-share market`, `#stabilizing measures`, `#institutionalization`
+**「Prior Measures to Stabilize the Capital Market」** In the past, China has implemented a series of measures to stabilize the capital market and restore investor confidence. These measures were particularly significant following global financial turbulence, such as the impact of U.S. tariffs on trading partners. Policymakers have been actively engaged in discussions and briefings to understand the operation of the capital market and consider related work, as evidenced by meetings and announcements.
 
----
-
-<a id="item-cn-macro-3"></a>
-### [Chinese Economy Stability and Digital Economy Growth](https://news.google.com/rss/articles/CBMieEFVX3lxTE9DY1pnVmtIcWdOQWpSV0M2aFk0UnpuSXhCcTBhQ2RXYklnRlQ4MkJST1JidW1YSThhZ1lOdk9iUncxcmZDV0dsVng1Nl91U1piMjRLWXlieDliUzN6S2F5TjZLRGdnVWd0UFhrTS1kaXI5V1Y4TUF1Vg?oc=5) ⭐️ 7.0/10
-
-The Chinese economy is showing signs of stability and new direction, with the first ten months of social electricity consumption increasing, indicating the growing importance of the digital economy as a new driving force.
-
-google\_news · 央视网 · Nov 24, 01:57
-
-**「Background on China&\#x27;s Digital Economy Growth」** The rapid growth of China&\#x27;s digital economy has been a significant trend in recent years. In 2024, the digital economy in China reached 59.2 trillion yuan, accounting for 43.8% of the country&\#x27;s GDP. This growth has been driven by various sectors, including AI, e-commerce, live commerce, fintech, and gaming. The daily AI token usage in China surpassed 140 trillion in March 2026, reflecting a 1,000-fold increase in two years. This digital transformation is a key factor contributing to the stable and new direction of the Chinese economy, as indicated by the increasing electricity consumption in the first ten months of the year.
-
-**「Impact」** Investors should pay attention to the rise of the digital economy, as it could lead to increased investments in related sectors and companies.
+**「Impact」** The introduction of these measures is expected to have a positive impact on investor confidence and market stability, potentially leading to increased investments in the A-share market.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://digitalinasia.com/china-hub/">China Digital Economy 2026: AI, Ecommerce, Tech | Digital in Asia</a></li>
-<li><a href="https://datareportal.com/reports/digital-2026-china">Digital 2026: China — DataReportal – Global Digital Insights</a></li>
+<li><a href="https://english.news.cn/20250408/c60e2ff2fb6a4110b13e00d97aa0f38f/c.html">Economic Watch: China moves swiftly to stabilize markets amid...</a></li>
+<li><a href="http://chinaview.cn/20250408/c60e2ff2fb6a4110b13e00d97aa0f38f/c.html">Economic Watch: China moves swiftly to stabilize markets amid...</a></li>
+<li><a href="https://german.beijingreview.com.cn/Business/202401/t20240124_800355113.html">China moves to stabilize capital market , improve confidence-- Beijing...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Chinese Economy`, `#Electricity Consumption`, `#Digital Economy`, `#Market Trends`, `#Economic Data`
+**Tags**: `#Capital Market`, `#Regulatory Announcement`, `#Economic Policy`, `#Market Stabilization`, `#China`
 
 ---
 
@@ -124,19 +101,19 @@ google\_news · 央视网 · Nov 24, 01:57
 <a id="item-global-market-1"></a>
 ### [Fed&\#x27;s John Williams Indicates Higher Interest Rates Likely to Address Inflation](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) ⭐️ 7.0/10
 
-New York Federal Reserve President John Williams indicated that higher interest rates are likely to be implemented &\#x27;over time&\#x27; to tackle inflation. He expressed confidence that inflation will approach the Fed&\#x27;s 2% target by 2027. Williams attributed current inflation pressures to factors such as the Iran conflict, AI-related demand, and tariffs, but emphasized that these pressures are expected to diminish in 2027.
+Federal Reserve President John Williams indicated that higher interest rates are likely over time to address inflation, expressing confidence that inflation will get closer to the Fed&\#x27;s 2% target in 2027. He attributed current inflation pressures to factors such as the conflict in Iran and the AI build-out, but emphasized that these pressures are expected to subside in 2027.
 
-rss · CNBC Finance · Nov 23, 21:02
+rss · CNBC Finance · Nov 24, 13:33
 
-**「Background on John Williams and his Role at the Federal Reserve」** John Carroll Williams, an American economist, has been the president and CEO of the Federal Reserve Bank of New York since June 2018. Prior to this role, Williams served as a senior economist in the White House Council of Economic Advisers and as a lecturer at Stanford University’s Graduate School of Business. He also held the position of president and CEO of the Federal Reserve Bank of San Francisco from 2011 to mid-2018, and was the executive vice president and director of research for the San Francisco Fed, which he joined in 2002. His extensive experience in economics and finance has positioned him as a key figure in shaping monetary policy.
+**「Background on John Williams and the Federal Reserve&\#x27;s Approach to Inflation」** John C. Williams, the President and Chief Executive Officer of the Federal Reserve Bank of New York, is a key figure in the Federal Reserve&\#x27;s monetary policy decisions. As a vice chair and permanent voting member of the Federal Open Market Committee, Williams plays a significant role in shaping the Fed&\#x27;s stance on inflation and interest rates. The Federal Reserve has been focused on bringing inflation under control, aiming to achieve its 2% target. Williams&\#x27; comments reflect the ongoing efforts to manage inflation, considering factors such as global conflicts, technological advancements, and trade policies. The Federal Open Market Committee&\#x27;s next meeting, scheduled for December, will provide further insight into the Fed&\#x27;s policy decisions.
 
-**「Impact」** The comments from Williams suggest a potential shift in monetary policy, which could have implications for financial markets. His confidence in inflation subsiding while economic growth remains robust may influence investor sentiment and market expectations for future interest rate changes.
+**「Impact」** Williams&\#x27; comments suggest that the Federal Open Market Committee may consider further rate hikes to control inflation, potentially affecting borrowing costs and economic growth.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/John_C._Williams_%28economist%29">John C. Williams (economist) - Wikipedia</a></li>
 <li><a href="https://www.newyorkfed.org/research/economists/williams">John Williams - FEDERAL RESERVE BANK of NEW YORK</a></li>
-<li><a href="https://www.federalreservehistory.org/people/john-c-williams">John C. Williams - Federal Reserve History</a></li>
+<li><a href="https://www.theofficialboard.com/biography/john-williams-3ggd6">John Williams Bio – Federal Reserve Bank of New York CEO</a></li>
+<li><a href="https://marketrealist.com/p/john-williams-federal-reserve-salary-net-worth/">N.Y. Federal Reserve President John Williams : Salary and Net Worth</a></li>
 
 </ul>
 </details>
@@ -146,384 +123,403 @@ rss · CNBC Finance · Nov 23, 21:02
 ---
 
 <a id="item-global-market-2"></a>
-### [Jensen Huang&\#x27;s Return as Nvidia CEO Boosts Market Sentiment](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html) ⭐️ 7.0/10
+### [Sanofi&\#x27;s $41 Billion Acquisition of Insmed](https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-The return of Jensen Huang as CEO of Nvidia has sparked a relief rally in the U.S. stock market, providing a temporary respite from recent sell-offs. The Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite had all entered correction territory before Huang&\#x27;s reinstatement, with the S&amp;P alone tumbling more than 9% following his initial departure announcement.
+French drugmaker Sanofi has agreed to acquire U.S. biotech company Insmed for a substantial $41 billion deal. This acquisition is aimed at mitigating the impact of patent expiration on a key drug for Sanofi.
 
-rss · CNBC Finance · Nov 23, 18:00
+rss · MarketWatch Top Stories · Nov 24, 12:50
 
-**「Background on Jensen Huang&\#x27;s Return to Nvidia」** Jensen Huang, the co-founder and former CEO of Nvidia, had previously resigned from his position amidst various corporate affairs. His departure had raised concerns within the technology sector and the broader market, particularly in the context of AI and chipmaking. Huang&\#x27;s significant role in Nvidia&\#x27;s growth and leadership in the AI sector made his return a notable event, as it was seen as a potential turning point for the market. His reinstatement as CEO followed a period of uncertainty and market sell-offs, with investors hoping that his return would provide relief and stabilize the AI sector.
+**「Background on Sanofi&\#x27;s Acquisition of Insmed」** Sanofi, a French drugmaker, has recently agreed to acquire U.S. biotech company Insmed for a substantial sum of $41 billion. This acquisition is a strategic move for Sanofi to bolster its immunology and rare disease portfolio. The deal includes Insmed&\#x27;s portfolio of two commercialized respiratory drugs and its pipeline of experimental candidates. This significant acquisition in the biotech industry is expected to have implications for the pharmaceutical market, although it does not directly involve central banks or equities. The acquisition is a response to the patent expiration on a key drug for Sanofi, aiming to offset the potential revenue loss.
 
-**「Market Impact」** The return of Jensen Huang as CEO of Nvidia has sparked a significant rally in the U.S. stock market, particularly in the AI sector. This development has been seen as a potential turning point, providing relief from recent sell-offs and raising hopes for stabilization in the AI trade. The market&\#x27;s bounce back, at least temporarily, is attributed to the renewed faith in Nvidia&\#x27;s leadership and its role in financing the AI buildout and the technology&\#x27;s supply chain.
+**「Impact」** The acquisition is expected to have a significant impact on the pharmaceutical market, potentially reshaping the competitive landscape and strategic focus of both companies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.businessinsider.com/jensen-huang">The Rise and Fall of Nvidia Founder Jensen Huang - Business Insider</a></li>
-<li><a href="https://wccftech.com/nvidia-reinstates-jensen-huang-ceo-board-of-director/">NVIDIA Says Jensen Huang Isn&#x27;t A Security Risk As It Reinstalls Him...</a></li>
-<li><a href="https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html">Jensen Huang Resigns From Nvidia After Affairs - The New York Times</a></li>
-<li><a href="https://investorplace.com/market360/2026/11/jensen-huang-is-back-and-the-ai-trade-just-roared-to-life/">Jensen Huang Is Back – And the AI Trade Just Roared to Life</a></li>
-<li><a href="https://www.techtarget.com/news/what-jensen-huangs-return-to-nvidia-could-mean-for-enterprises/875521/">What Jensen Huang’s return to Nvidia could mean for ...</a></li>
-<li><a href="https://time.com/article/2026/11/23/jensen-huang-return-nvidia-trump/">6 Questions About Jensen Huang&#x27;s Stunning Return as Nvidia CEO</a></li>
+<li><a href="https://www.sanofi.com/en/media-room/press-releases/2026/2026-11-24-06-30-00-3409002">Press Release: Sanofi to acquire Insmed in strategic step that...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html">Sanofi to buy Insmed in pharma ’s biggest deal in three years</a></li>
+<li><a href="https://www.barrons.com/articles/insmed-stock-sanofi-takeover-report-e8574321">Insmed Stock Jumps as Sanofi Eyes Takeover, Report... - Barron&#x27;s</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Technology`, `#Market Sentiment`, `#AI Trade`, `#Nvidia`, `#Equities`
+**Tags**: `#Biotech Acquisition`, `#Pharmaceutical Market`, `#Sanofi`, `#Insmed`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [Japan&\#x27;s Auto Suppliers Drawn into Major Arms Buildup](https://reut.rs/4jynyuJ) ⭐️ 7.0/10
+### [Japan&\#x27;s Budget Guideline on Fiscal Sustainability and BOJ Independence](https://reut.rs/4j2upwn) ⭐️ 7.0/10
 
-Japan&\#x27;s auto suppliers are being significantly impacted by a major arms buildup, a shift in the country&\#x27;s defense policy. This development is drawing global financial markets into the geopolitical landscape, particularly due to the involvement of key auto suppliers.
+Japan&\#x27;s budget guideline has committed to achieving fiscal sustainability and maintaining the independence of the Bank of Japan \(BOJ\). This policy decision is significant for global financial market watchers as it involves a major central bank and could influence financial markets.
 
-rss · 路透社 Reuters · Nov 24, 07:34
+rss · 路透社 Reuters · Nov 24, 13:09
 
-**「Background on Japan&\#x27;s Defense Policy Shift」** Japan&\#x27;s recent defense policy shift has been marked by a significant increase in military spending and a revision of the Three Strategic Documents. This shift has led to a heightened focus on national security and defense capabilities. The Japanese Ministry of Defense has been actively working towards achieving the Freedom of Navigation in the Indo-Pacific \(FOIP\) vision. Additionally, the 2026 US National Defense Strategy, which calls for allies to spend 3.5% of GDP on their armed forces, has influenced Tokyo&\#x27;s defense spending decisions. This policy change has been met with a rise in Japanese bond yields, reaching a 30-year high, although the Defense Ministry has denied reports of telling the US it would reach the 3.5% target. The ruling bloc in Japan has also demanded increased defense spending, further emphasizing the nation&\#x27;s commitment to bolstering its military capabilities.
+**「Japan&\#x27;s Economic Blueprint and BOJ Independence」** Japan&\#x27;s commitment to sustainable finances and the maintenance of the Bank of Japan&\#x27;s \(BOJ\) independence is a significant policy move. This follows a period where Japanese Government Bond \(JGB\) yields spiked, leading to a reaffirmation of the BOJ&\#x27;s independence. This policy decision is crucial for shaping expectations in the yen, JGB futures, and global rates markets.
 
-**「Impact」** The arms buildup is expected to influence global financial markets, potentially affecting sectors reliant on Japanese auto suppliers and contributing to broader geopolitical tensions.
+**「Impact」** The commitment to fiscal sustainability and BOJ independence may lead to increased investor confidence in Japan&\#x27;s economy, potentially attracting more foreign investment and stabilizing the yen.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mod.go.jp/en/">Japan Ministry of Defense</a></li>
-<li><a href="https://www.zerohedge.com/political/japan-quietly-tells-arms-makers-brace-order-cuts-80">Japan Quietly Tells Arms Makers To Brace For Order... | ZeroHedge</a></li>
-<li><a href="https://www.nippon.com/en/articles/-/57834">Japan Ruling Bloc Demands Defense Spending of 70... | Nippon.com</a></li>
+<li><a href="https://blog.e8markets.com/article/japans-economic-blueprint-why-boj-independence-matters-for-markets">Japan ’ s Economic Blueprint: Why BOJ Independence Matters for...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Geopolitical Events`, `#Defense Policy`, `#Auto Industry`, `#Global Markets`, `#Supply Chain`
+**Tags**: `#Japan`, `#Budget Policy`, `#Central Bank`, `#Fiscal Sustainability`, `#BOJ Independence`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [Market Expectations Rise for Fed Rate Hikes Amid AI Boom](https://reut.rs/4fNCEdy) ⭐️ 7.0/10
+### [Enagas CEO on Europe&\#x27;s Preparedness for Russian Gas Ban](https://reut.rs/4AQOgVd) ⭐️ 7.0/10
 
-Market expectations for Federal Reserve interest rate hikes have increased due to the resurgence of the AI boom, resulting in a stronger dollar.
+The CEO of Enagas has indicated that Europe is prepared for a potential Russian gas ban, which could impact global energy markets.
 
-rss · 路透社 Reuters · Nov 24, 06:32
+rss · 路透社 Reuters · Nov 24, 12:52
 
-**「Background on AI Boom and Federal Reserve Interest Rate Expectations」** The renewed interest in artificial intelligence \(AI\) has been a significant driver in the market&\#x27;s expectations for Federal Reserve interest rate hikes. At the start of 2026, there was considerable speculation about whether the Federal Reserve would cut its target rate. However, as the year progressed, the Federal Open Market Committee anticipated a single rate hike in 2026, with forecasts suggesting rate cuts in 2027 and 2028, aiming for a longer-run target of 3% to 3.25%. This shift in expectations was further solidified by the Federal Reserve Board&\#x27;s decision to raise the interest rate paid on reserve balances to 3.90 percent, effective September 17, 2026, and to maintain the federal funds rate in a target range of 3-3/4 to 4 percent.
+**「Background on European Energy Sector and Russian Gas Supply」** The European Union has historically relied on Russia as a significant supplier of natural gas. In 2017, Russia became one of the main suppliers of liquefied natural gas \(LNG\) to Europe, primarily through Yamal LNG, which commenced operations that year, in addition to pipeline supplies. This dependence on Russian gas has been a point of geopolitical tension, especially following the imposition of sanctions and the conflict in Ukraine. The EU has been seeking alternatives to reduce its reliance on Russian gas, and the recent statement by the CEO of Enagas indicates that Europe is preparing for a potential Russian gas ban. This situation reflects the broader context of the European energy sector&\#x27;s efforts to diversify its energy supply and mitigate the impact of geopolitical events on energy markets.
 
-**「Impact」** The rise in market expectations for Fed rate hikes has led to a strengthening of the US dollar, affecting currency movements and potentially influencing global financial markets.
+**「Impact」** This statement could lead to increased volatility in global energy markets as traders react to the potential disruption in gas supply from Russia.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://finance.yahoo.com/personal-finance/banking/article/fed-rate-predictions-2026-154647304.html?fr=sycsrp_catchall">Fed predictions for 2026: Will another rate hike happen by ...</a></li>
-<li><a href="https://www.fool.com/investing/2026/08/28/if-the-federal-reserve-hikes-interest-rates-in-202/">If the Federal Reserve Hikes Interest Rates in 2026, History ...</a></li>
-<li><a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm">Federal Reserve Board - Implementation Note issued September ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Russia_in_the_European_energy_sector">Russia in the European energy sector - Wikipedia</a></li>
+<li><a href="https://www.presstv.co.uk/Detail/2026/11/14/780707/eus-ban-on-russian-gas-is-hurting-european-economy-russian-mfa">EU’s ban on Russian gas is hurting European economy: Moscow</a></li>
+<li><a href="https://www.nytimes.com/2025/06/05/world/europe/us-russia-nord-stream-gas-pipeline.html">Europe Wants to Banish Russian Gas . The U.S. May Have Other Plans.</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Impact`, `#Federal Reserve`, `#Currency Movement`, `#Market Trends`, `#Interest Rates`
+**Tags**: `#Energy Supply`, `#Geopolitical Events`, `#European Markets`, `#Russian Gas Ban`, `#Central Bank Policy`
 
 ---
 
 <a id="item-global-market-5"></a>
-### [South Korea Central Bank Expected to Raise Interest Rates](https://reut.rs/4lfdyrw) ⭐️ 7.0/10
+### [Japan Downgrades Consumer Spending Expectations](https://reut.rs/4AHmk68) ⭐️ 7.0/10
 
-South Korea&\#x27;s central bank is anticipated to raise interest rates on Thursday, with another increase expected in the next quarter, as indicated by a Reuters poll.
+Japan has reduced its forecast for consumer spending for the first time since 2024, signaling a possible shift in the nation&\#x27;s economic outlook.
 
-rss · 路透社 Reuters · Nov 24, 06:16
+rss · 路透社 Reuters · Nov 24, 11:48
 
-**「Background on South Korea&\#x27;s Central Bank and Interest Rates」** The Bank of Korea \(BoK\) is the central bank of South Korea and is responsible for implementing monetary policy, including the adjustment of interest rates. The BoK uses its reference interest rate, known as the Base Rate, to influence the purchasing power of money and manage inflation. The current interest rate environment and the central bank&\#x27;s policy decisions are closely watched by global financial markets due to their impact on the South Korean economy and the broader international financial system. For a comprehensive overview of central bank interest rates worldwide, including South Korea, resources like Global-Rates.com and Central Bank Rates provide current and historical data on major central banks.
+**「Japan&\#x27;s Economic Outlook Prior to the Recent Downgrade」** Prior to the recent downgrade in consumer spending expectations, Japan&\#x27;s economic outlook was marked by a resilient global economy, despite varying levels of activity and incomes across countries and sectors. Inflation had been falling, supporting real incomes, but consumer confidence had yet to fully recover to pre-pandemic levels in many countries. Global growth was projected to be 3.2% in 2026, with further easing of inflation expected. Additionally, Japan&\#x27;s exports were significantly impacted by the ongoing Middle East crisis, with a 17.6% decline in exports to the region in the first half of 2026 compared to the same period in 2025. Trade tensions with the United States and China also contributed to a smaller share of overall exports heading to these major trading partners.
 
-**「Impact」** This decision is expected to have a significant impact on global financial markets, potentially influencing currency values and investment strategies.
+**「Impact」** This change in consumer spending expectations may lead to a cautious stance in financial markets, particularly in sectors heavily reliant on consumer demand.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Bank_of_Korea">Bank of Korea - Wikipedia</a></li>
-<li><a href="https://www.global-rates.com/en/interest-rates/central-banks/">Central Banks - current and historical interest rates</a></li>
-<li><a href="https://cbrates.com/">Central Bank Rates | Worldwide Interest Rates</a></li>
+<li><a href="https://www.oecd.org/en/publications/oecd-economic-outlook-volume-2024-issue-2_d8814e8b-en/full-report/japan_0a2908f4.html">Japan: OECD Economic Outlook, Volume 2024 Issue 2</a></li>
+<li><a href="https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html">Japan economic outlook | Deloitte Insights</a></li>
+<li><a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/vemo-japan.html">Our economic outlook for Japan | Vanguard</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Interest Rates`, `#Central Bank`, `#South Korea`, `#Financial Markets`, `#Economic Policy`
+**Tags**: `#Economic Outlook`, `#Consumer Spending`, `#Central Bank Policy`, `#Financial Markets`
 
 ---
 
 <a id="item-global-market-6"></a>
-### [U.S. Suspects Iran in Cyberattacks Against Ships](https://reut.rs/4eSsiJd) ⭐️ 7.0/10
+### [TSMC Subsidiary Seeks Property Tax Limit for Texas Chip Factory](https://reut.rs/4jbdJS6) ⭐️ 7.0/10
 
-The U.S. has suspected Iran of being behind numerous cyberattacks against ships, as reported by The Wall Street Journal. This development highlights a significant cybersecurity issue with implications for global maritime security and geopolitical tensions.
+TSMC&\#x27;s subsidiary is seeking a property tax limit for its proposed $22.6 billion chip manufacturing facility in Texas.
 
-rss · 路透社 Reuters · Nov 24, 04:09
+rss · 路透社 Reuters · Nov 24, 11:02
 
-**「Background on Cybersecurity and Geopolitical Tensions」** The recent report by The Wall Street Journal highlights the ongoing cybersecurity concerns and geopolitical tensions in the region. Iran has been involved in a series of cyberattacks, as evidenced by the information from Unit 42, a cybersecurity firm that has tracked these activities. These cyber operations, supported by Iran, have been expanding globally over the past two years. Additionally, the Middle Eastern crisis, including the 2026 Iran war, has further complicated the geopolitical landscape, with Israel&\#x27;s significant cyberattack on Iran in 2026. The Guardian&\#x27;s article on spy ships and cyber attacks emphasizes the ongoing threats to maritime security, with constant monitoring and the need for resilience in the face of such challenges.
+**「Texas Property Tax Context」** Texas has a unique property tax system where rates vary by county. The median property tax paid across all 254 counties is $2,176. Travis County, with the highest property tax rates in the state, sees residents contributing a median of $7,487 annually. This system, which does not impose a state-level income tax, requires owners of land and buildings to pay based on the value of their property. This context is important for understanding the implications of TSMC&\#x27;s subsidiary seeking a property tax limit for its proposed chip manufacturing facility in Texas.
 
-**「Impact」** The suspected cyberattacks could lead to increased geopolitical tensions and potentially impact international maritime trade and security measures.
+**「Impact」** This move could have significant implications for property tax policies in Texas and may affect the semiconductor industry&\#x27;s investment decisions in the region.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war">2026 Iran war - Wikipedia</a></li>
-<li><a href="https://www.theguardian.com/environment/2025/jun/18/shadow-fleets-cyber-attacks-and-spy-ships-the-crack-security-team-braced-for-trouble-at-sea-nordic-maritime-cyber-resilience-centre">Spy ships , cyber - attacks and shadow fleets: the crack... | The Guardian</a></li>
-<li><a href="https://unit42.paloaltonetworks.com/iranian-cyberattacks-2025/">Threat Brief: Escalation of Cyber Risk Related to Iran (Updated June 30)</a></li>
+<li><a href="https://worldpopulationreview.com/states/texas/property-tax">Texas Property Tax Rates 2026 | World Population Review</a></li>
+<li><a href="https://www.hrblock.com/tax-center/filing/states/texas-property-tax/">Texas Property Tax | H&amp;R Block</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cybersecurity`, `#Iran`, `#Maritime Security`, `#Geopolitical Tensions`, `#Cyberattacks`
+**Tags**: `#Technology`, `#Investment`, `#Tax Policy`, `#Semiconductor Industry`, `#Texas`
 
 ---
 
 <a id="item-global-market-7"></a>
-### [US Blacklists Megaspeed Chip Company](https://reut.rs/3XmHEzx) ⭐️ 7.0/10
+### [Iraqi Prime Minister Orders Ministry to Manage Oilfields in Kurdish-Controlled Areas](https://reut.rs/4CjODcH) ⭐️ 7.0/10
 
-The US government is poised to blacklist Megaspeed chip company due to its involvement in a scandal with Nvidia. This decision could significantly impact global technology and financial markets.
+Iraq&\#x27;s Prime Minister has ordered a ministry to manage oilfields in areas under Kurdish control. This decision could impact the country&\#x27;s economy and its relations with the Kurdish region, potentially affecting oil prices and regional stability.
 
-rss · 路透社 Reuters · Nov 24, 00:10
+rss · 路透社 Reuters · Nov 24, 11:02
 
-**「Background on Megaspeed Chip Company Blacklisting」** The Megaspeed chip company, a Singapore-based data center firm, has been under investigation by US agencies for possible export control violations involving Nvidia chips. This investigation stems from allegations that Megaspeed&\#x27;s links to China helped initiate the scandal surrounding Nvidia CEO Jensen Huang. The Trump administration had previously restricted Megaspeed from purchasing advanced semiconductor chips due to these allegations. The current decision to blacklist Megaspeed is a continuation of these efforts to address the scandal and its implications for global technology and financial markets.
+**「Background on the Iraqi Oil Industry」** The modern history of the oil industry in Iraq dates back to the formation of the Iraq Petroleum Company in 1912. The industry has been a significant source of revenue for the government, but the benefits have not always trickled down to the Iraqi people, leading to protests in various cities over issues such as unemployment, poverty, corruption, and inadequate public services. This context is crucial in understanding the recent decision by the Iraqi Prime Minister to order the ministry to manage oilfields in areas under Kurdish control.
 
-**「Impact」** The blacklist of Megaspeed chip company may lead to disruptions in global technology supply chains and affect financial markets, particularly those related to central banks, equities, and commodities.
+**「Impact」** The move could lead to increased tensions between the central government and the Kurdish region, potentially affecting oil production and supply in the region, thereby impacting global oil prices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/">Trump administration adds Megaspeed to trade blacklist after ...</a></li>
-<li><a href="https://thedroidguy.com/megaspeed-nvidia-case-1296211">What Is Megaspeed? The Nvidia Chip Diversion Probe Explained</a></li>
-<li><a href="https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo">US to blacklist Asian AI firm Megaspeed after Nvidia scandal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/History_of_petroleum_industry_in_Iraq">Petroleum industry in Iraq - Wikipedia</a></li>
+<li><a href="https://oapub.org/soc/index.php/EJPSS/article/view/1424">THE IRAQI OIL INDUSTRY: HISTORY AND OVERVIEW</a></li>
+<li><a href="https://www.researchgate.net/publication/369640650_THE_IRAQI_OIL_INDUSTRY_HISTORY_AND_OVERVIEW">THE IRAQI OIL INDUSTRY: HISTORY AND OVERVIEW</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Technology`, `#Government Policy`, `#Financial Markets`, `#Nvidia Scandal`, `#Blacklist`
+**Tags**: `#Iraq`, `#Oilfields`, `#Political Decision`, `#Commodities`, `#Geopolitical`
 
 ---
 
 <a id="item-global-market-8"></a>
-### [Exclusive Senate Investigation into JD Vance&\#x27;s Venezuelan Oil Contract Ties](https://reut.rs/4tdXoRe) ⭐️ 7.0/10
+### [Japan Increases Funding to ICC Amid US Sanctions](https://reut.rs/4iYgXtx) ⭐️ 7.0/10
 
-The U.S. Senate committee is investigating the connections between JD Vance and a significant Venezuelan oil contract. This exclusive report highlights a potential market impact due to the scrutiny on such a key agreement.
+Japan has accelerated its funding to the International Criminal Court \(ICC\) in response to US sanctions that threaten the court. This action highlights the ongoing international legal and geopolitical tensions.
 
-rss · 路透社 Reuters · Nov 23, 23:54
+rss · 路透社 Reuters · Nov 24, 10:29
 
-**「Background on U.S. Senate Investigations」** The U.S. Senate has a long-standing tradition of conducting investigations, with the Senate Historical Office documenting the histories of individuals who have witnessed significant events firsthand. These investigations have historically uncovered wrongdoing, punished transgressors, and led to legislation aimed at preventing similar abuses in the future. The Senate Select Committee on Ethics is responsible for opening, investigating, and, if evidence is found, bringing charges and recommending sanctions through a multi-step, largely confidential process that culminates in a report to the full Senate or party conference.
+**「International Criminal Court Background」** The International Criminal Court \(ICC\), established in 1998 and commencing operations in 2002, plays a pivotal role in the international system of accountability for grave crimes. This system includes national judiciaries, hybrid and ad hoc courts, and international investigative mechanisms. The ICC&\#x27;s primary function is to investigate and, if warranted, prosecute individuals accused of the most serious crimes of concern to the international community, such as genocide, war crimes, crimes against humanity, and the crime of aggression. The court operates independently and is based in The Hague, Netherlands.
 
-**「Impact」** The investigation could lead to market speculation and potential policy changes affecting oil contracts and global financial markets, particularly in relation to Venezuela&\#x27;s oil sector.
+**「Impact」** The increased funding by Japan to the ICC may lead to a shift in international legal support for the court, potentially affecting the court&\#x27;s operations and influence in international relations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.senate.gov/about/powers-procedures/investigations.htm">U.S. Senate: About Investigations</a></li>
-<li><a href="https://www.senate.gov/about/powers-procedures/investigations/overview.htm">U.S. Senate: About Investigations | Historical Overview</a></li>
-<li><a href="https://factually.co/fact-checks/politics/senate-ethics-committee-formal-investigation-process-and-sanctions-frequency-f54eb4">What Steps Does the Senate Ethics Committee Take in a ...</a></li>
+<li><a href="https://www.ijmonitor.org/icc-background/">ICC Background – International Justice Monitor</a></li>
+<li><a href="https://www.icc-cpi.int/">International Criminal Court</a></li>
+<li><a href="https://www.dagdok.org/w/dd/en/un-by-subject/international-law/international-criminal-court---icc">International criminal court - ICC - DagDok</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Investigation`, `#U.S. Senate`, `#Venezuela`, `#Oil Contracts`, `#Financial Markets`
+**Tags**: `#International Relations`, `#Legal Issues`, `#Geopolitical Tensions`, `#Central Banks`, `#Currencies`
 
 ---
 
 <a id="item-global-market-9"></a>
-### [US Sanctions on Iran&\#x27;s Shadow Banking Networks](https://reut.rs/3VL0zUf) ⭐️ 7.0/10
+### [Equinor and VNG Sign 18-Year Gas Supply Agreement](https://reut.rs/3VNSqOS) ⭐️ 7.0/10
 
-The United States has imposed sanctions on dozens of individuals associated with Iran&\#x27;s shadow banking networks, affecting global financial markets.
+Norway&\#x27;s Equinor has entered into an 18-year gas supply agreement with Germany&\#x27;s VNG. This deal, the longest gas sales agreement signed by Equinor since 1986, involves the supply of up to 15.3 TWh of natural gas annually to VNG, starting from January 1, 2027, and continuing until the end of 2044.
 
-rss · 路透社 Reuters · Nov 23, 23:38
+rss · 路透社 Reuters · Nov 24, 09:43
 
-**「Background on Iran&\#x27;s Shadow Banking Network」** Iran&\#x27;s shadow banking network has been a significant concern for global financial markets. This network, which includes front companies, banks, and money exchangers, is used by Iran to bypass sanctions and banking controls, allowing the movement of funds globally. The United States has been actively targeting this network as part of its broader campaign to sever the economic lifelines supporting the Iranian regime. This campaign, known as Operation Economic Outcast, involves actions against entities in various countries, including Iran, the United Arab Emirates, Türkiye, and Hong Kong. The Financial Crimes Enforcement Network \(FinCEN\) has provided detailed analyses on the nature and extent of this shadow banking network, highlighting its connections across continents and industries such as oil, shipping, investment, and technology procurement. These efforts are aimed at identifying and freezing nearly $15 billion in potential Iranian shadow banking networks, emphasizing the scale and complexity of the issue.
+**「Background on Equinor and VNG」** Equinor, a Norwegian multinational energy company, and VNG, a German energy firm, have a history of involvement in the energy sector. Equinor, previously known as Statoil and StatoilHydro, is a major player in the petroleum industry with operations in 36 countries and investments in renewable energy and lithium mining. VNG, on the other hand, is a significant player in the German gas market area. This new 18-year gas supply agreement between the two companies marks a significant collaboration in the energy sector.
 
-**「Impact」** These sanctions are expected to impact currency movements and central bank policies, particularly in regions heavily reliant on Iran&\#x27;s financial networks.
+**「Market Impact」** The 18-year gas supply agreement between Equinor and VNG is expected to stabilize natural gas supplies in the German market, potentially reducing volatility in gas prices. This long-term deal may also encourage other energy companies to enter into similar agreements, thereby enhancing market stability and security of supply.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.state.gov/releases/office-of-the-spokesman/2026/11/severing-the-financial-lifelines-of-irans-shadow-banking-network/">Severing the Financial Lifelines of Iran’s Shadow Banking Network</a></li>
-<li><a href="https://www.fincen.gov/system/files/2025-10/FTA-Iranian-Shadow-Banking.pdf">FinCEN Financial Trend Analysis, Iranian Shadow Banking ...</a></li>
-<li><a href="https://home.treasury.gov/news/press-releases/sb0698/">Treasury Identifies Nearly $15 Billion in Potential Iranian ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Equinor">Equinor - Wikipedia</a></li>
+<li><a href="https://www.equinor.com/about-us/our-history">Our history - Equinor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/VNG_Corporation">VNG Corporation - Wikipedia</a></li>
+<li><a href="https://vng.com.vn/?lang=en">VNG - Vietnam’s Leading Technology Company</a></li>
+<li><a href="https://www.equinor.com/news/20261124-vng-18-year-gas-sales-agreement">Equinor and VNG sign 18 - year gas sales agreement for supplies to...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Sanctions`, `#Iran`, `#Financial Markets`, `#Central Banks`, `#Currency Movements`
+**Tags**: `#Energy Sector`, `#Gas Supply`, `#Equinor`, `#VNG`, `#Market News`
 
 ---
 
 <a id="item-global-market-10"></a>
-### [U.S. Seeks to Recover Over 1B USD in Stolen Cryptocurrency from Binance Hack](https://reut.rs/3XJzgdy) ⭐️ 7.0/10
+### [Japan&\#x27;s Auto Suppliers Drawn into Major Arms Buildup](https://reut.rs/4jynyuJ) ⭐️ 7.0/10
 
-The U.S. government has filed a lawsuit to recover over 1 billion dollars in cryptocurrency that was stolen during a hack of Binance, a major cryptocurrency exchange. This legal action is significant in the context of financial markets and has the potential to impact the broader cryptocurrency market.
+Japan is integrating its auto suppliers into a significant arms buildup, marking a notable shift in the country&\#x27;s defense sector. This development has the potential to impact global markets.
 
-rss · 路透社 Reuters · Nov 23, 23:22
+rss · 路透社 Reuters · Nov 24, 07:34
 
-**「Background on the Binance Hack」** On October 29, 2026, Binance, a major cryptocurrency exchange, suffered a significant hack where 6.3 billion US dollars worth of digital currency was stolen. The attack was attributed to the North Korea-linked hacking group TraderTraitor. This event highlighted the vulnerabilities in the cryptocurrency market and led to increased scrutiny on the security measures of digital exchanges.
+**「Japan&\#x27;s Defense Policy Shift and Auto Suppliers」** Japan&\#x27;s defense policy has been undergoing a significant transformation, as evidenced by the 2026 White Paper. This document highlights a shift towards greater Japanese responsibility for deterrence, a broader understanding of what constitutes defense, and the ability to sustain military operations. The integration of national power, including diplomatic, intelligence, economic, and technological capabilities, has been emphasized. This shift has led to the involvement of auto suppliers in a major arms buildup, indicating a systematic combination of all policy measures to reinforce defense capabilities.
 
-**「Impact」** The lawsuit could lead to increased regulatory scrutiny on cryptocurrency exchanges and potentially impact investor confidence in the cryptocurrency market.
+**「Impact」** The involvement of auto suppliers in Japan&\#x27;s arms buildup could lead to increased demand for defense-related products, potentially benefiting the defense sector and affecting related global markets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Binance_hack">2026 Binance hack - Wikipedia</a></li>
-<li><a href="https://www.cryptotimes.io/insights/binance-hack-explained/">Binance Hack Explained: How $6.3 Billion Was Drained in 20 ...</a></li>
-<li><a href="https://finance.yahoo.com/markets/crypto/articles/did-binance-hack-happen-detailed-120000357.html?fr=sycsrp_catchall">How Did the Binance Hack Happen? Detailed Investigation of ...</a></li>
+<li><a href="https://www.orfonline.org/expert-speak/japan-s-defence-transformation-reading-the-2026-white-paper">Japan’s Defence Transformation: Reading the 2026 White Paper</a></li>
+<li><a href="https://www.mod.go.jp/en/publ/w_paper/index.html">Publications | Japan Ministry of Defense</a></li>
+<li><a href="https://www.mod.go.jp/j/press/wp/wp2026/pdf/DOJ2026_Digest_EN.pdf">2026 DEFENSE OF JAPAN amphlet - 防衛省・自衛隊</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Cryptocurrency`, `#Hack`, `#Legal Action`, `#Binance`, `#Financial Market`
+**Tags**: `#Japan`, `#Defense Policy`, `#Auto Suppliers`, `#Arms Buildup`, `#Global Markets`
 
 ---
 
 <a id="item-global-market-11"></a>
-### [NATO Deployment to Poland Following Missile Incident](https://reut.rs/3XKjjnp) ⭐️ 7.0/10
+### [Market Expectations Rise for Federal Reserve Rate Hikes Amid AI Enthusiasm](https://reut.rs/4fNCEdy) ⭐️ 7.0/10
 
-NATO has announced the deployment of early-warning system aircraft to Poland in response to a recent missile incident. This action, which could have implications for global security and market dynamics, marks a significant geopolitical response to the event.
+Market expectations for Federal Reserve interest rate hikes have increased due to the renewed enthusiasm surrounding artificial intelligence \(AI\), resulting in a stronger US dollar.
 
-rss · 路透社 Reuters · Nov 23, 21:46
+rss · 路透社 Reuters · Nov 24, 06:32
 
-**「Background on NATO&\#x27;s Deployment of Early-Warning System Aircraft」** The deployment of early-warning system aircraft by NATO to Poland follows a recent missile incident. These aircraft, such as the Boeing E-3 Sentry, are part of the NATO Airborne Early Warning and Control Force \(NAEWCF\). They are designed for both defensive and offensive air operations, serving a role similar to a combat information center for naval warships. The E-3 Sentry, in particular, is known for its highly mobile and powerful radar platform, capable of detecting small, high-speed intruder aircraft at long ranges. This capability is crucial for meeting the challenges posed by the missile incident and enhancing overall security in the region.
+**「Background on Federal Reserve Rate Hikes and AI Market Trends」** The Federal Reserve&\#x27;s monetary policy decisions have significant global implications, affecting currency movements and market yields. In recent years, the Fed has been tightening monetary policy, which has led to increased interest rates. This policy path has been influenced by various economic indicators, including inflation and unemployment rates. Additionally, the rise of artificial intelligence \(AI\) has become a major market trend, impacting investor sentiment and market expectations. The intersection of these two trends has led to a heightened anticipation of Federal Reserve interest rate hikes, which in turn has strengthened the US dollar.
 
-**「Impact」** The deployment of NATO&\#x27;s early-warning system aircraft to Poland may lead to increased tensions in the region, potentially affecting market sentiment and investor confidence in the broader geopolitical landscape.
+**「Impact」** The rise in market expectations for Fed rate hikes has led to a strengthening of the US dollar, affecting global currency movements and potentially influencing central bank policies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Boeing_E-3_Sentry">Boeing E-3 Sentry - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Airborne_early_warning_and_control">Airborne early warning and control - Wikipedia</a></li>
-<li><a href="https://www.nato.int/en/what-we-do/deterrence-and-defence/awacs-natos-eyes-in-the-sky">AWACS: NATO’s &#x27;eyes in the sky&#x27;</a></li>
+<li><a href="https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html">How the Fed rate hike could ripple across markets globally</a></li>
+<li><a href="https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm">The Fed - June 17, 2026: FOMC Projections materials ...</a></li>
+<li><a href="https://www.morningstar.com/economy/will-us-dollar-rally-continue">Will the US Dollar Rally Continue? - Morningstar</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NATO`, `#Poland`, `#Missile Incident`, `#Geopolitical`, `#Security`
+**Tags**: `#AI Euphoria`, `#Federal Reserve`, `#Interest Rate Hikes`, `#US Dollar`, `#Market Trends`
 
 ---
 
 <a id="item-global-market-12"></a>
-### [Huang Renxun&\#x27;s Return to Nvidia Impacts Short Sellers](https://reut.rs/4j5jEbn) ⭐️ 7.0/10
+### [South Korea Central Bank Expected to Raise Interest Rates](https://reut.rs/4lfdyrw) ⭐️ 7.0/10
 
-Huang Renxun&\#x27;s unexpected return to Nvidia has led to a potential 122 billion dollar loss for short sellers, as shares surged following his reinstatement to the company&\#x27;s board.
+South Korea&\#x27;s central bank is anticipated to increase interest rates on Thursday, with another rate hike expected in the next quarter, as indicated by a Reuters poll.
 
-rss · 路透社 Reuters · Nov 23, 20:43
+rss · 路透社 Reuters · Nov 24, 06:16
 
-**「Background on Jensen Huang&\#x27;s Return to Nvidia」** Jensen Huang, the co-founder, president, and CEO of Nvidia, had been a subject of speculation regarding his future with the company. Huang&\#x27;s unexpected return to Nvidia has significant implications for the technology sector and market sentiment. Huang&\#x27;s leadership has been crucial in Nvidia&\#x27;s growth and success, particularly in the AI technology sector. His return is likely to reassure investors and stakeholders about the company&\#x27;s strategic direction and future prospects.
+**「Background on South Korea&\#x27;s Central Bank&\#x27;s Interest Rate Decisions」** The South Korean central bank, known as the Bank of Korea \(BOK\), has a history of adjusting its interest rates in response to economic conditions. In recent years, the BOK has been actively managing monetary policy to control inflation and support economic growth. This includes periodic reviews of the base rate, which is a key indicator of the central bank&\#x27;s policy stance. The decision to raise interest rates is typically based on economic data, including inflation rates, GDP growth, and employment figures. The BOK&\#x27;s policy decisions have significant implications for the South Korean economy and can influence global financial markets, particularly those with exposure to the Korean won or South Korean assets. For instance, previous rate hikes have been accompanied by increased borrowing costs for businesses and consumers, as well as a stronger won, which can impact export competitiveness.
 
-**「Impact」** The surge in Nvidia&\#x27;s shares following Huang Renxun&\#x27;s return has had a significant impact on short sellers, who now face substantial financial losses.
+**「Impact」** This decision is expected to have a significant impact on global financial markets, particularly for investors tracking central banks and currencies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Jensen_Huang">Jensen Huang - Wikipedia</a></li>
-<li><a href="https://www.gate.com/blog/jensen-huang-nvidia-investigation-nvda-stock-market-expectations">What Happened to Jensen Huang ? How Could the Nvidia ... | Gate Blog</a></li>
-<li><a href="https://www.toolify.ai/ai-news/the-incredible-success-story-of-huang-renxun-nvidia-how-they-became-the-ai-king-402217">The Incredible Success Story of Huang Renxun &amp; Nvidia : How They...</a></li>
+<li><a href="https://www.koreatimes.co.kr/economy/20251127/full-text-bok-statement-on-monetary-policy-decision-in-november">[FULL TEXT] BOK statement on monetary policy decision in ...</a></li>
+<li><a href="https://www.bok.or.kr/eng/main/main.do">Bank of Korea - 한국은행</a></li>
+<li><a href="https://www.upi.com/Top_News/World-News/2026/11/22/bank-of-korea-monetary-policy/7171795388502/">South Korea&#x27;s central bank weighs another rate increase - UPI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Technology`, `#Market News`, `#Nvidia`, `#Financial Impact`, `#Huang Renxun`
+**Tags**: `#Central Bank`, `#Interest Rates`, `#South Korea`, `#Financial Markets`, `#Currency`
 
 ---
 
 <a id="item-global-market-13"></a>
-### [Amazon&\#x27;s Acquisition of Decart&\#x27;s AI Chip Optimization Technology](https://reut.rs/4jfnBKP) ⭐️ 7.0/10
+### [Singapore Investigates Nvidia-Linked Megaspeed After US Blacklisting](https://reut.rs/4CmxfE7) ⭐️ 7.0/10
 
-Amazon has acquired Decart&\#x27;s AI chip optimization technology, marking a strategic move in the AI talent acquisition space. This acquisition could potentially impact the AI hardware market and is of interest to investors tracking central banks, equities, bonds, commodities, and currencies.
+Singapore has initiated an investigation into Megaspeed, a company associated with Nvidia, following its blacklisting by the United States. This action comes after the U.S. government&\#x27;s decision to blacklist Megaspeed, a chip firm linked to Nvidia, due to regulatory concerns.
 
-rss · 路透社 Reuters · Nov 23, 20:10
+rss · 路透社 Reuters · Nov 24, 06:02
 
-**「Background on Amazon&\#x27;s Acquisition of Decart&\#x27;s AI Chip Optimization Technology」** Amazon&\#x27;s acquisition of Decart&\#x27;s AI chip optimization technology is part of a broader trend in the tech industry where major companies are investing heavily in AI capabilities. Decart, founded in 2023 by Israeli engineers, specializes in AI optimization software that enhances the efficiency of AI models on various hardware platforms. This acquisition follows a previous deal where Anthropic walked away from a $6 billion deal with Decart, indicating the high value placed on AI optimization technology. The reported deal value between Amazon and Decart is $7.5 billion, highlighting the significant investment Amazon is making to strengthen its AI hardware capabilities.
+**「Background on the Megaspeed Investigation」** The investigation into Megaspeed, a Singapore-based company associated with Nvidia, has a complex background. Initially, the U.S. Commerce Department was conducting an inquiry into Megaspeed&\#x27;s acquisition of advanced Nvidia AI chips. However, this inquiry was transferred to the Justice Department after a top Nvidia executive communicated with Commerce Department officials. Additionally, Nvidia CEO Jensen Huang is facing an investigation over reports linking him to Alice Huang, who is accused of being a Chinese intelligence asset. This situation highlights the broader context of international trade and technology regulation.
 
-**「Impact」** The acquisition may lead to the development of new products or services in the AI sector, potentially affecting market dynamics and investor strategies in the technology and AI-related sectors.
+**「Impact」** The investigation and blacklisting could potentially impact global technology markets, particularly those involving Nvidia and international trade in semiconductor chips.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/">Amazon snaps up Decart &#x27;s AI optimization tech for... | TechCrunch</a></li>
-<li><a href="https://aiwiki.ai/wiki/decart_ai">Decart | AI Wiki</a></li>
-<li><a href="https://www.livemint.com/ai/anthropic-walks-away-from-6-billion-deal-with-israeli-ai-startup-decart-what-happened-11788860270182.html">Anthropic walks away from $6 billion deal with Israeli AI startup Decart ...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html">U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After...</a></li>
+<li><a href="https://www.hindustantimes.com/world-news/us-news/nvidia-ceo-jensen-huangs-china-spy-probe-explained-background-allegations-and-key-details-101794219055667.html">Nvidia CEO Jensen Huang&#x27;s China spy probe... | Hindustan Times</a></li>
+<li><a href="https://www.youtube.com/watch?v=OEY-vm7qRHc">China Won&#x27;t Take 600,000 Nvidia Chips. Did It Target... - YouTube</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Amazon`, `#Decart`, `#AI Chip Optimization`, `#Strategic Acquisition`, `#Tech News`
+**Tags**: `#Technology`, `#Regulation`, `#Global Markets`, `#Nvidia`, `#Investigation`
 
 ---
 
 <a id="item-global-market-14"></a>
-### [US Arrears Lead to Chemical Weapons Supervisory Organization Budget Crisis](https://reut.rs/4CiLxW7) ⭐️ 7.0/10
+### [US Suspects Iran in Cyberattacks Against Ships](https://reut.rs/4eSsiJd) ⭐️ 7.0/10
 
-The United States&\#x27; failure to pay its dues has resulted in a budget crisis for the chemical weapons supervisory organization, potentially impacting global security.
+The U.S. has suspected Iran of being behind numerous cyberattacks against ships, as reported by The Wall Street Journal. This development highlights a significant cyber threat to global maritime security and may have implications for international relations.
 
-rss · 路透社 Reuters · Nov 23, 19:38
+rss · 路透社 Reuters · Nov 24, 04:09
 
-**「Background on the Organisation for the Prohibition of Chemical Weapons」** The Organisation for the Prohibition of Chemical Weapons \(OPCW\) is an international organisation responsible for overseeing the implementation of the Chemical Weapons Convention. Established in 1997, the OPCW&\#x27;s primary function is to ensure that chemical weapons are not used and that their production, stockpiling, and transfer are prohibited. The OPCW carries out inspections and investigations to verify compliance with the Convention. The organisation has faced various challenges, including financial constraints, which have been a recurring issue. These constraints often arise due to member states&\#x27; failure to meet their financial obligations, as seen in the current situation with the United States.
+**「Prior Cybersecurity Incidents and Maritime Tensions」** Recent reports indicate a surge in cyberattacks targeting ships, raising concerns about maritime security. The U.S. has previously accused Iran of being involved in such incidents. These attacks have implications for global maritime security and international relations, potentially leading to increased tensions in the region. The situation is further complicated by Iran&\#x27;s vow to end U.S. naval blockade by &\#x27;all available means,&\#x27; indicating a potential for escalation.
 
-**「Impact」** The budget crisis could lead to a disruption in the oversight of chemical weapons, potentially affecting global security and international relations.
+**「Impact」** The cyberattacks are likely to increase concerns about cybersecurity in the maritime sector, potentially leading to heightened security measures and affecting global trade and insurance rates.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons">Organisation for the Prohibition of Chemical Weapons - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/technology/chemical-weapon/Banning-chemical-weapons">Chemical weapon - Banning, Prohibition, Conventions | Britannica</a></li>
-<li><a href="https://www.csis.org/analysis/us-response-reported-chemical-attack-douma-syria">U.S. Response to the Reported Chemical Attack in Douma, Syria</a></li>
+<li><a href="https://www.youtube.com/watch?v=k4KdfBKKBvE">Putin, Iran BOMB 50+ Ships ? US Probes MASSIVE... - YouTube</a></li>
+<li><a href="https://www.yahoo.com/news/world/articles/iran-vows-end-u-naval-113037780.html">Iran vows to end U.S. naval blockade by &quot;all available means&quot;</a></li>
+<li><a href="https://www.irantimes.com/news">News | IranTimes</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Budget Crisis`, `#Chemical Weapons`, `#Global Security`, `#US Financial Obligations`
+**Tags**: `#cybersecurity`, `#Iran`, `#maritime security`, `#international relations`, `#cyberattack`
 
 ---
 
 <a id="item-global-market-15"></a>
-### [Huang Renxun&\#x27;s Return to Nvidia Boosts AI Sector, Adding Trillions to Nasdaq-100](https://reut.rs/4zIlXax) ⭐️ 7.0/10
+### [U.S. Seeks to Recover Over $1 Billion in Stolen Cryptocurrency from Binance Hack](https://reut.rs/3XJzgdy) ⭐️ 7.0/10
 
-The return of Huang Renxun to Nvidia is anticipated to significantly boost the AI sector, potentially contributing an additional 2 trillion USD to the Nasdaq-100 index.
+The U.S. government has filed a lawsuit to recover over 1 billion dollars in cryptocurrency that was stolen in a hack of Binance, a major cryptocurrency exchange. This action is significant in the context of financial markets and has the potential to impact the broader cryptocurrency market.
 
-rss · 路透社 Reuters · Nov 23, 19:38
+rss · 路透社 Reuters · Nov 23, 23:22
 
-**「Background on Huang Renxun&\#x27;s Return to Nvidia and Its Impact on the Market」** Jensen Huang&\#x27;s sudden resignation as CEO of Nvidia and his subsequent reinstatement have been significant events in the technology sector. His leadership has been closely tied to the global AI trade, infrastructure supply chains, and major equity benchmarks. Huang&\#x27;s return to Nvidia has led to a notable increase in the company&\#x27;s stock, with Nvidia&\#x27;s stock rising approximately 30% following his reinstatement. This development has had a direct impact on the Nasdaq Composite, which saw a 6.5% increase, erasing all of its losses from the previous day. The swift market reaction underscores the importance of Huang&\#x27;s role in the technology and AI sectors.
+**「Background on Binance Hack and Cryptocurrency Market」** The Binance hack, which occurred in 2026, resulted in the theft of over $6.3 billion in cryptocurrency. The hack was attributed to North Korea, marking a significant event in the cryptocurrency market. This incident highlighted the vulnerabilities in the crypto industry and the potential risks associated with cyberattacks. Following the hack, there has been increased attention on the security measures within the cryptocurrency exchanges and the broader implications for the market.
 
-**「Impact」** This development is expected to have a substantial positive impact on the AI sector, potentially adding a significant boost to the overall value of the Nasdaq-100 index.
+**「Impact」** The lawsuit could have a concrete impact on the cryptocurrency market, potentially leading to increased scrutiny of cybersecurity measures within the industry and affecting the trust in cryptocurrency exchanges.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/">Nasdaq gains 6.5% after Huang reinstated as Nvidia CEO</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/resignation-reinstatement-huangs-market-impact-215600680.html?fr=sycsrp_catchall">From Resignation to Reinstatement: Huang&#x27;s Market Impact</a></li>
-<li><a href="https://qz.com/jensen-huang-return-nvidia-market-effects">5 market effects of Jensen Huang&#x27;s return as Nvidia CEO</a></li>
+<li><a href="https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html">Binance ’s $6.3 Billion Hack Is Just the Start of a Risky New Era</a></li>
+<li><a href="https://vandatateam.com/blog/binance-hack">Binance Hack : What a $6.3B Breach Teaches Engineering Teams</a></li>
+<li><a href="https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea">A simple explainer of the massive crypto heist at Binance : NPR</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Technology`, `#Market Trends`, `#AI`, `#Nasdaq-100`, `#Financial News`
+**Tags**: `#Cryptocurrency`, `#Legal Action`, `#Binance`, `#Market Impact`, `#Cybersecurity`
 
 ---
 
 <a id="item-global-market-16"></a>
-### [AI Bubble Burst and Potential Federal Reserve Rate Cuts](https://reut.rs/4AJAGDa) ⭐️ 7.0/10
+### [US Budget Crisis at Chemical Weapons Watchdog](https://reut.rs/4CiLxW7) ⭐️ 7.0/10
 
-The burst of the AI bubble may prompt the Federal Reserve to consider implementing rate cuts, according to a commentary by Reuters. This shift in monetary policy is in response to the economic impact of the AI market&\#x27;s downturn.
+The U.S. is facing a budget crisis at the chemical weapons watchdog organization due to unpaid debts, which is impacting global security and financial markets.
 
-rss · 路透社 Reuters · Nov 23, 19:22
+rss · 路透社 Reuters · Nov 23, 19:38
 
-**「Background on AI Bubble and Federal Reserve Policy」** The discussion of the AI bubble burst and its potential impact on the Federal Reserve&\#x27;s monetary policy is rooted in the growing concern over the rapid expansion of artificial intelligence investments. This expansion has raised questions about its sustainability and potential economic consequences. Previous analyses have suggested that a burst in the AI bubble could lead to a decline in stock market prices, which in turn could influence the Federal Reserve&\#x27;s decision-making process regarding interest rates. The Federal Reserve has been monitoring the AI market closely, as it represents a significant portion of the economy and could have widespread implications for financial markets and the broader economy.
+**「Background on the OPCW and its Funding」** The Organisation for the Prohibition of Chemical Weapons \(OPCW\) is an international organisation responsible for overseeing the implementation of the Chemical Weapons Convention. The OPCW&\#x27;s budget is primarily funded by contributions from its member states, which are based on a modified UN scale of assessments. The OPCW&\#x27;s budget for 2020 was €70,958,760. The United States has historically been a significant contributor to the OPCW&\#x27;s budget, with reports indicating that it was responsible for 22 percent of the agency&\#x27;s budget at one point. This financial contribution is crucial for the OPCW to carry out its main activities, including inspection and verification of chemical weapons compliance.
 
-**「Impact」** The potential rate cuts by the Federal Reserve could have a significant impact on the AI market, potentially stabilizing it after the burst of the AI bubble.
+**「Impact」** This budget crisis is likely to affect global security and financial markets, potentially leading to increased uncertainty and volatility in the global economy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://prospect.org/2026/09/15/artificial-intelligence-federal-reserve-ai-bubble/">How Should the Federal Reserve Deal With the AI Bubble?</a></li>
-<li><a href="https://www.investopedia.com/how-the-federal-reserve-could-inflate-or-pop-an-ai-bubble-11839227">How the Federal Reserve Could Inflate or Pop an AI Bubble</a></li>
-<li><a href="https://nationalnewsdaily.org/federal-reserve-deal-ai-bubble/">How Should the Federal Reserve Deal With the AI Bubble ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons">Organisation for the Prohibition of Chemical Weapons - Wikipedia</a></li>
+<li><a href="https://www.nytimes.com/2013/10/14/world/to-ousted-boss-arms-watchdog-was-seen-as-an-obstacle-in-iraq.html">To Ousted Boss, Arms Watchdog Was Seen as an Obstacle in Iraq...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Economic Policy`, `#Federal Reserve`, `#Monetary Policy`, `#AI Market`, `#Rate Cuts`
+**Tags**: `#Budget Crisis`, `#Chemical Weapons`, `#Global Security`, `#Geopolitical Events`, `#Financial Markets`
 
 ---
 
 <a id="item-global-market-17"></a>
-### [Brazil&\#x27;s Galipolo Highlights Inflationary Effects of Spending Growth](https://reut.rs/3VOwh2Z) ⭐️ 7.0/10
+### [Huang Renxun&\#x27;s Return to Nvidia Boosts Nasdaq-100 Index](https://reut.rs/4zIlXax) ⭐️ 7.0/10
 
-Brazil&\#x27;s central bank official Galipolo highlighted the inflationary effects of spending growth in a rare fiscal speech, influencing global financial markets.
+The return of Huang Renxun to Nvidia is expected to significantly boost the Nasdaq-100 index by an estimated 2 trillion dollars, according to a Reuters report.
 
-rss · 路透社 Reuters · Nov 23, 18:34
+rss · 路透社 Reuters · Nov 23, 19:38
 
-**「Background on Brazil&\#x27;s Galipolo&\#x27;s Fiscal Speech」** Brazil&\#x27;s central bank chief, Gabriel Galipolo, recently made a rare public statement regarding the inflationary effects of spending growth in the country. This speech comes in the context of a fully employed economy and highlights the challenges faced by the Brazilian government in managing fiscal policy without sparking inflation. Galipolo&\#x27;s comments indicate a shift in the central bank&\#x27;s stance on fiscal policy and its impact on inflation, which is of significant interest to global financial markets.
+**「Background on Huang Renxun&\#x27;s Return to Nvidia and Its Impact on the Nasdaq-100 Index」** Jensen Huang, the co-founder and former CEO of Nvidia, returned to the company in a significant move that has been widely anticipated in the technology sector. This event follows Huang&\#x27;s departure from Nvidia in 2025 and his subsequent roles in other ventures. His return has been met with enthusiasm in the market, as evidenced by a surge in Nvidia&\#x27;s stock and the broader technology sector. This surge has had a notable impact on the Nasdaq-100 index, which includes technology companies that are heavily influenced by Nvidia&\#x27;s performance. The increase in Nvidia&\#x27;s stock value, along with the broader market&\#x27;s response, is expected to contribute significantly to the overall growth of the Nasdaq-100 index.
 
-**「Impact」** The speech is expected to lead to increased vigilance on spending policies, potentially affecting currency values and investment decisions in the global financial markets.
+**「Impact」** This development is anticipated to have a substantial positive impact on the technology sector, potentially contributing to a significant increase in the value of the Nasdaq-100 index.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.reuters.com/world/americas/brazils-galipolo-says-rising-minimum-wage-pressures-inflation-calls-policy-2026-11-23/">Brazil&#x27;s Galipolo flags inflationary impact of spending ...</a></li>
-<li><a href="https://www.indexbox.io/blog/brazil-central-bank-chief-galipolo-signals-room-for-fiscal-rule-adjustments/">Brazil Central Bank Chief Galipolo Signals Room for Fiscal ...</a></li>
-<li><a href="https://www.riotimesonline.com/brazil-central-bank-chief-minimum-wage-inflation-2026-11-23/">Brazil Bank Chief Says Minimum Wage Adds Pressure</a></li>
+<li><a href="https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833">Stocks’ best day since 2025 after Jensen Huang ’s Nvidia return</a></li>
+<li><a href="https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226">Nasdaq soars more than 7% as Huang ’s return to Nvidia reignites AI...</a></li>
+<li><a href="https://www.nasdaq.com/market-activity/index/ndx">NASDAQ - 100 (NDX) Latest Quotes, Charts, Data &amp; News | Nasdaq</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Technology`, `#Financial Markets`, `#Nasdaq-100`, `#AI`, `#Nvidia`
+
+---
+
+<a id="item-global-market-18"></a>
+### [Brazil&\#x27;s Galipolo Highlights Inflationary Effects of Spending Growth](https://reut.rs/3VOwh2Z) ⭐️ 7.0/10
+
+Brazil&\#x27;s central bank official Galipolo highlighted the inflationary effects of spending growth in a rare fiscal speech, emphasizing the potential impact on financial markets.
+
+rss · 路透社 Reuters · Nov 23, 18:34
+
+**「Background on Brazil&\#x27;s Fiscal Policy and Inflation」** Brazil&\#x27;s fiscal policy has been a subject of interest due to its unique approach in developing economies. Unlike in developed economies, fiscal policy in Brazil is used to generate additional economic growth through improving human capital. This approach has been influenced by the politics of fiscal rules, which aim to insulate fiscal policy from political influence. However, these rules have also been criticized for reducing the space for the working class to influence fiscal policy decisions and pursue redistribution. In recent times, Brazil has faced escalating fiscal and inflation risks, with current price pressures generally reflecting supply shocks and strong global demand for foodstuff or FX pass-through, which are likely to be temporary in nature.
+
+**「Impact」** The speech is expected to influence market reactions, particularly in terms of inflation expectations and monetary policy adjustments.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Fiscal_policy">Fiscal policy - Wikipedia</a></li>
+<li><a href="https://phenomenalworld.org/analysis/brazil-fiscal-rules/">The politics of fiscal rules in Brazil .</a></li>
+<li><a href="https://think.ing.com/articles/brazil-fiscal-and-inflation-risks-escalate/">Brazil : Fiscal and inflation risks escalate | ING THINK</a></li>
 
 </ul>
 </details>
@@ -532,73 +528,70 @@ rss · 路透社 Reuters · Nov 23, 18:34
 
 ---
 
-<a id="item-global-market-18"></a>
-### [Exclusive Report on US Military Training Discussions with Syria](https://reut.rs/4AmkoR7) ⭐️ 7.0/10
-
-The United States is in discussions to provide military training for Syrian forces, a move that could significantly impact global financial markets, particularly those related to central banks and geopolitical tensions.
-
-rss · 路透社 Reuters · Nov 23, 18:03
-
-**「Background on US Military Training in Syria」** The United States has a history of involvement in Syria, particularly in the context of the civil war that began in 2011. Initially, the US provided non-lethal aid to the Free Syrian Army, but this quickly evolved to include training, money, and intelligence to selected Syrian rebel commanders. This intervention was part of a broader strategy to combat the Islamic State. The Syrian Train and Equip Program, which involved training Syrian rebels, was a significant aspect of this strategy. More recently, there have been discussions about the potential for the US to train Syrian military forces again, despite historical concerns over abuses against certain minority groups and the potential for American troops to be re-deployed in the region.
-
-**「Impact」** This development may lead to increased geopolitical tensions in the region, potentially affecting currency values and central bank policies worldwide.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/United_States_intervention_in_Syria">United States intervention in Syria - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Syrian_Train_and_Equip_Program">Syrian Train and Equip Program - Wikipedia</a></li>
-<li><a href="https://www.israelnationalnews.com/news/436975">Report: US weighs training Syrian military despite history of ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Geopolitical Events`, `#Military Training`, `#US Syria Relations`, `#Global Financial Markets`, `#Central Banks`
-
----
-
 <a id="item-global-market-19"></a>
-### [Applied Digital Signs 5.4 Billion USD AI Data Center Lease](https://reut.rs/4j7txoT) ⭐️ 7.0/10
+### [China and EU Discuss Exchange Rates](https://reut.rs/4tj4Z14) ⭐️ 7.0/10
 
-Applied Digital has entered into a 5.4 billion USD AI data center lease agreement with a hyperscaler. This significant financial deal is expected to impact the AI data center market.
+Chinese and European Union officials have engaged in discussions regarding exchange rates, with Chinese central bank chief Pan emphasizing the importance of enhanced cooperation between the two sides.
 
-rss · 路透社 Reuters · Nov 23, 17:32
+rss · 路透社 Reuters · Nov 23, 18:19
 
-**「Background on Applied Digital&\#x27;s AI Data Center Lease Agreement」** Applied Digital Corporation \(Nasdaq: APLD\) specializes in designing, building, and operating large-scale digital infrastructure and compute environments for hyperscalers, enterprises, and emerging technologies. The company has previously faced challenges, such as a 40.6% decline in share price since the last report and a 33% drop in shares after reporting weak revenue for the third quarter. The AI data center market has been experiencing fluctuations, with some projects being blocked or delayed due to local opposition and advocacy groups working to slow or stop new builds across multiple states. This context provides insight into the significance of Applied Digital&\#x27;s recent 5.4 billion USD AI data center lease agreement with a hyperscaler.
+**「Historical Context of Exchange Rate Discussions」** Exchange rate discussions between major economies have been a recurring theme in global financial markets. In the past, fluctuations in exchange rates have had significant impacts on financial markets, affecting the valuation of foreign investments and impacting stock prices and bonds. Additionally, interest rates play a crucial role in determining exchange rates and capital flows between countries, with higher interest rates often attracting foreign investors seeking higher returns. These factors highlight the importance of cooperation between central banks and international financial institutions in managing exchange rate stability.
 
-**「Impact」** The agreement is likely to drive growth in the AI data center market, potentially leading to increased investments and technological advancements in the sector.
+**「Impact」** The discussions between China and the EU on exchange rates could have significant implications for global financial markets, potentially influencing currency values and trade relations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.applieddigital.com/">Applied Digital Corporation (APLD)</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/articles/why-applied-digital-corporation-apld-153002704.html">Why Is Applied Digital Corporation (APLD) Down 40.6% Since Last...</a></li>
-<li><a href="https://www.benzinga.com/25/04/44820652/heres-why-applied-digital-shares-are-tanking-30-on-tuesday">Here&#x27;s Why Applied Digital Shares Are Tanking 33% On... - Benzinga</a></li>
-<li><a href="https://aidatacentermap.org/">AI Data Center Map - Visualize Water &amp; Power Impact</a></li>
-<li><a href="https://zulfiqarresearch.com/data-center-slowdown/">Cracks in the AI Boom: Why a Data Center ... - Zulfiqar Research</a></li>
-<li><a href="https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html">Anthropic&#x27;s path to the Nasdaq just got a lot bumpier</a></li>
+<li><a href="https://armgpublishing.com/wp-content/uploads/2025/01/FMIR_4_2024_2.pdf">The Impact of Exchange Rate Fluctuations</a></li>
+<li><a href="https://fastercapital.com/content/Interest-Rates--Interest-Rates-and-the-Black-Wednesday-Fallout.html">Interest Rates : Interest Rates and the Black... - FasterCapital</a></li>
+<li><a href="https://finance.yahoo.com/markets/">Markets : World Indexes, Futures, Bonds, Currencies... - Yahoo Finance</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Data Centers`, `#Hyperscaler`, `#Financial Agreement`, `#Market Impact`, `#Technology News`
+**Tags**: `#Exchange Rates`, `#Central Bank`, `#International Cooperation`, `#Financial Markets`
 
 ---
 
 <a id="item-global-market-20"></a>
-### [UN Security Council Briefing on Ukraine](https://www.youtube.com/live/ywJPMmZl06k) ⭐️ 7.0/10
+### [Exclusive Report on US Discussing Military Training for Syrian Forces](https://reut.rs/4AmkoR7) ⭐️ 7.0/10
 
-The UN Security Council held a live briefing addressing the ongoing situation in Ukraine. The briefing provided an update on the geopolitical situation, which is expected to have significant implications for global financial markets.
+The US is in discussions to provide military training to Syrian forces, a move that could have significant geopolitical implications. This exclusive report highlights the potential for increased tensions in the region and its potential impact on global security and markets.
 
-rss · 路透社 Reuters · Nov 23, 15:39
+rss · 路透社 Reuters · Nov 23, 18:03
 
-**「Background on UN Security Council Briefings on Ukraine」** The situation in Ukraine has been a matter of significant concern on the global stage, leading to multiple briefings by the UN Security Council. Previous briefings have addressed various aspects of the conflict, including diplomatic efforts, ceasefire calls, and the escalation of violence. For instance, on May 19, 2026, the Security Council held an open briefing on Ukraine, requested by the country itself and supported by several Council members. In September 2026, the UN political affairs chief addressed the Security Council, highlighting the need for renewed diplomatic efforts towards an immediate and unconditional ceasefire. These briefings reflect the ongoing international attention and efforts to resolve the conflict in Ukraine.
+**「Background on US Military Involvement in Syria」** The United States has a history of military involvement in Syria. Notably, the Syrian Train and Equip Program, initiated in 2014, aimed to train and equip various opposition groups, including the Kurdish YPG and the Revolutionary Commando Army, to combat the Islamic State of Iraq and the Levant. This program was part of a broader US-led military operation. However, American forces completed their withdrawal from Syria on April 16, 2026, marking the end of over a decade of military presence. Despite this withdrawal, recent reports indicate that the US is now discussing plans to train Syrian soldiers in demining, which would be the first such training mission with the Syrian military since the withdrawal.
 
-**「Impact」** The briefing is likely to influence market sentiment and could lead to shifts in currency values and investment strategies, as investors react to the latest developments in Ukraine.
+**「Impact」** The potential military training of Syrian forces by the US could lead to heightened tensions in the Middle East, affecting regional stability and potentially influencing global oil prices and currency markets.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://en.wikipedia.org/wiki/Syrian_Train_and_Equip_Program">Syrian Train and Equip Program - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_intervention_in_Syria">United States intervention in Syria - Wikipedia</a></li>
+<li><a href="https://www.reuters.com/world/us-discussing-military-training-syrian-forces-2026-11-23/">EXCLUSIVE: US discussing military training for Syrian forces</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Geopolitical`, `#Military`, `#US Foreign Policy`, `#Syria`, `#Global Security`
+
+---
+
+<a id="item-global-market-21"></a>
+### [UN Security Council Briefing on Ukraine](https://www.youtube.com/live/ywJPMmZl06k) ⭐️ 7.0/10
+
+The UN Security Council held a live briefing addressing the ongoing situation in Ukraine. The briefing provided insights into the current geopolitical landscape and its implications for global financial markets.
+
+rss · 路透社 Reuters · Nov 23, 15:39
+
+**「Background on UN Security Council Briefing on Ukraine」** The UN Security Council has been actively involved in discussions regarding the situation in Ukraine. On November 9, 2026, the Security Council met to discuss Ukraine following attacks by the Russian Federation on several cities, resulting in casualties and significant damage. The meeting was requested by Ukraine and supported by the Council&\#x27;s five European members. Additionally, Russia has been reported to have stepped up attacks on Ukraine&\#x27;s energy infrastructure, causing disruptions and affecting the lives of many. These events have been closely monitored by the UN Human Rights Monitoring Mission in Ukraine and have been the subject of briefings and reports by the Security Council.
+
+**「Impact」** The briefing is expected to have a significant impact on global financial markets, as it addresses a critical geopolitical issue affecting international relations and economic stability.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://press.un.org/en/ukraine">Ukraine | UN Meetings Coverage and Press Releases</a></li>
+<li><a href="https://www.securitycouncilreport.org/whatsinblue/2026/11/ukraine-briefing-38.php">Ukraine: Briefing : What&#x27;s In Blue : Security Council Report</a></li>
 <li><a href="https://www.securitycouncilreport.org/ukraine/">Ukraine Publications : Security Council Report</a></li>
-<li><a href="https://www.press.un.org/en/2026/sc16460.doc.htm">Ukraine War Entering ‘Dangerous New Phase’ as Attacks ...</a></li>
-<li><a href="https://news.un.org/en/story/2026/06/1167775">Security Council LIVE: Warnings of ‘dangerous cycle of ...</a></li>
 
 </ul>
 </details>
@@ -607,309 +600,263 @@ rss · 路透社 Reuters · Nov 23, 15:39
 
 ---
 
-<a id="item-global-market-21"></a>
-### [India Inc Rushes to Raise Debt Ahead of RBI Rate Hike](https://reut.rs/4kPmDrd) ⭐️ 7.0/10
-
-Indian companies are actively seeking to raise $2.7 billion in debt in anticipation of an expected interest rate hike by the Reserve Bank of India \(RBI\).
-
-rss · 路透社 Reuters · Nov 23, 13:47
-
-**「Background on RBI Rate Hike and Market Reaction」** The Reserve Bank of India \(RBI\) has been under pressure to raise interest rates to control inflation, which has been hovering around 6% in recent months. This has led to expectations of a rate hike in the near future. The anticipation of this rate hike has prompted Indian companies to rush to raise $2.7 billion in debt, possibly to lock in current interest rates before they potentially rise. This action reflects the market&\#x27;s sensitivity to central bank policies and the impact of interest rate changes on corporate borrowing costs.
-
-**「Impact」** This debt-raising activity could potentially lead to increased borrowing costs for Indian businesses and may influence equity markets as investors react to the anticipated monetary policy change.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arthfy.com/blogs/rbi-rate-hike-impact-sectoral-winners-and-losers-2026-07-30">RBI Rate Hike Impact: Sectoral Winners and Losers | ArthFy</a></li>
-<li><a href="https://economictimes.indiatimes.com/markets/stocks/news/rbi-hikes-rate-but-analysts-see-shift-to-calibrated-tightening-as-bigger-takeaway-how-can-this-impact-markets/articleshow/134758783.cms">RBI hikes rate, but analysts see shift to ‘calibrated ...</a></li>
-<li><a href="https://www.welthwest.com/news/rbi-rate-hikes-indian-stocks-face-headwinds-as-inflation-broadens-202609281242">RBI Rate Hike Impact on Indian Stocks: Winners &amp; Losers ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#India`, `#Reserve Bank of India`, `#Rate Hike`, `#Debt Financing`, `#Equities`
-
----
-
 <a id="item-global-market-22"></a>
-### [Russia&\#x27;s Oil Exports to West Disrupted by Weather and Drones](https://reut.rs/3X11NuW) ⭐️ 7.0/10
+### [Nvidia Board Restores Huang&\#x27;s Position, Shares Surge](https://www.youtube.com/live/qFcl7JRivVI) ⭐️ 7.0/10
 
-Russian oil exports to Western markets have been significantly disrupted due to adverse weather conditions and drone interference, impacting global oil markets.
+Nvidia&\#x27;s board has reinstated Jensen Huang, the company&\#x27;s former CEO, leading to a significant surge in the company&\#x27;s shares.
 
-rss · 路透社 Reuters · Nov 23, 10:35
+rss · 路透社 Reuters · Nov 23, 14:51
 
-**「Prior Events Affecting Russian Oil Exports」** Recent disruptions in Russian oil exports to the West are a continuation of a trend that has been influenced by several factors. The ongoing conflict in Ukraine has led to increased tensions and attacks on energy infrastructure, including oil facilities. This has resulted in delays and disruptions in the loading of oil tankers at key ports such as those in the Baltic Sea and the Black Sea. Additionally, the global geopolitical landscape, particularly the US-Iran conflict and tensions in the Strait of Hormuz, has further constrained oil supply sources, contributing to the current challenges faced by Russia in exporting its oil to Western markets.
+**「Background on Jensen Huang and Nvidia」** Jensen Huang, the founder of Nvidia, has been a pivotal figure in the technology industry, particularly in the realm of generative AI. Huang founded NVIDIA in 1993 and has served as the CEO for 33 years, establishing the company as a leader in the development of highly sought-after chips for AI model training. His resignation from Nvidia in 2026 was a significant event, and his subsequent reinstatement by the board has led to a surge in the company&\#x27;s shares. This event reflects the importance of leadership in technology companies and the impact it can have on market sentiment and financial performance.
 
-**「Impact」** This disruption is likely to lead to increased oil prices and affect related assets in the global financial markets.
+**「Impact」** The reinstatement of Jensen Huang has resulted in a notable increase in Nvidia&\#x27;s stock price, reflecting market optimism and confidence in his leadership.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/mkelly782_russian-oil-exports-being-disrupted-at-the-activity-7444271430416003072-AzKH">Russia &#x27;s Oil Exports Disrupted Amid US-Iran Conflict and... | LinkedIn</a></li>
-<li><a href="https://www.globalbankingandfinance.com/ukraine-using-strikes-pressure-russia-oil-sanctions-eased/">Ukraine Strikes Russian Energy Sites Amid Eased Oil Sanctions</a></li>
+<li><a href="https://www.businessinsider.com/jensen-huang">The Rise and Fall of Nvidia Founder Jensen Huang - Business Insider</a></li>
+<li><a href="https://wccftech.com/nvidia-employees-give-reinstated-ceo-jensen-a-heros-reception-at-endeavor-hq/">NVIDIA Employees Give Reinstated CEO, Jensen , A Hero&#x27;s Reception...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html">Jensen Huang Resigns From Nvidia After Affairs - The New York Times</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Oil Markets`, `#Russia`, `#Energy Policy`, `#Geopolitical Events`, `#Commodities`
-
----
-
-<a id="item-global-market-23"></a>
-### [Taiwan Loosens Margin Call Rules](https://reut.rs/4j7quNH) ⭐️ 7.0/10
-
-Taiwan has relaxed margin call rules in an effort to stabilize the market amidst AI-induced panic. This regulatory action aims to steady the market by easing the strict requirements for margin calls, which are financial obligations for investors to deposit additional funds when their positions fall below a certain level.
-
-rss · 路透社 Reuters · Nov 23, 10:19
-
-**「Market Background」** The recent decision by Taiwan to relax margin call rules is in response to the heightened market volatility caused by concerns over artificial intelligence. This action follows a global rout of AI-related stocks and aims to reduce selling pressure in the affected markets. The relaxation of margin lending rules is part of a broader effort to stabilize the market and mitigate the impact of AI-related uncertainties. This move is significant as it reflects the ongoing challenges faced by financial markets in adapting to technological advancements and the need for regulatory responses to such disruptions.
-
-**「Impact」** The relaxation of margin call rules is expected to have a positive impact on the market by reducing the pressure on investors and potentially increasing liquidity, which could lead to a more stable market environment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/global-markets-taiwan-update-1-2026-11-23/">Taiwan loosens margin call rules in bid to steady market</a></li>
-<li><a href="https://wwconemedia.com/taiwan-lowers-margin-call-threshold-as-stock-market-faces-further-pressure/">Taiwan Lowers Margin-Call Threshold as Stock Market Faces ...</a></li>
-<li><a href="https://www.twse.com.tw/market_insights/en/detail/8a8216d6a0bdcc0001a0d2d9db47007c">Margin Trading in Taiwan’s Stock Market: A Perspective from ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Taiwan`, `#Market Stabilization`, `#Regulatory Action`, `#AI Impact`, `#Financial News`
+**Tags**: `#Technology`, `#Stock Market`, `#Corporate News`, `#Financial Markets`
 
 ---
 
 ## AI Frontier
 
 <a id="item-ai-frontier-1"></a>
-### [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF) ⭐️ 8.0/10
+### [Claude Proves Algebric P≠NP with 73,000 Lines of Lean Code](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652744860&amp;idx=2&amp;sn=70bef4b64297b541c7daa283d848930e) ⭐️ 9.0/10
 
-NariQ, a 3-bit-or-lower quantization of Qwen3.8-27B, demonstrates near-BF16 quality across multiple tasks and includes comprehensive benchmarks.
+Claude, an AI model, has proven the Algebric P≠NP theorem, a significant breakthrough in computational complexity theory. The proof was achieved using 73,000 lines of Lean code, marking a major advancement in AI research and development.
 
-hackernews · toebee · Nov 23, 13:42 · [Discussion](https://news.ycombinator.com/item?id=50611402)
+rss · 新智元 · Nov 24, 02:09
 
-**Tags**: `#AI Model Quantization`, `#Large Language Models`, `#Benchmarking`, `#AI Research`
+**「Background on Claude&\#x27;s Proof of VP≠VNP」** The proof of VP≠VNP by Claude, an AI model, represents a significant advancement in the field of computational complexity theory. This proof builds upon earlier work by Leslie Valiant, who proposed the VP vs VNP problem in 1979. The problem revolves around the study of two similar functions, determinant and permanent, within matrix theory. Claude&\#x27;s proof, which involved writing 73,000 lines of Lean code for formal verification, marks a major milestone in the application of AI in mathematical research.
+
+**「Impact」** This discovery could have profound implications for developers and researchers in AI, potentially leading to new algorithms and approaches that were previously thought impossible.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.sohu.com/a/1105707050_122066679">Claude独立完成70页论文，证明VP≠VNP_研究_电路_下界</a></li>
+<li><a href="https://ip.net.coffee/claude/news/20261124d.html">Anthropic 公开 VP≠VNP 的 Lean 4 证明，说明里先写了「没有人类检查...</a></li>
+<li><a href="https://www.36kr.com/p/4083150870664325">Claude证出「代数版P≠NP」，73000行Lean代码通过验证-36氪</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#Computational Complexity`, `#AI Breakthrough`, `#Algorithmic Theory`, `#AI Infrastructure`
 
 ---
 
 <a id="item-ai-frontier-2"></a>
-### [Anthropic&\#x27;s Claude Model Discovers VP≠VNP and Publishes Lean 4 Proof](https://github.com/anthropics/formal-math/blob/main/vp-vnp/README.md) ⭐️ 8.0/10
+### [Ladybird Browser Enters Alpha Phase](https://ladybird.org/posts/alpha/) ⭐️ 7.0/10
 
-Anthropic&\#x27;s Claude model has discovered the VP≠VNP theorem and published a formal proof using Lean 4. The result, discovered by the model, provides a lower bound for the arithmetic circuit complexity of the Hamiltonian circuit polynomial, suggesting that VP is a proper subset of VNP. This discovery is significant in the field of computational complexity but is limited to arithmetic circuits and does not address the P vs. NP problem.
+The Ladybird browser has entered the alpha phase, receiving positive community reception and featuring technical improvements. The browser, developed from scratch, has shown promising performance with correct rendering of various websites, although some users have reported minor issues with page scrolling. Ladybird has also transitioned to using production-grade libraries like sqlite and skia, which have contributed to its performance enhancements.
 
-telegram · zaihuapd · Nov 24, 06:02
+hackernews · janvdberg · Nov 23, 16:13 · [Discussion](https://news.ycombinator.com/item?id=50614249)
 
-**「Background on VP≠VNP Discovery by Anthropic&\#x27;s Claude Model」** The discovery of VP≠VNP by Anthropic&\#x27;s Claude model is significant in the field of computational complexity. This discovery involves AI-generated content and a formal proof using Lean 4. The result provides a lower bound for the arithmetic circuit complexity of the Hamiltonian circuit polynomial, suggesting that VP is a proper subset of VNP. This finding is particularly relevant as it addresses a conjecture by Leslie Valiant from 1979, though it is limited to arithmetic circuits and does not involve the P vs. NP problem.
+**「Ladybird Browser Development Background」** Ladybird is an independent web browser that has recently entered the alpha phase. It features a new, built-from-scratch engine that is not a fork or derivative of the dominant web engine Blink, which powers browsers like Chrome, Edge, Vivaldi, and Brave. This independent approach to browser development is a significant shift in the industry, as it represents a fresh start in the browser engine landscape. The initial alpha version of Ladybird covers the core browsing essentials and is designed to be functional yet modest, with the understanding that it is still in an early development stage.
 
-**「Impact」** This discovery could potentially impact the understanding of computational complexity, particularly in the area of arithmetic circuit complexity. It may also contribute to the development of new AI-generated content in the field of mathematics and computational theory.
+**「Community Discussion」** Community members have expressed admiration for the browser&\#x27;s performance and the team&\#x27;s efforts. One user praised the browser for its correct rendering of websites and its snappy performance with complex sites like NoVNC. Another user highlighted the browser&\#x27;s move to production-grade libraries as a significant improvement. However, there was also a discussion about the need for enhanced security features, such as a non-compliant JS mode and more granular permissions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture">Claude claims to prove VP VNP in Valiant&#x27;s 47-year-old conjecture</a></li>
-<li><a href="https://www.youtube.com/watch?v=UuOiRi9T-9c">Claude&#x27;s VP VNP Proof : 47 Years Open, Still Unchecked... - YouTube</a></li>
-<li><a href="https://www.alphaxiv.org/abs/2611.vp-vnp-arithmetic-lower-bounds">VP VNP Over Every Field | alphaXiv</a></li>
+<li><a href="https://ladybird.org/posts/alpha/">Ladybird is now in alpha - Ladybird</a></li>
+<li><a href="https://www.omgubuntu.co.uk/2026/11/ladybird-browser-enters-alpha">Ladybird browser reaches alpha after four years of... - OMG! Ubuntu</a></li>
+<li><a href="https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing">Ladybird , the first new browser engine in years, is now... | The Verge</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Research`, `#Computational Complexity`, `#AI-Generated Content`, `#Formal Proof`, `#Anthropic`
+**Tags**: `#browser release`, `#alpha phase`, `#AI infrastructure`, `#AI-powered products`
 
 ---
 
 <a id="item-ai-frontier-3"></a>
-### [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) ⭐️ 7.0/10
+### [GLM-5.4: Loop Transformer Model Release](https://simonwillison.net/2026/Nov/23/glm-54/) ⭐️ 7.0/10
 
-Ladybird browser enters alpha phase, receiving positive feedback for its performance and potential as a new browser option.
-
-hackernews · janvdberg · Nov 23, 16:13 · [Discussion](https://news.ycombinator.com/item?id=50614249)
-
-**Tags**: `#browser release`, `#alpha phase`, `#user feedback`, `#browser development`, `#technology news`
-
----
-
-<a id="item-ai-frontier-4"></a>
-### [GLM-5.4: Loop Transformer Model Release](https://z.ai/blog/glm-5.4) ⭐️ 7.0/10
-
-Zhipu AI has released GLM-5.4, featuring looped transformers, a novel approach in AI model development. This model aims to enhance coding capabilities by optimizing the process of moving weights between memory and the chip, addressing a significant bottleneck in inference. GLM-5.4 is not yet available via standard APIs but requires a Coding Plan subscription for access.
-
-hackernews · foohis · Nov 23, 10:06 · [Discussion](https://news.ycombinator.com/item?id=50609685)
-
-**「Understanding Loop Transformers in AI Model Development」** Loop transformers represent a novel approach in AI model development, particularly in the context of large language models \(LLMs\). This technique involves reusing weights by applying the same transformer or parts of it multiple times to token representations. This method allows for deeper processing without increasing the model&\#x27;s parameter count, addressing a significant bottleneck in inference processes. The concept of loop transformers has been in development but gained mainstream attention with the release of models like Zhipu AI&\#x27;s GLM-5.4, which incorporates this architecture.
-
-**「Impact」** The introduction of looped transformers in GLM-5.4 could lead to more efficient AI models, particularly for coding tasks, by reducing the bottleneck of moving weights between memory and the chip. This could potentially improve the performance and speed of AI-powered coding tools.
-
-**「Community Discussion」** Community discussions highlight the transparency of Zhipu AI in providing technical details about GLM-5.4. Some users appreciate the access to the new model through the Coding Plan, while others express concerns about the complexity and performance issues associated with Chinese models, particularly in terms of time to completion and token processing speed.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.online-tech-tips.com/zai-glm-5-4-loop-transformer/">Z.ai releases GLM-5.4 with a Loop Transformer architecture</a></li>
-<li><a href="https://dev.to/amananandrai/loop-transformers-thinking-deeper-without-getting-bigger-glm-54-inkling-2-mini-501m">Loop Transformers: Thinking Deeper Without Getting Bigger ...</a></li>
-<li><a href="https://arxiv.org/html/2610.40325v1">How to Loop Your Transformer: Loop Scaling, Specialization ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Model Release`, `#Looped Transformers`, `#AI Research`, `#Model Development`
-
----
-
-<a id="item-ai-frontier-5"></a>
-### [GLM-5.4: Loop Transformer Architecture for Generalized Coding](https://simonwillison.net/2026/Nov/23/glm-54/) ⭐️ 7.0/10
-
-Chinese AI lab Z.ai has released GLM 5.4, featuring a looped transformer architecture designed for generalized coding. This architecture allows for deeper networks without increasing the parameter count, offering a novel approach to coding tasks.
+Chinese AI lab Z.ai has released GLM 5.4, featuring a looped transformer architecture, a significant development in AI research and infrastructure. This model utilizes a group of weight-shared layers that run for multiple iterations, enhancing network depth without increasing parameter count. GLM 5.4 is not yet available as open weights and requires a Coding Plan subscription for access.
 
 rss · Simon Willison · Nov 23, 23:40
 
-**「Background on Loop Transformer Architecture」** The Loop Transformer architecture is a novel approach in neural network design, particularly in the context of transformer models. In traditional Transformer models, each layer processes the input data once per forward pass. The Loop Transformer, however, introduces a group of weight-shared layers that run multiple iterations, refining the hidden states from the previous pass. This architecture allows for a deeper network without increasing the parameter count, potentially enhancing the model&\#x27;s ability to learn complex patterns and relationships in data. The concept of looped transformers has been gaining attention in the AI community, with recent mentions in models like Inkling 2 Mini from Thinking Machines Lab.
+**「Background on Loop Transformer Architecture」** The loop transformer architecture is a novel development in the field of AI, allowing for deeper networks without increasing the parameter count. This architecture involves a group of weight-shared layers that run for multiple iterations, refining the hidden states from the previous pass. This concept has been gaining attention recently, with Chinese AI lab Z.ai releasing GLM 5.4, which is their first model to utilize this architecture. The looped transformer architecture is a significant advancement in AI research and infrastructure, offering new possibilities for model development and performance.
 
-**「Impact」** The introduction of GLM 5.4 with its looped transformer architecture could lead to more efficient and effective coding models, potentially improving the performance of AI systems in tasks requiring reasoning and complex computations.
+**「Impact」** The introduction of the looped transformer architecture in GLM 5.4 may lead to more efficient and powerful AI models, potentially impacting various applications that require deep reasoning and fewer parameters.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://docs.z.ai/guides/llm/glm-5.4">GLM-5.4 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
 <li><a href="https://www.online-tech-tips.com/zai-glm-5-4-loop-transformer/">Z.ai releases GLM-5.4 with a Loop Transformer architecture</a></li>
-<li><a href="https://www.scmp.com/tech/big-tech/article/3375517/chinas-zai-aggressively-using-looped-transformer-method-improve-ai-models">China’s Z.ai ‘aggressively’ using looped transformer method ...</a></li>
 <li><a href="https://simonwillison.net/2026/Nov/23/glm-54/">GLM-5.4: Toward Generalized Coding with Our First Loop ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Research`, `#Model Release`, `#Transformer Architecture`, `#Loop Transformer`, `#GLM 5.4`
+**Tags**: `#AI Research`, `#Model Release`, `#Looped Transformer`, `#AI Infrastructure`, `#GLM 5.4`
 
 ---
 
-<a id="item-ai-frontier-6"></a>
-### [ERNIE 5.5 Flash Preview Support Announced](https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview) ⭐️ 7.0/10
+<a id="item-ai-frontier-4"></a>
+### [Ladybird&\#x27;s first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/) ⭐️ 7.0/10
 
-The Baidu ERNIE team and vLLM Team have announced day-0 support for ERNIE 5.5 Flash Preview, a large sparse mixture-of-experts model with 280B total parameters and advanced features. The model supports a 1M-token context and includes acceleration capabilities like FlashIndexer and speculative decoding. It is designed for inference cost reduction and is compatible with vLLM through a dedicated plugin.
+Ladybird, a new browser with a unique implementation of key components, has released its first alpha version, making it installable on macOS and Linux without compilation.
+
+rss · Simon Willison · Nov 23, 21:46
+
+**Tags**: `#Browser Technology`, `#Open Source Software`, `#Web Development`, `#Alpha Release`, `#Software Innovation`
+
+---
+
+<a id="item-ai-frontier-5"></a>
+### [ERNIE 5.5 Flash Preview Release with vLLM Support](https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview) ⭐️ 7.0/10
+
+The Baidu ERNIE team has released ERNIE 5.5 Flash Preview, a sparse mixture-of-experts \(MoE\) model with 280B total parameters and 14B active per token. It supports a 1M-token context and features day-0 support through the vLLM-ERNIE plugin, offering significant technical enhancements and inference acceleration capabilities.
 
 rss · vLLM Blog · Nov 24, 00:00
 
-**「ERNIE 5.5 Flash Preview Overview」** ERNIE 5.5 Flash Preview is a large sparse mixture-of-experts \(MoE\) model developed by the Baidu ERNIE team and vLLM Team. It features a total of 280 billion parameters, with 14 billion activated per token, and supports a 1 million-token context. The model is designed with inference cost as a primary goal, incorporating advanced features such as Heavily Compressed Attention \(HCA\), Multi-Router Latent MoE, and a MultiMax output head. It also includes acceleration capabilities like FlashIndexer for sparse indexer acceleration and various parallelisms for inference acceleration. The model is compatible with vLLM through a dedicated plugin, allowing for easy deployment and usage.
+**「Background on ERNIE 5.5 Flash Preview」** ERNIE 5.5 Flash Preview is a significant advancement in the field of large language models, developed by the Baidu ERNIE team. This model is a sparse mixture-of-experts \(MoE\) with a total of 280 billion parameters and the capability to activate 14 billion parameters per token. It supports a context length of up to 1 million tokens, which is an extension from the Base model&\#x27;s 128K during post-training. The model is designed with inference cost as a primary goal, incorporating various technical enhancements such as Heavily Compressed Attention \(HCA\), MLA with DSA sparse attention, and a low-rank attention gate. It also features a Multi-Router Latent MoE and a MultiMax output head, among other innovations. The model&\#x27;s architecture is optimized for high inference performance, with several components redesigned to reduce computational overhead and improve efficiency.
 
-**「Impact on Developers and Researchers」** The release of ERNIE 5.5 Flash Preview, with its advanced features and acceleration capabilities, provides developers and researchers with a powerful tool for building applications that require large language models with high inference performance. This can lead to advancements in areas such as coding, 3D modeling, knowledge work, and content creation, as highlighted by the Baidu ERNIE Team.
+**「Impact on Developers and Researchers」** The release of ERNIE 5.5 Flash Preview, with its 280B total parameters and 1M-token context support, offers developers and researchers a powerful tool for complex tasks such as coding, agentic workloads, knowledge work, and deep research. The model&\#x27;s improvements in efficiency and performance, achieved through innovations like FlashIndexer and kernel fusion, can significantly reduce inference time and computational costs, making it more accessible for real-world applications.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://benchlm.ai/models/ernie-5-5-flash-preview">ERNIE 5 . 5 Flash Preview Benchmarks &amp; Context (November 2026)</a></li>
-<li><a href="https://openrouter.ai/baidu/ernie-5.5-flash-preview:free">ERNIE - 5 . 5 - Flash - Preview (free) - API Pricing &amp; Providers | OpenRouter</a></li>
-<li><a href="https://ernie.baidu.com/">ERNIE 5 . 5 Flash Preview . Explore the next generation of AI.</a></li>
 <li><a href="https://ernie.baidu.com/release/ernie-5-5-flash-preview/">Introducing ERNIE 5.5 Flash Preview · ERNIE - ernie.baidu.com</a></li>
-<li><a href="https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/">Introducing ERNIE 5.5 Flash Preview · ERNIE</a></li>
-<li><a href="https://iamag.it/en/news/ernie-5-5-flash-preview-coding-benchmarks">ERNIE 5.5 Flash Preview: Early Agentic Coding Tests</a></li>
+<li><a href="https://llm-stats.com/models/ernie-5.5-flash-preview">ERNIE 5.5 Flash Preview Benchmarks, Pricing &amp; Context Window</a></li>
+<li><a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">ERNIE 5.5 Flash Base · ERNIE - ernie.baidu.com</a></li>
+<li><a href="https://ernie.baidu.com/release/ernie-5-5-flash-preview/">Introducing ERNIE 5 . 5 Flash Preview · ERNIE</a></li>
+<li><a href="https://llm-stats.com/models/ernie-5.5-flash-preview">ERNIE 5 . 5 Flash Preview Benchmarks, Pricing &amp; Context Window</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Research`, `#Large Language Models`, `#ERNIE 5.5`, `#Model Release`, `#Inference Acceleration`
+**Tags**: `#AI Research`, `#Large Language Models`, `#Model Release`, `#ERNIE 5.5`, `#vLLM`
+
+---
+
+<a id="item-ai-frontier-6"></a>
+### [阿里达摩院AI机器人新策略登顶六项真机任务](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247948323&amp;idx=3&amp;sn=f554a3311a9945f2a61b4c13d2f3313c) ⭐️ 7.0/10
+
+阿里达摩院推出一种名为RynnVLA-Latent的新策略，通过30,000小时视频数据训练，使AI机器人在六项真实世界任务中取得顶尖成绩。该策略利用视觉转移学习，将人类视频中的动作转化为机器人的控制指令。
+
+rss · 量子位 · Nov 24, 06:27
+
+**「Background on AI Robot Learning from Human Videos」** The development of AI robots has historically relied on extensive manual demonstration and control data, which is time-consuming and costly. However, human videos, abundant and diverse, lack the specific robot control commands needed for learning. This creates a gap between video experience and native control. To address this, researchers from Alibaba&\#x27;s DAMO Academy and the Hong Kong Embodied Intelligence Laboratory proposed the RynnVLA-Latent approach. This method extracts potential actions with three-dimensional geometric constraints from visual transfer and converts approximately 30,000 hours of heterogeneous video data into strategy supervision. The core of this work is to first learn shared motion experience and then adapt to specific robots.
+
+**「Impact on Developers and Researchers」** The introduction of RynnVLA-Latent by Alibaba&\#x27;s DAMO Academy and the Hong Kong Institute of Artificial Intelligence has significant implications for developers and researchers in the field of robotics. This model, which utilizes 3D-grounded latent actions to enable scalable robot policy pretraining from heterogeneous videos, represents a breakthrough in the area of robotic manipulation. It achieves high success rates across various benchmarks and real-world tasks, potentially leading to more efficient and effective robot training processes.
+
+**「Community Discussion」** 目前社区中尚未出现关于这一技术的具体讨论或评论。
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.msn.cn/zh-cn/%E6%8A%80%E6%9C%AF/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/3%E4%B8%87%E5%B0%8F%E6%97%B6%E8%A7%86%E9%A2%91%E6%95%99%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%B2%E6%B4%BB-%E5%85%AD%E9%A1%B9%E7%9C%9F%E6%9C%BA%E4%BB%BB%E5%8A%A1%E5%85%A8%E7%99%BB%E9%A1%B6-%E9%98%BF%E9%87%8C%E8%BE%BE%E6%91%A9%E9%99%A2%E7%BB%99%E5%87%BA%E5%85%B7%E8%BA%AB%E6%96%B0%E7%AD%96%E7%95%A5/ar-AA2i5Wrn">3万小时视频教会机器人干活，六项真机任务全登顶! 阿里达摩院给出具身...</a></li>
+<li><a href="https://www.geekfan.net/news/1124323800.html">3 万小时视频教会机器人干活，六项真机任务全登顶阿里达摩院给出具身...</a></li>
+<li><a href="https://blog.csdn.net/Liudef06/article/details/154428207">阿里达摩院RynnVLA-001-7B模型详解：基于人类视频演示的机器人操作学...</a></li>
+<li><a href="https://aimap.page/en/learn/papers/2610.34356/">RynnVLA - Latent : Scaling Robotic Manipulation Foundation… | AIMap</a></li>
+<li><a href="https://ai-search.io/zh/tool/rynnvla-002">RynnVLA -002 | 寻找最新最热门的 机 器 人 技术AI | 浏览最全面的AI数据库</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/2554305">AI Compass前沿速览： RynnVLA ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Research`, `#Robotics`, `#Alibaba DAMO Academy`, `#AI News`, `#Machine Learning`
 
 ---
 
 <a id="item-ai-frontier-7"></a>
-### [清华新框架提升AI Agent长程设计一致性](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247948091&amp;idx=3&amp;sn=a2b2c850a47a3098f6403c0a79705fd8) ⭐️ 7.0/10
+### [Global Collaboration on Riemann Hypothesis Proof Compression](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247948323&amp;idx=2&amp;sn=724e989c751e1f703b86f101e4c57951) ⭐️ 7.0/10
 
-清华大学的研究团队提出了一种名为Design Anything的新框架，该框架能够显著提升AI Agent在长程设计任务中的约束满足率，比同一模型下的最强对手高出14.4个百分点，特别是在使用GPT-5.6时，比Codex CLI高出14.4个百分点。
+A global collaboration effort has significantly reduced the size of a large-scale formal proof of the Riemann hypothesis, with the Lean 4 code being trimmed by over 2.4 million lines and over 25,000 files removed. This compression work involved various AI models and notable figures like Musk, highlighting the importance of AI in formal verification.
 
-rss · 量子位 · Nov 23, 08:35
+rss · 量子位 · Nov 24, 06:27
 
-**「Background on Agentic AI and Multi-Agent Systems」** Agentic AI is a field of artificial intelligence that focuses on how agents can collaborate, spawn, and orchestrate other agents, as well as evolve their own capabilities to handle increasingly complex tasks. This approach is particularly relevant in the context of multi-agent systems, where multiple agents interact with each other and with their environment to achieve common goals. Tsinghua University has been a prominent institution in the research and development of Agentic AI, contributing significantly to the field with their innovative approaches and techniques.
+**「Background on the Riemann Hypothesis Proof Compression」** The Riemann hypothesis is a major unsolved problem in mathematics, concerning the distribution of prime numbers. In 2026, a significant development occurred when a formal proof of the Riemann hypothesis was created using Lean 4 code, totaling 17.37 million lines. This proof was developed in collaboration with Claude, an AI system. The complexity of the proof led to a global effort to compress the code, reducing its size and making it more manageable for human review. This collaborative approach involved various AI systems, including Gemini 4 Neon, DeepSeek, and GPT-6.2, showcasing the potential of AI in advancing mathematical research.
 
-**「Impact」** 这一框架的提出对于AI Agent的长程设计能力具有重大意义，能够帮助AI Agent更好地理解和满足复杂的设计需求，从而提高设计质量和效率。
+**「Impact」** This collaborative effort has demonstrated the potential of AI in formal verification, making complex mathematical proofs more accessible and manageable for human review and analysis.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://tonghanwang.github.io/">Tonghan Wang | Agentic AI , Multi- Agent Systems &amp; Mechanism Design</a></li>
+<li><a href="https://blog.csdn.net/gedonshen/article/details/171179821">AI前沿 | 2026年11月22日：Lean形式化证明 + 黎曼猜想之争 + 机器验证...</a></li>
+<li><a href="https://www.knowflowhub.com/content/news/2026-11-23/riemann-hypothesis-lean-verification-2026-11-21">Claude 参与的黎曼猜想证明通过 Lean 形式化验证（2026 年 11 月 21 ...</a></li>
+<li><a href="https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuarq5337556.shtml">AI证明了黎曼猜想 这算是数学家的&quot;柯洁时刻&quot;吗？_新浪科技_新浪网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Research`, `#AI Infrastructure`, `#AI-Powered Products`, `#AI Model Release`
+**Tags**: `#AI Research`, `#Collaboration`, `#Formal Verification`, `#Riemann Hypothesis`, `#AI Infrastructure`
 
 ---
 
 <a id="item-ai-frontier-8"></a>
-### [Meta AI Chief Warns About Superintelligence](https://thenextweb.com/news/metas-ai-chief-says-superintelligence-is-arriving-and-control-is-at-risk) ⭐️ 7.0/10
+### [Edge-side Super-node Boosts AI Efficiency](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247948323&amp;idx=1&amp;sn=50c5278ad859db6be5e3ab737419e51e) ⭐️ 7.0/10
 
-Meta AI Chief Alexandr Wang warns about the imminent arrival of superintelligence, highlighting a mathematical proof as a case study. He emphasizes the difficulty in controlling such systems and calls for urgent research on safety, alignment, and protection.
+A new concept called &\#x27;edge-side super-node&\#x27; is introduced, which aims to enhance AI efficiency by 270% without requiring new chips or models. This innovative approach focuses on optimizing the organization of AI tasks, rather than relying on hardware upgrades.
 
-telegram · zaihuapd · Nov 23, 12:49
+rss · 量子位 · Nov 24, 06:27
 
-**「Background on Superintelligence and AI Control」** The concept of superintelligence refers to AI systems that surpass human intelligence in virtually all domains. This idea has gained attention in AI research, particularly with the development of advanced AI models like Claude by Anthropic. The recent proof of the Riemann hypothesis by Levent Alpöge, using Anthropic&\#x27;s Claude, has sparked a debate on the capabilities and control of such AI systems. This proof, while significant in the field of mathematics, also highlights the potential challenges in controlling highly advanced AI systems that can self-improve and potentially outperform humans by a significant margin.
+**「Background on Edge Computing and AI Efficiency」** Edge computing has emerged as a crucial component in the field of artificial intelligence, particularly in scenarios where real-time processing and low latency are essential. This approach involves deploying computing resources closer to the data source, such as IoT devices or edge servers, to reduce the latency associated with transmitting data to a centralized cloud server. The concept of &\#x27;edge-side super-node&\#x27; builds upon this idea by introducing a novel method to enhance AI efficiency without the need for new chips or models. This approach is inspired by the analogy of optimizing traffic flow in a city, suggesting that by improving the coordination and distribution of tasks, the overall efficiency of a system can be significantly increased, even without altering the underlying components.
 
-**「Impact」** The warning by Meta AI Chief could lead to increased research and development efforts in AI safety and alignment, potentially influencing the future of AI development and deployment.
+**「Impact」** This development could significantly improve the efficiency of AI tasks on edge devices, potentially reducing the need for more powerful hardware and enabling better performance with existing resources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ithome.com/1/031/476.htm">Anthropic 数学家澄清 Claude 证 明 黎 曼 猜 想 争议：“25...”</a></li>
-<li><a href="https://sspai.com/post/119418">派早报： Anthropic 研究员宣称用 Claude 证 明 黎 曼 猜 想 - 少数派</a></li>
-<li><a href="https://www.bbc.com/zhongwen/articles/cwe85gr487dno/simp">Anthropic 公司或许已解决重大数学难题： 黎 曼 猜 想 - BBC News 中文</a></li>
+<li><a href="https://deepmind.google/models/gemma/">Gemma — Google DeepMind</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Research`, `#Superintelligence`, `#AI Safety`, `#AI Control`, `#Levent Alpöge`, `#Claude AI`
+**Tags**: `#AI Efficiency`, `#Edge Computing`, `#AI Infrastructure`, `#AI Research`
 
 ---
 
 <a id="item-ai-frontier-9"></a>
-### [ChatGPT Introduces GPT-6.2 Sol](https://x.com/ChatGPT/status/2124942186425069836) ⭐️ 7.0/10
+### [SpaceX Acknowledges AI Lag, Leases Computing Power to Anthropic and Google](https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html) ⭐️ 7.0/10
 
-ChatGPT has launched GPT-6.2 Sol, a new version of its AI model, which is now available to Plus, Pro, Business, and Enterprise users. This version is designed to handle complex requests more effectively and improve image recognition capabilities, including recognizing details in images and providing tailored suggestions based on user needs.
+SpaceX has acknowledged its AI capabilities are lagging and has shifted its strategy by renting out significant computing power to Anthropic and Google, generating billions in monthly revenue. This decision was made to focus on profitability over in-house AI development.
 
-telegram · zaihuapd · Nov 24, 00:44
+telegram · zaihuapd · Nov 24, 02:06
 
-**「Background on GPT-6.2 Sol」** GPT-6.2 Sol is an advanced version of the GPT-6 model, specifically designed for handling complex requests and improving image recognition capabilities. This version of the model builds upon the previous GPT-6 generation, which introduced a new level of intelligence. The enhancements in GPT-6.2 Sol include better detection of fine details in photos, improved selection of online options based on user priorities, and smarter timing for offering follow-up suggestions. These advancements are significant for AI research and AI-powered products, as they represent a step forward in the efficiency and accessibility of AI intelligence.
+**「SpaceX&\#x27;s Shift in AI Strategy」** SpaceX, known for its space exploration endeavors, has recently acknowledged its lag in the AI domain. To address this, the company has shifted its strategy by renting out significant computing power to companies like Anthropic and Google. This decision, made in May 2026, has been driven by the realization that renting out computing power is more profitable than investing in in-house AI development. This shift indicates a focus on profitability over internal AI development, a change in direction for SpaceX.
 
-**「Impact」** The introduction of GPT-6.2 Sol is expected to enhance the user experience for developers and researchers by providing more sophisticated AI capabilities, particularly in complex request handling and image recognition, which can lead to more advanced and efficient AI-powered products.
+**「Impact」** This move by SpaceX could lead to increased reliance on external AI services, potentially impacting the pace of in-house AI innovation and the company&\#x27;s long-term competitive position in the AI space.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/">OpenAI Brings GPT - 6 . 2 Sol to ChatGPT &#x27;s Chat Tab - MacRumors</a></li>
-<li><a href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">OpenAI launches GPT - 6 Sol and Luna, boasting lower... | TechCrunch</a></li>
-<li><a href="https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/">OpenAI&#x27;s GPT - 6 Sol doubles its accuracy rate - for half the cost - ZDNET</a></li>
+<li><a href="https://www.breitbart.com/tech/2026/11/23/elon-musks-spacex-targeted-with-state-lawsuits-over-grok-ai-deepfake-porn/">Elon Musk&#x27;s SpaceX Targeted with State Lawsuits over Grok AI ...</a></li>
+<li><a href="https://wccftech.com/elon-musk-spacexs-next-gen-space-ai-satellites-could-boost-peak-compute-to-400kw-says-analyst-with-10000-nvidia-gpu-racks-expected-for-2028-compute-capacity/">Elon Musk &amp; SpaceX &#x27;s Next-Gen Space AI Satellites Could Boost...</a></li>
+<li><a href="https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html">SpaceX Sued By Oregon and Virginia Over A . I .-Generated Sexualized...</a></li>
 
 </ul>
 </details>
-
-**Tags**: `#AI Research`, `#ChatGPT`, `#AI Infrastructure`, `#AI-Powered Products`
-
----
-
-<a id="item-ai-frontier-10"></a>
-### [马斯克承认 SpaceX 的 AI 落后，转而向 Anthropic、Google 出租大量算力，月入数十亿美元](https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html) ⭐️ 7.0/10
-
-SpaceX acknowledges its AI lag and turns to Anthropic, Google for large-scale computing power, generating billions in monthly revenue.
-
-telegram · zaihuapd · Nov 24, 02:06
 
 **Tags**: `#SpaceX`, `#AI`, `#Computing Power`, `#Industry Partnerships`, `#Financial Impact`
 
 ---
 
-<a id="item-ai-frontier-11"></a>
+<a id="item-ai-frontier-10"></a>
 ### [Baidu Open Sources Wenxin 5.5 Flash Preview](https://x.com/Baidu_Inc/status/2125077484442190137) ⭐️ 7.0/10
 
 Baidu has announced the open-source release of Wenxin 5.5 Flash Preview, a model with 280 billion parameters, available under the Apache 2.0 license. The model, based on the MoE architecture, is the first post-training model based on ERNIE 5.5 Flash Base and is deployable and fine-tunable using vLLM or SGLang.
 
 telegram · zaihuapd · Nov 24, 07:32
 
-**「Background on Baidu&\#x27;s Wenxin 5.5 Flash Preview」** The ERNIE \(Enhanced Representation through kNowledge Integration\) series of models is a family of pre-trained language models developed by Baidu. ERNIE 5.5 Flash Base is a part of this series, known for its efficiency and large-scale pre-training. The Wenxin 5.5 Flash Preview is the first post-trained model based on ERNIE 5.5 Flash Base, featuring a MoE \(Mixture-of-Experts\) architecture and a total of 280 billion parameters. This model is designed to be efficient and is capable of handling tasks such as coding, 3D modeling, knowledge work, and content creation. The Apache 2.0 license, under which the Wenxin 5.5 Flash Preview is released, is a widely-used free software license known for its permissive nature, allowing for flexibility in usage and distribution.
+**「Background on Baidu&\#x27;s Wenxin 5.5 Flash Preview」** The ERNIE \(Enhanced Representation through kNowledge Integration\) series of models is a family of pre-trained language models developed by Baidu. ERNIE 5.5 Flash Base is a variant of this series, known for its large-scale and high-quality language understanding capabilities. It is a sparse Mixture-of-Experts \(MoE\) language model with 280 billion total parameters, trained on 33.5 trillion tokens. The MoE architecture allows for efficient handling of large-scale language models, making them more practical for real-world applications. The Wenxin 5.5 Flash Preview, based on ERNIE 5.5 Flash Base, is the first post-training model in this series, indicating a focus on fine-tuning and customization for specific tasks.
 
-**「Impact on AI Research and Development」** The open-source release of Baidu&\#x27;s Wenxin 5.5 Flash Preview with its large parameter count and advanced MoE architecture is expected to significantly impact AI research and development. This will allow developers and researchers to explore and potentially improve upon the model&\#x27;s capabilities, fostering innovation in the field of large language models.
+**「Impact on Developers and Researchers」** The open-source release of Wenxin 5.5 Flash Preview with its large parameter count and advanced MoE architecture provides developers and researchers with a powerful tool for further innovation in large language models. This can lead to advancements in natural language processing tasks and facilitate research in areas such as language understanding and generation.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li>Apache License, Version 2.0</li>
-<li>Apache License 2.0 | Software Package Data Exchange (SPDX)</li>
-<li>Apache License - Wikipedia</li>
-<li><a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">ERNIE 5.5 Flash Base · ERNIE - ernie.baidu.com</a></li>
-<li><a href="https://huggingface.co/baidu/ERNIE-5.5-Flash-Base">baidu/ERNIE-5.5-Flash-Base · Hugging Face</a></li>
-<li><a href="https://ernie.baidu.com/release/ernie-5-5-flash-preview/">Introducing ERNIE 5.5 Flash Preview · ERNIE - ernie.baidu.com</a></li>
-<li><a href="https://deepseekv4guide.org/guides/v4-1-flash-1017-benchmarks">DeepSeek V 4.1 Flash 1017 Benchmarks | DeepSeek V 4 Guide</a></li>
-<li><a href="https://blog.sandbase.ai/deepseek-v4-1-flash-1017-update-2026/">DeepSeek V 4.1-Flash-1017: What the October... | SandBase Blog</a></li>
-<li><a href="https://capitalandcompute.net/blog/grok-4-7-benchmarks/">Grok 4.7 Benchmarks : One Model, Three Scores</a></li>
+<li><a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">ERNIE 5 . 5 Flash Base · ERNIE</a></li>
+<li><a href="https://llmrun.dev/model/baidu-ernie-5-5-flash-base">ERNIE 5 . 5 Flash Base — Hardware Requirements... | llmrun</a></li>
+<li><a href="https://huggingface.co/baidu/ERNIE-5.5-Flash-Base">baidu/ ERNIE - 5 . 5 - Flash - Base · Hugging Face</a></li>
+<li><a href="https://www.ai-all.info/en/ai-models/5-5-flash-preview">Wenxin 5.5 Flash Preview – Baidu&#x27;s Most Fundamental Model</a></li>
+<li><a href="https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/">Introducing ERNIE 5.5 Flash Preview · ERNIE</a></li>
+<li><a href="https://www.chaincatcher.com/en/article/2302012">Baidu opensourced Wenxin 5.5 Flash, with a...</a></li>
 
 </ul>
 </details>
@@ -918,95 +865,153 @@ telegram · zaihuapd · Nov 24, 07:32
 
 ---
 
-## IT &amp; Open Source
+<a id="item-ai-frontier-11"></a>
+### [AI Research Employees Discuss Safety Concerns Over Unreleased Models](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) ⭐️ 7.0/10
 
-<a id="item-it-opensource-1"></a>
-### [Astronomers Observe Stellar Explosion Event](https://www.solidot.org/story?sid=85966) ⭐️ 8.0/10
+Employees from Anthropic and OpenAI have raised concerns about the safety of unreleased AI models, prompting internal discussions about potentially halting public releases and even discontinuing new model training.
 
-Astronomers have observed a unique event in the Andromeda galaxy where a massive star consumed its companion star and exploded, offering insights into stellar evolution and binary star systems.
+telegram · zaihuapd · Nov 24, 12:18
 
-rss · Solidot · Nov 23, 10:10
+**「Background on AI Model Safety Concerns」** The ongoing development of AI models has led to increasing concerns about their safety, particularly as these models become more powerful. This has prompted internal discussions within companies like Anthropic and OpenAI about the potential risks associated with releasing unreleased models. These concerns arise from the rapid advancement of AI models, which some employees believe may be too powerful to release safely, potentially leading to control gaps and other deployment risks.
 
-**「Astronomical Discovery of a Star Consuming its Companion and Exploding」** The discovery of a massive star in the Andromeda galaxy consuming its companion star and exploding is a significant event in astronomy. This event, known as the &\#x27;common envelope phase&\#x27; in binary star systems, involves one star engulfing the other as it evolves. The study of this event, AT 2025abao, provides insights into stellar evolution and the dynamics of binary star systems. The observations were made using the Webb Space Telescope, which played a crucial role in analyzing the pre-explosion, explosion, and post-explosion states of the system.
-
-**「Impact on Developers and Organizations」** This discovery provides valuable insights into stellar evolution and the dynamics of binary star systems, which can potentially lead to advancements in astrophysics research and the development of new technologies for space exploration. Developers working on space-related software or hardware may benefit from this knowledge to improve their models and simulations of stellar events.
-
-**「Community Discussion」** No community comments available.
+**「Impact」** This internal debate could lead to more cautious model release practices, potentially delaying the availability of new AI models and increasing the focus on safety and security in AI research.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://762e.uszmqdmn.cc/">762e.uszmqdmn.cc</a></li>
-<li><a href="https://www.youtube.com/watch?v=mSY0oMaB_v8">【斗破苍穹】 EP212... - YouTube</a></li>
-<li><a href="https://d6lvl8l2l26yp.cloudfront.net/tag/%E5%86%85%E5%B0%84/">内射合集 - 标签分类 爆 点聚合页 | 51视频网</a></li>
-<li><a href="https://00000000.1688.com/">00000000.1688.com</a></li>
+<li><a href="https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks">Scoop: Anthropic and OpenAI employees fear unreleased AI ...</a></li>
+<li><a href="https://aiunderstanding.org/news/anthropic-and-openai-staff-warn-unreleased-models-may-be-too-unsafe-to-launch">Anthropic and OpenAI staff warn unreleased models may be too ...</a></li>
+<li><a href="https://coingape.com/anthropic-and-openai-employees-raise-safety-concerns-over-unreleased-ai-models/">Anthropic and OpenAI Employees Raise Safety Concerns Over ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Astronomy`, `#Stellar Evolution`, `#Binary Star Systems`, `#Webb Telescope`, `#Scientific Discovery`
+**Tags**: `#AI Safety`, `#AI Research`, `#Model Release`, `#OpenAI`, `#Anthropic`
+
+---
+
+## IT &amp; Open Source
+
+<a id="item-it-opensource-1"></a>
+### [Shenzhou 24 Mission Launch Announcement](https://www.solidot.org/story?sid=85977) ⭐️ 7.0/10
+
+China&\#x27;s Shenzhou 24 mission is scheduled for launch on November 25 at 8:18 AM, featuring a crew that includes a Pakistani astronaut, marking a significant international collaboration in space exploration.
+
+rss · Solidot · Nov 24, 10:24
+
+**「Background on Shenzhou 24 Mission」** The Shenzhou 24 mission is a significant development in China&\#x27;s space program, as it marks the first time a Pakistani astronaut, Muhammad Zeeshan Ali, will be part of a crew visiting the Tiangong space station. This mission represents an international collaboration in space exploration, with the astronaut from Pakistan participating in both the crew&\#x27;s daily activities and specific scientific experiments. The mission is set to launch on November 25, 2026, and is expected to carry out a range of scientific experiments and technology tests in space.
+
+**「Impact」** This mission represents a concrete step forward for international collaboration in space exploration, as the Pakistani astronaut will be the first foreign astronaut to visit the Chinese space station, Tianzhou, and will participate in scientific experiments.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Shenzhou_24">Shenzhou 24 - Wikipedia</a></li>
+<li><a href="http://www.spacefacts.de/mission/english/shenzhou_24.htm">Spaceflight mission report Shenzhou-24 - spacefacts.de Top Stories China to send new crew to space station with Pakistani ... Shenzhou-24 crew unveiled; first foreign astronaut joins ... China&#x27;s Shenzhou-24 mission to carry out 90 in-orbit ... China unveils Shenzhou-24 crew for space station mission ... China launching 1st international astronaut to Tiangong space ...</a></li>
+<li><a href="https://apnews.com/article/china-pakistan-shenzhou-24-space-a618c7d419cd556de0392829286ede66">China to send new crew to space station with Pakistani ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Space Exploration`, `#China Space Program`, `#International Collaboration`, `#Astronauts`, `#Science`
 
 ---
 
 <a id="item-it-opensource-2"></a>
-### [GrapheneOS Accuses Google of Intimidating Partners](https://www.solidot.org/story?sid=85968) ⭐️ 7.0/10
+### [Over 39 Million Players Experience GTA6 on PS5](https://www.solidot.org/story?sid=85976) ⭐️ 7.0/10
 
-GrapheneOS, an Android security enhancement project, accuses Google of intimidating partners and violating antitrust laws, potentially affecting the Android ecosystem and open source projects. The accusations involve Google pressuring Android manufacturers and threatening to revoke Google app authorization for collaborating with GrapheneOS.
+Over 3.9 million players have experienced GTA6 on PS5, setting new records for concurrent players and total playtime on the PlayStation platform.
 
-rss · Solidot · Nov 23, 13:58
+rss · Solidot · Nov 24, 09:04
 
-**「Background on GrapheneOS Accusations Against Google」** GrapheneOS, an Android security-focused distribution, operates within an ecosystem that has been subject to antitrust scrutiny. The company&\#x27;s accusations against Google are rooted in the broader context of antitrust laws and practices within the technology industry. Google has been involved in ongoing antitrust cases, such as the United States v. Google LLC, which was initiated by the Department of Justice in 2020. These cases highlight the complexities of antitrust law and the potential implications for companies like Google when it comes to their business practices and partnerships.
+**「GTA6 Player Milestone」** Grand Theft Auto VI \(GTA6\) has reached a significant milestone with over 39 million players experiencing the game on PlayStation 5 \(PS5\). This achievement includes setting new records for concurrent players and total playtime on the PS5 platform. The game&\#x27;s popularity is further highlighted by the high number of players choosing GTA6 as their first game on a newly activated PS5, with 70% of new PS5 activations reported to be for GTA6. Additionally, GTA6 has a sales ratio of 3:1 on PS5 and Xbox, suggesting a potential first-week sales figure of over 50 million copies.
 
-**「Impact on Developers and Organizations」** Developers and organizations that rely on the Android ecosystem may face increased challenges in maintaining partnerships with Android device manufacturers. The accusations by GrapheneOS against Google could lead to regulatory scrutiny and potential changes in the way Android is distributed and updated, affecting compatibility and development timelines for third-party applications and devices.
-
-**「Community Discussion」** No community comments available.
+**「Impact」** This milestone indicates a high level of interest in GTA6, potentially impacting game sales and the popularity of the PS5 console.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/United_States_v._Google_LLC_%282020%29">United States v. Google LLC (2020) - Wikipedia</a></li>
-<li><a href="https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc">Antitrust Division | U.S. and Plaintiff States v. Google LLC ...</a></li>
-<li><a href="https://lawfold.com/google-ads-lawsuit/">Google Ads Lawsuit (Updated November 2026)</a></li>
-<li><a href="https://www.techpolicy.press/google-android-antitrust-ruling-shows-the-next-battle-is-over-who-controls-trust/">Google Android Antitrust Ruling Shows the Next Battle is Over ...</a></li>
-<li><a href="https://www.skadden.com/insights/publications/2026/07/google-android-the-final-chapter">Google Android, the Final Chapter: Court of Justice Clarifies ...</a></li>
-<li><a href="https://www.thehindu.com/sci-tech/technology/what-the-google-play-store-antitrust-case-means-for-indias-digital-ecosystem/article69919327.ece">What the Google Play Store antitrust case means for India’s ...</a></li>
-<li><a href="https://www.digitec.ch/en/page/signature-27-motorolas-top-smartphone-for-next-year-44341">Signature 27 : Motorola&#x27;s top smartphone for next year - Digitec</a></li>
-<li><a href="https://mobidevices.com/en/motorola-signature-27">Motorola unveils Signature 27 with Tandem OLED and 200MP camera</a></li>
-<li><a href="https://www.androidauthority.com/grapheneos-motorola-signature-27-support-3714885/">GrapheneOS just confirmed its first supported non-Pixel phone</a></li>
+<li><a href="https://www.demandsage.com/gta-vi-statistics/">GTA VI Statistics (2026) – Player Count, Sales, &amp; Revenue</a></li>
+<li><a href="https://screenrant.com/gta-6-playstation-ps5-sales-numbers/">GTA 6 PlayStation Sales Numbers Officially Smash 31-Year Record</a></li>
+<li><a href="https://sensortower.com/grand-theft-auto-VI/sales-tracker">GTA VI Sales Tracker: Pre-Orders, Revenue &amp; More</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Android`, `#Open Source`, `#Google`, `#Antitrust`, `#Security`
+**Tags**: `#GTA6`, `#PlayStation`, `#PS5`, `#Video Games`, `#Sales`
 
 ---
 
 <a id="item-it-opensource-3"></a>
-### [BepiColombo 探测器进入水星轨道](https://www.solidot.org/story?sid=85965) ⭐️ 7.0/10
+### [Decomposition of Tor Protocol](https://www.solidot.org/story?sid=85974) ⭐️ 7.0/10
 
-The BepiColombo probe successfully entered Mercury&\#x27;s orbit, marking a significant milestone in the European and Japanese collaborative Mercury exploration project.
+A comprehensive technical book on the Tor protocol, titled &\#x27;Anatomia di Tor / Onion Routing Anatomy&\#x27;, has been published. The book offers insights into the mechanisms and practical experiments related to the Tor anonymous network.
 
-rss · Solidot · Nov 23, 09:42
+rss · Solidot · Nov 24, 08:02
 
-**「BepiColombo 探测器背景信息」** BepiColombo 探测器是由欧洲空间局（ESA）和日本宇宙航空研究开发机构（JAXA）合作的一个水星探索项目。该探测器以意大利数学家 Giuseppe Colombo 的名字命名，于 2018 年 10 月发射。BepiColombo 包含三个组件：ESA 的水星转移模块和行星轨道器，以及 JAXA 的水星磁层轨道器。这是人类第三次水星探测任务，前两次分别是 1973 年的 Mariner 10 和 2004 年的 Messenger。BepiColombo 的任务是将两个探测器送入环绕水星的轨道，并从独特的视角研究这颗行星。
+**「Background on Tor Protocol」** The Tor protocol is a widely-used tool for anonymous networking, which operates by routing internet traffic through a series of volunteer-run servers to conceal a user&\#x27;s location and usage from anyone conducting network surveillance or traffic analysis. The Tor protocol has been the subject of extensive technical analysis and research, with various specifications and studies available online. One such resource is the Tor Protocol Specification, which aims to specify Tor as currently implemented, though it may take some time to become fully up to date. Additionally, there are studies and analyses, such as the GitHub repository &\#x27;Attacks-on-Tor&\#x27;, which examines the technical, ethical, and financial vulnerabilities of the deployed Tor network. These resources provide a foundational understanding of the Tor protocol and its mechanisms, which is crucial for comprehending the context of the newly published technical book on the Tor protocol.
 
-**「Impact on Developers and Organizations」** The successful entry of the BepiColombo probe into Mercury&\#x27;s orbit has significant implications for developers and organizations involved in space science and exploration. It demonstrates the feasibility of complex space missions and provides valuable data for further research and development in the field of astronomy and space technology.
+**「Impact」** The publication of this book provides valuable educational resources for developers and cybersecurity professionals interested in understanding the inner workings of the Tor protocol and its practical applications.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://spec.torproject.org/tor-spec/">Tor Protocol Specification - Tor Specifications</a></li>
+<li><a href="https://github.com/Attacks-on-Tor/Attacks-on-Tor">GitHub - Attacks-on- Tor /Attacks-on- Tor : Thirteen Years of Tor Attacks</a></li>
+<li><a href="https://www.youtube.com/watch?v=k420cQoddGA">What are some weaknesses in the Tor protocol ? - YouTube</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Tor Protocol`, `#Anonymity`, `#Technical Book`, `#Cybersecurity`, `#Open Source`
+
+---
+
+<a id="item-it-opensource-4"></a>
+### [Google Patents AI-Generated TV Channels](https://www.solidot.org/story?sid=85973) ⭐️ 7.0/10
+
+Google has filed a patent application for an AI-generated TV channel that tailors content to individual users, showcasing the potential of AI in personalized content creation for the media and advertising industries.
+
+rss · Solidot · Nov 24, 07:22
+
+**「Background on AI Video Generation」** AI video generation has emerged as a significant technological advancement, with the potential to revolutionize the media and advertising industries. This technology allows for the creation of personalized content at scale, leveraging user data to generate videos tailored to individual preferences and behaviors. The rapid growth of the AI video market, expected to reach multi-billion-dollar status by 2030, indicates a strong economic potential. Techniques have evolved to include synchronized audio, high-quality visuals, and substantial cost reductions, making AI video generation a production-ready technology. This context is crucial for understanding Google&\#x27;s patent application for an AI-generated TV channel, which represents a step forward in personalized content creation.
+
+**「Impact」** This patent application indicates a significant development in AI video technology, which could lead to more personalized content and targeted advertising, potentially changing how users engage with media and how advertisers reach their audiences.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.visla.us/blog/editorials/the-future-of-ai-video-generation/">AI Video Generation – What Does Its Future Hold?</a></li>
+<li><a href="https://zsky.ai/blog/ultimate-guide-ai-video-2026">AI Video Generation 2026: Techniques, Capabilities, and ...</a></li>
+<li><a href="https://aivideobootcamp.com/blog/ai-video-creation-trends-2026/">The State of AI Video Creation in 2026: Trends, Tools, and ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Video Technology`, `#Personalized Media`, `#Advertising`, `#Google Patent`, `#Media Innovation`
+
+---
+
+<a id="item-it-opensource-5"></a>
+### [GrapheneOS Accuses Google of Intimidating Partners](https://www.solidot.org/story?sid=85968) ⭐️ 7.0/10
+
+GrapheneOS, an Android security enhancement project, has accused Google of intimidating its partners, potentially affecting the Android ecosystem. This includes allegations of pressure on Android phone manufacturers and threats of revoked Google app authorization due to collaboration with GrapheneOS.
+
+rss · Solidot · Nov 23, 13:58
+
+**「Background on Google&\#x27;s Antitrust Issues」** Google has faced criticism and legal challenges related to antitrust laws and its business practices. This includes concerns over tax avoidance, manipulation of search results, use of others&\#x27; intellectual property, privacy violations, and collaboration with the U.S. military. A federal judge has ruled that Google violated antitrust laws to maintain its monopoly in online search, highlighting the company&\#x27;s significant power and influence over the online advertising landscape. These issues have been a subject of discussion and legal action, with Microsoft presenting a case against Google for antitrust violations.
+
+**「Impact on Developers and Organizations」** The accusations by GrapheneOS against Google could lead to a chilling effect on the development and distribution of Android-based devices. Developers may face increased pressure to comply with Google&\#x27;s policies, potentially limiting their ability to offer alternative or enhanced Android experiences. This could also affect the open source ecosystem by discouraging collaboration with Android partners, potentially leading to a less diverse and innovative Android market.
 
 **「Community Discussion」** No community comments available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ask.solidot.org/story?sid=84402">奇客Solidot | BepiColombo 计划于 11 月 21 日 进 入 水 星 轨 道</a></li>
-<li><a href="https://www.cnsa.gov.cn/n6758823/n6759010/c6774248/content.html">欧洲空间局启动 BepiColombo 水 星 探 测 计划</a></li>
-<li><a href="https://m.elecfans.com/article/1200499.html">空中客车建造的 BepiColombo 航天 器 将于今天实现飞行-电子发烧友网</a></li>
-<li><a href="https://en.wikipedia.org/wiki/BepiColombo">BepiColombo - Wikipedia 贝皮可伦坡 - 卫星百科，很认真的中文航天百科 - 灰机wiki - 北京嘉闻... 【技术·国际航天】水星探测器BepiColombo&quot;回眸一望，挥别地球&quot;，借力... BepiColombo - NASA Science ESA - BepiColombo BepiColombo MPO&#x27;s science instruments - BepiColombo - Science ...</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/125772256">【技术·国际航天】水星探测器BepiColombo&quot;回眸一望，挥别地球&quot;，借力...</a></li>
-<li><a href="https://science.nasa.gov/mission/bepicolombo/">BepiColombo - NASA Science ESA - BepiColombo BepiColombo MPO&#x27;s science instruments - BepiColombo - Science ...</a></li>
-<li><a href="https://gemini.google.com/app">Google Gemini</a></li>
-<li><a href="https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/">Trickle ICE</a></li>
-<li><a href="https://d3gbed2ley04jq.cloudfront.net/tag/%E6%83%85%E4%BE%A3%E8%87%AA%E6%8B%8D/">情侣自拍 - 热门标签吃瓜，相关爆料黑料，每日更新最新内容 - 每日大赛</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Criticism_of_Google">Criticism of Google - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/posts/illuminhq_with-google-in-hot-water-with-the-doj-what-activity-7257043596254552064-a9zk">illumin on LinkedIn: With Google in hot water with the DOJ, what...</a></li>
+<li><a href="https://www.bartleby.com/essay/Antitrust-Law-Violation-Of-Antitrust-Laws-FK46CCUWKPT85">Antitrust Law Violation Of Antitrust Laws - 1277 Words | Bartleby</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/">With developer verification, Google&#x27;s Apple envy threatens to ...</a></li>
+<li><a href="https://pixelunion.eu/blog/2026/03/google-closing-android-ecosystem/">Google Is Closing Android: And Taking Your Freedom With It</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0164121226002384">Exploratory study of corporate contributions in Android ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Space Exploration`, `#Astronomy`, `#European Space Agency`, `#Japanese Space Agency`, `#BepiColombo`
+**Tags**: `#Android`, `#Open Source`, `#Security`, `#Google`, `#Antitrust`
 
 ---
