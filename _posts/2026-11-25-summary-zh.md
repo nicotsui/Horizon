@@ -5,158 +5,480 @@ date: 2026-11-25
 lang: zh
 ---
 
-> 从 301 条内容中筛选出 40 条重要资讯。
+> 从 341 条内容中筛选出 40 条重要资讯。
 
 ---
 
+**A 股与宏观**
+1. [中荷外长共识声明](#item-cn-macro-1) ⭐️ 7.0/10
+2. [中国经济结构跃迁分析](#item-cn-macro-2) ⭐️ 7.0/10
+3. [A 股 IPO“质量优先”导向深化解读](#item-cn-macro-3) ⭐️ 7.0/10
+4. [高盛预测 2027 年中国经济三大支撑因素及投资建议](#item-cn-macro-4) ⭐️ 7.0/10
+5. [A 股市场稳定措施及首批主动 ETF 上市](#item-cn-macro-5) ⭐️ 7.0/10
+
 **全球市场**
-1. [黄仁勋回归 Nvidia 凸显中美 AI 竞赛不仅是芯片之争](#item-global-market-1) ⭐️ 7.0/10
-2. [Kalshi 永续期货交易量超越预测市场](#item-global-market-2) ⭐️ 7.0/10
-3. [美联储主席威廉姆斯表示，为应对通胀，利率可能“随着时间的推移”而上升](#item-global-market-3) ⭐️ 7.0/10
-4. [日本关键服务业通胀指标创下 36 年来新高](#item-global-market-4) ⭐️ 7.0/10
-5. [澳大利亚金融环境紧缩性分析](#item-global-market-5) ⭐️ 7.0/10
-6. [荷兰议员敦促政府抵制美国针对 ASML 的《MATCH 法案》](#item-global-market-6) ⭐️ 7.0/10
-7. [华为在美国伊朗业务审判中被判有罪](#item-global-market-7) ⭐️ 7.0/10
-8. [更长的电池储能时间重塑美国电力市场](#item-global-market-8) ⭐️ 7.0/10
-9. [特朗普政府将公布新关税措施](#item-global-market-9) ⭐️ 7.0/10
-10. [微软宣布进入“红色警报”状态](#item-global-market-10) ⭐️ 7.0/10
-11. [委内瑞拉发布经济框架，迈向债务重组](#item-global-market-11) ⭐️ 7.0/10
-12. [AI 热潮笼罩美联储应对通胀担忧](#item-global-market-12) ⭐️ 7.0/10
-13. [日本承诺实现财政可持续性和央行独立性](#item-global-market-13) ⭐️ 7.0/10
-14. [Enagas 首席执行官表示欧洲能源供应已做好应对俄罗斯天然气禁令的准备](#item-global-market-14) ⭐️ 7.0/10
-15. [日本央行持续加息，消费数据不确定性增加](#item-global-market-15) ⭐️ 7.0/10
-16. [欧盟对中国及其他国家混合动力汽车进口设限](#item-global-market-16) ⭐️ 7.0/10
-17. [中国和印度 2026 年俄原油进口创新高，需求预计见顶](#item-global-market-17) ⭐️ 7.0/10
-18. [日本经济展望下调，消费支出预期首次自 2024 年以来下降](#item-global-market-18) ⭐️ 7.0/10
-19. [台积电旗下子公司寻求对拟建的 226 亿美元芯片制造厂实施得克萨斯州房产税上限](#item-global-market-19) ⭐️ 7.0/10
-20. [伊拉克总理下令管理库尔德地区油田](#item-global-market-20) ⭐️ 7.0/10
-21. [日本加速向国际刑事法院提供资金](#item-global-market-21) ⭐️ 7.0/10
-22. [高盛预测美国天然气需求因数据中心增长而激增](#item-global-market-22) ⭐️ 7.0/10
-23. [华盛顿通过签订钨交易合同摆脱对中国的依赖](#item-global-market-23) ⭐️ 7.0/10
-24. [伊拉克拒绝接受欧佩克对其产能的评估](#item-global-market-24) ⭐️ 7.0/10
+1. [市场波动对美联储利率决策的影响](#item-global-market-1) ⭐️ 7.0/10
+2. [黄仁勋回归 Nvidia 凸显中美 AI 竞赛不仅是芯片之争](#item-global-market-2) ⭐️ 7.0/10
+3. [Kalshi 预测市场交易量出现重大转变](#item-global-market-3) ⭐️ 7.0/10
+4. [三季度 GDP 增长数据优于预期](#item-global-market-4) ⭐️ 7.0/10
+5. [美国通胀加剧，美联储不得不提高利率](#item-global-market-5) ⭐️ 7.0/10
+6. [美国提议对中国和其他国家实施新关税](#item-global-market-6) ⭐️ 7.0/10
+7. [欧洲计划设立 500 亿欧元主权科技股权基金推动量子技术发展](#item-global-market-7) ⭐️ 7.0/10
+8. [也门胡塞武装袭击沙特炼油厂和金融区](#item-global-market-8) ⭐️ 7.0/10
+9. [印尼央行维持 2027 年基准利率预期](#item-global-market-9) ⭐️ 7.0/10
+10. [韩国公布稳定币监管草案，或将放宽 ICO 禁令](#item-global-market-10) ⭐️ 7.0/10
+11. [也门胡塞武装威胁沙特红海港口](#item-global-market-11) ⭐️ 7.0/10
+12. [日本关键服务业通胀指标创下 36 年来新高](#item-global-market-12) ⭐️ 7.0/10
+13. [澳大利亚金融环境紧缩](#item-global-market-13) ⭐️ 7.0/10
+14. [荷兰议员敦促政府抵制美国针对 ASML 的《MATCH 法案》](#item-global-market-14) ⭐️ 7.0/10
+15. [华为在美国伊朗业务审判中被判有罪](#item-global-market-15) ⭐️ 7.0/10
+16. [更长的电池储能时间重塑美国电力市场](#item-global-market-16) ⭐️ 7.0/10
+17. [特朗普政府将公布新关税措施](#item-global-market-17) ⭐️ 7.0/10
+18. [微软宣布进入“红色警报”状态](#item-global-market-18) ⭐️ 7.0/10
+19. [委内瑞拉发布经济框架，迈向债务重组](#item-global-market-19) ⭐️ 7.0/10
+20. [埃克森美孚圭亚那日产量突破 100 万桶](#item-global-market-20) ⭐️ 7.0/10
 
 **AI 前沿**
-1. [OpenAI 矩阵乘法突破](#item-ai-frontier-1) ⭐️ 9.0/10
-2. [GPT-6 models demonstrate intrinsic protein-design capabilities](#item-ai-frontier-2) ⭐️ 8.0/10
-3. [过去一年中三个 LLM 的关键转折点](#item-ai-frontier-3) ⭐️ 8.0/10
-4. [Ternary Bonsai 2.5 27B 模型发布](#item-ai-frontier-4) ⭐️ 7.0/10
-5. [PenGPT：一款用于手写和草图生成的生成式 Transformer](#item-ai-frontier-5) ⭐️ 7.0/10
-6. [GPT 6.2 Astra 解决历史谜团](#item-ai-frontier-6) ⭐️ 7.0/10
-7. [Anthropic 与 OpenAI 员工对未发布模型安全表示担忧](#item-ai-frontier-7) ⭐️ 7.0/10
-8. [VMware vCenter 漏洞再曝，9.8 分免鉴权漏洞被利用](#item-ai-frontier-8) ⭐️ 7.0/10
+1. [GPT-6 模型展示内在蛋白质设计能力](#item-ai-frontier-1) ⭐️ 9.0/10
+2. [OpenAI 发布矩阵乘法指数突破性研究](#item-ai-frontier-2) ⭐️ 8.0/10
+3. [十二个月内三个 LLM 转折点](#item-ai-frontier-3) ⭐️ 8.0/10
+4. [PenGPT：一款用于手写和草图生成的生成式 Transformer](#item-ai-frontier-4) ⭐️ 7.0/10
+5. [Ternary Bonsai 2.5 27B](#item-ai-frontier-5) ⭐️ 7.0/10
+6. [突破 iOS Safari 60 FPS 限制，构建感觉像原生的 Web 应用程序](#item-ai-frontier-6) ⭐️ 7.0/10
+7. [中国团队在 General Looped Model 上取得重大突破](#item-ai-frontier-7) ⭐️ 7.0/10
+8. [OpenAI 两次拆掉机器人团队：只靠大模型，为什么撑不起物理 AI？](#item-ai-frontier-8) ⭐️ 7.0/10
 9. [LeCun 发帖抨击达里奥封锁开源模型](#item-ai-frontier-9) ⭐️ 7.0/10
+10. [腾讯开源 Hy4 flash 量化权重最小版](#item-ai-frontier-10) ⭐️ 7.0/10
 
 **IT 与开源**
-1. [基因工程烟草在抗癌药生产中的应用突破](#item-it-opensource-1) ⭐️ 7.0/10
-2. [空气污染与痴呆症风险关联研究](#item-it-opensource-2) ⭐️ 7.0/10
-3. [Firefox 161 版本发布](#item-it-opensource-3) ⭐️ 7.0/10
-4. [Windows Server 移除对 32 位应用的支持](#item-it-opensource-4) ⭐️ 7.0/10
-5. [神舟二十四号计划 25 日 8 时发射](#item-it-opensource-5) ⭐️ 7.0/10
-6. [索尼称逾 3900 万玩家玩过了 GTA6](#item-it-opensource-6) ⭐️ 7.0/10
-7. [Tor 协议技术书籍发布](#item-it-opensource-7) ⭐️ 7.0/10
+1. [日本政府开发智能体打击盗版动漫](#item-it-opensource-1) ⭐️ 7.0/10
+2. [基因工程烟草在抗癌药合成中的应用](#item-it-opensource-2) ⭐️ 7.0/10
+3. [空气污染与痴呆症风险关联研究](#item-it-opensource-3) ⭐️ 7.0/10
+4. [Firefox 161 版本发布](#item-it-opensource-4) ⭐️ 7.0/10
+5. [Sand AI 发布大型 AI 模型 MAGI-2](#item-it-opensource-5) ⭐️ 7.0/10
+
+---
+
+## A 股与宏观
+
+<a id="item-cn-macro-1"></a>
+### [中荷外长共识声明](https://www.cls.cn/detail/2544557) ⭐️ 7.0/10
+
+2026 年 11 月 25 日，中国外交部长王毅与荷兰外交大臣贝伦德森会谈，双方同意深化经贸、气候、科技等领域合作，重申支持多边主义和基于规则的国际贸易。此次会谈强调了中荷关系的重要性，并涉及了半导体等多领域合作。
+
+rss · 财联社电报 · 11月25日 13:22
+
+**「背景信息」** 近年来，中国与荷兰在多个领域展开了深入的合作。2014 年，中荷建立了开放务实的全面合作伙伴关系，并在 2025 年达成了六点共识。这些共识为两国在经贸、气候、科技、农业、文化、医疗健康、体育、水利等领域的合作奠定了基础。此外，两国在维护多边贸易体制、支持多边主义以及推动联合国改革等方面持有共同立场。这些合作和共识为理解当前中荷关系提供了重要背景。
+
+**「对投资者的具体影响」** 中荷外长共识声明强调了多边主义和基于规则的国际贸易，这对投资者来说意味着在半导体等多领域合作将保持密切沟通交流，有助于稳定供应链和促进贸易。同时，双方对人工智能技术的国际合作表示认可，这可能会为相关领域的公司带来新的投资机会。对于关注全球治理和气候变化的投资者，中荷在多边事务磋商机制上的共识可能带来长期的投资机会。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.mid.ru/cn/press_service/minister_speeches/2164395/">俄罗斯联邦外交部长谢尔盖·拉夫罗夫在第21...</a></li>
+<li><a href="https://cn.brnn.com/n3/2026/1118/c414912-20520355.html">亚太各方期待 中 国发挥引领 作 用（APEC...</a></li>
+<li><a href="https://sputniknews.cn/20261125/1074337281.html">sputniknews.cn/20261125/1074337281.html</a></li>
+<li><a href="https://www.workercn.cn/papers/grrb/2026/03/12/8/grrb202603128.pdf">grrb0820260312C</a></li>
+<li><a href="https://malaysian-chinese.net/d/file/p/2026-10-08/06ffaaed1a29edb53ca7464e9e0c35b5.pdf">饶兆斌- 全 球 治 理 倡议 的 影 响 力与东南亚 的 实践</a></li>
+<li><a href="http://paper.people.com.cn/rmrb/pc/attachement/202609/26/68614162-9503-4e73-8867-918ec6e63f9b.pdf">paper.people.com.cn/rmrb/pc/attachement/202609/26/68614162-9503...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Sino-Dutch relations`, `#Economic cooperation`, `#Climate change`, `#Technology`, `#Multilateralism`
+
+---
+
+<a id="item-cn-macro-2"></a>
+### [中国经济结构跃迁分析](https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVHV3WGpCckMtUTUyRHM1NE0wVUJ1TXFVeVhRM2Y2TTJ3R3pJNnZaaFNmc01zZ2xSWEc0NzN5ellMUFBFeXo2SnY4S3QwdEg0QzU4LVRCNFRGNVFjV0JOMkNCVkVHUQ?oc=5) ⭐️ 7.0/10
+
+中国经济发展正经历新旧动能切换的阵痛期，目前正越过结构跃迁的‘临界点’。这一转变对市场产生重要影响。
+
+google\_news · 东方财富网 · 11月25日 11:43
+
+**「中国经济转型背景」** 近年来，中国经济正处于新旧动能转换的关键时期。在此过程中，中国经济面临一定的阵痛，但同时也展现出强大的韧性和潜力。国际货币基金组织（IMF）曾预测，中国将是全球主要经济体中唯一保持正增长的国家，这表明中国经济具有较强的抗冲击能力。在此背景下，中国政府持续推进供给侧结构性改革，以促进经济结构的优化和升级。此外，全球经济增长放缓也对中国经济产生了一定影响，但中国经济的内部调整和改革正在逐步发挥作用。
+
+**「市场影响」** 这一经济结构跃迁可能导致市场出现波动，投资者需关注相关行业和公司的调整。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.zaobao.com.sg/news/china/story20241230-5662252">物价持续走低 中 国 经 济 走向通货紧缩？ | 联合早报</a></li>
+<li><a href="http://theory.people.com.cn/n1/2019/0202/c40531-30607637.html">关于当前 经 济 形势 的 几 点 认识--理论-人民网</a></li>
+<li><a href="https://www.stats.gov.cn/xw/tjxw/tjdt/202302/t20230202_1894679.html">stats.gov.cn/xw/tjxw/tjdt/202302/t20230202_1894679.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#China Economy`, `#Stock Market`, `#Economic Transition`, `#Market Impact`
+
+---
+
+<a id="item-cn-macro-3"></a>
+### [A 股 IPO“质量优先”导向深化解读](https://news.google.com/rss/articles/CBMiXkFVX3lxTE44M2l2ZVgwbGN3ZzI5RS1RU2VvQWt6WV9Ld1VHNW5yZENtUlVWYjBzeDNLaWo5WFh3OEl5U29BblA4TmJKS3dUY25meHY2SEZTX1hxTUVGTXZ2Mm9OOVE?oc=5) ⭐️ 7.0/10
+
+A 股市场 IPO 政策转向，强调‘质量优先’，重点支持新质生产力相关企业上市。这一政策变化旨在提升市场质量，影响所有拟上市企业。
+
+google\_news · 上观新闻 · 11月25日 13:18
+
+**「背景信息」** 近年来，A 股市场在 IPO 政策上逐渐转向‘质量优先’的导向。这一政策转变旨在提升市场质量，鼓励新质生产力相关企业上市。根据安永发布的报告，A 股 IPO 在‘质量优先’的导向下，新股数量与融资规模均实现增长。报告还指出，预计 2027 年 A 股市场将继续保持这一政策取向，并对拟上市企业进行更严格的实质性审查。
+
+**「影响分析」** 此政策将促使投资者更加关注企业的质量和创新能力，预计将提升相关行业和公司的估值。对于新质生产力相关企业而言，上市机会增加，但对于其他类型的企业，可能面临更严格的上市条件。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.qq.com/rain/a/20261125A0FPZT00">A股IPO“质量优先”导向深化，新质生产力相关企业成为上市主力</a></li>
+<li><a href="https://finance.eastmoney.com/a/202611253939811015.html">安永报告：预计2027年A股将延续“质量优先”的政策取向</a></li>
+<li><a href="https://www.cnfin.com/gs-lb/detail/20260624/4431208_1.html">安永报告：A股IPO迈入“质量优先”新常态 - 中国金融信息网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#A-share market`, `#IPO policy`, `#regulatory reform`, `#market dynamics`, `#economic policy`
+
+---
+
+<a id="item-cn-macro-4"></a>
+### [高盛预测 2027 年中国经济三大支撑因素及投资建议](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0RxSzNlY0xDdW1MMEptZF80d0VRUlh0cFpqXzdoRllpYXdOQzVlaTEzX0dGdlFnSzBFVHU5OUItWmd3QW1GaElrOXdyY2Y1TGl5ZGJmR3lNOVI1U2NDUDgxOFBDZUY3Zkxaa2x2VWFxMU96MWZNUTNHZGk4Sk8yVXhNSlFyX1JG?oc=5) ⭐️ 7.0/10
+
+高盛预测 2027 年中国经济将受到三大因素的支撑，并建议投资者超配银行等五大板块。
+
+google\_news · Sohu · 11月25日 10:17
+
+**「背景信息」** 高盛作为国际知名的投资银行，其对中国经济的预测具有较高参考价值。近年来，中国经济经历了转型升级的过程，增速有所放缓。在此背景下，高盛对中国未来经济的预测，尤其是对 2027 年的三大支撑因素的分析，对于理解中国宏观经济形势具有重要意义。此外，高盛对特定行业的超配建议，如银行业，也为投资者提供了重要的市场分析参考。
+
+**「投资影响」** 这一预测可能对银行等板块的投资者产生积极影响，建议关注相关板块的投资机会。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.goldmansachs.com/insights/articles/the-global-economy-in-2075-growth-slows-as-asia-rises">The global economy in 2075: growth slows as Asia... | Goldman Sachs</a></li>
+<li><a href="https://glasp.co/youtube/Hd-evZIESv0">Goldman Sachs &#x27; Economic Forecast , Market Pullback Risk... | Glasp</a></li>
+<li><a href="https://www.cnbc.com/2025/04/09/wall-street-starts-to-cut-china-gdp-forecasts-on-us-trade-tensions.html">Wall Street starts to cut China GDP forecasts on U.S. trade tensions</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Economic Forecast`, `#China Economy`, `#Banking Sector`, `#Goldman Sachs`, `#Market Analysis`
+
+---
+
+<a id="item-cn-macro-5"></a>
+### [A 股市场稳定措施及首批主动 ETF 上市](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLc1NNelptV1lVelhELTdCMFctM3RiVDBCWWR4NWVjRndWeDk3YU82WHJGdTg1MktVblBjcXlCaS1RSU9yTk9vWTZZQXBqY2p0czl3Ml9NbmJlb01hTHJHYmp4X2dSdw?oc=5) ⭐️ 7.0/10
+
+A 股市场迎来一系列稳定措施，包括首批 18 只主动 ETF 的集体上市。这些措施旨在稳定市场，对投资者和市场参与者产生重要影响。
+
+google\_news · 东方财富网 · 11月25日 09:25
+
+**「背景信息」** 在此次 A 股市场推出稳市措施和首批 18 只主动 ETF 集体上市之前，中国证监会已经批复了首批 18 只主动 ETF。这些主动 ETF 的特点在于它们将每日披露真实持仓，这对主动权益管理构成了一个准自然实验，即在提高透明度的情况下，主动管理如何在策略空间受限的情况下重构自身。这些措施和市场发展对于投资者和市场参与者来说具有重要意义。
+
+**「影响分析」** 首批主动 ETF 的上市为投资者提供了更多投资选择，可能对相关 ETF 基金和 A 股市场产生积极影响，但投资者需关注市场对这些新产品的接受程度和潜在风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://fund.10jqka.com.cn/20261020/c680876818.shtml">首批18只主动ETF获批 有何特点？ - fund.10jqka.com.cn</a></li>
+<li><a href="https://fund.eastmoney.com/a/202610203901264559.html">ETF观察室|首批18只主动ETF获批 有何特点？_天天基金网</a></li>
+<li><a href="https://caifuhao.eastmoney.com/news/20261019234114573628320">首批18只主动ETF基金比较 - 财富号</a></li>
+
+</ul>
+</details>
+
+**标签**: `#A-share market`, `#stabilizing measures`, `#ETFs listing`, `#market development`, `#Chinese economy`
 
 ---
 
 ## 全球市场
 
 <a id="item-global-market-1"></a>
-### [黄仁勋回归 Nvidia 凸显中美 AI 竞赛不仅是芯片之争](https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html) ⭐️ 7.0/10
+### [市场波动对美联储利率决策的影响](https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html) ⭐️ 7.0/10
 
-Nvidia 首席执行官黄仁勋的回归凸显了中美在人工智能领域的竞争，不仅关乎半导体，更在于技术人才的争夺。据 Carnegie Endowment 研究，中国在全球 AI 人才份额上仅用三年时间就超过了美国。
+本周市场剧烈波动，特别是 Nvidia 的事件，凸显了美联储主席凯文·沃什面临的困境。在股市下跌时，市场对美联储加息的预期下降，而在黄仁勋回归后，市场信心恢复，预计将再加息两次。沃什强调，应忽略市场的日常波动，更多地依赖市场指标来指导政策。
 
-rss · CNBC Finance · 11月25日 01:13
+rss · CNBC Finance · 11月25日 12:26
 
-**「背景信息」** Jensen Huang 作为 Nvidia 的创始人和 CEO，在人工智能领域具有重要地位。他于 30 多年前创立了 Nvidia，该公司最初专注于游戏图形芯片，后来逐渐转向用于挖掘加密货币和训练尖端 AI 模型。近年来，中美两国在人工智能领域的竞争日益激烈，这不仅体现在半导体技术方面，还体现在人才和技术方面。中国的人工智能公司在模型、工程和研究人才方面与美国竞争对手的差距正在缩小。据卡内基国际和平基金会的研究，中国在全球人工智能人才中的份额仅用三年时间就超过了美国。
+**「背景信息」** 本文探讨了市场波动对美联储利率决策的影响，以及美联储主席凯文·沃什在利用市场信号指导政策方面的方法。沃什主张美联储应更多地依赖市场指标而非预测来指导政策，但他也强调要超越市场的短期波动。沃什认为，大多数预测，尤其是来自经济模型和华尔街经济学家的预测，都是不准确的，甚至可能对政策制定产生负面影响。他主张美联储应更多地关注市场预期，如通胀补偿、信用利差、股票指数和政府债券利率等。沃什还强调，美联储和华尔街在思考下一次会议或下一次会议方面花费的时间过多，而在考虑将影响未来一年或两年经济的大规模经济力量方面花费的时间过少。
 
-**「影响」** Jensen Huang 的回归凸显了中美在人工智能领域的竞争，突出了人才和技术的重要性。这一事件表明，中美之间的 AI 竞赛不仅关乎半导体，还关乎技术人才。中国 AI 公司在模型、工程和研究人才方面与美国同行之间的差距正在缩小，这可能会对全球技术产生重大影响。
+**「影响」** 市场波动性对美联储利率决策的影响凸显了美联储主席凯文·沃什面临的困境。沃什强调，美联储应更多地依赖市场指标而非预测来指导政策。然而，这些指标可能受到极端波动的影响，如标准普尔金融条件指数在一周内大幅波动。沃什的这种做法可能会对市场产生实际影响，尤其是在对人工智能等新兴技术的影响进行评估时。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://business.columbia.edu/insights/ai-and-transformative-tech/nvidia-ceo-jensen-huang-reveals-keys-ai-and-leadership">NVIDIA CEO Jensen Huang Reveals Keys to AI and Leadership</a></li>
-<li><a href="https://theaicronicle.com/en/news/companies/jensen-huang-nvidia-compensation-talent-strategy">Jensen Huang: Nvidia&#x27;s Talent Strategy for AI Supremacy</a></li>
-<li><a href="https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/">Nvidia says its open source AI strategy remains intact after ...</a></li>
-<li><a href="https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/center-for-geopolitics/cfg-us-china-report.pdf">Beyond the Benchmarks: A Systemic View of U.S.-China AI ...</a></li>
-<li><a href="https://www.nature.com/articles/s41598-024-79863-5">China and the U.S. produce more impactful AI research when ...</a></li>
-<li><a href="https://www.bcg.com/publications/2026/us-and-china-ai-strategy-causing-global-ai-divide">The Great Divide: How the US and China Are Splitting the AI ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/History_of_Federal_Open_Market_Committee_actions">History of Federal Open Market Committee actions - Wikipedia</a></li>
+<li><a href="https://www.forbes.com/advisor/investing/fed-funds-rate-history-1/">Federal Funds Rate History 1990 to 2026 – Forbes Advisor</a></li>
+<li><a href="https://www.federalreserve.gov/monetarypolicy/fomc_historical_year.htm">The Fed - Historical Materials by Year - Federal Reserve Board</a></li>
+<li><a href="https://www.bis.org/publications/working-paper-1179-impact-artificial-intelligence-output-and-inflation">The impact of artificial intelligence on output and inflation</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0264999326003871">The impact of artificial intelligence on output and inflation</a></li>
+<li><a href="https://economics.umbc.edu/wp-content/uploads/sites/243/2026/05/AI_Inflation76_May14_2026.pdf">The Impact of Artificial Intelligence on Inflation: Empirical ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Industry`, `#U.S.-China Tech Competition`, `#Talent Acquisition`, `#Semiconductor Technology`
+**标签**: `#Market Volatility`, `#Federal Reserve`, `#Interest Rates`, `#Kevin Warsh`, `#Economic Policy`
 
 ---
 
 <a id="item-global-market-2"></a>
-### [Kalshi 永续期货交易量超越预测市场](https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html) ⭐️ 7.0/10
+### [黄仁勋回归 Nvidia 凸显中美 AI 竞赛不仅是芯片之争](https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html) ⭐️ 7.0/10
 
-Kalshi 的永续期货交易量连续数日超过其事件合约的交易量，首次出现这一现象。这表明市场动态发生变化，并可能对传统金融市场产生影响。例如，在 Anthropic 股票上市当天，永续期货的交易量达到 34 亿美元，超过了同一天预测市场的 30 亿美元。
+Nvidia 首席执行官黄仁勋的回归凸显了中美在人工智能领域的竞争，不仅涉及半导体，还包括技术人才，这可能对全球金融市场产生潜在影响。
 
-rss · CNBC Finance · 11月24日 23:03
+rss · CNBC Finance · 11月25日 01:13
 
-**「背景信息」** Kalshi 是一家知名的预测市场平台，提供体育、政治和文化等领域的预测市场服务。然而，现在其永续期货（perps）交易量首次超过了其事件合约的交易量，这表明市场动态发生了变化，并带来了监管挑战。永续期货是一种没有到期日的期货合约，交易者不需要持有标的资产，而是通过连续跟踪资产价格来保持合约价格与市场价格一致。自 5 月获得联邦监管机构批准后，Kalshi 成为首家在美国推出永续期货的交易所，并已获得批准推出与金属、原油、股票指数和个别股票相关的永续期货。此外，Kalshi 还计划在未来几个月内在其平台上提供股票交易。
+**「背景」** 近年来，中美两国在人工智能领域的竞争日益激烈。美国在人工智能领域的投资和计算能力方面占据优势，但中国在研究和先进模型方面正在迅速追赶。据 Carnegie Endowment 的研究，中国在全球人工智能人才份额上已经超过了美国。此外，中美两国在技术人才争夺战中的紧张关系日益加剧，这可能会对全球金融市场产生重大影响。
 
-**「市场影响」** Kalshi 的永续期货交易量超过其事件合约，这表明市场动态发生了变化，并对传统金融市场产生了潜在影响。永续期货的快速增长可能导致市场效率问题，并引发监管挑战。
+**「市场影响」** Jensen Huang 回归 Nvidia 首席执行官职位，凸显了中美在人工智能领域的竞争，这不仅关乎半导体，还关乎技术人才，这可能对全球金融市场产生重大影响。这一事件可能导致全球投资者对人工智能领域的投资策略进行调整，尤其是在半导体和人工智能技术领域。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/company/kalshi">Kalshi | LinkedIn</a></li>
-<li><a href="https://kalshi.com/">Kalshi - Prediction Market for Trading the Future</a></li>
-<li><a href="https://www.benzinga.com/money/kalshi-review">Kalshi Overview: Features, Pricing, and More • Benzinga</a></li>
-<li><a href="https://www.ainvest.com/news/rise-perpetual-futures-traditional-markets-strategic-edge-2025-investors-2510/">The Rise of Perpetual Futures in Traditional Markets : A Strategic...</a></li>
-<li><a href="https://www.linkedin.com/posts/louis-than-0390b8147_the-line-between-traditional-fx-brokerage-activity-7489941835256340480-6mvc">Traditional FX and Crypto Ecosystems Blur | Louis Than... | LinkedIn</a></li>
-<li><a href="https://alkaflow.turtlebin.com/2026/08/23/wall-streets-existential-crisis-perpetual-futures/">Wall Street&#x27;s Perpetual Futures Crisis... - Alka Flow</a></li>
-<li><a href="https://www.tradersmagazine.com/featured_articles/perpetual-futures-poised-for-growth-beyond-crypto-but-regulatory-uncertainty-remains/">Perpetual Futures Poised for Growth Beyond Crypto, but ...</a></li>
-<li><a href="https://www.gibsondunn.com/perpetual-contracts-product-structure-and-recent-us-regulatory-developments/">Perpetual Contracts: Product Structure and Recent U.S ...</a></li>
-<li><a href="https://www.gibsondunn.com/wp-content/uploads/2026/08/perpetual-contracts-product-structure-and-recent-us-regulatory-developments.pdf">Gibson Dunn | Perpetual Contracts: Product Structure and ...</a></li>
+<li><a href="https://digitalinasia.com/china-vs-us-ai-race/">The US–China AI Competition: Models, Compute, Capital and ...</a></li>
+<li><a href="https://aifwd.net/blog/us-china-ai-race-2026/">US vs China AI Race in 2026: A Data-Driven Comparison of Who ...</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/9/24/china-vs-us-who-is-winning-the-ai-race-in-four-charts">China vs US: Who is winning the AI race, in four charts</a></li>
+<li>Jensen Huang&#x27;s return to Nvidia added nearly a trillion dollars to the ...</li>
+<li>Nvidia live updates: Nvidia stock falls after massive rally, Jensen Huang ...</li>
+<li>The Frantic White House Push to Get Jensen Huang Back - WSJ</li>
 
 </ul>
 </details>
 
-**标签**: `#Financial Markets`, `#Perpetual Futures`, `#Regulatory Challenges`, `#Market Dynamics`, `#Kalshi`
+**标签**: `#AI Industry`, `#Tech Talent`, `#U.S.-China Tech Competition`, `#Global Financial Markets`, `#Nvidia`
 
 ---
 
 <a id="item-global-market-3"></a>
-### [美联储主席威廉姆斯表示，为应对通胀，利率可能“随着时间的推移”而上升](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) ⭐️ 7.0/10
+### [Kalshi 预测市场交易量出现重大转变](https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html) ⭐️ 7.0/10
 
-美联储主席约翰·威廉姆斯表示，为控制通胀，政策制定者还有更多工作要做，尽管他暗示，随着经济的持续增长，进一步的行动可以逐步展开。他表达了对通胀将在 2027 年接近美联储 2%目标的信心，并在次年达到目标。威廉姆斯将当前的通胀压力归因于伊朗冲突、与人工智能建设相关的商品需求以及关税的影响，他表示这些影响“已经 largely abated”。
+Kalshi 的永续期货交易量首次连续几天超过其事件合约的交易量，这表明金融市场交易趋势发生了显著变化。例如，在 Anthropic 股票上市当天，永续期货的交易量达到 34 亿美元，超过了同一天 Kalshi 预测市场的 30 亿美元。
 
-rss · CNBC Finance · 11月24日 13:33
+rss · CNBC Finance · 11月24日 23:03
 
-**「背景信息」** 纽约联邦储备银行行长约翰·威廉姆斯自 2018 年 6 月起担任该职位。他在 1994 年开始在美联储理事会担任经济学家，此后曾在白宫经济顾问委员会担任高级经济学家，并在斯坦福大学商学院担任讲师。在 2011 年至 2018 年中，威廉姆斯担任旧金山联邦储备银行行长，在此之前，他是旧金山联邦储备银行的执行副总裁和研究员，自 2002 年加入该行。
+**「背景信息」** Kalshi 是一家知名的预测市场平台，涵盖体育、政治和文化等领域。2026 年，Kalshi 在传统预测市场之外继续扩张，进一步进入金融衍生品领域。Kalshi 是美国首个获得美国商品期货交易委员会（CFTC）监管的交易所和预测市场，用户可以在该平台上交易事件合约。Kalshi 的这种扩张表明，该公司正在从以预测市场为中心的平台转变为一个全面的金融交易所，各种资产在此进行交易。
 
-**「市场影响」** 美联储主席约翰·威廉姆斯的言论可能对市场产生显著影响，尤其是对利率敏感的资产。他暗示未来可能会逐步提高利率以应对通胀，这可能会对债券市场产生下行压力，并可能提振美元。此外，他的言论可能会影响投资者对未来经济增长和通胀预期的看法，从而影响股市和其他风险资产的表现。
+**「市场影响」** Kalshi 的永续期货交易量超过其事件合约，这表明金融市场交易趋势发生了显著变化。这一变化可能会影响投资者对金融衍生品的选择，并可能促使其他交易平台推出类似产品以吸引更多交易者。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/John_C._Williams_%28economist%29">John C. Williams (economist) - Wikipedia</a></li>
-<li><a href="https://www.newyorkfed.org/research/economists/williams">John Williams - FEDERAL RESERVE BANK of NEW YORK</a></li>
-<li><a href="https://www.federalreservehistory.org/people/john-c-williams">John C. Williams - Federal Reserve History</a></li>
-<li><a href="https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html">Fed&#x27;s John Williams indicates higher interest rates likely ...</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-11-23/fed-s-williams-says-officials-must-act-over-time-on-inflation">Fed’s Williams Says Officials Must Act ‘Over Time’ On Inflation</a></li>
-<li><a href="https://www.reuters.com/business/fed-has-work-do-lower-inflation-williams-says-2026-11-23/">Fed&#x27;s Williams says inflation still too high, signals more ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kalshi">Kalshi - Wikipedia</a></li>
+<li><a href="https://kalshi.com/about">About Kalshi - Company History &amp; Founders Profile</a></li>
+<li><a href="https://www.britannica.com/money/Kalshi-Inc">Kalshi | Prediction Market Exchange, History, &amp; Regulation ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Perpetual_futures">Perpetual futures - Wikipedia</a></li>
+<li><a href="https://www.ishares.com/us/insights/portfolio-insights/what-are-perpetual-futures">What are perpetual futures? Crypto derivatives explained</a></li>
+<li><a href="https://www.fia.org/markets-academy/articles/perpetual-futures-fundamentals">Perpetual Futures Fundamentals | FIA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kalshi">Kalshi - Wikipedia</a></li>
+<li><a href="https://solanacompass.com/learn/accelerate-25/ship-or-die-at-accelerate-2025-kalshi-ceo-on-prediction-markets-and-crypto">Kalshi CEO Talks Prediction Markets, Crypto... | Solana Compass</a></li>
+<li><a href="https://www.datawallet.com/crypto/what-are-kalshi-perpetuals">Kalshi Perpetuals: The First CFTC- Regulated Perps Explained</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Central Bank Policy`, `#Interest Rates`, `#Inflation`, `#Monetary Policy`, `#John Williams`
+**标签**: `#Financial Markets`, `#Trading Volumes`, `#Perpetual Futures`, `#Kalshi`, `#Regulatory Approval`
 
 ---
 
 <a id="item-global-market-4"></a>
-### [日本关键服务业通胀指标创下 36 年来新高](https://reut.rs/4iY15XY) ⭐️ 7.0/10
+### [三季度 GDP 增长数据优于预期](https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-日本关键服务业通胀指标达到 36 年来的最高点，显示出显著的经济趋势变化。
+三季度 GDP 增长数据经过更新后显示，经济表现强于最初报告，主要受消费者支出和人工智能投资推动，这是三年来的最快经济增长。
 
-rss · 路透社 Reuters · 11月25日 07:15
+rss · MarketWatch Top Stories · 11月25日 13:41
 
-**「背景信息」** 根据日本银行的数据，日本关键服务业的通胀指标在 2026 年 9 月修订后的增长率为 3.8%，这表明服务业生产者价格指数（跟踪公司相互提供服务时的价格）在当年同比上升。这一数据反映了日本服务业通胀的显著趋势，对全球金融市场观察者来说是一个相关的经济数据点。
+**「背景信息」** 在最新的第三季度 GDP 增长数据公布之前，中央银行在设定利率、管理货币供应和确保金融稳定方面发挥着重要作用，以影响经济增长并保持其独立性。这些措施对于维持经济的平衡增长至关重要。此外，中央银行在平衡通胀和增长方面面临着挑战，他们通过货币政策的工具来应对这些挑战。这些政策工具包括调整利率，以影响借贷成本和消费行为，从而对经济产生广泛影响。
 
-**「影响」** 这一通胀指标的高位可能对金融市场产生具体影响，例如导致债券收益率上升或货币贬值。
+**「市场影响」** 这一数据更新对市场产生了具体影响，可能促使投资者重新评估经济前景和投资策略。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.businesstimes.com.sg/international/japans-key-services-inflation-gauge-hits-36-year-high">Japan ’ s key services inflation gauge hits 36 - year high</a></li>
+<li><a href="https://www.investopedia.com/articles/03/050703.asp">Central Banks: Roles, Functions, and Economic Impact</a></li>
+<li><a href="https://www.abacademies.org/articles/balancing-inflation-and-growth-the-power-of-central-banks-through-monetary-policy-17654.html">Balancing Inflation and Growth: The Power of Central Banks ...</a></li>
+<li><a href="https://www.investopedia.com/ask/answers/031115/how-do-central-banks-impact-interest-rates-economy.asp">How Central Banks Control Interest Rates and Impact the Economy</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Economic Growth`, `#GDP`, `#Consumer Spending`, `#AI Investment`, `#Market Impact`
+
+---
+
+<a id="item-global-market-5"></a>
+### [美国通胀加剧，美联储不得不提高利率](https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories) ⭐️ 7.0/10
+
+美国联邦储备系统（美联储）用于影响美国利率的通胀指标在 10 月份再次上升，并以加速的速度增长，这几乎确保了美联储将在下个月提高借贷成本。
+
+rss · MarketWatch Top Stories · 11月25日 13:34
+
+**「背景信息」** 美国联邦储备系统（通常简称为美联储）是美国中央银行系统。它成立于 1913 年 12 月 23 日，通过《联邦储备法》的颁布而成立。美联储的目标是维护货币政策的稳定，并促进经济的长期增长。美联储通过调整利率来影响通货膨胀和经济活动。在过去的几十年中，美联储已经采取了一系列措施来控制通货膨胀，包括在 1979 年由美联储主席保罗·沃尔克宣布的反通货膨胀措施。这些措施旨在解决当时美国经济中持续的通货膨胀问题。
+
+**「影响」** 通胀的加剧可能导致金融市场出现波动，尤其是对那些对利率变化敏感的资产类别，如债券和股票。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Federal_Reserve">Federal Reserve - Wikipedia</a></li>
+<li><a href="https://www.federalreserve.gov/economy-at-a-glance-inflation-pce.htm">The Federal Reserve Board of Governors in Washington DC.</a></li>
+<li><a href="https://www.federalreservehistory.org/essays/anti-inflation-measures">Volcker&#x27;s Announcement of Anti- Inflation ... | Federal Reserve History</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Inflation`, `#Interest Rates`, `#Federal Reserve`, `#Financial Markets`, `#Economic Policy`
+
+---
+
+<a id="item-global-market-6"></a>
+### [美国提议对中国和其他国家实施新关税](https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories) ⭐️ 7.0/10
+
+美国提议对中国和其他国家实施新的关税，这一举措是在今年早些时候最高法院废除更广泛的特朗普关税之后提出的。
+
+rss · MarketWatch Top Stories · 11月25日 13:30
+
+**「背景信息」** 美国提出对中国和其他国家的新关税，是在今年早些时候最高法院废除更广泛的特朗普关税计划之后。这些新关税是在拜登政府下实施的，包括对中国商品的高额关税，如 2025 年的解放日关税。这些关税的实施加剧了中美两大经济体之间的贸易战，中国对美国的商品实施了 84%的报复性关税，而美国则对多个国家的商品征收了新的关税，对加拿大、墨西哥和中国的影响最为显著。
+
+**「影响」** 这一关税提议可能会加剧全球金融市场的不确定性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war">China –United States trade war - Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/world/2025/apr/10/us-china-trade-war-intensifies-as-beijings-tariffs-come-into-effect-after-trump-pause">China says Trump’ s trade war ‘will end in failure’ as Beijing tariffs take...</a></li>
+<li><a href="https://www.abc.net.au/news/2025-04-03/donald-trump-tariff-announcement-markets-politics-reaction-blog/105127374">ASX tumbles, global markets hit as US slaps Australian goods with 10...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Trade Tensions`, `#Tariffs`, `#U.S. Policy`, `#Global Markets`, `#China`
+
+---
+
+<a id="item-global-market-7"></a>
+### [欧洲计划设立 500 亿欧元主权科技股权基金推动量子技术发展](https://reut.rs/4kzY8hx) ⭐️ 7.0/10
+
+欧洲计划设立一个规模达 500 亿欧元的主权科技股权基金，旨在推动量子技术的发展。
+
+rss · 路透社 Reuters · 11月25日 12:49
+
+**「背景信息」** 近年来，量子技术的发展受到全球各国的重视。欧洲在量子技术领域的发展也日益加速。在此背景下，欧洲计划设立规模达 500 亿欧元的主权科技股权基金，旨在推动量子技术的发展。这一举措反映了欧洲政府对量子技术发展的重视，并希望通过加大投资来提升自身在量子技术领域的竞争力。
+
+**「影响」** 这一举措可能会对量子技术领域产生重大影响，吸引更多投资并加速相关技术的发展。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bilibili.com/opus/556920893084683669">OPN 圆桌会议：全面讨论 欧 洲 的“ 量 子 推动计划” - 哔哩哔哩</a></li>
+<li><a href="https://m.antpedia.com/news/dist_article/74798.html">牛津仪器助推 欧 洲 量 子 技 术 旗舰计划“QMiCS”</a></li>
+<li><a href="https://www.researching.cn/ArticlePdf/m00001/2025/52/5/0501014.pdf">量 子 点微显示 技 术 的 发 展 与挑战特邀</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Quantum Technology`, `#Sovereign Fund`, `#Tech Investment`, `#European Union`, `#Financial News`
+
+---
+
+<a id="item-global-market-8"></a>
+### [也门胡塞武装袭击沙特炼油厂和金融区](https://reut.rs/4eWSmTu) ⭐️ 7.0/10
+
+也门胡塞武装声称袭击了沙特的一座炼油厂和利雅得金融区，这一事件可能对全球市场产生重大影响。
+
+rss · 路透社 Reuters · 11月25日 10:10
+
+**「背景信息」** 也门胡塞武装声称对沙特阿拉伯的一座大型炼油厂和利雅得金融区进行了袭击。这一事件发生在沙特阿拉伯东部的一个主要炼油厂，以及沙特首都利雅得的金融中心。胡塞武装的这一行动是对沙特能源基础设施的进一步攻击，可能会对全球石油市场和金融稳定产生重大影响。
+
+**「市场影响」** 此次袭击可能对全球石油市场和金融稳定性产生负面影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://english.news.cn/20261125/d5d5aad0c61d4326be86655a632c1aa9/c.html">Yemen &#x27;s Houthis say attacked Saudi oil refinery , financial center</a></li>
+<li><a href="https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html">Yemen &#x27;s Houthis claim attacks on Saudi oil refinery as conflict widens</a></li>
+<li><a href="https://www.youtube.com/watch?v=SkHCbuEUNSU">Houthis Target Saudi Arabia &#x27;s BIGGEST Oil Hub? Rabigh Refinery ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Yemen Conflict`, `#Saudi Arabia`, `#Oil Market`, `#Financial Stability`, `#Geopolitical Event`
+
+---
+
+<a id="item-global-market-9"></a>
+### [印尼央行维持 2027 年基准利率预期](https://reut.rs/4ASXsIS) ⭐️ 7.0/10
+
+印尼央行行长表示，预计 2027 年基准利率将维持在 6%。这一决策对于追踪央行和金融市场的读者来说具有重要意义。
+
+rss · 路透社 Reuters · 11月25日 09:54
+
+**「背景信息」** 印尼央行行长表示预计 2027 年基准利率将维持在 6%的消息，是在全球金融市场中备受关注的利率决策。这一决策与印尼中央银行的政策路径和利率决策有关。在过去，印尼央行已经实施了一系列的货币政策来维持经济的稳定和增长。例如，在 2026 年 9 月，美联储将利率上调至 3.75%-4%，这一决策对全球金融市场产生了重要影响。此外，全球各地的中央银行都在密切关注各自的利率水平和货币政策，以应对不断变化的经济环境。
+
+**「影响」** 这一决策可能会影响市场对利率的预期和资产定价。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html">Fed rate decision September 2026: Rates rise to 3.75%-4%</a></li>
+<li><a href="https://cbrates.com/">Central Bank Rates | Worldwide Interest Rates</a></li>
+<li><a href="https://www.global-rates.com/">Current and historical international rates | global- rates .com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Central Bank`, `#Interest Rates`, `#Financial Markets`, `#Economic Policy`, `#Indonesia`
+
+---
+
+<a id="item-global-market-10"></a>
+### [韩国公布稳定币监管草案，或将放宽 ICO 禁令](https://reut.rs/4jbvpgB) ⭐️ 7.0/10
+
+韩国公布了稳定币监管草案，并考虑放宽 ICO 禁令，这一政策变动可能对加密货币市场产生重大影响。
+
+rss · 路透社 Reuters · 11月25日 08:50
+
+**「背景信息」** 韩国金融监管机构曾提出一项新框架，允许银行发行稳定币，旨在将加密货币整合到正式的金融体系中，同时减轻风险。这一举措与韩国目前公布的稳定币监管草案和考虑放宽 ICO 禁令的举措相呼应，显示出韩国在加密货币监管方面的逐步开放态度。
+
+**「影响」** 这一政策变动可能会刺激加密货币市场，尤其是稳定币和 ICO 相关领域，可能带来更多的投资和交易活动。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bahraintelegraph.bh/Economy/957862-south-korea-allows-banks-to-issue-stablecoins-under-new-digital-asset-rules.html">Bahrain Telegraph - South Korea Allows Banks to Issue Stablecoins ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Stablecoins`, `#ICO`, `#Regulation`, `#South Korea`, `#Financial Market`
+
+---
+
+<a id="item-global-market-11"></a>
+### [也门胡塞武装威胁沙特红海港口](https://reut.rs/4AQA26O) ⭐️ 7.0/10
+
+也门胡塞武装威胁将沙特阿拉伯的吉达及其他红海港口作为袭击目标，这一举动可能对全球金融市场产生重大影响，尤其是石油和航运市场。
+
+rss · 路透社 Reuters · 11月25日 08:18
+
+**「背景」** 也门胡塞武装是也门的一个什叶派武装组织，自 2014 年以来，该组织在也门内战中扮演了重要角色。胡塞武装与伊朗有联系，并在也门首都萨那夺取了控制权。沙特阿拉伯和其他海湾国家随后介入，支持也门政府对抗胡塞武装。这场冲突已经导致数千人死亡，并对该地区的稳定和全球经济产生了重大影响。红海是重要的航运通道，沙特红海港口的任何袭击都可能对全球石油市场和航运业产生严重影响。
+
+**「影响」** 也门胡塞武装威胁袭击沙特红海港口，包括吉达，可能对全球金融市场产生重大影响，尤其是石油和航运相关市场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Houthis">Houthis - Wikipedia</a></li>
+<li><a href="https://www.britannica.com/topic/Houthi-movement">Houthi movement (Ansar Allah) | Yemen , Religion, History ... | Britannica</a></li>
+<li><a href="https://www.cfr.org/global-conflict-tracker/conflict/war-yemen">Conflict in Yemen and the Red Sea | Global Conflict Tracker</a></li>
+<li><a href="https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html">Houthi attack on Saudi Arabian sovereign wealth fund PIF&#x27;s tower...</a></li>
+<li><a href="https://www.presstv.co.uk/Detail/2026/11/25/781538/yemen-threatens-saudi-red-sea-ports-if-al-hudeydah-comes-under-attack">Yemen threatens Saudi Red Sea ports if al-Hudaydah comes under...</a></li>
+<li><a href="https://southfront.press/houthi-warning-puts-all-saudi-red-sea-ports-in-crosshairs/">Houthi Warning Puts All Saudi Red Sea Ports in Crosshairs</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Yemen Conflict`, `#Saudi Arabia`, `#Geopolitical Risk`, `#Oil Markets`, `#Shipping`
+
+---
+
+<a id="item-global-market-12"></a>
+### [日本关键服务业通胀指标创下 36 年来新高](https://reut.rs/4iY15XY) ⭐️ 7.0/10
+
+日本关键服务业通胀指标达到 36 年来的最高点，对金融市场产生影响。
+
+rss · 路透社 Reuters · 11月25日 07:15
+
+**「背景信息」** 根据相关报道，日本关键服务业的通胀指标在 2026 年 10 月达到了 36 年来的最高点，这一数据表明了日本服务业通胀的加剧。这一现象可能与多种因素有关，包括供应链问题、需求增加等。在过去的几年中，日本经济一直面临通胀压力，而这一最新数据可能进一步促使日本银行考虑调整货币政策。
+
+**「影响」** 这一通胀指标的高位可能促使日本央行考虑调整货币政策，从而对金融市场产生具体影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://finance.yahoo.com/economy/policy/articles/japans-key-services-inflation-gauge-003214920.html?fr=sycsrp_catchall">Japan&#x27;s key services inflation gauge hits 36-year high</a></li>
+<li><a href="https://www.straitstimes.com/business/japans-key-services-inflation-gauge-hits-36-year-high">Japan&#x27;s key services inflation gauge hits 36-year high</a></li>
+<li><a href="https://www.ainvest.com/news/japan-36-year-inflation-high-freight-story-wage-spiral-2611/">Japan&#x27;s 36-Year Inflation High Is a Freight Story, Not a Wage ...</a></li>
 
 </ul>
 </details>
@@ -165,141 +487,139 @@ rss · 路透社 Reuters · 11月25日 07:15
 
 ---
 
-<a id="item-global-market-5"></a>
-### [澳大利亚金融环境紧缩性分析](https://reut.rs/4A2rPMT) ⭐️ 7.0/10
+<a id="item-global-market-13"></a>
+### [澳大利亚金融环境紧缩](https://reut.rs/4A2rPMT) ⭐️ 7.0/10
 
-澳大利亚储备银行（RBA）行长雅各布斯指出，澳大利亚的金融环境显然具有紧缩性。
+澳大利亚储备银行（RBA）行长雅各布斯指出，澳大利亚的金融环境显然具有紧缩性，这一表态对追踪中央银行和金融市场的读者具有重要意义。
 
 rss · 路透社 Reuters · 11月25日 06:43
 
-**「背景信息」** 在澳大利亚储备银行（RBA）行长雅各布斯指出澳大利亚金融环境具有紧缩性之前，澳大利亚的金融状况已经显示出一定的紧缩迹象。例如，根据 2026 年 8 月的《货币政策声明》，澳大利亚的金融条件似乎较为紧缩，现金利率处于基于模型的中性估计范围的上限。此外，根据 KPMG 在 2026 年第二季度的澳大利亚经济展望报告，由于通货膨胀预期上升、政策利率收紧和风险溢价升高，金融条件在 2026 年第二季度与年初相比有所收紧。这些因素共同导致了澳大利亚金融环境的紧缩。
+**「背景信息」** 澳大利亚储备银行（RBA）是澳大利亚的中央银行和纸币发行机构，自 1960 年 1 月 14 日起承担这一角色。RBA 的货币政策对澳大利亚的金融环境和市场条件有重要影响。近期，RBA 行长雅各布斯指出，澳大利亚的金融环境显然具有紧缩性，这表明 RBA 可能即将做出重大的货币政策决定或改变金融条件。
 
-**「影响」** 这一表态可能对金融市场产生广泛影响，尤其是对那些跟踪央行动态的市场参与者来说，这是一条重要信息。
+**「影响」** 这一表态可能会对澳大利亚的金融市场产生具体影响，例如导致利率上升或投资减少。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.rba.gov.au/publications/smp/2026/aug/financial-conditions.html">Financial Conditions | Statement on Monetary Policy – August 2026</a></li>
-<li><a href="https://assets.kpmg.com/content/dam/kpmgsites/au/pdf/2026/australia-economic-outlook-q2-2026.pdf">Australia Economic Outlook Q2 2026 - assets.kpmg.com</a></li>
-<li><a href="https://www.rba.gov.au/publications/fsr/2026/oct/financial-stability-assessment.html">Financial Stability Assessment | Financial Stability Review ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia">Reserve Bank of Australia - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Central Bank`, `#Financial Policy`, `#Australia`, `#Market Impact`, `#RBA`
+**标签**: `#Central Bank`, `#Financial Policy`, `#Australia`, `#RBA`, `#Market Conditions`
 
 ---
 
-<a id="item-global-market-6"></a>
+<a id="item-global-market-14"></a>
 ### [荷兰议员敦促政府抵制美国针对 ASML 的《MATCH 法案》](https://reut.rs/3XMTfbh) ⭐️ 7.0/10
 
-荷兰议员敦促政府抵制美国针对半导体设备制造商 ASML 的《MATCH 法案》。此法案可能对全球半导体制造和相关金融市场产生重大影响。
+荷兰议员敦促政府抵制美国针对半导体设备制造商 ASML 的《MATCH 法案》。此法案可能对全球半导体行业和金融市场产生重大影响。
 
 rss · 路透社 Reuters · 11月25日 03:00
 
-**「背景信息」** 荷兰议员敦促政府抵制美国针对半导体设备制造商 ASML 的《MATCH 法案》。这一事件反映了当前全球半导体行业中的地缘政治紧张关系。荷兰贸易部长 Sjoerd Wiemer Sjoerdsma 曾访问华盛顿，讨论了关于该法案的担忧，该法案可能会限制中国获取西方半导体设备。ASML 作为半导体行业的领先供应商，其业务受到美国政策的影响，这可能会对全球半导体供应链产生重大影响。
+**「背景信息」** 荷兰议员敦促政府抵制美国针对半导体设备制造商 ASML 的《MATCH 法案》。此前，荷兰贸易部长 Sjoerd Wiemer Sjoerdsma 访问华盛顿，讨论了关于该法案的担忧，该法案可能会限制中国获取西方半导体设备。ASML 是全球半导体行业的领先供应商，推动光刻系统创新，使芯片更小、更快、更环保。此外，有分析认为，美国提出的《MATCH 法案》旨在拒绝向中国提供大部分芯片制造技术，这可能会显著影响 ASML 未来的订单簿。
 
-**「影响」** 该法案的抵制可能会对全球半导体行业产生连锁反应，影响相关公司的股价和全球供应链。
+**「影响」** 该法案的抵制可能会加剧美荷之间的贸易紧张关系，对全球半导体供应链和价格产生影响。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.linkedin.com/posts/ai-chips-datacenters_ai-artificialintelligence-ainews-activity-7476122094599159810-p8uD">Europe Opposes MATCH Act Impact on ASML | AI Chips... | LinkedIn</a></li>
+<li><a href="https://www.asml.com/">ASML | The world&#x27;s supplier to the semiconductor industry</a></li>
 <li><a href="https://www.cnbc.com/2026/07/17/us-china-ai-feud-asml-tightrope-sales-geopolitics.html">U . S .-China AI feud sees ASML on tightrope between sales, geopolitics</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductor`, `#technology policy`, `#international trade`, `#equities`, `#currencies`
+**标签**: `#Geopolitical Events`, `#Technology Policy`, `#International Trade`, `#Semiconductor Industry`, `#Financial Markets`
 
 ---
 
-<a id="item-global-market-7"></a>
+<a id="item-global-market-15"></a>
 ### [华为在美国伊朗业务审判中被判有罪](https://reut.rs/4ticG7H) ⭐️ 7.0/10
 
-华为在美国一场涉及伊朗业务的重大刑事审判中被判有罪。
+华为在美国一场涉及伊朗业务的重大刑事审判中被判有罪，这一判决对全球金融市场产生了影响。
 
 rss · 路透社 Reuters · 11月24日 23:48
 
-**「背景」** 华为是一家全球性的技术公司，在 2018 年，美国指控华为违反了对伊朗的制裁，随后华为被限制与美国公司进行商业往来。2018 年的起诉书指控华为向汇丰银行、渣打银行和法国兴业银行误导关于其在伊朗的业务往来。检察官在 2020 年增加了新的指控，包括指控华为在过去二十年中密谋从美国科技公司窃取商业机密。此外，华为还被指控在朝鲜进行商业活动并向美国官员撒谎。
+**「背景信息」** 华为在 2018 年 1 月被美国指控违反了对伊朗的制裁，随后被限制与美国公司进行商业往来。美国政府还要求将华为的首席财务官从加拿大引渡。在此次美国纽约联邦法院的大规模刑事审判中，华为被控犯有包括银行欺诈和制裁违规在内的 12 项罪行中的 10 项。
 
-**「影响」** 此次判决可能对全球金融市场产生重大影响，尤其是在国际贸易和技术关系方面。
+**「影响」** 华为的判决可能导致全球金融市场的波动，尤其是在国际贸易和技术关系方面。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Huawei">Huawei - Wikipedia</a></li>
-<li><a href="https://edition.cnn.com/2026/11/24/china/china-huawei-iran-conviction-intl-hnk">US court convicts China’s Huawei for fraud, conspiring to steal trade...</a></li>
-<li><a href="https://www.zerohedge.com/geopolitical/huawei-found-guilty-plotting-steal-us-trade-secrets-and-lying-banks-over-iran">Huawei Found Guilty Of Plotting To Steal US Trade... | ZeroHedge</a></li>
+<li><a href="https://cybernews.com/tech/huawei-convicted-over-iran-business/">Huawei convicted in US Iran sanctions and trade secrets case ...</a></li>
+<li><a href="https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/">China&#x27;s Huawei convicted in sprawling US criminal trial over ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Legal`, `#Technology`, `#Global Markets`, `#Huawei`, `#Iran`
+**标签**: `#Huawei`, `#US criminal trial`, `#Iran business`, `#global financial markets`, `#international trade`
 
 ---
 
-<a id="item-global-market-8"></a>
+<a id="item-global-market-16"></a>
 ### [更长的电池储能时间重塑美国电力市场](https://reut.rs/4AUSDyQ) ⭐️ 7.0/10
 
-美国电力市场正因电池储能时间的延长而发生重大变化，这一变化影响了多个金融领域。
+美国电力市场正受到更长的电池储能时间的影响，这一变化对多个金融领域产生了影响。
 
 rss · 路透社 Reuters · 11月24日 22:28
 
-**「美国电力市场的历史与演变」** 美国电力市场正处于戏剧性和快速的变化之中。自 2000 年以来，可再生能源成本的下降、严格的排放标准、2008 年后的低价天然气、竞争性的电力市场以及一系列技术革新，都预示着美国电力市场将发生永久性的变化。这些变化为电池储能时间的延长提供了技术基础和市场环境。
+**「背景信息」** 近年来，随着电池储能技术的快速发展，美国电力市场正经历着重大变革。电池储能时间的延长不仅提高了电力系统的稳定性和可靠性，而且降低了电力成本。这一趋势促使电力市场参与者重新评估其业务模式，并对中央银行、股票、债券、大宗商品和货币等金融领域产生了深远影响。
 
-**「市场影响」** 电池储能时间的延长对电力市场产生了具体影响，例如降低了能源成本，提高了能源效率，并可能促使相关金融产品和服务的发展。
+**「市场影响」** 这一变化对电力行业、金融领域如中央银行、股票、债券、商品和货币等方面产生了具体的影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://energy.utexas.edu/sites/default/files/UTAustin_FCe_History_2016.pdf">The History and Evolution of the U.S. Electricity Industry</a></li>
-<li><a href="https://link.springer.com/chapter/10.1007/978-3-319-98310-3_1">Electricity Markets in the United States: A Brief History ...</a></li>
-<li><a href="https://www.yesenergy.com/blog/2020/history-us-power-yes-energy-101">History of US Power | Yes Energy&#x27;s Power Markets 101</a></li>
+<li><a href="https://insideclimatenews.org/news/14102021/inside-clean-energy-energy-storage-boom/">Inside Clean Energy: Taking Stock of the Energy Storage Boom...</a></li>
+<li><a href="https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis">The household battery revolution that could change... | The Guardian</a></li>
+<li><a href="https://ece.engin.umich.edu/stories/integrating-battery-storage-into-electrical-grids-can-sometimes-increase-emissions-due-to-market-forces">Integrating battery storage into electrical grids can sometimes...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Battery Storage`, `#US Power Market`, `#Financial Implications`, `#Market Trends`, `#Energy Sector`
+**标签**: `#Battery Storage`, `#US Power Market`, `#Financial Impact`, `#Market Trends`, `#Energy Sector`
 
 ---
 
-<a id="item-global-market-9"></a>
+<a id="item-global-market-17"></a>
 ### [特朗普政府将公布新关税措施](https://reut.rs/4ARwVf8) ⭐️ 7.0/10
 
-特朗普政府计划在调查工厂产能过剩后公布新的关税措施。
+消息人士透露，特朗普政府在对工厂产能过剩进行调查后，即将宣布新的关税措施。
 
 rss · 路透社 Reuters · 11月24日 19:32
 
-**「背景信息」** 特朗普政府之前已经实施了一系列关税政策，这些政策旨在保护美国国内产业并促进美国经济增长。这些关税措施对全球贸易产生了重大影响，包括对欧盟、墨西哥等国的商品征收高额关税。在此背景下，特朗普政府决定对工厂产能过剩进行调查，并计划公布新的关税措施，这表明政府正在寻求进一步调整其贸易政策以应对全球市场变化。
+**「背景信息」** 特朗普政府在过去几年中一直致力于通过贸易政策调整来应对全球贸易不平衡问题。根据 1974 年贸易法第 301 条，政府有权对进口商品征收关税，以保护国内产业。此次对工厂产能过剩的调查可能是为了评估特定行业的贸易平衡，并为可能的新关税措施提供依据。这一政策路径与特朗普政府寻求通过贸易政策来增加美国收入和就业机会的目标一致。
 
-**「影响」** 这一政策决策可能对全球金融市场产生重大影响，特别是对制造业和出口导向型行业。
+**「影响」** 这一政策变动可能对全球金融市场产生显著影响，尤其是对那些受工厂产能过剩影响的国家和行业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.ycwb.com/ikinvkotkh/content_53332253.htm">news.ycwb.com/ikinvkotkh/content_53332253.htm</a></li>
-<li><a href="https://www.voachinese.com/a/us-tariffs-on-mexico-to-be-paused-for-a-month-trump-says-20250203/7961309.html">特 朗 普 宣布针对墨西哥的 关 税 措 施 将暂缓一个月执行 | 美国之音</a></li>
-<li><a href="https://wallstreetcn.com/articles/3744646">被重锤的东南亚，不敢“报复” - 华尔街见闻</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Donald_Trump">Donald Trump - Wikipedia</a></li>
+<li><a href="https://www.bnnbloomberg.ca/tariffs/2026/03/14/trump-seeks-to-close-us16-trillion-revenue-gap-with-raft-of-new-tariffs/">Trump wants to close revenue gap with new tariffs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#tariffs`, `#factory capacity`, `#Trump administration`, `#global financial markets`, `#policy decision`
+**标签**: `#tariffs`, `#global financial markets`, `#Trump administration`, `#factory capacity`, `#Reuters`
 
 ---
 
-<a id="item-global-market-10"></a>
+<a id="item-global-market-18"></a>
 ### [微软宣布进入“红色警报”状态](https://reut.rs/4eXcBjU) ⭐️ 7.0/10
 
 微软在经历了一次历史性的系统故障后，根据内部备忘录显示，已宣布进入“红色警报”状态。
 
 rss · 路透社 Reuters · 11月24日 19:16
 
-**「背景信息」** 2026 年 11 月 12 日至 14 日，微软遭遇了一次全球性的重大系统故障，影响了包括 Outlook、Teams 和 Copilot 在内的多个 Microsoft 365 服务。自 2020 年 9 月至 2025 年 10 月，Microsoft 365 记录了至少九次重大的多服务中断。此次故障的根源被识别为一个老旧的 bug、内部连接故障和服务器容量问题。
+**「背景信息」** 在微软宣布进入“红色警报”状态之前，该公司经历了一次历史性的系统故障。这次故障影响了包括 Outlook、Teams、Copilot 和 SharePoint 在内的整个微软产品套件。根据报道，这次大规模的故障已经持续了两天，并且微软仍在寻找解决方案。这次故障对全球用户产生了重大影响，尤其是对于依赖微软服务的企业和个人来说。这次事件凸显了技术巨头在面临系统故障时的脆弱性，以及这些故障可能对全球金融市场产生的潜在影响。
 
-**「影响」** 此次系统故障可能对微软的全球业务运营产生重大影响，进而对相关市场产生波动。
+**「影响」** 此次系统故障可能对全球金融市场产生重大影响，尤其是考虑到微软的规模和影响力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
-<li><a href="https://medhacloud.com/blog/microsoft-365-outage-history">Microsoft 365 Outage History: Every Major Incident 2020–2026</a></li>
-<li><a href="https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause">Microsoft identifies months-old bug as a root cause of global ...</a></li>
+<li><a href="https://www.youtube.com/watch?v=ko7YrqHuRi0">Global Microsoft Outage Enters its 2nd Day: How Long... - YouTube</a></li>
+<li><a href="https://globalnews.ca/news/12148204/microsoft-outage-2026/">Microsoft 365 outage continues globally as company... | Globalnews.ca</a></li>
+<li><a href="https://gist.github.com/binki/3b53da2b3973f69a3d1f20b2352e16ed">Microsoft o365 outage 2026 -11-12 status (updated) · GitHub</a></li>
 
 </ul>
 </details>
@@ -308,419 +628,73 @@ rss · 路透社 Reuters · 11月24日 19:16
 
 ---
 
-<a id="item-global-market-11"></a>
+<a id="item-global-market-19"></a>
 ### [委内瑞拉发布经济框架，迈向债务重组](https://reut.rs/4Aci52Y) ⭐️ 7.0/10
 
-委内瑞拉发布经济框架，暗示可能进行债务重组，对全球金融市场产生影响。
+委内瑞拉发布经济框架，表明可能进行债务重组。这一举措可能对全球金融市场产生重要影响。
 
 rss · 路透社 Reuters · 11月24日 19:16
 
-**「背景信息」** 委内瑞拉长期以来经济疲软，其 GDP 在全球的占比微乎其微。尽管如此，委内瑞拉的经济变动对全球金融市场仍有一定影响。特别是在政权更迭或经济政策调整时，可能会对全球石油结算体系和跨国债权清算体系产生重要影响。委内瑞拉的经济框架发布，预示着可能进行债务重组，这一举措将对全球金融市场产生重要影响。
+**「背景信息」** 委内瑞拉经济自 2012 年以来大幅萎缩，经济规模较峰值缩水超过四分之三，同时面临巨额债务和严重贫困问题。政府正在推进历史上最大规模的主权债务重组，并与国际金融机构进行磋商。
 
-**「影响」** 委内瑞拉的经济框架发布可能导致全球金融市场波动，尤其是对中央银行和货币的影响。
+**「影响」** 委内瑞拉的经济框架发布可能会对全球金融市场产生显著影响，尤其是对债务市场。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://huangfan.blog.caixin.com/archives/285417">委内瑞拉变局，如何影响全球经济与金融市场？-黄凡的财新博客-财新网</a></li>
-<li><a href="https://www.toutiao.com/article/7592552495394619944/">委内瑞拉变局，如何影响全球经济与金融市场？ - 今日头条</a></li>
-<li><a href="https://www.toutiao.com/article/7592458877859185198/">委内瑞拉变局，如何影响全球经济与金融市场？ - 今日头条</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZmuM6yE1k/">BBC NEWS TALKING BUSINESS 20260808-0730... | 哔哩哔哩</a></li>
+<li><a href="https://t.me/s/golden_wind_news/569458">7x24投资快讯 – Telegram</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Debt Restructuring`, `#Economic Framework`, `#Venezuela`, `#Global Financial Markets`, `#Central Banks`
-
----
-
-<a id="item-global-market-12"></a>
-### [AI 热潮笼罩美联储应对通胀担忧](https://reut.rs/4eUoN4U) ⭐️ 7.0/10
-
-随着通胀担忧加剧，美联储在杰伊·鲍威尔的领导下，正迎来人工智能（AI）的热潮。这一趋势在全球金融市场引起了广泛关注。
-
-rss · 路透社 Reuters · 11月24日 15:01
-
-**「背景信息」** 杰罗姆·鲍威尔（Jay Powell）自 2018 年起担任美联储主席，他在这一职位上一直工作到 2026 年。鲍威尔在担任美联储主席期间，面临着日益增长的通胀担忧。在此背景下，人工智能（AI）在美联储的影响力逐渐增强，这反映了全球金融市场中 AI 技术的广泛应用。鲍威尔的领导风格和政策决策对美联储在处理通胀和金融稳定方面起到了关键作用。
-
-**「影响」** 随着人工智能（AI）在美联储的广泛应用，市场对通胀的担忧加剧，这可能导致对黄金和比特币等避险资产的需求增加，从而对整个科技市场产生影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Jerome_Powell">Jerome Powell - Wikipedia</a></li>
-<li><a href="https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm">Federal Reserve Board - Jerome H. Powell Jerome Powell | Biography, Federal Reserve, &amp; Political ... Jerome Powell: Federal Reserve Chair Profile - Investopedia Jay Powell - Wikipedia Family tree of Jerome Powell - Geneastar Jay Powell, Federal Reserve System: Profile and Biography</a></li>
-<li><a href="https://www.youtube.com/watch?v=oMRpvDU_wWI">The Fed Just Exposed the AI Bubble — Gold &amp; Bitcoin Are... - YouTube</a></li>
-<li><a href="https://www.linkedin.com/posts/richard-clarida-085777125_wearepimco-federalreserve-ai-activity-7404297364837933056-THy0">With excitement about AI as a driver of productivity and interest in the...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI in Finance`, `#Inflation`, `#Federal Reserve`, `#Financial Market Trends`, `#Central Banking`
-
----
-
-<a id="item-global-market-13"></a>
-### [日本承诺实现财政可持续性和央行独立性](https://reut.rs/4j2upwn) ⭐️ 7.0/10
-
-日本在其预算方针中承诺实现财政可持续性，并维持日本银行的独立性。
-
-rss · 路透社 Reuters · 11月24日 13:09
-
-**「背景信息」** 日本在过去的财政政策中一直面临着财政可持续性和中央银行独立性的挑战。为了解决这些问题，日本政府承诺在预算方针中实现财政可持续性，并维持日本银行的独立性。这一承诺反映了日本政府对财政健康和货币政策自主性的重视。此外，日本政府还可能采取一系列措施来确保财政可持续性，例如优化公共债务管理、提高税收收入和减少政府支出。
-
-**「影响」** 这一承诺可能对金融市场产生积极影响，增强市场对日本经济稳定和货币政策的信心。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://1library.co/document/zkwm62oe-fiscal-sustainability-attempt-reveal-relationship-sustainability-external-inequality.html">A new look at fiscal sustainability : an attempt to reveal the...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Japan`, `#Fiscal Policy`, `#Central Bank`, `#Financial Markets`, `#Bank of Japan`
-
----
-
-<a id="item-global-market-14"></a>
-### [Enagas 首席执行官表示欧洲能源供应已做好应对俄罗斯天然气禁令的准备](https://reut.rs/4AQOgVd) ⭐️ 7.0/10
-
-Enagas 首席执行官表示，欧洲能源供应已准备好应对可能的俄罗斯天然气禁令，这一声明可能对全球能源市场产生影响。
-
-rss · 路透社 Reuters · 11月24日 12:52
-
-**「背景信息」** 俄罗斯在欧洲能源领域扮演着重要角色，其天然气出口对欧洲能源市场产生了深远影响。近年来，随着地缘政治关系的紧张，俄罗斯与欧盟之间的能源关系变得尤为复杂。2026 年 11 月，欧盟对俄罗斯实施了一系列制裁，包括禁止进口俄罗斯石油和天然气。这一政策对欧洲经济产生了显著影响，同时也促使欧洲寻找新的能源供应来源。在此背景下，Enagas 首席执行官表示，欧洲已准备好应对潜在的俄罗斯天然气禁令，这表明欧洲正在努力减少对俄罗斯能源的依赖。
-
-**「影响」** 这一声明可能对全球能源市场产生具体影响，尤其是对天然气供应和价格产生影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Russia_in_the_European_energy_sector">Russia in the European energy sector - Wikipedia</a></li>
-<li><a href="https://www.presstv.co.uk/Detail/2026/11/14/780707/eus-ban-on-russian-gas-is-hurting-european-economy-russian-mfa">EU’s ban on Russian gas is hurting European economy: Moscow</a></li>
-<li><a href="https://www.nytimes.com/2022/06/01/business/energy-environment/europe-russia-oil-global-energy.html">Europe ’s Russian Oil Ban Could Overhaul Global Energy Market ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Energy Market`, `#Russia`, `#European Energy`, `#Gas Supply`, `#Market Dynamics`
-
----
-
-<a id="item-global-market-15"></a>
-### [日本央行持续加息，消费数据不确定性增加](https://reut.rs/4Ag5OKw) ⭐️ 7.0/10
-
-日本央行计划继续加息，但由于消费数据疲软，加息路径变得不明朗。
-
-rss · 路透社 Reuters · 11月24日 12:36
-
-**「背景信息」** 日本央行（BOJ）自 2016 年以来一直将基准利率维持在 1.25%的水平。这一政策旨在刺激经济增长和通胀。近期，BOJ 决定继续加息，这表明其对经济前景的信心。然而，由于消费数据疲软，加息路径变得不明朗。这种不确定性可能源于国内消费放缓，这可能影响 BOJ 对未来经济走势的判断。
-
-**「影响」** 消费数据的疲软可能会对日本央行加息决策产生不确定性，进而影响市场对日本货币和经济的预期。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://tradingeconomics.com/japan/interest-rate">Japan Interest Rate - TRADING ECONOMICS</a></li>
-<li><a href="https://www.tradingview.com/symbols/ECONOMICS-JPINTR/">Japan Interest Rate — Economic Data and Chart — TradingView</a></li>
-<li><a href="https://interestratedecision.com/boj/rate-history/">Bank of Japan Interest Rate History Since 2008</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Central Bank Policy`, `#Interest Rates`, `#Economic Data`, `#Consumer Spending`
-
----
-
-<a id="item-global-market-16"></a>
-### [欧盟对中国及其他国家混合动力汽车进口设限](https://reut.rs/4j841jw) ⭐️ 7.0/10
-
-欧盟对从中国及其他国家进口的混合动力汽车实施了进口限制。
-
-rss · 路透社 Reuters · 11月24日 12:21
-
-**「背景信息」** 在欧盟对从中国及其他国家进口的混合动力汽车设定限制之前，中欧双方就混合动力汽车贸易进行了密集磋商，并达成了符合世界贸易组织规则的谅解。此外，欧盟曾考虑对中国混合动力汽车（包括插电式混合动力 PHEV 和普通混合动力 HEV）加征与电动汽车类似的额外关税，税率在 7.8%至 35.3%之间。这些措施是在中国去年对欧盟的混合动力汽车出口大幅增长背景下进行的。
-
-**「影响」** 这一限制措施可能对全球汽车市场和贸易关系产生显著影响，尤其是对中国汽车出口造成压力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ftmailbox.com/story/001111062">中国与 欧 盟 就控 制 中国 混 合 动 力 汽 车 对 欧 出 口 达成谅解 - FT中文网</a></li>
-<li><a href="https://www.amz123.com/t/mCNrHL8p">amz123.com/t/mCNrHL8p</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Trade Policy`, `#Automotive Industry`, `#EU`, `#Hybrid Vehicles`, `#Global Trade`
-
----
-
-<a id="item-global-market-17"></a>
-### [中国和印度 2026 年俄原油进口创新高，需求预计见顶](https://reut.rs/49ddUHY) ⭐️ 7.0/10
-
-2026 年，中国和印度预计将对俄罗斯原油的进口量创下历史新高，但需求预计将在此后达到顶峰。
-
-rss · 路透社 Reuters · 11月24日 11:48
-
-**「背景信息」** 中国和印度预计将在 2026 年创下对俄罗斯原油进口的历史新高。这一变化主要是由于伊朗战争和美国对伊朗的制裁，导致中东原油供应中断。在此背景下，中国和印度的原油进口需求增加，其中中国进口量占总进口量的约四分之一。然而，预计随着中东供应的正常化，需求将趋于稳定。
-
-**「影响」** 这一变化可能对全球石油市场产生显著影响，尤其是对俄罗斯原油出口的依赖程度。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://economictimes.indiatimes.com/industry/energy/oil-gas/china-india-set-for-record-russian-oil-imports-in-2026-but-demand-seen-peaking/articleshow/136125384.cms">China, India set for record Russian oil imports in 2026, but ...</a></li>
-<li><a href="https://www.outlookindia.com/international/iran-war-oil-crisis-india-china-record-russian-crude-oil-imports-2026-strait-of-hormuz-us-sanctions-brent-price">Iran War Oil Crisis Explained: India, China Record Russian ...</a></li>
-<li><a href="https://energy.economictimes.indiatimes.com/news/oil-and-gas/china-india-set-for-record-russian-oil-imports-in-2026-but-demand-seen-peaking/136126842">China and India Poised for Record Russian Oil Imports Amid ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Oil Imports`, `#Russia`, `#China`, `#India`, `#Energy Market`
-
----
-
-<a id="item-global-market-18"></a>
-### [日本经济展望下调，消费支出预期首次自 2024 年以来下降](https://reut.rs/4AHmk68) ⭐️ 7.0/10
-
-日本自 2024 年以来首次下调了对消费支出的预期，显示出经济展望的下降。这一变化将对市场产生重要影响。
-
-rss · 路透社 Reuters · 11月24日 11:48
-
-**「背景信息」** 日本经济在过去几年中面对多次冲击，但经济仍保持韧性，预计将以温和的速度增长，得益于国内需求，尽管外部环境面临强风。此外，日本作为净能源进口国，其经济容易受到能源价格波动的影响。尽管中东冲突导致石油和天然气价格上涨，但 2026 年第二季度的商业情绪仍然保持稳定。
-
-**「影响」** 这一预期下调可能会对日本股市、债市和货币市场产生负面影响，可能导致投资者信心下降和资产价格波动。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.deloitte.com/us/en/insights/topics/economy/asia-pacific/japan-economic-outlook.html">Japan economic outlook | Deloitte Insights</a></li>
-<li><a href="https://www.oecd.org/en/publications/oecd-economic-outlook-volume-2024-issue-2_d8814e8b-en/full-report/japan_0a2908f4.html">Japan: OECD Economic Outlook, Volume 2024 Issue 2</a></li>
-<li><a href="https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en.html">OECD Economic Surveys: Japan 2026</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Economic Outlook`, `#Consumer Spending`, `#Central Bank Policy`, `#Financial Markets`
-
----
-
-<a id="item-global-market-19"></a>
-### [台积电旗下子公司寻求对拟建的 226 亿美元芯片制造厂实施得克萨斯州房产税上限](https://reut.rs/4jbdJS6) ⭐️ 7.0/10
-
-TSMC&\#x27;s subsidiary is seeking property tax limits for its proposed $22.6 billion chip manufacturing facility in Texas.
-
-rss · 路透社 Reuters · 11月24日 11:02
-
-**标签**: `#semiconductor industry`, `#TSMC`, `#Texas`, `#property tax`, `#chip manufacturing`
+**标签**: `#Economic Restructuring`, `#Debt Markets`, `#Venezuela`, `#Global Financial Markets`, `#Central Bank Policy`
 
 ---
 
 <a id="item-global-market-20"></a>
-### [伊拉克总理下令管理库尔德地区油田](https://reut.rs/4CjODcH) ⭐️ 7.0/10
+### [埃克森美孚圭亚那日产量突破 100 万桶](https://reut.rs/49gipBE) ⭐️ 7.0/10
 
-伊拉克总理下令相关部委管理库尔德人控制地区的油田，这一决定将对全球石油市场产生影响。
+埃克森美孚宣布，其位于圭亚那的石油产量将在数周内突破每日 100 万桶。
 
-rss · 路透社 Reuters · 11月24日 11:02
+rss · 路透社 Reuters · 11月24日 19:01
 
-**「背景信息」** 伊拉克总理下令由相关部委管理库尔德人控制地区的油田，这一决定涉及伊拉克的政治决策，对全球金融市场具有重要意义。根据相关报道，该命令涵盖了迪亚拉、基尔库克、萨拉赫丁和尼尼微省的油田。库尔德领导人对此表示反对，认为这些命令不符合宪法精神。这一事件反映了伊拉克国内政治局势的复杂性，以及石油资源在伊拉克政治经济中的重要性。
+**「背景信息」** 圭亚那石油工业的发展历程表明，该国正迅速成为全球石油市场的重要参与者。据资料显示，圭亚那计划到 2027 年将日产量提高到约 130 万桶，这将显著扩大其在全球石油市场的影响力，并为国家带来新的经济机遇和挑战。此外，从 Liza 油田开始生产不到五年的时间里，圭亚那的石油产量已经达到 10 亿桶，这一增长速度在行业中是非常显著的。
 
-**「影响」** 这一政治决策可能会影响全球石油供应，进而对石油价格产生影响。
+**「影响」** 这一产量增长预计将对全球石油市场产生显著影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control">Iraq orders takeover of oilfields in areas under Kurdish control</a></li>
-<li><a href="https://www.al-monitor.com/originals/2026/11/iraqi-kurds-close-ranks-baghdad-moves-seize-oil-border-control">Iraqi Kurds close ranks as Baghdad moves to seize oil , border control</a></li>
-<li><a href="https://en.964media.com/56387/">Kurdish leaders close ranks against PM Zaidi’ s border and oil orders</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Petroleum_industry_in_Guyana">Petroleum industry in Guyana - Wikipedia</a></li>
+<li><a href="https://592hub.com/blog/guyana-oil-history.html">The History of Oil in Guyana: A Timeline | 592Hub</a></li>
+<li><a href="https://corporate.exxonmobil.com/locations/guyana/guyana-newsroom/2026/one-billion-barrels-guyanas-remarkable-journey-continues">One billion barrels: Guyana&#x27;s remarkable journey continues</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Iraq`, `#Oil Markets`, `#Political Decision`, `#Commodities`, `#Central Banks`
-
----
-
-<a id="item-global-market-21"></a>
-### [日本加速向国际刑事法院提供资金](https://reut.rs/4iYgXtx) ⭐️ 7.0/10
-
-在日本面临美国对国际刑事法院的制裁威胁之际，日本加快了对该法院的资金支持，这一举措可能对全球金融市场动态产生影响。
-
-rss · 路透社 Reuters · 11月24日 10:29
-
-**「背景」** 美国对国际刑事法院实施制裁的背景下，日本加快了对该法院的资金支持。这一事件反映了国际刑事法院在处理全球性犯罪问题上的重要性，同时也揭示了国际关系中地缘政治风险的增加。美国在 2025 年 2 月发布的行政命令 14203 中正式对参与调查美国或以色列国民的国际刑事法院官员实施了制裁。这些制裁可能对国际刑事法院的运作产生严重影响，尤其是如果荷兰银行因担心违反美国制裁而暂停向国际刑事法院提供金融服务时。
-
-**「影响」** 此举可能增加全球金融市场的地缘政治风险，影响国际关系和金融市场的稳定性。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.globalbankingandfinance.com/explainer-how-us-sanctions-undermine-global-war-crimes-court/">How US Sanctions Could Undermine the International Criminal Court</a></li>
-<li><a href="https://www.atlanticcouncil.org/dispatches/the-us-just-sanctioned-the-international-criminal-court-whats-next/">The US just sanctioned the International Criminal Court. What ...</a></li>
-<li><a href="https://hls.harvard.edu/today/u-s-sanctions-against-the-international-criminal-court/">U.S. sanctions against the International Criminal Court ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Risk`, `#International Relations`, `#Financial Markets`, `#Sanctions`, `#International Criminal Court`
-
----
-
-<a id="item-global-market-22"></a>
-### [高盛预测美国天然气需求因数据中心增长而激增](https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-US-Natural-Gas-Demand-Surging-on-Data-Center-Boom.html) ⭐️ 7.0/10
-
-高盛预测，由于数据中心容量的增长，美国天然气需求将在未来两年内激增。预计到 2028 年，电网将新增约 52 吉瓦的数据中心容量。高盛分析师在一份报告中指出，截至今年，美国数据中心电力容量和需求增长了近 30%，占美国总电力需求增长的近三分之一。
-
-rss · OilPrice · 11月25日 06:45
-
-**「背景信息」** 近年来，随着数据中心数量的增加，美国对天然气的需求不断增长。据 BakerO&\#x27;Brien 的文章指出，数据中心和新的液化天然气工厂等电力需求的增长是推动天然气消费上升的重要因素。此外，RBCCM 的分析显示，数据中心扩张面临结构性挑战，可能限制天然气需求增长并改变部署时间表。PwC 的报告则探讨了人工智能数据中心增长如何影响美国天然气需求、管道容量、电力可靠性和基础设施投资，预计到 2035 年将产生重大影响。
-
-**「影响」** 这一趋势将对美国天然气市场产生显著影响，可能导致天然气价格上升，并可能促使能源公司增加对数据中心相关基础设施的投资。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://bakerobrien.com/article/how-data-center-growth-impacts-gas-consumption">How Data Center Growth Impacts Gas Consumption</a></li>
-<li><a href="https://www.rbccm.com/en/insights/2026/05/natural-gas-powers-the-data-center-boom">Natural gas powers the data center boom - RBCCM</a></li>
-<li><a href="https://www.pwc.com/us/en/industries/energy-utilities-resources/library/natural-gas-infrastructure-ai-data-centers.html">Natural gas infrastructure for AI data centers: PwC</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Natural Gas`, `#Data Centers`, `#Energy Demand`, `#Goldman Sachs`, `#U.S. Market`
-
----
-
-<a id="item-global-market-23"></a>
-### [华盛顿通过签订钨交易合同摆脱对中国的依赖](https://oilprice.com/Metals/Commodities/Washington-Is-Buying-Its-Way-Out-of-Chinas-Tungsten-Grip.html) ⭐️ 7.0/10
-
-美国今年签署了价值高达 24.5 亿美元的钨交易合同，以减少对中国钨资源的依赖。这一举措是在五角大楼禁止使用中国产钨之前进行的，该禁令将于 1 月 1 日生效。从那天起，国防承包商将无法提供在中国、俄罗斯、伊朗或朝鲜开采、提炼或分离的钨，这关闭了他们通过在其他地方完成生产来规避旧限制的漏洞。美国自 2015 年以来就没有商业开采钨。
-
-rss · OilPrice · 11月24日 23:00
-
-**「背景信息」** 美国国防部于 2027 年 1 月 1 日起禁止使用中国、俄罗斯、伊朗和朝鲜开采、提炼或分离的钨。这一政策变化导致美国签署了价值高达 24.5 亿美元的钨采购合同，以减少对中国的依赖。美国自 2015 年以来未进行商业钨开采。此外，美国和盟国公司正在推进钨和其他关键矿物项目的许可、重启和新资金，以应对 2027 年 1 月 1 日生效的国防部采购限制。
-
-**「影响」** 这一举措可能会对全球钨市场产生重大影响，减少对中国的依赖可能会提高钨的价格，并对依赖中国钨资源的行业产生连锁反应。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.puretungsten.io/insights/dfars-tungsten-2027">DFARS Tungsten Rule 2027: Pentagon China Ban Explained</a></li>
-<li><a href="https://www.bnnbloomberg.ca/press-releases/2026/10/27/ahead-of-a-january-2027-pentagon-sourcing-rule-tungsten-projects-outside-china-move-into-permits-and-restarts/">Ahead of a January 2027 Pentagon Sourcing Rule, Tungsten ...</a></li>
-<li><a href="https://oilprice.com/Metals/Commodities/Washington-Is-Buying-Its-Way-Out-of-Chinas-Tungsten-Grip.html">Washington Is Buying Its Way Out of China&#x27;s Tungsten Grip</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Tungsten Supply`, `#Geopolitical Relations`, `#Commodities Market`, `#Pentagon Ban`, `#U.S. Defense`
-
----
-
-<a id="item-global-market-24"></a>
-### [伊拉克拒绝接受欧佩克对其产能的评估](https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html) ⭐️ 7.0/10
-
-伊拉克拒绝接受欧佩克对其日产量低于 500 万桶的评估，寻求在即将到来的会议上获得约 600 万桶/日的产能认可。根据当前欧佩克+的生产协议，伊拉克的产量上限为 443.1 万桶/日。
-
-rss · OilPrice · 11月24日 18:30
-
-**「背景信息」** 伊拉克拒绝接受欧佩克+对其石油生产能力的评估，寻求在即将到来的会议前提高产量上限。根据目前的欧佩克+生产协议，伊拉克的产量上限为 4.431 百万桶/日。根据欧佩克 11 月的报告，巴格达报告了 10 月份的产量为 4.888 百万桶/日，高于当前配额。欧佩克的独立来源将这一数字定为 4.491 百万桶/日。
-
-**「影响」** 如果欧佩克认可伊拉克要求的更高产能评估，这将增加伊拉克的产量上限，可能对全球石油市场产生影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.zerohedge.com/energy/iraq-refuses-accept-opec-assessment-its-production-capacity">Iraq Refuses To Accept OPEC+ Assessment Of Its Production ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Oil Production`, `#OPEC+`, `#Global Energy Markets`, `#Commodity Prices`, `#Iraq`
+**标签**: `#Oil Production`, `#Commodities`, `#ExxonMobil`, `#Guyana`, `#Energy Market`
 
 ---
 
 ## AI 前沿
 
 <a id="item-ai-frontier-1"></a>
-### [OpenAI 矩阵乘法突破](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) ⭐️ 9.0/10
+### [GPT-6 模型展示内在蛋白质设计能力](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) ⭐️ 9.0/10
 
-OpenAI 发布了一篇论文，揭示了矩阵乘法领域的重大突破，表明矩阵乘法的指数为 9/4，这一发现反驳了之前的猜想。
-
-hackernews · E-Reverance · 11月25日 01:19 · [社区讨论](https://news.ycombinator.com/item?id=50637220)
-
-**「背景」** 矩阵乘法是计算机科学和数学中的一个基本操作，其效率对许多算法的性能至关重要。长期以来，数学家们一直在寻找更快的矩阵乘法算法。OpenAI 最近的一项研究提出了一个突破性的发现，即矩阵乘法的指数为 9/4，这一发现挑战了之前的猜想，并为数学研究和人工智能领域带来了新的可能性。
-
-**「影响」** 这一发现为数学研究带来了重大进展，并可能对人工智能和大型语言模型产生深远影响，尤其是在优化算法和计算效率方面。
-
-**「社区讨论」** 社区讨论中提到，OpenAI 的这项研究解决了数学领域 500 个开放问题中的 8 个问题，其中包括矩阵乘法指数问题。有观点认为，OpenAI 可能正在保留其最佳模型以实现根本性的突破，然后利用这些突破来构建更强大的模型。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://officechai.com/ai/openai-has-found-a-far-faster-way-to-multiply-matrices-the-math-that-underpins-all-of-modern-ai/">OpenAI Has Found A Far Faster Way To Multiply Matrices, The ...</a></li>
-<li><a href="https://aiweekly.co/alerts/openai-claims-matrix-multiplication-exponent-is-exactly-94">OpenAI claims matrix multiplication exponent is exactly 9/4</a></li>
-<li><a href="https://www.unite.ai/openai-preprint-reports-9-4-bound-for-matrix-multiplication/">OpenAI Preprint Reports 9/4 Bound for Matrix Multiplication</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Matrix_multiplication">Matrix multiplication - Wikipedia</a></li>
-<li><a href="https://interestingengineering.com/culture/openai-exact-2-25-matrix-multiplication-exponent">OpenAI establishes exact 2 . 25 exponent for matrix multiplication</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Research`, `#Mathematics`, `#OpenAI`, `#Matrix Multiplication`, `#Algorithmic Breakthrough`
-
----
-
-<a id="item-ai-frontier-2"></a>
-### [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) ⭐️ 8.0/10
-
-GPT-6 models showcase novel protein-design capabilities without relying on specialized AI models, marking a significant advancement in AI research.
+GPT-6 模型展示了突破性的蛋白质设计能力，无需使用专门的蛋白质 AI 模型，这是人工智能研究领域的重大进展。
 
 hackernews · acossta · 11月24日 21:02 · [社区讨论](https://news.ycombinator.com/item?id=50634658)
 
-**标签**: `#AI Research`, `#Large Language Models`, `#AI Infrastructure`, `#Protein Design`
+**「背景信息」** GPT-6 模型在人工智能领域取得了突破性进展，能够展示内在的蛋白质设计能力，而无需使用专门的蛋白质 AI 模型。这一进展得益于大型语言模型（LLM）的发展，特别是 GPT-6 模型在推理和编码方面的能力。这种能力使得 GPT-6 模型能够设计蛋白质结构和序列，并在实验室测试中显示出与五个目标结合的证据。
 
----
+**「影响」** GPT-6 模型在蛋白质设计方面的内在能力为研究人员和开发者提供了新的工具，使他们能够更高效地探索蛋白质结构和序列，从而加速药物发现和生物技术领域的创新。
 
-<a id="item-ai-frontier-3"></a>
-### [过去一年中三个 LLM 的关键转折点](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) ⭐️ 8.0/10
-
-本文强调了过去一年中 LLM 和编码代理能力发展的三个重要转折点，重点关注了 Claude Opus 4.5 的发布及其在处理歧义和推理方面的能力。Claude Opus 4.5 和 OpenAI 的 GPT-5.1 Instant 等模型的发布，使得编码代理在处理复杂编程任务时变得更加可靠和高效。此外，Fable 类模型的出现标志着 LLM 在解决问题和利用工具方面的巨大进步，而 3D 建模和游戏开发能力的提升则预示着 LLM 在更多领域的应用潜力。
-
-rss · Simon Willison · 11月24日 23:02
-
-**「背景信息」** 大型语言模型（LLM）在过去一年中经历了三个重要的转折点，这些转折点标志着 LLM 和编码代理能力的显著提升。这些转折点包括 Claude Opus 4.5 的发布，它显著提高了处理歧义和推理的能力；Fable 类模型的推出，这些模型能够通过 brute force 解决问题；以及 LLM 在 3D 建模和游戏开发方面的进步，这使得它们能够生成逼真的 3D 模型和游戏。
-
-**「影响」** 对于开发者、研究人员和用户来说，这些 LLM 能力的重大转折点意味着他们现在可以更有效地利用这些工具来解决复杂问题，如代码修复、安全漏洞检测和 3D 建模。例如，Claude Fable 5.2 等模型能够自动解决编程问题，并在 3D 建模和游戏开发中展现出惊人的能力，这为 AI 辅助的创意工作开辟了新的可能性。
-
-**「社区讨论」** 目前没有可用的社区评论。
+**「社区讨论」** 社区成员 gopalv 指出，GPT-6.2 能够根据目标蛋白质的三维结构编写代码，创建潜在的小分子结合剂的三维设计，这表明了这些模型编写代码的能力是它们的超级力量。而 fabian2k 则对 GPT-6.2 实际设计的内容表示疑惑，认为序列是蛋白质的结构，询问 GPT-6.2 实际上设计了什么。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_%28AI%29">Claude (AI) - Wikipedia</a></li>
-<li><a href="https://chatx.ai/claude">Claude English without login</a></li>
-<li><a href="https://www.linkedin.com/posts/joelniklaus_everyone-wants-to-release-their-latest-model-activity-7399115063581700096-JVnQ">Everyone wants to release their latest model before the holidays.</a></li>
-<li><a href="https://openrouter.ai/openai/gpt-5.1-codex-mini">GPT - 5 . 1 - Codex -Mini - API Pricing &amp; Benchmarks | OpenRouter</a></li>
-<li><a href="https://www.linkedin.com/posts/testingcatalog_openai-readies-gpt-51-thinking-model-ahead-activity-7392161774625763330-jfFD">OpenAI readies GPT - 5 . 1 Thinking model ahead of Gemini 3 Pro</a></li>
-<li><a href="https://lilys.ai/en/notes/design-with-canva-20251118/new-openai-gpt-51-4min">NEW: OpenAI GPT 5 . 1 in 4 mins!</a></li>
-<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Introducing Claude Fable 5 .1 and Claude Mythos 5.1 \ Anthropic</a></li>
-<li><a href="https://benchlm.ai/models/claude-fable-5-2">Claude Fable 5 .2 Benchmarks &amp; Pricing (November 2026)</a></li>
-<li><a href="https://geroundtable.com/claude-models-explained/">Claude Models Explained: Fable vs Opus vs Sonnet vs... - GEroundtable</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Research`, `#LLM Advancements`, `#AI Infrastructure`, `#Coding Agents`, `#Model Releases`
-
----
-
-<a id="item-ai-frontier-4"></a>
-### [Ternary Bonsai 2.5 27B 模型发布](https://prismml.com/news/bonsai-2-5-27b) ⭐️ 7.0/10
-
-Ternary Bonsai 2.5 27B 模型展示了令人印象深刻的性能和潜在的代理编码能力，在社区中获得了积极的反馈。
-
-hackernews · b0m · 11月24日 20:08 · [社区讨论](https://news.ycombinator.com/item?id=50633922)
-
-**「背景信息」** Ternary Bonsai 2.5 27B 模型是基于 Qwen3.8 27B 构建的，它保留了之前版本 5.9GB 的模型尺寸，同时显著提升了开发者构建能够与私有文件和工具在设备上工作的智能体的能力。该模型特别强调了对工具的调用、多轮工具使用和多步骤任务执行的支持。
-
-**「影响」** 对于开发者、研究人员和用户来说，Ternary Bonsai 2.5 27B 模型的推出意味着在保持紧凑模型尺寸的同时，实现了显著的性能提升，这为 AI 研究和开发提供了更高的价值。该模型在 Mac Mini M5 Pro 上实现了每秒 22-25 个 token 的生成速度，并且能够轻松处理高达 128k 的上下文，这使得它在实现代理编码方面具有潜在的应用价值。
-
-**「社区讨论」** 社区成员 ariwilson 报告了在 Mac Mini M5 Pro 上的性能数据，nik\_s 提到了与 Opus 4.6 在 SWE-bench 上的等效得分，syntaxing 对 Unsloth studio 的使用体验表示满意，thepoet 分享了自定义基准测试的结果，而 tompagenet2 对模型与 Qwen 的比较表示疑问。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://docs.prismml.com/models/bonsai-2-5-27b">Ternary Bonsai 2.5 27B - Bonsai - docs.prismml.com</a></li>
-<li><a href="https://prismml.com/news/bonsai-2-5-27b">PrismML — Introducing Ternary Bonsai 2.5 27B: Powering ...</a></li>
-<li><a href="https://techgenyz.com/ternary-bonsai-2-5-27b-local-ai-model/">Bonsai 2.5 27B: 5 Critical Facts on Local AICoding and Tool ...</a></li>
-<li><a href="https://prismml.com/news/bonsai-2-5-27b">PrismML — Introducing Ternary Bonsai 2 . 5 27 B : Powering Agentic...</a></li>
-<li><a href="https://prismml.com/news/prismml-launches-ternary-bonsai-2-5-27b">PrismML — PrismML Launches Ternary Bonsai 2 . 5 27 B for Agentic...</a></li>
-<li><a href="https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF">prism-ml/ Ternary - Bonsai - 2 . 5 - 27 B -GGUF · Hugging Face</a></li>
+<li><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">GPT - 6 models demonstrate intrinsic protein - design capabilities</a></li>
+<li><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">GPT - 6 models demonstrate intrinsic protein - design capabilities</a></li>
+<li>Protein Design Enters the Artificial Intelligence Era: Foundations, Tools ...</li>
 
 </ul>
 </details>
@@ -729,99 +703,176 @@ hackernews · b0m · 11月24日 20:08 · [社区讨论](https://news.ycombinator
 
 ---
 
-<a id="item-ai-frontier-5"></a>
-### [PenGPT：一款用于手写和草图生成的生成式 Transformer](https://greydanus.github.io/2026/11/12/pengpt/) ⭐️ 7.0/10
+<a id="item-ai-frontier-2"></a>
+### [OpenAI 发布矩阵乘法指数突破性研究](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) ⭐️ 8.0/10
 
-PenGPT，一款新的用于手写和草图生成的生成式 Transformer，在 AI 社区引起了关注。该模型通过大量数据集和严格的质量控制，实现了对手写和草图的高效生成，为 AI 研究和 AI 驱动产品领域带来了新的可能性。
+OpenAI 发布了一篇突破性论文，揭示了矩阵乘法的确切指数为 9/4，这一发现对数学领域和 AI 研究及基础设施可能产生重大影响。
 
-hackernews · smusamashah · 11月25日 00:54 · [社区讨论](https://news.ycombinator.com/item?id=50637056)
+hackernews · E-Reverance · 11月25日 01:19 · [社区讨论](https://news.ycombinator.com/item?id=50637220)
 
-**「背景」** PenGPT 是一种新的生成式 Transformer 模型，专门用于手写和草图。该模型由研究者 Sam Greydanus 提出，能够在文本提示的基础上生成手写和草图。这一研究进展对于对 AI 研究和 AI 驱动产品感兴趣的读者来说具有重要意义。PenGPT 的开发主要集中在数据构建和质量控制上，作者表示，在模型训练过程中，大约 80%的努力都投入到了构建最大、最干净的数据集以及对其进行大量的质量控制上。这种对数据的重视反映了当前 AI 领域的一种趋势，即通过高质量的数据来提升模型性能。
+**「背景信息」** 矩阵乘法是计算机科学和数学中的一个基本操作，广泛应用于人工智能、机器学习等领域。OpenAI 的研究人员最近发表了一篇论文，揭示了矩阵乘法的确切指数为 2.25，这一发现对于数学和人工智能领域具有重要意义。这一突破性的成果基于数学和 Lean 形式化的证明，为矩阵乘法的理论研究提供了新的方向。
 
-**「社区讨论」** 社区中有人提到，PenGPT 的成功并非源于创新性的架构设计，而是依赖于高质量的数据集和严格的质量控制。作者也回应称，他们更注重数据的质量而非模型架构的创新。此外，有用户表示，PenGPT 在图形实时演示方面的应用潜力巨大，有望成为知识传递和学习的重要工具。
+**「影响」** 这一发现为 AI 研究人员和开发者提供了新的理论基础，可能促进更高效的算法和计算基础设施的发展。
+
+**「社区讨论」** 社区讨论中提到，OpenAI 的这项工作解决了数学领域顶级 500 个未解决问题中的 8 个问题，包括矩阵乘法指数问题。有观点认为，OpenAI 可能正在积累突破性成果，然后利用这些成果构建更强大的模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://grafy.ai/news/pengpt-a-new-transformer-for-handwriting-and-sketches">PenGPT: A Transformer for Handwriting — Grafy — Grafy News</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50637056">PenGPT: A Generative Transformer for Handwriting and Sketches ...</a></li>
-<li><a href="https://www.youtube.com/watch?v=MrgLhddxYCY">PenGPT now generates human handwriting and ink sketches from ... PenGPT: A Generative Transformer for Handwriting and Sketches Sam Greydanus on X: &quot;Releasing PenGPT! (https://t.co ... PenGPT: A Generative Transformer Designed for Handwriting and ... PenGPT.AI</a></li>
+<li><a href="https://interestingengineering.com/culture/openai-exact-2-25-matrix-multiplication-exponent">OpenAI establishes exact 2.25 exponent for matrix multiplication</a></li>
+<li><a href="https://officechai.com/ai/openai-has-found-a-far-faster-way-to-multiply-matrices-the-math-that-underpins-all-of-modern-ai/">OpenAI Has Found A Far Faster Way To Multiply Matrices , The Math...</a></li>
+<li><a href="https://www.youtube.com/watch?v=Z2akygaVh8Q">A 32-Year-Old Did the Matrix Math Experts Thought... - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Generative Models`, `#Handwriting Recognition`, `#AI-Driven Products`, `#Machine Learning`
+**标签**: `#AI Research`, `#Mathematics`, `#OpenAI`, `#Matrix Multiplication`, `#Algorithmic Breakthrough`
+
+---
+
+<a id="item-ai-frontier-3"></a>
+### [十二个月内三个 LLM 转折点](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) ⭐️ 8.0/10
+
+在过去十二个月内，LLM 和编码代理的能力经历了三个重大转折点。这些转折点包括 Claude Opus 4.5 的发布，Fable 类模型的引入，以及前沿 LLM 在 3D 建模和游戏开发方面的进步。Claude Opus 4.5 的发布使得编码代理在处理复杂编程问题时更加可靠和高效。Fable 类模型，如 Claude Fable 5，展示了通过定义目标和提供必要的工具，模型能够以 brute force 解决问题的能力。此外，前沿 LLM 在 3D 建模和游戏开发方面的进步，使得它们能够生成逼真的 3D 模型和游戏。
+
+rss · Simon Willison · 11月24日 23:02
+
+**「背景」** 大型语言模型（LLM）在过去一年中经历了三个重要的转折点，这些转折点显著提高了 LLM 和编码代理的能力。这些转折点包括 Claude Opus 4.5 的发布、Fable 类模型的引入以及 LLM 在 3D 建模和游戏开发方面的进步。Claude Opus 4.5 的发布标志着模型在处理复杂编程问题方面的能力显著提升，而 Fable 类模型则展示了 LLM 在解决特定问题时的强大能力。此外，LLM 在 3D 建模和游戏开发方面的进步为这些领域带来了新的可能性。
+
+**「影响」** 对于开发者、研究人员和用户来说，这些 LLM 和编码代理能力的重大发展意味着他们现在可以更高效地解决复杂问题，如代码修复、安全漏洞检测和 3D 建模。例如，Claude Opus 4.5 和 GPT-5.1 系列模型的出现使得编码代理在处理日常编码任务时更加可靠和高效，而 Fable 类模型则展示了在提供明确目标和工具的情况下，模型能够以 brute force 的方式解决复杂问题。此外，LLMs 在 3D 建模和游戏开发方面的进步为这些领域带来了新的可能性，尽管设计有趣的游戏仍然被认为是人类独有的技能。
+
+**「社区讨论」** 目前没有可用的社区评论。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.anthropic.com/news/claude-opus-4-5">Introducing Claude Opus 4.5 - anthropic.com</a></li>
+<li><a href="https://platform.claude.com/docs/en/models/opus-4-5/overview">Claude Opus 4.5 - Claude Platform Docs</a></li>
+<li><a href="https://support.claude.com/en/articles/12138966-release-notes">Release notes | Claude Help Center</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-5/">Introducing GPT - 5 | OpenAI</a></li>
+<li><a href="https://github.com/openai/codex/releases">Releases · openai/ codex · GitHub</a></li>
+<li><a href="https://chatgpt.com/ru-RU/pricing/">Тарифные планы и цены | ChatGPT</a></li>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Introducing Claude Fable 5.1 and Claude Mythos 5.1 \ Anthropic</a></li>
+<li><a href="https://www.coursera.org/courses?query=cybersecurity">Best Cybersecurity Courses &amp; Certificates [2026] | Coursera</a></li>
+<li><a href="https://www.udemy.com/topic/cyber-security/">Top Cybersecurity Courses Online - Updated [November 2026]</a></li>
+
+</ul>
+</details>
+
+**标签**: `#LLM Development`, `#AI Research`, `#Model Release`, `#Anthropic`, `#Claude Opus 4.5`
+
+---
+
+<a id="item-ai-frontier-4"></a>
+### [PenGPT：一款用于手写和草图生成的生成式 Transformer](https://greydanus.github.io/2026/11/12/pengpt/) ⭐️ 7.0/10
+
+PenGPT 是一款用于手写和草图生成的生成式 Transformer 模型。该模型强调了数据质量在 AI 开发中的重要性，并展示了在 8xH100 上的训练结果。
+
+hackernews · smusamashah · 11月25日 00:54 · [社区讨论](https://news.ycombinator.com/item?id=50637056)
+
+**「背景」** PenGPT 是一种用于手写和草图生成的生成式 Transformer 模型。该模型的研究强调了数据质量在人工智能开发中的重要性。在人工智能领域，手写和草图识别是一个长期存在的问题，而 PenGPT 的出现为这一领域带来了新的进展。此外，该研究还提到了‘苦涩教训’，即数据质量对于模型性能的重要性超过了模型架构的复杂性。
+
+**「社区讨论」** 社区中有人提到，作者在项目中将大部分精力投入到构建最大、最干净的数据集以及数据质量控制上，这体现了对数据质量的重视。同时，也有人对模型生成的手写风格表示赞赏，但也有人指出模型在某些线条上表现出的不自然之处。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://handtextai.com/">Text to Handwriting Converter - Create Realistic... | HandtextAI</a></li>
+<li><a href="https://penwork.tech/">Penwork — Free Handwriting Generator | Add Images &amp; Tables to...</a></li>
+<li><a href="https://handwrittner.com/en">Handwrittner - handwritten notes generator</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Research`, `#Generative Models`, `#Handwriting Recognition`, `#AI Infrastructure`, `#AI-Powered Products`
+
+---
+
+<a id="item-ai-frontier-5"></a>
+### [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) ⭐️ 7.0/10
+
+The Ternary Bonsai 2.5 27B model shows promising performance and potential applications in agentic coding, with concrete benchmarks and community interest.
+
+hackernews · b0m · 11月24日 20:08 · [社区讨论](https://news.ycombinator.com/item?id=50633922)
+
+**标签**: `#AI Model`, `#Performance Improvement`, `#Benchmark`, `#Community Interest`, `#Agentic Coding`
 
 ---
 
 <a id="item-ai-frontier-6"></a>
-### [GPT 6.2 Astra 解决历史谜团](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/) ⭐️ 7.0/10
+### [突破 iOS Safari 60 FPS 限制，构建感觉像原生的 Web 应用程序](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) ⭐️ 7.0/10
 
-GPT-6.2 Astra 成功识别了 1808 年一本匿名素描本的创作者，这是历史研究中的一个重大突破。该模型在 22 分钟内自主完成识别，利用公开的初级和次级资料，并在一个不为人知的档案中发现了一个重要线索。
+一篇博客文章讨论了如何绕过 iOS Safari 的 60 FPS 限制，以提升 Web 应用程序的性能，社区对此反应不一。
 
-rss · Simon Willison · 11月24日 16:53
+hackernews · vinhnx · 11月25日 03:04 · [社区讨论](https://news.ycombinator.com/item?id=50637890)
 
-**「背景信息」** GPT-6.2 Astra 是一种先进的自然语言处理模型，它能够理解和生成自然语言。在历史研究领域，GPT-6.2 Astra 的应用是一个重要的里程碑，因为它展示了人工智能在处理和分析大量文本数据方面的潜力。此前，历史研究主要依赖于人类学者的专业知识和对文献的深入理解。GPT-6.2 Astra 的案例研究揭示了其在解决历史谜题方面的能力，特别是在加拿大和皮草贸易历史领域。
+**「背景信息」** 随着移动设备的不断发展，用户对移动网页应用的性能要求越来越高。iOS Safari 浏览器作为移动设备上常用的浏览器之一，其 60 帧每秒的渲染限制一直是开发者面临的一大挑战。这一限制导致在 iOS Safari 上运行的网页应用在动画和交互方面往往无法达到原生应用的流畅度。为了解决这个问题，开发者们一直在寻找方法来突破这一限制。
 
-**「影响」** 这一成果可能对历史研究产生显著影响，特别是在加拿大和毛皮贸易历史领域。它表明，AI 在历史研究中的应用具有巨大潜力，可能会改变历史学家的工作方式。
+**「社区讨论」** 社区成员对这一技术发展持有不同的看法。有人认为通过 Twitter 链接的演示非常令人印象深刻，认为这是 Web 技术的一大进步。另一些人则指出，在 iOS 上的表现与 Android 相比有显著差异，并提到一些细节上的问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Voynich_manuscript">Voynich manuscript - Wikipedia</a></li>
-<li><a href="https://beinecke.library.yale.edu/">Beinecke Library | Yale Library</a></li>
-<li><a href="https://yale.academia.edu/">Yale University - Top Departments &amp; Research Papers</a></li>
+<li><a href="https://rida.dev/blog/bypassing-ios-safari-60-fps-limit">Bypassing iOS Safari’s 60 FPS Limit to Build Web Applications ...</a></li>
+<li><a href="https://apexneuralnews.com/news/bypassing-ios-safaris-60-fps-limit-to-build-web-applications-that-feel-native">Bypassing iOS Safari&#x27;s 60 FPS Limit to Build Web Applications ...</a></li>
+<li><a href="https://sitem.co/public/summary/8399/bypassing-ios-safaris-60-fps-limit-to-build-web-applications-that-feel-native">Bypassing iOS Safari’s 60 FPS Limit to Build Web Applications ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI in History`, `#GPT-6.2 Astra`, `#Historical Research`, `#Machine Learning`, `#Yale Beinecke Library`
+**标签**: `#Web Development`, `#iOS Safari`, `#Performance Optimization`, `#Technical Blogging`
 
 ---
 
 <a id="item-ai-frontier-7"></a>
-### [Anthropic 与 OpenAI 员工对未发布模型安全表示担忧](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) ⭐️ 7.0/10
+### [中国团队在 General Looped Model 上取得重大突破](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247948850&amp;idx=2&amp;sn=61a2886291c3e9354bfb6286ce284e33) ⭐️ 7.0/10
 
-Anthropic 和 OpenAI 的员工对未发布的强大 AI 模型的安全性表示担忧，导致内部讨论是否应停止发布这些模型，并考虑仅内部部署或暂停新模型的训练。
+中国团队在 General Looped Model 上取得了显著突破，将模型参数从 50 亿减少到 9400 万，同时将权重和内存使用量降低了 98%。这一成果将有助于推动大型语言模型的发展。
 
-telegram · zaihuapd · 11月24日 12:18
+rss · 量子位 · 11月25日 09:46
 
-**「背景信息」** 在人工智能领域，模型的安全性和可靠性一直是关键问题。未发布的 AI 模型可能存在潜在的安全风险，这引发了 Anthropic 和 OpenAI 员工对其安全性的担忧。这些公司拥有比公开版本更强大的未发布模型，但难以确保这些模型的安全性。这一担忧促使内部讨论是否应该停止公开发布模型，仅限于内部部署，甚至是否应该暂停新模型的训练。
+**「背景信息」** Loop 架构是一种在人工智能领域新兴的模型架构，它通过循环迭代的方式，在相同的参数预算下实现更多的计算。这种架构在大型语言模型中得到了广泛应用，如 OpenAI 的 Astra 和智谱 AI 的 GLM-5.4。Loop 架构的核心思想是将模型中的某些层重复运行多次，每次运行使用不同的权重和缓存，从而提高模型的效率和效果。这项技术的研究和发展对于推动人工智能领域的发展具有重要意义。
 
-**「影响」** 这一讨论可能会影响 AI 模型的发布实践，促使研究人员和开发者更加重视 AI 安全，并可能导致更严格的安全审查流程。
+**「影响」** 这一突破将显著降低大型语言模型的计算成本，使得更多研究人员和开发者能够访问和使用这些模型，从而加速 AI 技术的发展和应用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks">Anthropic , OpenAI employees fear models are too unsafe to release</a></li>
-<li><a href="https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security">As AI models go rogue, do you still trust OpenAI and Anthropic to...</a></li>
-<li><a href="https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks">Anthropic and OpenAI CEOs call for AI development to slow... : NPR</a></li>
+<li><a href="https://vllm-project.github.io/2026/11/20/inkling2-mini.html">Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model | vLLM Blog</a></li>
+<li><a href="https://huggingface.co/models">Models – Hugging Face</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50609685">GLM-5.4: Toward generalized coding with our first loop ... | Hacker News</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Safety`, `#AI Research`, `#Model Release Practices`, `#OpenAI`, `#Anthropic`
+**标签**: `#AI Research`, `#Large Language Models`, `#AI Infrastructure`, `#AI-Powered Products`
 
 ---
 
 <a id="item-ai-frontier-8"></a>
-### [VMware vCenter 漏洞再曝，9.8 分免鉴权漏洞被利用](https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html) ⭐️ 7.0/10
+### [OpenAI 两次拆掉机器人团队：只靠大模型，为什么撑不起物理 AI？](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247948850&amp;idx=1&amp;sn=ceb9e5e6e7769f185549b5dccd311d65) ⭐️ 7.0/10
 
-VMware vCenter 被发现存在一个严重的安全漏洞（CVE-2026-123903），评分为 9.8 分，属于免鉴权漏洞。该漏洞允许攻击者绕过认证直接访问系统，几天前已被零日利用。
+OpenAI 决定解散其机器人团队，将研究人员和硬件人员分别并入核心研究与应用部门。这一决定反映了物理 AI 领域的发展趋势，即转向依赖机器学习模型和通用基础设施的复用，而非独立团队。
 
-telegram · zaihuapd · 11月24日 14:50
+rss · 量子位 · 11月25日 09:46
 
-**「背景信息」** VMware vCenter 是一款广泛使用的虚拟化平台管理工具。它允许管理员集中管理和监控虚拟机。此次发现的漏洞（CVE-2026-123903）是一个严重的认证绕过漏洞，评分为 9.8 分，是 CVSS 评分体系中的最高级别，仅次于完全自动化的、零交互的蠕虫式漏洞。该漏洞允许攻击者绕过认证直接访问系统，对网络安全构成严重威胁。
+**「背景信息」** 物理 AI（具身智能）是人工智能领域的一个重要研究方向，它旨在使机器能够在真实世界中执行复杂的任务。OpenAI 的机器人团队解散反映了物理 AI 领域面临的挑战，包括模型训练、数据生成和仿真验证等环节。物理 AI 的发展需要强大的计算基础设施和新的负载结构来支持其研发链路。
 
-**「影响」** 这一漏洞可能会对使用 VMware vCenter 的组织造成严重影响，因为它允许未经授权的访问，可能导致数据泄露、系统损坏或其他安全事件。
+**「影响」** 对于开发者、研究人员和用户来说，OpenAI 拆分机器人团队意味着物理 AI 的发展将更加依赖于通用模型和基础设施的复用。这可能会加速具身智能的落地，但同时也要求物理 AI 的研发链路能够更好地组织资源配比与调度，以应对数据生成、仿真验证等环节的挑战。
+
+**「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://nvd.nist.gov/vuln/detail/cve-2026-123903">NVD-CVE-2026-123903</a></li>
-<li><a href="https://vulners.com/cve/CVE-2026-123903">CVE-2026-123903 - vulnerability database | Vulners.com</a></li>
-<li><a href="https://securityinfinity.com/blog/vmware-vcenter-cve-2026-123903-vmdir-auth-bypass">CVE-2026-123903: VMware&#x27;s Second Critical vCenter Auth Bypass ...</a></li>
+<li><a href="https://robotbelt.com/six-years-after-walking-away-openai-is-back-building-robots-e04/">Six years after walking away, OpenAI is back building robots , and this...</a></li>
+<li><a href="https://blog.4sapi.com/blog/openai-robotics-relaunch-2026">OpenAI Robotics Relaunch: Hiring and Embodied AI Race - 4sAPI Blog</a></li>
+<li><a href="https://beyondtmrw.org/article/openai-reopens-robotics-with-in-house-hardware-after-figure-breakup">OpenAI Robotics division after Figure split | Beyond Tomorrow</a></li>
+<li><a href="https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/">Exclusive: OpenAI disbands stand-alone robotics team as ...</a></li>
+<li><a href="https://casrai.org/news/openai-disbands-robotics-team-2026">OpenAI Disbands Its Robotics Team: What It Means — CASRAI</a></li>
+<li><a href="https://tech.yahoo.com/ai/articles/exclusive-openai-disbands-stand-alone-170530559.html">Exclusive: OpenAI disbands its stand-alone robotics team as ...</a></li>
+<li><a href="https://au.finance.yahoo.com/news/datacanvas-releases-anc-platform-indonesia-051500322.html">DataCanvas Releases ANC Platform in Indonesia, Accelerating the...</a></li>
+<li><a href="https://www.crunchbase.com/organization/datacanvas">DataCanvas - Crunchbase Company Profile &amp; Funding</a></li>
+<li><a href="https://datacanvas.com/">九 章 云 极 DataCanvas -人工智能基础设施及智算 云 提供商</a></li>
 
 </ul>
 </details>
 
-**标签**: `#VMware`, `#vCenter`, `#vulnerability`, `#security`, `#exploit`
+**标签**: `#AI Research`, `#AI Infrastructure`, `#Physical AI`, `#OpenAI`, `#Robotics`
 
 ---
 
@@ -832,17 +883,17 @@ Yann LeCun 指责 Dario Amodei 利用 AI 风险论来阻止开源模型的发展
 
 telegram · zaihuapd · 11月25日 01:30
 
-**「背景信息」** Yann LeCun 是一位法国裔美国计算机科学家，他在 1980 年代末因卷积神经网络（LeNet）的研究而闻名，并因此与 Hinton 和 Bengio 一起获得了 2018 年的图灵奖。LeCun 曾在 Meta 担任首席 AI 科学家，并于 2025 年离开，随后创办了 AMI Labs。Dario Amodei 是一位美国人工智能企业家和研究人员，他是 Anthropic 公司的联合创始人兼首席执行官，该公司致力于构建可控制、可解释和安全的 AI 系统。在加入 Anthropic 之前，Amodei 曾是 OpenAI 的研究副总裁。
+**「背景信息」** Yann LeCun 对 Dario Amodei 的批评涉及了 AI 风险和开源模型的话题。Dario Amodei 是 Anthropic 的首席执行官，此前曾在 OpenAI 工作。Amodei 从 2014 年到 2016 年在百度和 Google Brain 上从事机器学习工作，并在加入 OpenAI 后推动了将开放模型定为非法的做法。LeCun 认为 Amodei 使用 AI 风险论来阻止开源模型，并将其比作中世纪蒙昧主义。
 
-**「影响」** 这场辩论可能会对 AI 安全和开源模型产生重要影响，这对于 AI 研究和基础设施至关重要。LeCun 的批评可能会促使社区重新思考 AI 风险和开源模型的重要性。
+**「影响」** 这场辩论可能会影响 AI 社区对 AI 安全和开放性的看法，这对于 AI 研究和基础设施至关重要。Yann LeCun 的批评可能会促使人们重新思考 AI 风险和开源模型之间的关系。
 
 **「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Dario_Amodei">Dario Amodei - Wikipedia</a></li>
-<li><a href="https://darioamodei.com/">Dario Amodei</a></li>
-<li><a href="https://www.businessinsider.com/dario-amodei">Meet Dario Amodei , Anthropic &#x27;s Outspoken CEO - Business Insider</a></li>
+<li>Dario Amodei - Wikipedia</li>
+<li>The Making Of Anthropic CEO Dario Amodei - Alex Kantrowitz - Medium</li>
+<li>Dario Amodei</li>
 <li><a href="https://opentools.ai/news/yann-lecun-calls-anthropic-ceo-dario-amodeis-ai-concerns-deluded">Yann LeCun Calls Anthropic CEO Dario Amodei &#x27;s AI ... | OpenTools</a></li>
 <li><a href="https://dudjess-newsletter.beehiiv.com/p/ai-and-the-future-of-jobs-yann-lecun-vs-dario-amodei-debate-explained">AI and the Future of Jobs: Yann LeCun vs. Dario Amodei Debate ...</a></li>
 <li><a href="https://www.indiatoday.in/technology/news/story/ai-godfather-says-dario-amodei-has-medieval-mindset-left-openai-when-things-went-out-of-control-3044733-2026-11-23">AI godfather says Dario Amodei has medieval mindset... - India Today</a></li>
@@ -850,22 +901,70 @@ telegram · zaihuapd · 11月25日 01:30
 </ul>
 </details>
 
-**标签**: `#AI Safety`, `#Open Source Models`, `#AI Research`, `#Community Debate`
+**标签**: `#AI Safety`, `#Open Source`, `#AI Research`, `#Industry Debate`
+
+---
+
+<a id="item-ai-frontier-10"></a>
+### [腾讯开源 Hy4 flash 量化权重最小版](https://mp.weixin.qq.com/s/o0xxShVQX6g2UllrrEv1WQ) ⭐️ 7.0/10
+
+腾讯开源了 Hy4 flash 模型的 GGUF 量化权重最小版，通过 AngelSlim 工具箱压缩，使得 64 GB Mac mini 能够运行。该版本权重从原版的 410.27GiB 减少到 125.73GiB，约为原版的 30%。在 48 GB 显存设备上，10K 上下文每秒可生成 89 个 token，而 M5 Max 128 GB 上 Q3\_K 版本 32K 上下文每秒可生成 47 个 token。在 DeepSWE v1.1 等评测中，Q3\_K 与原模型得分差距不超过 0.4 分。
+
+telegram · zaihuapd · 11月25日 09:29
+
+**「背景信息」** 腾讯混元大模型是由腾讯研发的大语言模型，具备跨领域知识和自然语言理解能力，实现基于人机自然语言对话的方式，理解用户指令并执行任务，帮助用户实现人获取信息，知识和灵感。腾讯混元大模型不仅限于生成图片，还拥有类似「LLM 大脑」的 AI 艺术家能力，能够生成高质量的视频内容，支持多镜头切换，并配有丰富的表情和流畅的动作。
+
+**「影响」** 这一改进使得高性能 AI 模型能够在资源受限的设备上运行，为研究人员和开发者提供了更多灵活性和便利性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aistudio.tencent.com/">Hy AI Studio</a></li>
+<li><a href="https://www.communeify.com/cn/blog/tencent-hunyuan-ai-artist-with-llm-brain/">腾 讯 混 元 揭秘：不止是生成图片，更是拥有「LLM 大脑」的 AI 艺术家</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Xpc8eYEYg/?spm_id_from=333.788.recommend_more_video.1">腾 讯 混 元 HunyuanVideo... | 哔哩哔哩</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Research`, `#Model Release`, `#Performance Improvement`, `#AI Infrastructure`
 
 ---
 
 ## IT 与开源
 
 <a id="item-it-opensource-1"></a>
-### [基因工程烟草在抗癌药生产中的应用突破](https://www.solidot.org/story?sid=85981) ⭐️ 7.0/10
+### [日本政府开发智能体打击盗版动漫](https://www.solidot.org/story?sid=85988) ⭐️ 7.0/10
 
-一项研究成功地将紫杉醇的合成基因转移到本氏烟草中，使紫杉醇的产量提高了 500 倍以上，达到与天然红豆杉树皮相当的水平，这为抗癌药物的生产带来了革命性的变化。
+日本文化厅正在测试一款 AI 智能体，用于自动识别和标记可能包含非法或盗版内容的动漫网站，测试结果显示其准确率极高。2026 财年日本政府将监测范围扩大至海外，计划于 2027 年 3 月公布最新调查结果。
+
+rss · Solidot · 11月25日 09:49
+
+**「背景」** 近年来，数字盗版在内容产业中已成为一个主要问题，大量动漫在日本非法上传到互联网。日本政府对此采取了措施，包括创建专门的小组来打击非法动漫盗版网站。这种情况下，日本文化厅正在测试一款 AI 智能体，用于自动识别和标记可能包含非法或盗版内容的动漫网站，以提高版权保护的效果。
+
+**「影响」** 这一举措对动漫内容创作者和消费者具有重要意义，有助于打击盗版，保护版权，但同时也可能引发对隐私和内容审查的担忧。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=dyLw33oiBNU">Anime Piracy In Japan : Why The Japanese Government ... - YouTube</a></li>
+<li><a href="https://www.tiktok.com/discover/japanese-government-stopped-piracy-on-anime">Japanese Government Stopped Piracy on Anime | TikTok</a></li>
+<li><a href="https://www.researchgate.net/publication/360913062_Effects_of_Enduring_Involvement_on_Intention_toward_Digital_Piracy_The_Case_of_Japanese_Anime">(PDF) Effects of Enduring Involvement on Intention toward Digital ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI in Content Moderation`, `#Copyright Enforcement`, `#Anime Industry`, `#Digital Piracy`, `#Japanese Government Policy`
+
+---
+
+<a id="item-it-opensource-2"></a>
+### [基因工程烟草在抗癌药合成中的应用](https://www.solidot.org/story?sid=85981) ⭐️ 7.0/10
+
+一项研究成功地将烟草植物基因工程化，使其能够高效合成抗癌药物紫杉醇，这一成果为可持续和低成本药物合成提供了一种新的可能途径。
 
 rss · Solidot · 11月24日 14:53
 
-**「背景信息」** 紫杉醇是一种在临床上广泛应用的化疗药物，主要用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。由于紫杉醇最初是从太平洋红豆杉的树皮中提取的，其天然含量极低，因此科学家们一直在寻找替代方法来生产这种药物。他们尝试将红豆杉中合成紫杉醇的基因转移到生长迅速的其他植物或微生物中，以实现低成本、可持续的大规模生产。本氏烟草作为一种生长周期短、易于进行基因工程的植物，被用于这项研究中，成功重构并验证了紫杉醇的从头生物合成途径，使工程烟草中的紫杉醇产量大幅提高。
+**「背景信息」** 紫杉醇是一种在临床上广泛应用的化疗药物，主要用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。由于紫杉醇最初是从太平洋红豆杉的树皮中提取的，其天然含量极低，因此科学家们一直在寻找替代方法来生产这种药物。他们尝试将红豆杉中合成紫杉醇的基因转移到生长迅速的其他植物或微生物中，以实现低成本、可持续的大规模生产。本氏烟草作为一种生长周期短、易于进行基因工程的植物，被用于这项研究，其紫杉醇产量得到了显著提升。
 
-**「影响」** 这一突破为开发低成本、可持续的抗癌药物提供了新的途径，对制药行业和癌症治疗领域具有重大意义。
+**「影响」** 这一研究为制药行业和癌症治疗带来了潜在的高影响，因为它提供了一种新的、成本效益高的药物合成方法，有助于解决紫杉醇等关键抗癌药物的供应问题。
 
 <details><summary>参考链接</summary>
 <ul>
@@ -876,26 +975,31 @@ rss · Solidot · 11月24日 14:53
 </ul>
 </details>
 
-**标签**: `#Biotechnology`, `#Pharmaceuticals`, `#Genetic Engineering`, `#Cancer Treatment`, `#Open Source Research`
+**标签**: `#Biotechnology`, `#Drug Synthesis`, `#Cancer Research`, `#Pharmaceuticals`, `#Open Source`
 
 ---
 
-<a id="item-it-opensource-2"></a>
+<a id="item-it-opensource-3"></a>
 ### [空气污染与痴呆症风险关联研究](https://www.solidot.org/story?sid=85980) ⭐️ 7.0/10
 
-一项发表在《Journal of Neuroinflammation》期刊上的研究指出，空气污染颗粒可能通过改变大脑免疫细胞的行为，对大脑造成损害，增加患痴呆症的风险。研究人员分析了英国生物样本库约 50 万名成年人的数据，发现居住在污染程度最高的地区的人群，患阿尔茨海默病或相关痴呆症的风险比污染程度最低的地区的人群高 25%。
+一项发表在《Journal of Neuroinflammation》期刊上的研究指出，空气污染颗粒可能通过改变大脑免疫细胞的行为，对大脑造成损害，从而增加患痴呆症的风险。该研究分析了英国生物样本库约 50 万名成年人的数据，发现居住在污染程度最高的地区的人群，患阿尔茨海默病或相关痴呆症的风险比污染程度最低的地区的人群高 25%。
 
 rss · Solidot · 11月24日 14:40
 
-**「背景」** 空气污染与认知健康之间的关系一直是环境健康领域的研究重点。近年来，多项研究表明，空气污染颗粒可能会通过改变大脑免疫细胞的行为对大脑造成损害，从而增加患痴呆症的风险。这些研究通常涉及大规模的人群数据分析和动物实验，以探究空气污染与痴呆症之间的潜在联系。
+**「背景」** 神经炎症领域的研究正在不断革新我们对慢性神经疾病理解，该领域的研究聚焦于常见的致病过程，并为研究人员提供了一个展示发现进展的平台。近期的研究主题承诺将为这一领域带来前沿的见解，特别是在理解神经炎症与认知衰退之间的相互作用方面。例如，一项研究测试了神经炎症与大规模网络中功能连接中断之间的关系，以及它们对认知障碍的共同影响。
 
-**「影响」** 该研究对公共卫生和环境政策具有重大意义，提醒人们关注空气污染对认知健康的影响，特别是在预防痴呆症方面的重要性。
+**「影响」** 该研究表明，空气污染与痴呆症风险增加有关，对开发者和组织的影响是，他们需要考虑在设计和实施健康监测和预防策略时，将空气污染作为一个重要的健康风险因素。
+
+**「社区讨论」** 目前没有可用的社区评论。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13056749/">Associations between air pollution and markers of ...</a></li>
-<li><a href="https://www.news-medical.net/news/20261123/Air-pollution-may-damage-brain-immunity-and-increase-dementia-risk.aspx">Air pollution may damage brain immunity and increase dementia ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2352186425005413">Air pollution as a key risk factor for alzheimer’s disease: A ...</a></li>
+<li><a href="https://link.springer.com/journal/12974">Home | Journal of Neuroinflammation | Springer Nature Link</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11263280/">Editorial: Neuroinflammation and cognitive impairment - PMC</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6733539/">Neuroinflammation and Functional Connectivity in Alzheimer&#x27;s ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8976829/">Exposure to air pollution and risk of incident dementia in the UK ...</a></li>
+<li><a href="https://link.springer.com/article/10.1186/s12889-024-17702-y">Association of long-term exposure to various ambient air pollutants ...</a></li>
+<li><a href="https://www.researchgate.net/publication/265470384_Effect_of_Long-Term_Outdoor_Air_Pollution_and_Noise_on_Cognitive_and_Psychological_Functions_in_Adults">(PDF) Effect of Long - Term Outdoor Air Pollution and Noise on...</a></li>
 
 </ul>
 </details>
@@ -904,125 +1008,50 @@ rss · Solidot · 11月24日 14:40
 
 ---
 
-<a id="item-it-opensource-3"></a>
+<a id="item-it-opensource-4"></a>
 ### [Firefox 161 版本发布](https://www.solidot.org/story?sid=85979) ⭐️ 7.0/10
 
-Firefox 161 版本已发布，带来了多项新特性和改进，包括快捷键设置、主题更新、JPEG XL 格式支持等，这些更新旨在提升用户体验和开发者工具的功能。
+Firefox 161 版本已发布，带来了多项新特性和改进，包括支持 JPEG XL 图像格式、内置 VPN 功能和开发者功能等。
 
 rss · Solidot · 11月24日 14:22
 
-**「背景」** Firefox 161 的发布是 Mozilla 对其浏览器进行的一系列更新的一部分。这些更新包括对常用功能的快捷键设置，例如通过在地址栏输入 about:keyboard 来设置复制当前标签页网址的快捷键。此外，主题区域新增了经典主题，用户可以选择早期版本的 Proton 主题或 Firefox OLED 主题。JPEG XL 图像格式的支持使得用户在下载前可以预览完整图像。对于 Windows 版本，Firefox 161 支持播放 HDR 视频，并内置了 VPN 功能，允许用户在全局启用 VPN 时将特定网站排除在外。对于开发者，Firefox 161 引入了新的功能，如支持 random\(\) CSS 函数，支持嵌套任意替换函数，以及支持 CSS Typed Object Model 等。
+**「背景」** Firefox 161 版本带来了多项新特性和改进，包括支持 JPEG XL 图像格式、内置 VPN 功能以及开发者功能。JPEG XL 是一种新的图像格式，支持在下载前预览完整图像。内置 VPN 功能允许用户在全局启用 VPN 时排除特定网站。此外，Firefox 161 还引入了新的快捷键设置、主题选择和开发者工具支持，如 random\(\) CSS 函数和 CSS Typed Object Model 等。
 
-**「影响」** 对于开发者来说，JPEG XL 格式的支持以及 CSS Typed Object Model 等开发者功能的加入，将提高他们在 Web 开发中的效率和图像处理能力。
+**「影响」** 这一更新为开发者提供了新的工具和功能，如 random\(\) CSS 函数和 CSS Typed Object Model 的支持，这将有助于提高开发效率和网站性能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://firefox-admin-docs.mozilla.org/release-notes/version/firefox-161/">Firefox 161 release notes | Firefox administrator reference</a></li>
+<li><a href="https://www.firefox.com/en-US/firefox/161.0/releasenotes/">Firefox 161.0, See All New Features, Updates and Fixes</a></li>
 <li><a href="https://www.firefox.com/en-US/firefox/161.0beta/releasenotes/">Firefox Beta 161.0beta, See All New Features, Updates and Fixes</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/161">Firefox 161 release notes for developers (Stable) - MDN</a></li>
+<li><a href="https://firefox-admin-docs.mozilla.org/release-notes/version/firefox-161/">Firefox 161 release notes | Firefox administrator reference</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Firefox`, `#Browser Update`, `#Software Release`, `#Open Source`, `#Web Development`
-
----
-
-<a id="item-it-opensource-4"></a>
-### [Windows Server 移除对 32 位应用的支持](https://www.solidot.org/story?sid=85978) ⭐️ 7.0/10
-
-微软宣布将在即将发布的 Windows Server 2028 中移除对 32 位应用的支持，将 WoW64 兼容层变为可选组件，以提升系统安全性和减少资源占用。
-
-rss · Solidot · 11月24日 14:04
-
-**「背景信息」** 微软的 Windows Server 操作系统在 2028 年版本中将不再支持 32 位应用程序，这是通过移除 WoW64 兼容层来实现的。WoW64 兼容层允许 32 位应用程序在 64 位 Windows 环境中运行。自 2008 年以来，Windows Server 的最后一个 32 位版本发布，此后的所有版本均为纯 64 位系统。WoW64 子系统一直存在于 64 位 Windows 中，旨在确保 32 位应用程序能够在 64 位系统上继续运行。但在 Windows Server 2028 中，这一 32 位兼容层将转变为可选组件，用户如有需要，可自行手动安装。
-
-**「影响」** 此举将影响依赖 32 位应用的系统和用户，可能导致兼容性问题。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://tech.yahoo.com/computing/articles/windows-server-2028-remove-32-154620210.html">Windows Server 2028 to remove 32-bit app support for improved ...</a></li>
-<li><a href="https://mezha.net/eng/news/mezha-568ac4f109c1bdf3a06d55a8_32-bit_windows_apps/">32-bit Windows apps won&#x27;t run by default on Windows Server 2028</a></li>
-<li><a href="https://www.windowslatest.com/2026/11/23/32-bit-apps-days-are-numbered-as-microsoft-strips-support-bit-by-bit-starting-with-windows-server-2028-but-windows-11-is-safe-for-now/">32-bit apps&#x27; days are numbered as Microsoft strips support ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Windows Server`, `#Compatibility Layer`, `#WoW64`, `#32-bit Applications`, `#Security`
+**标签**: `#Firefox`, `#Browser Update`, `#JPEG XL`, `#VPN`, `#Developer Features`
 
 ---
 
 <a id="item-it-opensource-5"></a>
-### [神舟二十四号计划 25 日 8 时发射](https://www.solidot.org/story?sid=85977) ⭐️ 7.0/10
+### [Sand AI 发布大型 AI 模型 MAGI-2](https://www.producthunt.com/products/magi-1) ⭐️ 7.0/10
 
-神舟二十四号载人飞船计划于 11 月 25 日早上 8 时 18 分发射，乘组包括中国航天员和巴基斯坦航天员，其中巴基斯坦航天员将成为首位访问中国天宫空间站的外籍航天员。
+Sand AI 推出了用于电影视频生成的大型 AI 模型 MAGI-2，该模型规模达到 480B，可能对行业产生重大影响，对编程和 AI 爱好者具有吸引力。
 
-rss · Solidot · 11月24日 10:24
+rss · Product Hunt · 11月25日 05:35
 
-**「背景」** 神舟二十四号计划是中国载人航天工程的一部分，标志着中国航天事业在空间探索和国际合作方面取得了重要进展。此次任务将首次实现中国和外国宇航员共同执行载人航天任务的历史性时刻，其中巴基斯坦航天员穆罕默德·齐尚·阿里将成为首位访问中国天宫空间站的外籍航天员。
+**「背景」** Sand AI 推出的 MAGI-2 是一个大规模的 AI 模型，用于生成电影级视频。这个模型具有 480B 的参数规模，需要大量的数据量和数据摄入吞吐量。MAGI-2 通过将预训练数据量扩大了大约 3 倍，从 Preview 版本的 4T tokens 增加到 4T tokens。该模型可以将文本、图像、视频和音频转换为高达 30 秒的 1080p 视频，并带有同步的对话、音效和音乐。
 
-**「影响」** 此次发射标志着中国空间探索和国际合作的重大进展，对于推动中巴两国在航天领域的合作具有重要意义。
+**「影响」** 该模型的出现可能为开发者提供更强大的电影视频生成工具，从而推动相关技术的发展和应用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://english.news.cn/20261125/3ecfd338c3c44c4896a7a4fa4bf96b5b/c.html">China launches Shenzhou - 24 spaceship to Tiangong space station...</a></li>
-<li><a href="https://www.bbc.com/news/live/cmd71g9lzg1gt">Shenzhou 24 : China to launch space mission with... - BBC News</a></li>
-<li><a href="https://www.globaltimes.cn/page/202611/1374997.shtml">China successfully launches Shenzhou - 24 crewed... - Global Times</a></li>
+<li><a href="https://sand.ai/blog/magi-2/">MAGI-2: A 480 B Frontier Video Generation Model</a></li>
+<li><a href="https://higgsfield.ai/magi-2-intro">MAGI-2 480 B AI Video Generator with Audio | Higgsfield</a></li>
+<li><a href="https://www.youtube.com/watch?v=in5bRvId5BM">MAGI-2: A 480 B Frontier Video Generation Model | Official... - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Space Exploration`, `#International Collaboration`, `#Chinese Space Program`, `#Astronaut`, `#Launch`
-
----
-
-<a id="item-it-opensource-6"></a>
-### [索尼称逾 3900 万玩家玩过了 GTA6](https://www.solidot.org/story?sid=85976) ⭐️ 7.0/10
-
-索尼官方博客宣布，截至 11 月 22 日，已有超过 3900 万玩家在 PS5 上体验了 GTA6，该游戏创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，并达到了 6.83 亿小时的累积游戏时长。
-
-rss · Solidot · 11月24日 09:04
-
-**「背景」** GTA6 是 Grand Theft Auto 系列的最新作品，自 2026 年 11 月 19 日上市以来，在 PS5 平台上取得了巨大的成功。根据 Sensor Tower 的数据，GTA6 在 PS5 和 Xbox 上的销售比是 3：1，显示出该游戏在 PS5 平台上的强劲表现。此外，GTA6 还创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，累积游戏时长高达 6.83 亿小时，每位玩家平均玩了 17.4 小时，这些数据都表明 GTA6 在玩家中的极高人气。
-
-**「影响」** GTA6 在 PS5 上的巨大成功对开发者产生了显著影响，因为它吸引了大量玩家，提高了 PS5 平台的吸引力。这可能导致游戏开发者更加关注 PS5 平台，并可能促使他们开发更多针对该平台的游戏。
-
-**「社区讨论」** 目前没有可用的社区评论。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://screenrant.com/gta-6-playstation-ps5-sales-numbers/">GTA 6 PlayStation Sales Numbers Officially Smash 31-Year Record</a></li>
-<li><a href="https://www.demandsage.com/gta-vi-statistics/">GTA VI Statistics (2026) – Player Count, Sales, &amp; Revenue</a></li>
-<li><a href="https://sensortower.com/grand-theft-auto-VI/sales-tracker">GTA VI Sales Tracker: Pre-Orders, Revenue &amp; More</a></li>
-<li><a href="https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/">GTA 6 Is Like The Olympics - &quot;A Rare Cultural Moment...&quot; - GameSpot</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Gaming`, `#PS5`, `#GTA6`, `#Sony`, `#Sales`
-
----
-
-<a id="item-it-opensource-7"></a>
-### [Tor 协议技术书籍发布](https://www.solidot.org/story?sid=85974) ⭐️ 7.0/10
-
-一本关于 Tor 协议的全面技术书籍已发布，提供了深入的分析和实际实验，为对网络安全和网络技术感兴趣的读者提供了宝贵资源。
-
-rss · Solidot · 11月24日 08:02
-
-**「背景」** Tor 协议是一种用于匿名通信的网络技术，它通过在多个节点之间路由数据包来保护用户的隐私和匿名性。该协议的底层机制包括信元、通信通道与电路、分层加密、Onion Services、流量分析及安全边界。这些概念是理解 Tor 协议的关键，也是网络安全和网络技术领域的重要部分。
-
-**「影响」** 该书籍为网络安全和网络技术领域的开发者提供了深入了解 Tor 协议的机会，有助于他们提升相关领域的技能和知识。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Tor_%28network%29">Tor (network) - Wikipedia</a></li>
-<li><a href="https://ccdcoe.org/uploads/2018/10/TOR_Anonymity_Network.pdf">Technical and Legal Overview of the Tor Anonymity Network</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s11235-024-01149-y">Security, information, and structure characterization of Tor ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Cybersecurity`, `#Network Technology`, `#Tor Protocol`, `#Technical Book`, `#Open Source`
+**标签**: `#AI`, `#Video Generation`, `#Machine Learning`, `#Open Source`, `#Software Engineering`
 
 ---
